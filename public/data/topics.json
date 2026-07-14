@@ -1,0 +1,389 @@
+{
+  "categories": [
+    {
+      "id": "rbc-and-anemias",
+      "name": "Red Blood Cells & Anemias",
+      "topics": [
+        {
+          "id": "hematopoiesis",
+          "name": "Hematopoiesis",
+          "sourceFile": "Blood Brick 1",
+          "questionCount": 12
+        },
+        {
+          "id": "rbc-metabolism",
+          "name": "RBC Metabolism",
+          "sourceFile": "Blood Brick 2",
+          "questionCount": 12
+        },
+        {
+          "id": "red-blood-cell-laboratory-tests",
+          "name": "Red Blood Cell Laboratory Tests",
+          "sourceFile": "Blood Brick 3",
+          "questionCount": 12
+        },
+        {
+          "id": "history-taking-approach-to-anemia",
+          "name": "History-Taking Approach to Anemia",
+          "sourceFile": "Blood Brick 4",
+          "questionCount": 11
+        },
+        {
+          "id": "iron-deficiency-anemia",
+          "name": "Iron-Deficiency Anemia",
+          "sourceFile": "Blood Brick 5",
+          "questionCount": 12
+        },
+        {
+          "id": "thalassemias",
+          "name": "Thalassemias",
+          "sourceFile": "Blood Brick 6",
+          "questionCount": 12
+        },
+        {
+          "id": "anemia-of-chronic-disease-inflammation",
+          "name": "Anemia of Chronic Disease/Inflammation",
+          "sourceFile": "Blood Brick 7",
+          "questionCount": 12
+        },
+        {
+          "id": "sideroblastic-anemia",
+          "name": "Sideroblastic Anemia",
+          "sourceFile": "Blood Brick 8",
+          "questionCount": 12
+        },
+        {
+          "id": "red-blood-cell-laboratory-tests-b09",
+          "name": "Red Blood Cell Laboratory Tests",
+          "sourceFile": "Blood Brick 9",
+          "questionCount": 12
+        },
+        {
+          "id": "aplastic-anemia",
+          "name": "Aplastic Anemia",
+          "sourceFile": "Blood Brick 10",
+          "questionCount": 12
+        },
+        {
+          "id": "hereditary-spherocytosis",
+          "name": "Hereditary Spherocytosis",
+          "sourceFile": "Blood Brick 11",
+          "questionCount": 12
+        },
+        {
+          "id": "sickle-cell-disease",
+          "name": "Sickle Cell Disease",
+          "sourceFile": "Blood Brick 12",
+          "questionCount": 12
+        },
+        {
+          "id": "g6pd-and-pyruvate-kinase-deficiencies",
+          "name": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+          "sourceFile": "Blood Brick 13",
+          "questionCount": 12
+        },
+        {
+          "id": "autoimmune-hemolytic-anemias",
+          "name": "Autoimmune Hemolytic Anemias",
+          "sourceFile": "Blood Brick 14",
+          "questionCount": 12
+        },
+        {
+          "id": "megaloblastic-anemia",
+          "name": "Megaloblastic Anemia",
+          "sourceFile": "Blood Brick 15",
+          "questionCount": 12
+        }
+      ]
+    },
+    {
+      "id": "hemostasis-thrombosis-platelets",
+      "name": "Hemostasis, Thrombosis & Platelets",
+      "topics": [
+        {
+          "id": "coagulation-assays",
+          "name": "Coagulation Assays",
+          "sourceFile": "Blood Brick 16",
+          "questionCount": 12
+        },
+        {
+          "id": "hemostasis",
+          "name": "Hemostasis",
+          "sourceFile": "Blood Brick 17",
+          "questionCount": 12
+        },
+        {
+          "id": "transfusion-medicine",
+          "name": "Transfusion Medicine",
+          "sourceFile": "Blood Brick 18",
+          "questionCount": 12
+        },
+        {
+          "id": "hemophilia",
+          "name": "Hemophilia",
+          "sourceFile": "Blood Brick 19",
+          "questionCount": 12
+        },
+        {
+          "id": "von-willebrand-disease",
+          "name": "von Willebrand Disease",
+          "sourceFile": "Blood Brick 20",
+          "questionCount": 12
+        },
+        {
+          "id": "disseminated-intravascular-coagulation",
+          "name": "Disseminated Intravascular Coagulation",
+          "sourceFile": "Blood Brick 21",
+          "questionCount": 12
+        },
+        {
+          "id": "antiphospholipid-antibody-syndrome",
+          "name": "Antiphospholipid Antibody Syndrome",
+          "sourceFile": "Blood Brick 22",
+          "questionCount": 12
+        },
+        {
+          "id": "genetic-thrombotic-disorders",
+          "name": "Genetic Thrombotic Disorders",
+          "sourceFile": "Blood Brick 23",
+          "questionCount": 11
+        },
+        {
+          "id": "thrombotic-disorders-foundations-and-frameworks",
+          "name": "Thrombotic Disorders: Foundations and Frameworks",
+          "sourceFile": "Blood Brick 24",
+          "questionCount": 12
+        },
+        {
+          "id": "hereditary-platelet-disorders",
+          "name": "Hereditary Platelet Disorders",
+          "sourceFile": "Blood Brick 25",
+          "questionCount": 12
+        },
+        {
+          "id": "thrombocytopenia",
+          "name": "Thrombocytopenia",
+          "sourceFile": "Blood Brick 26",
+          "questionCount": 12
+        },
+        {
+          "id": "immune-thrombocytopenia",
+          "name": "Immune Thrombocytopenia",
+          "sourceFile": "Blood Brick 27",
+          "questionCount": 12
+        },
+        {
+          "id": "platelet-assays",
+          "name": "Platelet Assays",
+          "sourceFile": "Blood Brick 28",
+          "questionCount": 12
+        },
+        {
+          "id": "thrombotic-microangiopathies",
+          "name": "Thrombotic Microangiopathies",
+          "sourceFile": "Blood Brick 29",
+          "questionCount": 12
+        }
+      ]
+    },
+    {
+      "id": "malignancies-and-chemo",
+      "name": "Leukemias, Lymphomas & Chemotherapy",
+      "topics": [
+        {
+          "id": "hematopoietic-neoplasms-foundations-and-frameworks",
+          "name": "Hematopoietic Neoplasms: Foundations and Frameworks",
+          "sourceFile": "Blood Brick 30",
+          "questionCount": 12
+        },
+        {
+          "id": "principles-of-chemotherapy",
+          "name": "Principles of Chemotherapy",
+          "sourceFile": "Blood Brick 31",
+          "questionCount": 12
+        },
+        {
+          "id": "acute-lymphoblastic-leukemia-lymphoma",
+          "name": "Acute Lymphoblastic Leukemia/Lymphoma",
+          "sourceFile": "Blood Brick 32",
+          "questionCount": 12
+        },
+        {
+          "id": "benign-leukocytosis",
+          "name": "Benign Leukocytosis",
+          "sourceFile": "Blood Brick 33",
+          "questionCount": 12
+        },
+        {
+          "id": "benign-lymphadenopathies",
+          "name": "Benign Lymphadenopathies",
+          "sourceFile": "Blood Brick 34",
+          "questionCount": 12
+        },
+        {
+          "id": "y-pestis-f-tularensis-and-b-henselae",
+          "name": "Y. pestis, F. tularensis, and B. henselae",
+          "sourceFile": "Blood Brick 35",
+          "questionCount": 12
+        },
+        {
+          "id": "leptospirosis-and-lymphatic-filariasis",
+          "name": "Leptospirosis and Lymphatic Filariasis",
+          "sourceFile": "Blood Brick 36",
+          "questionCount": 12
+        },
+        {
+          "id": "alkylating-agents",
+          "name": "Alkylating Agents",
+          "sourceFile": "Blood Brick 37",
+          "questionCount": 12
+        },
+        {
+          "id": "antimetabolite-agents",
+          "name": "Antimetabolite Agents",
+          "sourceFile": "Blood Brick 38",
+          "questionCount": 12
+        },
+        {
+          "id": "topoisomerase-microtubule-inhibitors-antitumor-antibiotics",
+          "name": "Topoisomerase Inhibitors, Microtubule Inhibitors, and Antitumor Antibiotics",
+          "sourceFile": "Blood Brick 39",
+          "questionCount": 12
+        },
+        {
+          "id": "b-cell-non-hodgkin-lymphomas",
+          "name": "B-Cell Non-Hodgkin Lymphomas (Part 1 of 2)",
+          "sourceFile": "Blood Brick 40",
+          "questionCount": 12
+        },
+        {
+          "id": "b-cell-non-hodgkin-lymphomas-part-2",
+          "name": "B-Cell Non-Hodgkin Lymphomas (Part 2)",
+          "sourceFile": "Blood Brick 41",
+          "questionCount": 12
+        },
+        {
+          "id": "t-cell-non-hodgkin-lymphomas",
+          "name": "T-cell Non-Hodgkin Lymphomas",
+          "sourceFile": "Blood Brick 42",
+          "questionCount": 12
+        },
+        {
+          "id": "hodgkin-lymphoma",
+          "name": "Hodgkin Lymphoma",
+          "sourceFile": "Blood Brick 43",
+          "questionCount": 12
+        },
+        {
+          "id": "multiple-myeloma-and-other-plasma-cell-disorders",
+          "name": "Multiple Myeloma and Other Plasma Cell Disorders",
+          "sourceFile": "Blood Brick 44",
+          "questionCount": 12
+        },
+        {
+          "id": "targeted-inhibitors-used-in-cancer-therapy",
+          "name": "Targeted Inhibitors Used in Cancer Therapy",
+          "sourceFile": "Blood Brick 45",
+          "questionCount": 12
+        },
+        {
+          "id": "chronic-myeloid-leukemia",
+          "name": "Chronic Myeloid Leukemia",
+          "sourceFile": "Blood Brick 46",
+          "questionCount": 12
+        },
+        {
+          "id": "polycythemia-vera",
+          "name": "Polycythemia Vera",
+          "sourceFile": "Blood Brick 47",
+          "questionCount": 12
+        },
+        {
+          "id": "essential-thrombocythemia",
+          "name": "Essential Thrombocythemia",
+          "sourceFile": "Blood Brick 48",
+          "questionCount": 12
+        },
+        {
+          "id": "primary-myelofibrosis",
+          "name": "Primary Myelofibrosis",
+          "sourceFile": "Blood Brick 49",
+          "questionCount": 12
+        },
+        {
+          "id": "myelodysplastic-neoplasms",
+          "name": "Myelodysplastic Neoplasms",
+          "sourceFile": "Blood Brick 50",
+          "questionCount": 12
+        },
+        {
+          "id": "acute-myeloid-leukemia",
+          "name": "Acute Myeloid Leukemia",
+          "sourceFile": "Blood Brick 51",
+          "questionCount": 12
+        },
+        {
+          "id": "hematopoietic-stem-cell-transplantation",
+          "name": "Hematopoietic Stem Cell Transplantation",
+          "sourceFile": "Blood Brick 52",
+          "questionCount": 12
+        }
+      ]
+    },
+    {
+      "id": "organs-and-infections",
+      "name": "Spleen, Thymus & Hematologic Infections",
+      "topics": [
+        {
+          "id": "structure-and-function-of-the-spleen",
+          "name": "Structure and Function of the Spleen",
+          "sourceFile": "Blood Brick 53",
+          "questionCount": 12
+        },
+        {
+          "id": "disorders-of-the-spleen",
+          "name": "Disorders of the Spleen",
+          "sourceFile": "Blood Brick 54",
+          "questionCount": 12
+        },
+        {
+          "id": "structure-function-and-disorders-of-the-thymus",
+          "name": "Structure, Function, and Disorders of the Thymus",
+          "sourceFile": "Blood Brick 55",
+          "questionCount": 12
+        },
+        {
+          "id": "chemotherapy-antiemetics",
+          "name": "Supportive Therapy for Patients on Chemotherapy - Antiemetics",
+          "sourceFile": "Blood Brick 56",
+          "questionCount": 12
+        },
+        {
+          "id": "plasmodium-babesia-brucella",
+          "name": "Plasmodium spp., Babesia spp., and Brucella spp.",
+          "sourceFile": "Blood Brick 57",
+          "questionCount": 12
+        },
+        {
+          "id": "drugs-to-treat-plasmodium-babesia-and-brucella",
+          "name": "Drugs to Treat Plasmodium spp., Babesia spp., and Brucella spp.",
+          "sourceFile": "Blood Brick 58",
+          "questionCount": 12
+        },
+        {
+          "id": "hemorrhagic-viruses",
+          "name": "Hemorrhagic Viruses",
+          "sourceFile": "Blood Brick 59",
+          "questionCount": 12
+        },
+        {
+          "id": "arboviruses",
+          "name": "Arboviruses",
+          "sourceFile": "Blood Brick 60",
+          "questionCount": 12
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 718
+}
