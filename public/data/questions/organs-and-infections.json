@@ -297,7 +297,7 @@
         },
         {
           "label": "C",
-          "text": "Increased portal venous pressure transmitted to the splenic vein"
+          "text": "Increased portal venous pressure"
         },
         {
           "label": "D",
@@ -477,7 +477,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Sequestration of platelets within the enlarged spleen"
+          "text": "Sequestration of platelets"
         },
         {
           "label": "B",
@@ -801,7 +801,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Hypersplenism with increased splenic removal of blood cells"
+          "text": "Hypersplenism"
         },
         {
           "label": "B",
@@ -893,7 +893,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Referred pain from diaphragmatic irritation due to splenic injury (Kehr sign)"
+          "text": "Referred pain from diaphragmatic irritation due to splenic injury"
         },
         {
           "label": "B",
@@ -939,7 +939,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Repeated vaso-occlusive infarction leading to auto-infarction of the spleen"
+          "text": "Repeated vaso-occlusive infarction leading to auto-infarction"
         },
         {
           "label": "B",
@@ -1307,7 +1307,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "It contains fewer densely packed lymphocytes and more epithelial cells with eosinophilic cytoplasm"
+          "text": "It contains fewer densely packed lymphocytes and more epithelial cells"
         },
         {
           "label": "B",
@@ -1629,7 +1629,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Gradual loss of thymic cells at roughly 3% per year, reducing output of new T cells"
+          "text": "Gradual loss of thymic cells at roughly 3% per year"
         },
         {
           "label": "B",
@@ -3078,7 +3078,7 @@
         },
         {
           "label": "B",
-          "text": "Artemisinin combination therapy (ACT)"
+          "text": "Artemisinin combination therapy"
         },
         {
           "label": "C",
@@ -3166,7 +3166,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Cleavage of an endoperoxide bridge by iron, generating free radicals and oxidative stress"
+          "text": "Cleavage of an endoperoxide bridge by iron"
         },
         {
           "label": "B",
@@ -3446,7 +3446,7 @@
         },
         {
           "label": "B",
-          "text": "Increased pulmonary capillary permeability with leak into the alveoli"
+          "text": "Increased pulmonary capillary permeability"
         },
         {
           "label": "C",
@@ -3626,7 +3626,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Real-time reverse transcriptase PCR for viral RNA in blood"
+          "text": "Real-time reverse transcriptase PCR"
         },
         {
           "label": "B",
@@ -4086,7 +4086,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Non-neutralizing antibodies from the prior infection facilitate viral entry into cells via Fc receptors"
+          "text": "Non-neutralizing antibodies facilitate viral entry via Fc receptors"
         },
         {
           "label": "B",
@@ -4316,7 +4316,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Apply insect repellent containing DEET or picaridin and wear permethrin-treated clothing"
+          "text": "Apply insect repellent containing DEET or picaridin"
         },
         {
           "label": "B",
@@ -4362,7 +4362,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Jaundice with markedly elevated liver enzymes"
+          "text": "Jaundice with elevated liver enzymes"
         },
         {
           "label": "B",

@@ -618,7 +618,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "It aids platelet adhesion to the exposed vessel wall"
+          "text": "It aids platelet adhesion"
         },
         {
           "label": "B",
@@ -1316,7 +1316,7 @@
         },
         {
           "label": "B",
-          "text": "It binds fetal Rh-positive red cells so the mother's immune system does not form anti-D antibodies"
+          "text": "It binds fetal Rh-positive red cells"
         },
         {
           "label": "C",
@@ -1725,7 +1725,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Serving as a cofactor for activated factor IX (IXa) to activate factor X"
+          "text": "Serving as a cofactor for activated factor IX to activate factor X"
         },
         {
           "label": "B",
@@ -2001,7 +2001,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Development of an antibody (inhibitor) against factor VIII"
+          "text": "Development of an antibody against factor VIII"
         },
         {
           "label": "B",
@@ -2093,7 +2093,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Many bleeding episodes, often spontaneous, rarely reaching adulthood without treatment"
+          "text": "Many bleeding episodes, often spontaneous"
         },
         {
           "label": "B",
@@ -2599,7 +2599,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Thrombotic thrombocytopenic purpura (TTP)"
+          "text": "Thrombotic thrombocytopenic purpura"
         },
         {
           "label": "B",
@@ -2645,7 +2645,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "It releases vWF from cellular (endothelial) storage compartments"
+          "text": "It releases vWF from cellular storage compartments"
         },
         {
           "label": "B",
@@ -3109,7 +3109,7 @@
         },
         {
           "label": "B",
-          "text": "Red cells being sliced by fibrin strands as they pass through microvascular clots"
+          "text": "Red cells being sliced by fibrin strands"
         },
         {
           "label": "C",
@@ -3565,7 +3565,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Repeat the antibody testing on a second occasion at least 12 weeks later"
+          "text": "Repeat the antibody testing at least 12 weeks later"
         },
         {
           "label": "B",
@@ -3611,7 +3611,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "The antibodies bind and inhibit the thromboplastin reagent used in the in vitro assay"
+          "text": "The antibodies bind and inhibit the thromboplastin reagent"
         },
         {
           "label": "B",
@@ -4118,7 +4118,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Warfarin lowers short-half-life protein C first, causing a transient hypercoagulable state"
+          "text": "Warfarin lowers protein C first, causing a transient hypercoagulable state"
         },
         {
           "label": "B",
@@ -4210,7 +4210,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Inhibiting thrombin (factor IIa) and other activated factors such as Xa and IXa"
+          "text": "Inhibiting thrombin and other activated factors"
         },
         {
           "label": "B",
@@ -4268,7 +4268,7 @@
         },
         {
           "label": "D",
-          "text": "Plasma antithrombin activity (AT-heparin cofactor assay)"
+          "text": "Plasma antithrombin activity"
         },
         {
           "label": "E",
@@ -4711,7 +4711,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Prothrombin complex concentrate (PCC)"
+          "text": "Prothrombin complex concentrate"
         },
         {
           "label": "B",
@@ -6157,7 +6157,7 @@
         },
         {
           "label": "B",
-          "text": "Occasional large platelets with otherwise normal cells"
+          "text": "Occasional large platelets"
         },
         {
           "label": "C",
@@ -6245,7 +6245,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "It has low sensitivity, with about half of ITP patients testing negative"
+          "text": "It has low sensitivity"
         },
         {
           "label": "B",
@@ -6291,7 +6291,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "It is self-limited, and most children recover completely within a few months"
+          "text": "It is self-limited"
         },
         {
           "label": "B",
@@ -6337,7 +6337,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "It is most common in adult females younger than 40 and may be secondary to conditions such as lupus"
+          "text": "It is most common in adult females younger than 40"
         },
         {
           "label": "B",
@@ -6475,7 +6475,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Intravenous immune globulin (IVIG)"
+          "text": "Intravenous immune globulin"
         },
         {
           "label": "B",
@@ -6842,7 +6842,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Manually examine a blood smear under the microscope"
+          "text": "Manually examine a blood smear"
         },
         {
           "label": "B",
@@ -6888,7 +6888,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "The bleeding time is difficult to standardize because of variables such as lancet size and blotting technique"
+          "text": "The bleeding time is difficult to standardize"
         },
         {
           "label": "B",
@@ -6934,7 +6934,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Platelet aggregation studies with specific agonists"
+          "text": "Platelet aggregation studies"
         },
         {
           "label": "B",
@@ -7026,7 +7026,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "It is used less often than the platelet count because most diseases have normal-appearing platelets"
+          "text": "It is used less often than the platelet count"
         },
         {
           "label": "B",
@@ -7256,7 +7256,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Ultra-large von Willebrand factor multimers are not cleaved, so platelets adhere and form microthrombi"
+          "text": "Ultra-large von Willebrand factor multimers are not cleaved"
         },
         {
           "label": "B",
@@ -7303,7 +7303,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "They are specific for microangiopathic hemolytic anemia and never appear on a normal smear"
+          "text": "They are specific for microangiopathic hemolytic anemia"
         },
         {
           "label": "B",
@@ -7349,7 +7349,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "The thrombi are composed largely of platelets with minimal fibrin, so clotting factors are not consumed"
+          "text": "The thrombi are composed largely of platelets with minimal fibrin"
         },
         {
           "label": "B",

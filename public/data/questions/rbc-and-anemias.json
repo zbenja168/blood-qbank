@@ -468,7 +468,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Granulocytes (neutrophils)"
+          "text": "Granulocytes"
         },
         {
           "label": "B",
@@ -657,7 +657,7 @@
         },
         {
           "label": "B",
-          "text": "Reticulocytes released during hemolysis contain higher, kinetically normal G6PD activity"
+          "text": "Reticulocytes contain higher, kinetically normal G6PD activity"
         },
         {
           "label": "C",
@@ -846,7 +846,7 @@
         },
         {
           "label": "C",
-          "text": "They depend on glycolysis and use GLUT1 to take up glucose even at low concentrations"
+          "text": "They depend on glycolysis and use GLUT1 to take up glucose"
         },
         {
           "label": "D",
@@ -1406,7 +1406,7 @@
         },
         {
           "label": "D",
-          "text": "Supravital stain (new methylene blue or brilliant cresyl blue)"
+          "text": "Supravital stain"
         },
         {
           "label": "E",
@@ -1720,7 +1720,7 @@
         },
         {
           "label": "B",
-          "text": "Dilutional anemia from plasma volume expansion"
+          "text": "Dilutional anemia"
         },
         {
           "label": "C",
@@ -1808,7 +1808,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Increase in plasma volume relative to red cell mass"
+          "text": "Increase in plasma volume"
         },
         {
           "label": "B",
@@ -1992,7 +1992,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Premature destruction of red blood cells (hemolysis)"
+          "text": "Premature destruction of red blood cells"
         },
         {
           "label": "B",
@@ -2038,7 +2038,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Glucose-6-phosphate dehydrogenase (G6PD)"
+          "text": "Glucose-6-phosphate dehydrogenase"
         },
         {
           "label": "B",
@@ -2452,7 +2452,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Inhibiting hepatic hepcidin production, allowing ferroportin to export iron"
+          "text": "Inhibiting hepatic hepcidin production"
         },
         {
           "label": "B",
@@ -2636,7 +2636,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "The liver produces more transferrin in an attempt to bind needed iron"
+          "text": "The liver produces more transferrin"
         },
         {
           "label": "B",
@@ -3188,7 +3188,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Unbound globin chains precipitate within developing RBCs, causing ineffective erythropoiesis and hemolysis"
+          "text": "Unbound globin chains precipitate within developing RBCs"
         },
         {
           "label": "B",
@@ -3284,7 +3284,7 @@
         },
         {
           "label": "B",
-          "text": "Anemia of chronic disease/inflammation"
+          "text": "Anemia of chronic disease"
         },
         {
           "label": "C",
@@ -3476,7 +3476,7 @@
         },
         {
           "label": "D",
-          "text": "Treat the underlying disease with no specific anemia therapy"
+          "text": "Treat the underlying disease"
         },
         {
           "label": "E",
@@ -3514,7 +3514,7 @@
         },
         {
           "label": "B",
-          "text": "Causing internalization and degradation of ferroportin-1, blocking iron export from enterocytes and macrophages"
+          "text": "Causing internalization and degradation of ferroportin-1"
         },
         {
           "label": "C",
@@ -3602,7 +3602,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Ferritin is a positive acute-phase reactant with increased hepatic synthesis during inflammation"
+          "text": "Ferritin is a positive acute-phase reactant"
         },
         {
           "label": "B",
@@ -3652,7 +3652,7 @@
         },
         {
           "label": "B",
-          "text": "Cytokines such as IL-1 and IL-6 causing macrophages to prematurely destroy RBCs, shortening RBC lifespan"
+          "text": "Cytokines causing macrophages to prematurely destroy RBCs"
         },
         {
           "label": "C",
@@ -3740,7 +3740,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Reduced renal erythropoietin production causing decreased RBC output, treated with synthetic erythropoietin"
+          "text": "Reduced renal erythropoietin production, treated with synthetic erythropoietin"
         },
         {
           "label": "B",
@@ -4666,7 +4666,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Direct antiglobulin (Coombs) test"
+          "text": "Direct antiglobulin test"
         },
         {
           "label": "B",
@@ -5176,7 +5176,7 @@
         },
         {
           "label": "B",
-          "text": "Chromosomal breakage test with diepoxybutane"
+          "text": "Chromosomal breakage test"
         },
         {
           "label": "C",
@@ -7559,7 +7559,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Biphasic IgG anti-P antibody (Donath-Landsteiner antibody)"
+          "text": "Biphasic IgG anti-P antibody"
         },
         {
           "label": "B",
@@ -7605,7 +7605,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Flow cytometry of peripheral blood for CD55 and CD59"
+          "text": "Flow cytometry for CD55 and CD59"
         },
         {
           "label": "B",
@@ -8022,7 +8022,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Impaired DNA synthesis with continued cytoplasmic growth, causing nuclear-cytoplasmic asynchrony"
+          "text": "Impaired DNA synthesis with continued cytoplasmic growth"
         },
         {
           "label": "B",
