@@ -982,7 +982,7 @@
         },
         {
           "label": "B",
-          "text": "Reduction of methemoglobin by methylene blue is NADPH-dependent, and these patients have a diminished NADPH pool"
+          "text": "Reduction of methemoglobin by methylene blue is NADPH-dependent"
         },
         {
           "label": "C",
@@ -1348,7 +1348,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Basophilic stippling composed of aggregated ribosomal RNA"
+          "text": "Basophilic stippling composed of ribosomal RNA"
         },
         {
           "label": "B",
@@ -2590,7 +2590,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Hypochromic red cells with increased central pallor and anisocytosis"
+          "text": "Hypochromic red cells with increased central pallor"
         },
         {
           "label": "B",
@@ -2912,7 +2912,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Fetal hemoglobin contains alpha and gamma chains and can deliver oxygen adequately"
+          "text": "Fetal hemoglobin contains alpha and gamma chains"
         },
         {
           "label": "B",
@@ -3740,7 +3740,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Reduced renal erythropoietin production, treated with synthetic erythropoietin"
+          "text": "Reduced renal erythropoietin production, treated with erythropoietin"
         },
         {
           "label": "B",
@@ -5080,7 +5080,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Generation of free radicals in a dose-dependent manner"
+          "text": "Generation of free radicals"
         },
         {
           "label": "B",
@@ -5222,7 +5222,7 @@
         },
         {
           "label": "B",
-          "text": "It acts as a thrombopoietin receptor agonist that increases production of all cell lines"
+          "text": "It acts as a thrombopoietin receptor agonist"
         },
         {
           "label": "C",
@@ -5730,7 +5730,7 @@
         },
         {
           "label": "C",
-          "text": "Eosin-5-maleimide (EMA) binding by flow cytometry"
+          "text": "Eosin-5-maleimide (EMA) binding"
         },
         {
           "label": "D",
@@ -6179,7 +6179,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "A hydrophobic valine residue is exposed and drives HbS molecules to line up"
+          "text": "A hydrophobic valine residue is exposed"
         },
         {
           "label": "B",
@@ -6820,7 +6820,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Splenic macrophages engulf and remove the membrane to which a Heinz body is attached"
+          "text": "Splenic macrophages remove the membrane to which a Heinz body is attached"
         },
         {
           "label": "B",
@@ -7008,7 +7008,7 @@
         },
         {
           "label": "B",
-          "text": "Toxic effect of filtered hemoglobin on renal tubular cells"
+          "text": "Toxic effect of filtered hemoglobin"
         },
         {
           "label": "C",
@@ -7421,7 +7421,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "A splenic macrophage removes a portion of the antibody-coated RBC membrane, and the cell reseals into a sphere"
+          "text": "A splenic macrophage removes a portion of the antibody-coated RBC membrane"
         },
         {
           "label": "B",
@@ -7698,7 +7698,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Autoantibodies destroy parietal cells, causing loss of intrinsic factor"
+          "text": "Autoantibodies destroy parietal cells"
         },
         {
           "label": "B",

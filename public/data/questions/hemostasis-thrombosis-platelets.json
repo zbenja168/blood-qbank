@@ -530,7 +530,7 @@
         },
         {
           "label": "B",
-          "text": "It removes calcium to prevent the blood from clotting before testing"
+          "text": "It removes calcium to prevent the blood from clotting"
         },
         {
           "label": "C",
@@ -2553,7 +2553,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Type 1, the mildest and most common form"
+          "text": "Type 1, the most common form"
         },
         {
           "label": "B",
@@ -2891,7 +2891,7 @@
         },
         {
           "label": "E",
-          "text": "Red blood cells with pointed contours and no central pallor"
+          "text": "Red blood cells with pointed contours"
         }
       ],
       "correctAnswer": "E",
@@ -3059,7 +3059,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Vessel wall injury releases tumor necrosis factor, prompting endothelial cells to release tissue factor"
+          "text": "Vessel wall injury releases tumor necrosis factor"
         },
         {
           "label": "B",
@@ -3481,7 +3481,7 @@
         },
         {
           "label": "C",
-          "text": "The presence of antiphospholipid antibodies alone does not lead to the full manifestation of APS."
+          "text": "The presence of antiphospholipid antibodies alone does not lead to APS."
         },
         {
           "label": "D",
@@ -4118,7 +4118,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Warfarin lowers protein C first, causing a transient hypercoagulable state"
+          "text": "Warfarin lowers protein C first"
         },
         {
           "label": "B",
@@ -4619,7 +4619,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "An early fall in proteins C and S produces a transient hypercoagulable state"
+          "text": "An early fall in proteins C and S produces a hypercoagulable state"
         },
         {
           "label": "B",
@@ -4895,7 +4895,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Switch to a direct thrombin inhibitor such as argatroban"
+          "text": "Switch to a direct thrombin inhibitor"
         },
         {
           "label": "B",
@@ -7441,7 +7441,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Supportive care with correction of electrolytes and intravenous fluids"
+          "text": "Supportive care with correction of electrolytes"
         },
         {
           "label": "B",

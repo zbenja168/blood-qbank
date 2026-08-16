@@ -893,7 +893,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Referred pain from diaphragmatic irritation due to splenic injury"
+          "text": "Referred pain from diaphragmatic irritation"
         },
         {
           "label": "B",
@@ -939,7 +939,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Repeated vaso-occlusive infarction leading to auto-infarction"
+          "text": "Repeated vaso-occlusive infarction"
         },
         {
           "label": "B",
@@ -1261,7 +1261,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "A chromosome 22 deletion causing abnormal development of the third and fourth pharyngeal pouches"
+          "text": "A chromosome 22 deletion causing abnormal development"
         },
         {
           "label": "B",
@@ -2751,7 +2751,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "It survives and replicates inside macrophages, hiding from the immune system"
+          "text": "It survives and replicates inside macrophages"
         },
         {
           "label": "B",
@@ -2844,7 +2844,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "It raises vacuole pH and prevents conversion of toxic heme to hemozoin"
+          "text": "It prevents conversion of toxic heme to hemozoin"
         },
         {
           "label": "B",
@@ -3028,7 +3028,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Cations chelate doxycycline, reducing its absorption and effectiveness"
+          "text": "Cations chelate doxycycline, reducing its absorption"
         },
         {
           "label": "B",
@@ -3304,7 +3304,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "A fluoroquinolone or sulfamethoxazole-trimethoprim"
+          "text": "A fluoroquinolone"
         },
         {
           "label": "B",
@@ -3722,7 +3722,7 @@
         },
         {
           "label": "B",
-          "text": "Blocking binding of a viral surface glycoprotein to host cell receptors"
+          "text": "Blocking binding of a viral surface glycoprotein"
         },
         {
           "label": "C",
@@ -3814,7 +3814,7 @@
         },
         {
           "label": "B",
-          "text": "Thrombocytopenia with prolonged PT and PTT and elevated AST and ALT"
+          "text": "Thrombocytopenia with prolonged PT and PTT"
         },
         {
           "label": "C",
