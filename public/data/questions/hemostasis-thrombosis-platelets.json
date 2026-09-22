@@ -1041,7 +1041,7 @@
         },
         {
           "label": "B",
-          "text": "Fibrin is being broken down in the body"
+          "text": "Clots are being broken down in the body"
         },
         {
           "label": "C",
@@ -1913,7 +1913,7 @@
     },
     {
       "id": "bl17-006",
-      "stem": "A patient sustains a deep laceration, and clotting factors in the blood are exposed to a substance released from the damaged tissue that sits at the top of the extrinsic pathway. Which of the following substances triggers the extrinsic pathway of the coagulation cascade?",
+      "stem": "A patient sustains a deep laceration, and clotting factors in the blood are exposed to a substance released from the damaged vessel wall that sits at the top of the extrinsic pathway. Which of the following substances triggers the extrinsic pathway of the coagulation cascade?",
       "choices": [
         {
           "label": "A",
@@ -2059,7 +2059,7 @@
         },
         {
           "label": "B",
-          "text": "Hemophilia A"
+          "text": "Hemophilia A (Factor VIII deficiency)"
         },
         {
           "label": "C",
@@ -2561,7 +2561,7 @@
     },
     {
       "id": "bl17-020",
-      "stem": "A newborn delivered at term is given an intramuscular injection in the delivery room to prevent a bleeding disorder, including intracranial hemorrhage, that occurs because the infant's gut has not yet been colonized by the bacteria that supply a particular vitamin. Which of the following is being administered?",
+      "stem": "A newborn delivered at term is given an intramuscular injection in the delivery room to prevent a bleeding disorder, including intracranial hemorrhage, that occurs because the infant's gut has not yet been colonized by the bacteria that normally supply it. Which of the following is being administered?",
       "choices": [
         {
           "label": "A",
@@ -2607,7 +2607,7 @@
     },
     {
       "id": "bl17-021",
-      "stem": "A 66-year-old woman is started on warfarin. In addition to reducing functional levels of procoagulant Factors II, VII, IX, and X, warfarin lowers the level of vitamin K-dependent anticoagulant proteins. Which of the following pairs of proteins is affected in this way?",
+      "stem": "A 66-year-old woman is started on warfarin. In addition to reducing functional levels of procoagulant Factors II, VII, IX, and X, warfarin lowers the level of two vitamin K-dependent natural anticoagulants. Which of the following pairs is affected in this way?",
       "choices": [
         {
           "label": "A",
@@ -2654,7 +2654,7 @@
     },
     {
       "id": "bl17-022",
-      "stem": "Seconds after tissue factor is released from a damaged vessel wall, a plasma substance produced by endothelial cells shuts the extrinsic arm back down. Which of the following substances performs this function?",
+      "stem": "Seconds after the extrinsic pathway is switched on at a damaged vessel wall, a plasma substance produced by endothelial cells shuts it back down. Which of the following substances performs this function?",
       "choices": [
         {
           "label": "A",
@@ -3805,7 +3805,7 @@
     },
     {
       "id": "bl18-011",
-      "stem": "A severely immunocompromised transplant recipient receives a non-irradiated blood transfusion. About 8 days later he develops fever, a diffuse rash, watery diarrhea, and hepatomegaly, and his condition rapidly deteriorates. Which of the following would most likely have prevented this complication?",
+      "stem": "A severely immunocompromised transplant recipient receives a packed red blood cell transfusion. About 8 days later he develops fever, a diffuse rash, watery diarrhea, and hepatomegaly, and his condition rapidly deteriorates. Which of the following would most likely have prevented this complication?",
       "choices": [
         {
           "label": "A",
@@ -4081,7 +4081,7 @@
     },
     {
       "id": "bl18-017",
-      "stem": "A 58-year-old man with AB-negative blood requires red blood cell transfusion, but the blood bank has no AB-negative units in stock. Which of the following units may be safely transfused into this patient?",
+      "stem": "A 58-year-old man who types as blood group AB and lacks the D antigen requires red blood cell transfusion, but the blood bank has no units of his own type in stock. Which of the following units may be safely transfused into this patient?",
       "choices": [
         {
           "label": "A",
@@ -4975,7 +4975,7 @@
         },
         {
           "label": "E",
-          "text": "Supportive care, with intubation if respiratory failure requires it"
+          "text": "Supportive care, including intubation if needed"
         }
       ],
       "correctAnswer": "E",
@@ -5527,7 +5527,7 @@
         },
         {
           "label": "E",
-          "text": "Intracranial hemorrhage"
+          "text": "Intracranial bleeding"
         }
       ],
       "correctAnswer": "E",
@@ -6201,7 +6201,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Activated prothrombin complex concentrates"
+          "text": "Activated prothrombin complex concentrates to bypass the inhibitor"
         },
         {
           "label": "B",
@@ -7025,7 +7025,7 @@
     },
     {
       "id": "bl20-009",
-      "stem": "A brick describes a thrombotic disease that is, in a sense, the 'opposite' of von Willebrand disease. In this disorder there is impaired cleavage of ultra-large vWF multimers, leading initially to widespread platelet aggregation and thrombosis and eventually to depletion of circulating platelets. Which disorder is being described?",
+      "stem": "A brick describes a clotting disorder that is, in a sense, the 'opposite' of von Willebrand disease. In this disorder there is impaired cleavage of ultra-large vWF multimers, leading initially to widespread platelet aggregation and clot formation and eventually to depletion of circulating platelets. Which disorder is being described?",
       "choices": [
         {
           "label": "A",
@@ -7673,7 +7673,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "To assess the extrinsic arm of the coagulation cascade"
+          "text": "To assess the extrinsic arm of the coagulation cascade, where factor VIII acts"
         },
         {
           "label": "B",
@@ -9279,7 +9279,7 @@
     },
     {
       "id": "bl21-022",
-      "stem": "A critically ill patient being evaluated for pathologic clotting has a markedly elevated D-dimer level. Which of the following best describes the limitation of this result?",
+      "stem": "A critically ill patient being evaluated for suspected disseminated intravascular coagulation has a markedly elevated D-dimer level. Which of the following best describes the limitation of this result?",
       "choices": [
         {
           "label": "A",
@@ -9425,7 +9425,7 @@
         },
         {
           "label": "B",
-          "text": "Continue treating the sepsis without transfusing blood products"
+          "text": "Continue treating the underlying infection without transfusing blood products"
         },
         {
           "label": "C",
@@ -10253,7 +10253,7 @@
         },
         {
           "label": "B",
-          "text": "The antibodies bind and inhibit the thromboplastin reagent"
+          "text": "The antibodies bind and inhibit the phospholipid in the assay reagent"
         },
         {
           "label": "C",
@@ -11864,7 +11864,7 @@
         },
         {
           "label": "B",
-          "text": "Warfarin directly activates factors Va and VIIIa"
+          "text": "Warfarin directly activates protein C, which destroys factors Va and VIIIa"
         },
         {
           "label": "C",
@@ -11885,7 +11885,7 @@
         "whyCorrect": "Warfarin blocks vitamin K-dependent factors, which include proteins C and S as well as factors II, VII, IX, and X. Protein C and factor VII have the shortest half-lives, so protein C activity falls first; in a patient with baseline protein C deficiency this produces a transient hypercoagulable state that causes skin and subcutaneous thrombosis and necrosis.",
         "whyWrongByChoice": {
           "A": "Warfarin does not directly deplete fibrinogen.",
-          "B": "Warfarin does not activate clotting factors; it blocks synthesis of vitamin K-dependent factors.",
+          "B": "Warfarin does not activate protein C or any clotting factor; it blocks synthesis of the vitamin K-dependent proteins, so protein C activity falls.",
           "C": "Increasing antithrombin binding to thrombin is the mechanism of heparin, not warfarin.",
           "E": "Immune-mediated platelet destruction describes heparin-induced thrombocytopenia, not warfarin-induced skin necrosis."
         }
@@ -12466,7 +12466,7 @@
         },
         {
           "label": "C",
-          "text": "A point mutation at position 20210 of the prothrombin gene"
+          "text": "A point mutation at position 20210 of the factor II gene"
         },
         {
           "label": "D",
@@ -13014,7 +13014,7 @@
         },
         {
           "label": "B",
-          "text": "Dabigatran, which does not depend on antithrombin"
+          "text": "Dabigatran, which inhibits thrombin directly"
         },
         {
           "label": "C",
@@ -13511,7 +13511,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Accumulation of vitamin K promotes small-vessel clotting"
+          "text": "Accumulation of protein C promotes small-vessel clotting"
         },
         {
           "label": "B",
@@ -13535,7 +13535,7 @@
         "summary": "Warfarin-induced skin necrosis results from an early drop in the short-lived anticoagulant proteins C and S, causing transient hypercoagulability.",
         "whyCorrect": "The brick explains that warfarin inhibits synthesis of the anticoagulant proteins C and S, which have short half-lives, so early warfarin therapy can cause transient hypercoagulability. This can thrombose small vessels and kill skin (warfarin-induced skin necrosis). Patients with hereditary protein C or S deficiency are particularly susceptible because their anticoagulant protein levels are already low.",
         "whyWrongByChoice": {
-          "A": "Warfarin blocks the use of vitamin K rather than causing its accumulation, and vitamin K excess does not cause skin necrosis.",
+          "A": "Warfarin lowers protein C rather than causing it to accumulate, and protein C is an anticoagulant that would not thrombose small vessels.",
           "C": "Antibodies to platelet factor 4 describe the mechanism of HITT with heparin, not warfarin-induced skin necrosis.",
           "D": "Skin necrosis is due to clotting from hypercoagulability, not bleeding from factor VII inhibition.",
           "E": "Warfarin does not directly damage endothelium; the necrosis is caused by transient hypercoagulability from falling proteins C and S."
@@ -13879,7 +13879,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Abnormal blood flow from prolonged postoperative immobilization"
+          "text": "Abnormal blood flow through the deep veins of the leg"
         },
         {
           "label": "B",
@@ -14253,7 +14253,7 @@
         },
         {
           "label": "C",
-          "text": "Repletes vitamin K and prevents further bleeding over coming days"
+          "text": "Prevents recurrent hemorrhage over the next several days"
         },
         {
           "label": "D",
@@ -14341,11 +14341,11 @@
         },
         {
           "label": "B",
-          "text": "Low-molecular-weight heparin and low-dose aspirin"
+          "text": "Intravenous protamine sulfate infusion"
         },
         {
           "label": "C",
-          "text": "Intravenous protamine sulfate infusion"
+          "text": "Low-molecular-weight heparin and low-dose aspirin"
         },
         {
           "label": "D",
@@ -14362,8 +14362,8 @@
         "whyCorrect": "The brick states that if skin necrosis occurs it should be treated by stopping warfarin and giving vitamin K and PCC. These measures counteract the transient hypercoagulable state created when warfarin lowers the short-lived anticoagulant proteins C and S.",
         "whyWrongByChoice": {
           "A": "Idarucizumab is specific for dabigatran and has no role in a warfarin complication.",
-          "B": "Adding another anticoagulant and an antiplatelet agent is not the treatment the brick describes for this complication.",
-          "C": "Protamine sulfate reverses heparin, which is not the drug responsible for this reaction.",
+          "B": "Protamine sulfate reverses heparin, which is not the drug responsible for this reaction.",
+          "C": "Adding another anticoagulant and an antiplatelet agent is not the treatment the brick describes for this complication.",
           "D": "Tranexamic acid reverses thrombolytic drugs, and fresh frozen plasma is only a second-line substitute when PCC is unavailable."
         }
       },
@@ -14525,7 +14525,7 @@
         },
         {
           "label": "B",
-          "text": "It inhibits thrombin directly and requires no cofactor to act"
+          "text": "It inhibits thrombin directly rather than working through antithrombin"
         },
         {
           "label": "C",
@@ -14658,11 +14658,11 @@
       "choices": [
         {
           "label": "A",
-          "text": "No available laboratory assay can detect this drug's activity"
+          "text": "Its absorption and anticoagulant effect are highly predictable"
         },
         {
           "label": "B",
-          "text": "Subcutaneous dosing makes its absorption and effect more predictable"
+          "text": "No available laboratory assay can detect this drug's activity"
         },
         {
           "label": "C",
@@ -14677,12 +14677,12 @@
           "text": "This drug is followed with the INR instead of the activated PTT"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "A",
       "explanation": {
         "summary": "LMWH needs less-intensive monitoring because subcutaneous administration makes absorption and anticoagulant effect more predictable.",
         "whyCorrect": "The brick states that less-intensive monitoring is required for LMWH because, with subcutaneous administration, the absorption and anticoagulant effects are more predictable. Monitoring with anti-Xa and/or aPTT is still recommended for high-risk patients or those at extremes of body weight.",
         "whyWrongByChoice": {
-          "A": "Anti-Xa levels and the aPTT can both be used for LMWH when monitoring is indicated.",
+          "B": "Anti-Xa levels and the aPTT can both be used for LMWH when monitoring is indicated.",
           "C": "Direct thrombin inhibition without a cofactor describes the direct thrombin inhibitors; LMWH works through antithrombin.",
           "D": "Bleeding is a common adverse effect of all the heparins, and protamine sulfate is available as the antidote.",
           "E": "The INR is used to follow warfarin; heparin products are followed with anti-Xa levels or the activated PTT."
@@ -14715,7 +14715,7 @@
         },
         {
           "label": "D",
-          "text": "Pregnancy in the first trimester"
+          "text": "Pregnancy in the first trimester, because heparin crosses the placenta"
         },
         {
           "label": "E",
@@ -14729,7 +14729,7 @@
         "whyWrongByChoice": {
           "B": "Advanced age is not among the contraindications the brick lists for heparin.",
           "C": "CYP 2C9 inhibitors matter for warfarin, which is metabolized hepatically by that enzyme.",
-          "D": "Pregnancy is the contraindication emphasized for warfarin, which is a potent teratogen.",
+          "D": "Heparin does not cross the placenta; pregnancy is the contraindication emphasized for warfarin, which is a potent teratogen.",
           "E": "A mechanical valve is an anticoagulation indication, not a reason to withhold heparin."
         }
       },
@@ -16390,7 +16390,7 @@
         },
         {
           "label": "D",
-          "text": "Proceed to specific histologic and genetic testing"
+          "text": "Proceed to histologic and genetic testing of the platelets"
         },
         {
           "label": "E",
@@ -18098,7 +18098,7 @@
         },
         {
           "label": "B",
-          "text": "Heparin directly suppresses marrow megakaryocytes within hours"
+          "text": "Heparin suppresses marrow megakaryocytes directly, without antibody involvement"
         },
         {
           "label": "C",
@@ -18694,7 +18694,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Intravenous immune globulin"
+          "text": "Intravenous immunoglobulin (IVIG)"
         },
         {
           "label": "B",
@@ -19860,7 +19860,7 @@
         },
         {
           "label": "E",
-          "text": "Refer her for treatment of the underlying lupus"
+          "text": "Refer her for treatment of the underlying autoimmune disease"
         }
       ],
       "correctAnswer": "E",
@@ -20119,7 +20119,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Absence of the platelet GpIb receptor"
+          "text": "Absence of GpIb, the platelet receptor for von Willebrand factor"
         },
         {
           "label": "B",
@@ -20858,7 +20858,7 @@
         },
         {
           "label": "B",
-          "text": "Small cells were misread by the analyzer as platelets"
+          "text": "Other cells in the specimen were misread by the analyzer as platelets"
         },
         {
           "label": "C",
@@ -21861,7 +21861,7 @@
     },
     {
       "id": "bl29-007",
-      "stem": "A 3-year-old boy develops hemolytic-uremic syndrome after an episode of bloody diarrhea. He has electrolyte abnormalities and acute kidney injury. Which of the following is the most appropriate management of his condition?",
+      "stem": "A 3-year-old boy develops hemolytic-uremic syndrome after an episode of bloody diarrhea. He has hyperkalemia and acute kidney injury. Which of the following is the most appropriate management of his condition?",
       "choices": [
         {
           "label": "A",
@@ -22341,7 +22341,7 @@
         },
         {
           "label": "E",
-          "text": "Volume depletion produced by her vomiting"
+          "text": "Prerenal volume depletion from her gastrointestinal losses"
         }
       ],
       "correctAnswer": "E",
@@ -22563,7 +22563,7 @@
         },
         {
           "label": "C",
-          "text": "Mechanical shearing of red cells by the prosthetic valve"
+          "text": "Traumatic shearing of red cells by the prosthesis"
         },
         {
           "label": "D",
@@ -22743,7 +22743,7 @@
         },
         {
           "label": "B",
-          "text": "Direct injury to the vessels caused by his infection"
+          "text": "Direct viral injury to the vessel walls"
         },
         {
           "label": "C",
@@ -23077,7 +23077,7 @@
         },
         {
           "label": "E",
-          "text": "His microthrombus formation does not represent true thrombotic thrombocytopenic purpura"
+          "text": "His findings do not represent true thrombotic thrombocytopenic purpura"
         }
       ],
       "correctAnswer": "E",
@@ -23157,7 +23157,7 @@
         },
         {
           "label": "B",
-          "text": "Discontinuation of the quinine"
+          "text": "Discontinuation of the offending medication"
         },
         {
           "label": "C",

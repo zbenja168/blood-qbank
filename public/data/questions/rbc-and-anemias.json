@@ -4,7 +4,7 @@
   "questions": [
     {
       "id": "bl01-001",
-      "stem": "A 68-year-old man with primary myelofibrosis, in which his bone marrow is progressively replaced by fibrosis, is found on exam to have a markedly enlarged liver and spleen. A biopsy of the liver shows clusters of developing erythroid and myeloid precursors. Reactivation of blood cell production in which of the following organs best explains these findings?",
+      "stem": "A 68-year-old man with primary myelofibrosis, in which his bone marrow is progressively replaced by fibrosis, is found on exam to have marked hepatosplenomegaly. A biopsy of the enlarged right upper quadrant organ shows clusters of developing erythroid and myeloid precursors. Reactivation of blood cell production in which of the following organs best explains these findings?",
       "choices": [
         {
           "label": "A",
@@ -464,7 +464,7 @@
     },
     {
       "id": "bl01-011",
-      "stem": "A 58-year-old woman develops severe neutropenia after receiving chemotherapy. She is treated with filgrastim, a recombinant form of granulocyte colony-stimulating factor (G-CSF). Increasing the number of which of the following cells is the intended effect of this therapy?",
+      "stem": "A 58-year-old woman develops severe neutropenia after receiving chemotherapy. She is treated with filgrastim, a recombinant colony-stimulating factor (G-CSF). Increasing the number of which of the following cells is the intended effect of this therapy?",
       "choices": [
         {
           "label": "A",
@@ -556,7 +556,7 @@
     },
     {
       "id": "bl01-013",
-      "stem": "In an experiment tracing the earliest blood-forming cells of a human embryo, labeled progenitors are found in mesoderm surrounding the aorta before any labeled cells appear in the liver. These cells are arising from which of the following regions?",
+      "stem": "In an experiment tracing the earliest blood-forming cells of a human embryo, labeled progenitors are found in mesoderm surrounding the main dorsal artery of the trunk before any labeled cells appear in the liver. These cells are arising from which of the following regions?",
       "choices": [
         {
           "label": "A",
@@ -990,7 +990,7 @@
         },
         {
           "label": "E",
-          "text": "Residual RNA remaining in the cytoplasm"
+          "text": "Residual RNA left behind after nuclear extrusion"
         }
       ],
       "correctAnswer": "E",
@@ -1845,7 +1845,7 @@
     },
     {
       "id": "bl02-005",
-      "stem": "A researcher studies how mature erythrocytes rapidly adjust the position of the oxygen dissociation curve. She focuses on a molecule synthesized in red cells specifically to lower hemoglobin affinity for oxygen. This molecule is produced from a glycolytic intermediate by bisphosphoglycerate mutase. Which of the following is this molecule?",
+      "stem": "A researcher studies how mature erythrocytes rapidly adjust the position of the oxygen dissociation curve. She focuses on a molecule synthesized in red cells specifically to lower hemoglobin affinity for oxygen. This molecule is produced from a glycolytic intermediate by a dedicated mutase. Which of the following is this molecule?",
       "choices": [
         {
           "label": "A",
@@ -4482,7 +4482,7 @@
     },
     {
       "id": "bl03-026",
-      "stem": "A 72-year-old man with sideroblastic anemia has a blood smear showing small dark granules within some of his red blood cells. What are these inclusions composed of, and what are they called?",
+      "stem": "A 72-year-old man with sideroblastic anemia has a blood smear showing small dark inclusions within some of his red blood cells. What are these inclusions composed of, and what are they called?",
       "choices": [
         {
           "label": "A",
@@ -4896,7 +4896,7 @@
     },
     {
       "id": "bl03-035",
-      "stem": "A patient with a microangiopathic hemolytic anemia has many red cell fragments on her smear. The automated analyzer reports an elevated platelet count, yet very few platelets are seen microscopically. Which explanation is most likely?",
+      "stem": "A patient with a microangiopathic hemolytic anemia has many schistocytes on her smear. The automated analyzer reports an elevated platelet count, yet very few platelets are seen microscopically. Which explanation is most likely?",
       "choices": [
         {
           "label": "A",
@@ -6510,11 +6510,11 @@
       "choices": [
         {
           "label": "A",
-          "text": "Agents associated with marrow aplasia or suppression"
+          "text": "Agents that cause gastrointestinal blood loss"
         },
         {
           "label": "B",
-          "text": "Agents that cause gastrointestinal blood loss"
+          "text": "Agents that cause marrow aplasia or suppression"
         },
         {
           "label": "C",
@@ -6529,12 +6529,12 @@
           "text": "Oxidant drugs that provoke hemolysis"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "B",
       "explanation": {
         "summary": "Anticonvulsants such as phenytoin are classed with agents that cause marrow aplasia or suppression.",
         "whyCorrect": "Medications associated with anemia fall into several categories, and agents linked to marrow aplasia or suppression include chemotherapy drugs, insecticides, and anticonvulsants such as phenytoin. Because marrow suppression affects production of all lineages, the white cell and platelet counts fall along with the hemoglobin.",
         "whyWrongByChoice": {
-          "B": "Gastrointestinal blood loss is caused by NSAIDs such as ibuprofen and would not depress the platelet and white cell counts.",
+          "A": "Gastrointestinal blood loss is caused by NSAIDs such as ibuprofen and would not depress the platelet and white cell counts.",
           "C": "Plasma-volume expansion is a feature of pregnancy, heart failure, splenomegaly, or IV fluids rather than a drug class here.",
           "D": "Folate antagonists causing maturation defects are trimethoprim and methotrexate.",
           "E": "Oxidant drugs that cause hemolysis are dapsone, sulfa drugs, and primaquine, not anticonvulsants."
@@ -7664,7 +7664,7 @@
         },
         {
           "label": "B",
-          "text": "Control of intestinal iron absorption"
+          "text": "Control of dietary iron absorption"
         },
         {
           "label": "C",
@@ -8400,30 +8400,30 @@
         },
         {
           "label": "B",
-          "text": "Beta-thalassemia trait (thalassemia minor)"
+          "text": "Beta-thalassemia major"
         },
         {
           "label": "C",
-          "text": "Hemoglobin Bart disease (hydrops fetalis)"
+          "text": "Beta-thalassemia trait (thalassemia minor)"
         },
         {
           "label": "D",
-          "text": "Hemoglobin H disease (three gene deletions)"
+          "text": "Hemoglobin Bart disease (hydrops fetalis)"
         },
         {
           "label": "E",
-          "text": "Transfusion-dependent (beta-thalassemia major)"
+          "text": "Hemoglobin H disease (three gene deletions)"
         }
       ],
-      "correctAnswer": "E",
+      "correctAnswer": "B",
       "explanation": {
         "summary": "Undetectable HbA with transfusion dependence and skeletal changes indicates beta-thalassemia major (beta-0/beta-0).",
         "whyCorrect": "The transfusion requirement, severe anemia, splenomegaly, and bossing from extramedullary hematopoiesis, combined with electrophoresis showing no HbA, point to transfusion-dependent beta-thalassemia. With no beta chains produced, HbF and HbA2 rise to compensate.",
         "whyWrongByChoice": {
           "A": "Alpha-thalassemia trait is usually asymptomatic with a normal hemoglobin electrophoresis.",
-          "B": "Beta-thalassemia trait is asymptomatic and shows low-normal HbA with only mildly elevated HbA2 and HbF, not absent HbA.",
-          "C": "Hemoglobin Bart disease is incompatible with life and causes intrauterine fetal demise.",
-          "D": "Hemoglobin H disease shows elevated HbH with low HbA, HbA2, and HbF, not the pattern described."
+          "C": "Beta-thalassemia trait is asymptomatic and shows low-normal HbA with only mildly elevated HbA2 and HbF, not absent HbA.",
+          "D": "Hemoglobin Bart disease is incompatible with life and causes intrauterine fetal demise.",
+          "E": "Hemoglobin H disease shows elevated HbH with low HbA, HbA2, and HbF, not the pattern described."
         }
       },
       "difficulty": "medium",
@@ -9792,7 +9792,7 @@
         },
         {
           "label": "E",
-          "text": "Inherited vitamin B12 malabsorption with a microcytic picture"
+          "text": "Inherited vitamin B12 deficiency with a microcytic picture"
         }
       ],
       "correctAnswer": "A",
@@ -9830,7 +9830,7 @@
         },
         {
           "label": "C",
-          "text": "Hemolysis of red blood cells during the illness"
+          "text": "Hemolysis of red blood cells during the acute infection"
         },
         {
           "label": "D",
@@ -12824,7 +12824,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Chemotherapy such as hydroxyurea for the syndrome"
+          "text": "Chemotherapy such as hydroxyurea for the underlying neoplasm"
         },
         {
           "label": "B",
@@ -13207,14 +13207,14 @@
         },
         {
           "label": "D",
-          "text": "The confirmed diagnosis should be reconsidered and rejected"
+          "text": "A normal or even high MCV can occur in this disorder"
         },
         {
           "label": "E",
-          "text": "The MCV in sideroblastic anemia may be normal or high"
+          "text": "The confirmed diagnosis should be reconsidered and rejected"
         }
       ],
-      "correctAnswer": "E",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "Sideroblastic anemia usually causes microcytosis, but the MCV may sometimes be normal or even high.",
         "whyCorrect": "The complete blood count in sideroblastic anemia usually shows a microcytic anemia with decreased hemoglobin and hematocrit and a low mean corpuscular volume. However, the MCV may sometimes be normal or high, so a normal value does not contradict a marrow-confirmed diagnosis.",
@@ -13222,7 +13222,7 @@
           "A": "Iron deficiency causes microcytosis and would not be inferred from a normal MCV in this setting.",
           "B": "Myelodysplastic syndrome is diagnosed by marrow findings, not excluded by a normal red cell volume.",
           "C": "Cell size does not track resolution of the causative disorder in this way.",
-          "D": "The diagnosis rests on ringed sideroblasts in the marrow, which a normal MCV does not overturn."
+          "E": "The diagnosis rests on ringed sideroblasts in the marrow, which a normal MCV does not overturn."
         }
       },
       "difficulty": "medium",
@@ -17597,7 +17597,7 @@
     },
     {
       "id": "bl12-011",
-      "stem": "A 24-year-old woman of African descent has a lifelong mild hemolytic anemia with splenomegaly and jaundice. Her peripheral smear shows numerous target cells and characteristic intracellular crystals. Hemoglobin electrophoresis confirms homozygous hemoglobin C disease. Which of the following smear findings is the hallmark of this condition?",
+      "stem": "A 24-year-old woman of African descent has a lifelong mild hemolytic anemia with splenomegaly and jaundice. Her peripheral smear shows numerous target cells. Hemoglobin electrophoresis confirms homozygous hemoglobin C disease. Which of the following smear findings is the hallmark of this condition?",
       "choices": [
         {
           "label": "A",
@@ -17875,7 +17875,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Fetal hemoglobin levels fall and are replaced by sickle hemoglobin rather than adult hemoglobin"
+          "text": "Fetal hemoglobin levels fall and are replaced by HbS instead of normal adult hemoglobin"
         },
         {
           "label": "B",
@@ -19631,25 +19631,25 @@
         },
         {
           "label": "C",
-          "text": "The infection impairs the bone marrow's ability to produce red blood cells"
+          "text": "The virus consumes the iron required for new red cell production"
         },
         {
           "label": "D",
-          "text": "The virus consumes the iron required for new red cell production"
+          "text": "The virus impairs the bone marrow's ability to produce red blood cells"
         },
         {
           "label": "E",
           "text": "The virus limits hemolysis to the spleen, so no reticulocytosis occurs"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "Parvovirus B19 both oxidizes red cells and impairs the marrow's compensatory production.",
         "whyCorrect": "Infections, particularly parvovirus B19, can have an oxidizing effect that causes hemolysis, and they also impair the bone marrow's ability to produce red blood cells to compensate for those destroyed. The blunted marrow response explains a low reticulocyte count despite ongoing hemolysis and severe anemia.",
         "whyWrongByChoice": {
           "A": "Depletion of reduced glutathione leaves cells vulnerable to oxidation; it does not block reticulocyte release.",
           "B": "Newly produced cells and reticulocytes have relatively higher G6PD activity, not lower.",
-          "D": "The problem is impaired marrow production from the infection itself, not depletion of iron stores.",
+          "C": "The problem is impaired marrow production from the infection itself, not depletion of iron stores.",
           "E": "Hemolysis in G6PD deficiency is mainly intravascular, and site of destruction does not explain an absent marrow response."
         }
       },
@@ -19857,7 +19857,7 @@
         },
         {
           "label": "B",
-          "text": "Bite cells became less deformed and more rounded while circulating"
+          "text": "Bite cells lost deformability and took on a spherical shape while circulating"
         },
         {
           "label": "C",
@@ -19995,30 +19995,30 @@
         },
         {
           "label": "B",
-          "text": "Inactivation of the X chromosome carrying her normal allele occurred"
-        },
-        {
-          "label": "C",
           "text": "She inherited two mutant alleles, one from each parent"
         },
         {
-          "label": "D",
+          "label": "C",
           "text": "The disorder is inherited in an autosomal recessive pattern in females"
         },
         {
-          "label": "E",
+          "label": "D",
           "text": "The mutation was transmitted through maternal mitochondrial DNA"
+        },
+        {
+          "label": "E",
+          "text": "X inactivation silenced her normal allele in most of her red cells"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "E",
       "explanation": {
         "summary": "A heterozygous female becomes symptomatic when her normal X chromosome is inactivated.",
         "whyCorrect": "Female carriers are almost always heterozygous, carrying one X with the mutation and one without, and are unlikely to show symptoms. A female may be symptomatic if she is homozygous or if inactivation of her normal X chromosome occurs, leaving red cells that express only the mutant allele.",
         "whyWrongByChoice": {
           "A": "Heterozygous carriers are usually asymptomatic, which is why her presentation requires a further explanation.",
-          "C": "Her testing shows one mutant and one normal allele, so she is heterozygous rather than homozygous.",
-          "D": "G6PD deficiency is passed in an X-linked pattern; autosomal recessive inheritance describes pyruvate kinase deficiency.",
-          "E": "Inheritance is tied to the X chromosome, not to maternal mitochondrial DNA."
+          "B": "Her testing shows one mutant and one normal allele, so she is heterozygous rather than homozygous.",
+          "C": "G6PD deficiency is passed in an X-linked pattern; autosomal recessive inheritance describes pyruvate kinase deficiency.",
+          "D": "Inheritance is tied to the X chromosome, not to maternal mitochondrial DNA."
         }
       },
       "difficulty": "hard",
@@ -21801,26 +21801,26 @@
         },
         {
           "label": "C",
-          "text": "Discontinue the quinidine"
-        },
-        {
-          "label": "D",
           "text": "Perform splenectomy"
         },
         {
-          "label": "E",
+          "label": "D",
           "text": "Start hydroxyurea"
+        },
+        {
+          "label": "E",
+          "text": "Stop the offending drug"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "E",
       "explanation": {
         "summary": "For secondary AHA, removing the inciting cause is the best treatment.",
         "whyCorrect": "Removing the underlying cause, such as stopping the offending medication or treating an underlying cancer or infection, is the best treatment for suspected secondary AHA. Quinidine is a recognized trigger of warm AHA, so stopping it is the first step.",
         "whyWrongByChoice": {
           "A": "Chronic transfusion does not remove the autoantibody and would not address the drug trigger.",
           "B": "Eculizumab, an anti-C5 antibody, is a therapy for paroxysmal nocturnal hemoglobinuria.",
-          "D": "Splenectomy is reserved for warm AHA refractory to other therapies because of its infection risk.",
-          "E": "Hydroxyurea is a treatment for sickle cell disease and has no role here."
+          "C": "Splenectomy is reserved for warm AHA refractory to other therapies because of its infection risk.",
+          "D": "Hydroxyurea is a treatment for sickle cell disease and has no role here."
         }
       },
       "difficulty": "easy",
@@ -22450,7 +22450,7 @@
         },
         {
           "label": "C",
-          "text": "Impaired DNA synthesis with continued cytoplasmic growth"
+          "text": "Impaired DNA synthesis with preserved RNA and protein synthesis"
         },
         {
           "label": "D",

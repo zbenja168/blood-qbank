@@ -753,7 +753,7 @@
     },
     {
       "id": "bl53-017",
-      "stem": "During a splenectomy, a surgeon divides the peritoneal ligament that runs from the greater curvature of the stomach to the spleen. Which of the following vessels must she expect to encounter within this ligament?",
+      "stem": "During a splenectomy, a surgeon divides the peritoneal ligament that runs from the greater curvature of the stomach to the spleen. Which of the following structures must she expect to encounter within this ligament?",
       "choices": [
         {
           "label": "A",
@@ -1570,7 +1570,7 @@
         },
         {
           "label": "E",
-          "text": "Stop all aerobic exercise permanently"
+          "text": "Stop all sports and aerobic exercise permanently"
         }
       ],
       "correctAnswer": "C",
@@ -2335,7 +2335,7 @@
     },
     {
       "id": "bl54-015",
-      "stem": "A 71-year-old man reports progressive shortness of breath. Examination shows jugular venous distension, rales on pulmonary auscultation, hepatojugular reflux, and pitting edema of both lower extremities. His spleen is palpable 4 cm below the left costal margin. Which of the following best explains his splenomegaly?",
+      "stem": "A 71-year-old man reports progressive shortness of breath. Examination shows distended neck veins, rales on pulmonary auscultation, hepatojugular reflux, and pitting edema of both lower extremities. His spleen is palpable 4 cm below the left costal margin. Which of the following best explains his splenomegaly?",
       "choices": [
         {
           "label": "A",
@@ -2945,7 +2945,7 @@
         },
         {
           "label": "C",
-          "text": "Endovascular embolization of the bleeding splenic vessel"
+          "text": "Endovascular embolization of the splenic artery"
         },
         {
           "label": "D",
@@ -3117,7 +3117,7 @@
     },
     {
       "id": "bl54-032",
-      "stem": "A cyanotic newborn is found to have complex congenital heart disease. Abdominal imaging demonstrates an abnormal arrangement of the intra-abdominal organs, and no splenic tissue can be identified. Which of the following best describes this infant's splenic disorder?",
+      "stem": "A cyanotic newborn is found to have complex cardiac malformations. Abdominal imaging demonstrates an abnormal arrangement of the intra-abdominal organs, and no splenic tissue can be identified. Which of the following best describes this infant's splenic disorder?",
       "choices": [
         {
           "label": "A",
@@ -4103,7 +4103,7 @@
         },
         {
           "label": "E",
-          "text": "Small T cell (thymocyte)"
+          "text": "T cell (thymocyte)"
         }
       ],
       "correctAnswer": "E",
@@ -4497,7 +4497,7 @@
     },
     {
       "id": "bl55-026",
-      "stem": "A 46-year-old woman is newly diagnosed with myasthenia gravis after developing ptosis and fatigable generalized weakness. She has no chest symptoms. Which of the following is the most appropriate next step in her evaluation?",
+      "stem": "A 46-year-old woman is newly diagnosed with myasthenia gravis after developing ptosis and fatigable generalized weakness. She has no respiratory symptoms. Which of the following is the most appropriate next step in her evaluation?",
       "choices": [
         {
           "label": "A",
@@ -5942,7 +5942,7 @@
         },
         {
           "label": "C",
-          "text": "Fatigue from aprepitant occurs only when it is dosed as needed rather than as pre-treatment"
+          "text": "Fatigue from aprepitant occurs only when it is dosed as needed rather than as pre-treatment before chemotherapy"
         },
         {
           "label": "D",
@@ -6265,26 +6265,26 @@
         },
         {
           "label": "C",
-          "text": "A patient whose nausea is accompanied by vertigo and worsens with head motion"
-        },
-        {
-          "label": "D",
           "text": "A patient with acute vomiting who also has diabetic gastroparesis"
         },
         {
-          "label": "E",
+          "label": "D",
           "text": "A patient with hyperglycemia who needs prophylaxis before an infusion"
+        },
+        {
+          "label": "E",
+          "text": "A patient with vertigo whose symptoms worsen with head motion"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "E",
       "explanation": {
         "summary": "Antimuscarinics such as scopolamine are best for vestibular nausea and vertigo.",
         "whyCorrect": "Scopolamine blocks the M1 receptor to treat vertigo and motion sickness and is the agent for vestibular nausea, though it can also be helpful in chemotherapy-induced nausea and vomiting. Nausea that worsens with head motion points to the vestibular pathway.",
         "whyWrongByChoice": {
           "A": "Pre-treatment before a highly emetogenic infusion calls for aprepitant, an NK1 antagonist.",
           "B": "Serotonin blockade at vagal terminals is the action of a 5-HT3 antagonist, not an antimuscarinic.",
-          "D": "Acute vomiting with gastroparesis calls for metoclopramide, which also increases gastric emptying.",
-          "E": "Prophylaxis with a 5-HT3 antagonist is appropriate here, and the steroid component would be the concern for hyperglycemia; scopolamine addresses neither."
+          "C": "Acute vomiting with gastroparesis calls for metoclopramide, which also increases gastric emptying.",
+          "D": "Prophylaxis with a 5-HT3 antagonist is appropriate here, and the steroid component would be the concern for hyperglycemia; scopolamine addresses neither."
         }
       },
       "difficulty": "easy",
@@ -6541,7 +6541,7 @@
         },
         {
           "label": "C",
-          "text": "Serotonin release from an irritated gastrointestinal mucosa caused by cytotoxic drugs"
+          "text": "Serotonin release from gastrointestinal mucosa irritated by cytotoxic cancer drugs"
         },
         {
           "label": "D",
@@ -6810,7 +6810,7 @@
     },
     {
       "id": "bl57-004",
-      "stem": "A researcher notes that individuals from certain West African populations whose red blood cells lack a particular surface antigen are essentially resistant to infection by Plasmodium vivax. Absence of which of the following provides this complete protection?",
+      "stem": "A researcher notes that individuals from certain West African populations whose red blood cells lack a particular surface receptor are essentially resistant to infection by Plasmodium vivax. Absence of which of the following provides this complete protection?",
       "choices": [
         {
           "label": "A",
@@ -7237,11 +7237,11 @@
       "choices": [
         {
           "label": "A",
-          "text": "Gametocytes accumulate in the bloodstream and are released at regular intervals"
+          "text": "Dormant liver hypnozoites reactivate and enter the blood on a fixed schedule"
         },
         {
           "label": "B",
-          "text": "Dormant liver hypnozoites reactivate and enter the blood on a fixed schedule"
+          "text": "Gametocytes accumulate in the bloodstream and are released at regular intervals"
         },
         {
           "label": "C",
@@ -7261,8 +7261,8 @@
         "summary": "Periodic fevers appear once the parasite's maturational cycle becomes synchronized and RBCs rupture in waves.",
         "whyCorrect": "Fever in malaria is driven by excess inflammatory cytokine release associated with the immune response to the parasite. Early in the course, febrile episodes occur at irregular intervals every day. In later stages, the maturational cycle of the parasites becomes synchronized so that RBCs rupture in waves, causing fevers to recur at characteristic intervals.",
         "whyWrongByChoice": {
-          "A": "Gametocytes fall out of the infection and replication cycle once they commit to that phase, so they do not drive the cycles of RBC rupture that produce fever.",
-          "B": "Hypnozoites are dormant liver forms that cause relapse of disease months to years later, not the spacing of fevers within a single episode.",
+          "A": "Hypnozoites are dormant liver forms that cause relapse of disease months to years later, not the spacing of fevers within a single episode.",
+          "B": "Gametocytes fall out of the infection and replication cycle once they commit to that phase, so they do not drive the cycles of RBC rupture that produce fever.",
           "C": "Splenic sequestration of infected cells is not the described basis for the timing of febrile episodes.",
           "E": "Repeated mosquito bites would not produce a fixed 48-hour interval; the regular interval reflects the synchronized maturation time within RBCs."
         }
@@ -7938,7 +7938,7 @@
     },
     {
       "id": "bl57-028",
-      "stem": "A 52-year-old woman acquires babesiosis after an Ixodes bite in Rhode Island. Which of the following best describes what the parasite does in this human host?",
+      "stem": "A 52-year-old woman acquires babesiosis after an Ixodes bite in Rhode Island. Which of the following best describes what the parasite does in this patient?",
       "choices": [
         {
           "label": "A",
@@ -8236,7 +8236,7 @@
         },
         {
           "label": "D",
-          "text": "It secretes superoxide dismutase, which counteracts the oxidative burst"
+          "text": "It secretes superoxide dismutase, which neutralizes reactive oxygen species"
         },
         {
           "label": "E",
@@ -8322,11 +8322,11 @@
         },
         {
           "label": "B",
-          "text": "Bone marrow biopsy examined for intraerythrocytic tetrads"
+          "text": "Blood culture plus paired titers showing a four-fold rise"
         },
         {
           "label": "C",
-          "text": "Culture of the organism plus paired titers showing a four-fold rise"
+          "text": "Bone marrow biopsy examined for intraerythrocytic tetrads"
         },
         {
           "label": "D",
@@ -8337,13 +8337,13 @@
           "text": "Repeat staining of a thick blood film with Giemsa"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "B",
       "explanation": {
         "summary": "Brucellosis is diagnosed by culture or a four-fold or greater rise in antibody titers drawn more than 2 weeks apart.",
         "whyCorrect": "Visualization of Brucella spp. is very difficult, and the low levels of bacteria make staining a poor way to diagnose brucellosis. Diagnosis is most commonly made either by culture of the organism or by a four-fold or greater rise in Brucella antibody titers more than 2 weeks apart. A total antibody titer of 1:160 or greater, or a positive PCR, is sufficient for a presumptive diagnosis pending culture and convalescent phase serum results.",
         "whyWrongByChoice": {
           "A": "Rapid monoclonal antibody tests are the fallback for diagnosing malaria where microscopy is unavailable.",
-          "B": "Intraerythrocytic tetrads are the Maltese cross forms of Babesia and would not be sought to diagnose brucellosis.",
+          "C": "Intraerythrocytic tetrads are the Maltese cross forms of Babesia and would not be sought to diagnose brucellosis.",
           "D": "LDH and haptoglobin reflect hemolysis, which is a feature of malaria and babesiosis rather than brucellosis.",
           "E": "Repeating the stain will not help, because low bacterial levels make staining an unreliable way to diagnose brucellosis."
         }
@@ -9147,7 +9147,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "No dosage adjustment is required for kidney or liver disease"
+          "text": "No dosage adjustment is required for renal or hepatic impairment"
         },
         {
           "label": "B",
@@ -9745,11 +9745,11 @@
       "choices": [
         {
           "label": "A",
-          "text": "Expected adverse effects of artemisinin combination therapy"
+          "text": "Artemisinin-triggered hemolysis in underlying G6PD deficiency"
         },
         {
           "label": "B",
-          "text": "Hemolysis precipitated by underlying G6PD deficiency"
+          "text": "Expected adverse effects of artemisinin-based therapy"
         },
         {
           "label": "C",
@@ -9764,12 +9764,12 @@
           "text": "Photosensitivity reaction typical of the tetracycline class"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "B",
       "explanation": {
         "summary": "Hypotension, dizziness, and ataxia are the generalized adverse effects of ACT.",
         "whyCorrect": "ACT has a low adverse effect profile, which is part of why it is preferred first-line therapy, but the generalized adverse effects of hypotension, dizziness, and ataxia are the main ones to watch for. This patient's unsteady gait, lightheadedness, and low blood pressure fit that pattern.",
         "whyWrongByChoice": {
-          "B": "Hemolysis in G6PD deficiency is associated with primaquine and chloroquine, not with artemisinins.",
+          "A": "Hemolysis in G6PD deficiency is associated with primaquine and chloroquine, not with artemisinins.",
           "C": "Aminoglycoside nephrotoxicity applies to gentamicin used for brucellosis; no aminoglycoside is present in ACT.",
           "D": "The neuropsychiatric black box warning belongs to mefloquine when used as a single prophylactic agent.",
           "E": "Photosensitivity is an adverse effect of doxycycline."
@@ -10351,7 +10351,7 @@
         },
         {
           "label": "C",
-          "text": "Serology for IgM and IgG antibodies to hantavirus"
+          "text": "Serology for virus-specific IgM and IgG antibodies"
         },
         {
           "label": "D",
@@ -13017,7 +13017,7 @@
     },
     {
       "id": "bl60-030",
-      "stem": "A public health agency reports that dengue and chikungunya are now appearing in areas where they were previously absent. Which of the following best explains this expanding geographic range?",
+      "stem": "A public health agency reports that dengue and chikungunya are now appearing in areas where they were previously absent. Which of the following best explains this change in distribution?",
       "choices": [
         {
           "label": "A",
@@ -13064,7 +13064,7 @@
     },
     {
       "id": "bl60-031",
-      "stem": "A 34-year-old woman is planning travel to a country currently experiencing an active chikungunya outbreak. In addition to mosquito-bite avoidance, which of the following preventive measures is specifically indicated for this virus?",
+      "stem": "A 34-year-old woman is planning travel to a country currently experiencing an active chikungunya outbreak. In addition to mosquito-bite avoidance, which of the following preventive measures is specifically indicated for this infection?",
       "choices": [
         {
           "label": "A",
@@ -13084,7 +13084,7 @@
         },
         {
           "label": "E",
-          "text": "The recombinant virus-like particle chikungunya vaccine"
+          "text": "The recombinant virus-like particle vaccine"
         }
       ],
       "correctAnswer": "E",

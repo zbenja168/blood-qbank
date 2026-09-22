@@ -1644,7 +1644,7 @@
         },
         {
           "label": "C",
-          "text": "It evaluates only the chromosomes targeted by the probes"
+          "text": "It evaluates only the chromosomes selected in advance"
         },
         {
           "label": "D",
@@ -2084,7 +2084,7 @@
     },
     {
       "id": "bl31-010",
-      "stem": "A 40-year-old woman receiving cyclophosphamide develops gross hematuria and suprapubic pain, and cystoscopy shows diffuse bladder mucosal inflammation and bleeding. This adverse effect is most characteristic of which agent?",
+      "stem": "A 40-year-old woman receiving chemotherapy develops gross hematuria and suprapubic pain, and cystoscopy shows diffuse bladder mucosal inflammation and bleeding. This adverse effect is most characteristic of which agent?",
       "choices": [
         {
           "label": "A",
@@ -2310,7 +2310,7 @@
     },
     {
       "id": "bl31-015",
-      "stem": "A 45-year-old woman with chronic myelogenous leukemia is started on imatinib, a drug chosen because it acts on a specific cellular receptor and molecular pathway in her tumor. This agent is an example of which category of cancer therapy?",
+      "stem": "A 45-year-old woman with chronic myelogenous leukemia is started on imatinib, a drug chosen because it acts on a specific cellular receptor and signaling pathway in her tumor. This agent is an example of which category of cancer therapy?",
       "choices": [
         {
           "label": "A",
@@ -2813,7 +2813,7 @@
         },
         {
           "label": "B",
-          "text": "Combining drugs so a second agent can kill cells resistant to the first"
+          "text": "Combining drugs so a second agent can kill clones that survive the first"
         },
         {
           "label": "C",
@@ -4969,7 +4969,7 @@
         },
         {
           "label": "C",
-          "text": "Corticosteroid-induced demargination"
+          "text": "Glucocorticoid-induced demargination"
         },
         {
           "label": "D",
@@ -5839,30 +5839,30 @@
         },
         {
           "label": "B",
-          "text": "Malignant lymphoblasts have crowded out normal precursors"
-        },
-        {
-          "label": "C",
           "text": "Marrow fibrosis is releasing nucleated red blood cells early"
         },
         {
-          "label": "D",
+          "label": "C",
           "text": "Normal neutrophils were consumed destroying circulating pathogens"
         },
         {
-          "label": "E",
+          "label": "D",
           "text": "The analyzer has miscategorized mature cells as blast forms"
+        },
+        {
+          "label": "E",
+          "text": "The malignant blasts have crowded out normal precursors"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "E",
       "explanation": {
         "summary": "In acute lymphoblastic leukemia, malignant lymphoblasts crowd out normal hematopoietic precursors, so the total WBC count skyrockets while normal WBCs fall dangerously low.",
         "whyCorrect": "In acute lymphoblastic leukemia, malignant lymphoblasts proliferate in the bone marrow and crowd out normal hematopoietic precursors. As the malignant cells pour into the blood, the WBC count skyrockets, but the normal WBCs drop to a dangerously low level, which is why his absolute neutrophil count is only 300/mm3.",
         "whyWrongByChoice": {
           "A": "Demargination moves mature neutrophils into the circulating pool and raises, rather than lowers, the neutrophil count.",
-          "C": "Marrow fibrosis produces a leukoerythroblastic picture with nucleated red cells and immature neutrophils, not circulating lymphoblasts.",
-          "D": "Consumption of neutrophils in pathogen destruction produces toxic changes such as vacuolization, not a blast-filled blood picture.",
-          "E": "Miscategorization by the analyzer is corrected on smear review and would not explain a genuinely low absolute neutrophil count."
+          "B": "Marrow fibrosis produces a leukoerythroblastic picture with nucleated red cells and immature neutrophils, not circulating lymphoblasts.",
+          "C": "Consumption of neutrophils in pathogen destruction produces toxic changes such as vacuolization, not a blast-filled blood picture.",
+          "D": "Miscategorization by the analyzer is corrected on smear review and would not explain a genuinely low absolute neutrophil count."
         }
       },
       "difficulty": "medium",
@@ -6253,11 +6253,11 @@
         },
         {
           "label": "B",
-          "text": "Fibrosis fills the marrow space, so cells leave before maturing"
+          "text": "Lysosomal degranulation has released precursors from the marrow"
         },
         {
           "label": "C",
-          "text": "Lysosomal degranulation has released precursors from the marrow"
+          "text": "Scar tissue fills the marrow space, so cells leave before maturing"
         },
         {
           "label": "D",
@@ -6268,13 +6268,13 @@
           "text": "The analyzer has miscategorized mature cells as precursor forms"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "C",
       "explanation": {
         "summary": "A leukoerythroblastic reaction can be ominous: a neoplasm or widespread fibrosis fills the marrow space, so immature cells leave home early.",
         "whyCorrect": "A leukoerythroblastic reaction, sometimes called a myelophthisic process, can represent a normal marrow response in severe anemia, but it can also have more ominous implications. A neoplasm or widespread fibrosis can fill up the bone marrow space, leaving little room for normal cells to mature, so they leave home early and can be seen in the peripheral blood.",
         "whyWrongByChoice": {
           "A": "Viral infection produces lymphocytosis with reactive lymphocytes rather than a leukoerythroblastic picture.",
-          "C": "Lysosomal degranulation within neutrophils causes cytoplasmic vacuolization, a toxic change, not release of precursors.",
+          "B": "Lysosomal degranulation within neutrophils causes cytoplasmic vacuolization, a toxic change, not release of precursors.",
           "D": "Demargination releases mature neutrophils already in the vasculature and does not produce nucleated red blood cells.",
           "E": "The immature cells were confirmed on the smear and on marrow biopsy, so they are not an analyzer artifact."
         }
@@ -6533,26 +6533,26 @@
         },
         {
           "label": "C",
-          "text": "Infectious lymphocytosis from an enterovirus"
+          "text": "A transient stress lymphocytosis"
         },
         {
           "label": "D",
-          "text": "Reactive lymphocytosis from an acute viral infection"
+          "text": "Infectious lymphocytosis from an enterovirus"
         },
         {
           "label": "E",
-          "text": "Transient stress after the cardiac arrest"
+          "text": "Reactive lymphocytosis from an acute viral infection"
         }
       ],
-      "correctAnswer": "E",
+      "correctAnswer": "C",
       "explanation": {
         "summary": "Transient stress, as in adults after cardiac arrest, is one of the three causes of lymphocytosis with normal-appearing lymphocytes.",
         "whyCorrect": "Benign lymphocytosis is an abnormally high lymphocyte count above 4000/mm3 that is not due to neoplasia. Among the causes of lymphocytosis with normal-appearing lymphocytes is transient stress, for example in adults after cardiac arrest, which is precisely this patient's setting.",
         "whyWrongByChoice": {
           "A": "A drug reaction with eosinophilia and systemic symptoms is characterized by fever, rash, and eosinophilia, none of which is present.",
           "B": "Benign lymphocytosis is by definition not due to neoplasia, and the cells here are normal-appearing.",
-          "C": "Infectious lymphocytosis is a viral illness that typically occurs in children, not in a 66-year-old man.",
-          "D": "Reactive lymphocytosis from a viral infection would show enlarged abnormal-appearing lymphocytes on the smear."
+          "D": "Infectious lymphocytosis is a viral illness that typically occurs in children, not in a 66-year-old man.",
+          "E": "Reactive lymphocytosis from a viral infection would show enlarged abnormal-appearing lymphocytes on the smear."
         }
       },
       "difficulty": "hard",
@@ -6947,7 +6947,7 @@
         },
         {
           "label": "C",
-          "text": "Discontinue the atenolol"
+          "text": "Discontinue the beta-blocker"
         },
         {
           "label": "D",
@@ -6981,7 +6981,7 @@
     },
     {
       "id": "bl34-009",
-      "stem": "A 66-year-old woman presents with a single, 1.5 cm, movable, rubbery lymph node in her right axilla. She feels no breast lump, and the rest of the examination is normal. Which of the following is the most appropriate next step in evaluation?",
+      "stem": "A 66-year-old woman presents with a single, 1.5 cm, movable, rubbery lymph node in her right axilla. She has not felt any lump herself, and the rest of the examination is normal. Which of the following is the most appropriate next step in evaluation?",
       "choices": [
         {
           "label": "A",
@@ -10155,7 +10155,7 @@
     },
     {
       "id": "bl36-006",
-      "stem": "A microbiology instructor describes a spirochete that causes a waterborne febrile illness and whose curved organism resembles a question mark under electron microscopy. Which of the following morphologies best describes Leptospira spp.?",
+      "stem": "A microbiology instructor describes a bacterium that causes a waterborne febrile illness and whose curved organism resembles a question mark under electron microscopy. Which of the following morphologies best describes Leptospira spp.?",
       "choices": [
         {
           "label": "A",
@@ -10485,29 +10485,29 @@
         },
         {
           "label": "B",
-          "text": "Conjunctival redness without purulent discharge or exudate"
-        },
-        {
-          "label": "C",
           "text": "Corneal ulceration with a layered hypopyon"
         },
         {
-          "label": "D",
+          "label": "C",
           "text": "Dense subconjunctival hemorrhage with scleral thinning"
+        },
+        {
+          "label": "D",
+          "text": "Diffuse conjunctival injection without purulent discharge or exudate"
         },
         {
           "label": "E",
           "text": "Painful vesicles clustered along the eyelid margin"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "Conjunctival suffusion is redness of the conjunctiva without the purulent discharge or exudate typical of bacterial eye infection.",
         "whyCorrect": "Photophobia with conjunctival suffusion is listed among the common symptoms of mild leptospirosis. Suffusion refers to conjunctival redness that lacks the purulent discharge or exudate commonly seen with other bacterial infections of the eye, which is what makes it a useful clue in a febrile traveler.",
         "whyWrongByChoice": {
           "A": "Purulent, crusting discharge points to a bacterial conjunctivitis and is precisely what suffusion lacks.",
-          "C": "Corneal ulceration with hypopyon is a sight-threatening keratitis finding, not a feature of conjunctival suffusion.",
-          "D": "Suffusion is diffuse conjunctival redness, not a discrete hemorrhage with scleral thinning.",
+          "B": "Corneal ulceration with hypopyon is a sight-threatening keratitis finding, not a feature of conjunctival suffusion.",
+          "C": "Suffusion is diffuse conjunctival redness, not a discrete hemorrhage with scleral thinning.",
           "E": "Vesicles along the lid margin suggest a vesicular viral eruption rather than the diffuse redness of suffusion."
         }
       },
@@ -11809,7 +11809,7 @@
     },
     {
       "id": "bl37-006",
-      "stem": "A 26-year-old man with Hodgkin lymphoma is being treated with procarbazine. He is also taking a selective serotonin reuptake inhibitor for depression. He develops agitation, hyperthermia, diaphoresis, and clonus. Which property of procarbazine best explains this reaction?",
+      "stem": "A 26-year-old man with Hodgkin lymphoma is being treated with procarbazine. He is also taking sertraline for depression. He develops agitation, hyperthermia, diaphoresis, and clonus. Which property of procarbazine best explains this reaction?",
       "choices": [
         {
           "label": "A",
@@ -12226,7 +12226,7 @@
     },
     {
       "id": "bl37-015",
-      "stem": "A 58-year-old man receiving cyclophosphamide develops gross hematuria with visible clots in the urine, urinary frequency, and dysuria. Over the next day he becomes unable to void and has a tender, distended suprapubic mass. Which of the following best explains his inability to urinate?",
+      "stem": "A 58-year-old man receiving cyclophosphamide develops gross hematuria with dark, jelly-like material passed in the urine, urinary frequency, and dysuria. Over the next day he becomes unable to void and has a tender, distended suprapubic mass. Which of the following best explains his inability to urinate?",
       "choices": [
         {
           "label": "A",
@@ -12789,15 +12789,15 @@
         },
         {
           "label": "B",
-          "text": "Nucleoside antimetabolites"
-        },
-        {
-          "label": "C",
           "text": "Mitotic microtubule inhibitors"
         },
         {
-          "label": "D",
+          "label": "C",
           "text": "Nitrosourea alkylators"
+        },
+        {
+          "label": "D",
+          "text": "Nucleoside antimetabolites"
         },
         {
           "label": "E",
@@ -12810,9 +12810,9 @@
         "whyCorrect": "These four drugs make up the topoisomerase inhibitor group, a cell cycle-specific class that blocks the enzyme needed to unwind DNA. They are contrasted with the cell cycle-independent alkylating and platinum agents.",
         "whyWrongByChoice": {
           "A": "Alkyl sulfonates are represented by busulfan, a cell cycle-independent alkylating agent.",
-          "B": "Antimetabolites include azathioprine, cladribine, cytarabine, 5-fluorouracil, hydroxyurea, methotrexate, and 6-mercaptopurine.",
-          "C": "Microtubule inhibitors include paclitaxel, vinblastine, vincristine, and eribulin, which act at mitosis.",
-          "D": "Nitrosoureas are represented by carmustine, which cross-links DNA rather than inhibiting topoisomerase."
+          "B": "Microtubule inhibitors include paclitaxel, vinblastine, vincristine, and eribulin, which act at mitosis.",
+          "C": "Nitrosoureas are represented by carmustine, which cross-links DNA rather than inhibiting topoisomerase.",
+          "D": "Antimetabolites include azathioprine, cladribine, cytarabine, 5-fluorouracil, hydroxyurea, methotrexate, and 6-mercaptopurine."
         }
       },
       "difficulty": "medium",
@@ -13161,7 +13161,7 @@
         },
         {
           "label": "C",
-          "text": "It dilutes the concentration of acrolein within the bladder"
+          "text": "It dilutes the concentration of acrolein in the urine"
         },
         {
           "label": "D",
@@ -13200,33 +13200,33 @@
       "choices": [
         {
           "label": "A",
-          "text": "Chemotherapy-induced mucositis"
-        },
-        {
-          "label": "B",
           "text": "Herpes labialis"
         },
         {
-          "label": "C",
+          "label": "B",
           "text": "Oral candidiasis"
         },
         {
-          "label": "D",
+          "label": "C",
           "text": "Oral leukoplakia"
+        },
+        {
+          "label": "D",
+          "text": "Oral mucositis"
         },
         {
           "label": "E",
           "text": "Sialolithiasis of the submandibular duct"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "Mucositis with mucosal ulceration and thick, pasty saliva is a direct toxic effect of chemotherapy.",
         "whyCorrect": "Alkylating agents kill rapidly growing normal cells including the oral and gastric mucosa, producing mucositis and mucosal ulceration with thick, pasty saliva. The timing after a chemotherapy cycle and the diffuse mucosal involvement fit this toxic effect.",
         "whyWrongByChoice": {
-          "B": "Herpes labialis produces grouped vesicles on the lip vermilion rather than diffuse intraoral mucosal breakdown.",
-          "C": "Candidiasis characteristically produces removable white plaques rather than diffuse erythema with ulceration from direct mucosal toxicity.",
-          "D": "Leukoplakia is a chronic adherent white patch, not an acute painful ulcerative process appearing during chemotherapy.",
+          "A": "Herpes labialis produces grouped vesicles on the lip vermilion rather than diffuse intraoral mucosal breakdown.",
+          "B": "Candidiasis characteristically produces removable white plaques rather than diffuse erythema with ulceration from direct mucosal toxicity.",
+          "C": "Leukoplakia is a chronic adherent white patch, not an acute painful ulcerative process appearing during chemotherapy.",
           "E": "A salivary duct stone causes painful glandular swelling with meals rather than widespread mucosal ulceration."
         }
       },
@@ -14990,7 +14990,7 @@
     },
     {
       "id": "bl39-003",
-      "stem": "A 62-year-old man with non-Hodgkin lymphoma is scheduled to begin bleomycin as part of his regimen. Before starting therapy, the oncologist orders baseline pulmonary function testing. Which dose-limiting adverse effect is this test intended to monitor for?",
+      "stem": "A 62-year-old man with non-Hodgkin lymphoma is scheduled to begin bleomycin as part of his regimen. Before starting therapy, the oncologist orders baseline spirometry with a diffusing capacity measurement. Which dose-limiting adverse effect is this testing intended to monitor for?",
       "choices": [
         {
           "label": "A",
@@ -15129,7 +15129,7 @@
     },
     {
       "id": "bl39-006",
-      "stem": "A 55-year-old man being treated with mitomycin C presents with pale conjunctivae, fatigue, petechiae, and decreased urine output. Laboratory studies show hemolytic anemia and rising creatinine. Which adverse effect of this drug is most consistent with his presentation?",
+      "stem": "A 55-year-old man being treated with mitomycin C presents with pale conjunctivae, fatigue, petechiae, and decreased urine output. Laboratory studies show anemia with schistocytes on the peripheral smear and a rising creatinine. Which adverse effect of this drug is most consistent with his presentation?",
       "choices": [
         {
           "label": "A",
@@ -15405,7 +15405,7 @@
     },
     {
       "id": "bl39-012",
-      "stem": "A 7-year-old boy with acute lymphoblastic leukemia is receiving vincristine. Laboratory studies reveal hyponatremia, and further workup shows inappropriately elevated antidiuretic hormone. Which drug-related syndrome best explains these findings?",
+      "stem": "A 7-year-old boy with acute lymphoblastic leukemia is receiving vincristine. Laboratory studies reveal hyponatremia, and further workup shows a concentrated urine with an elevated urine sodium concentration. Which drug-related syndrome best explains these findings?",
       "choices": [
         {
           "label": "A",
@@ -16283,15 +16283,15 @@
       "choices": [
         {
           "label": "A",
-          "text": "Bleomycin-induced pneumonitis"
-        },
-        {
-          "label": "B",
           "text": "Cardiogenic pulmonary edema"
         },
         {
-          "label": "C",
+          "label": "B",
           "text": "Community-acquired pneumonia"
+        },
+        {
+          "label": "C",
+          "text": "Drug-induced pneumonitis"
         },
         {
           "label": "D",
@@ -16302,13 +16302,13 @@
           "text": "Pulmonary embolism"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "C",
       "explanation": {
         "summary": "Bleomycin pulmonary toxicity presents as pneumonitis with cough, dyspnea, dry crackles, and infiltrates.",
         "whyCorrect": "Pulmonary toxicity is dose-limiting for bleomycin and usually presents as pneumonitis with cough, dyspnea, dry inspiratory crackles on physical examination, and infiltrates on chest x-ray. This patient's presentation matches that syndrome, often called bleomycin lung, which can progress to fibrosis.",
         "whyWrongByChoice": {
-          "B": "Cardiogenic edema would accompany signs of volume overload and a failing ventricle, seen with anthracyclines instead.",
-          "C": "Community-acquired pneumonia typically produces fever and focal consolidation rather than diffuse dry crackles on therapy.",
+          "A": "Cardiogenic edema would accompany signs of volume overload and a failing ventricle, seen with anthracyclines instead.",
+          "B": "Community-acquired pneumonia typically produces fever and focal consolidation rather than diffuse dry crackles on therapy.",
           "D": "Pneumocystis pneumonia is an opportunistic infection and is not the described toxicity of this drug.",
           "E": "Pulmonary embolism causes abrupt dyspnea and pleuritic pain without bilateral infiltrates and crackles."
         }
@@ -16609,7 +16609,7 @@
         },
         {
           "label": "B",
-          "text": "Artifacts from fragile lymphocytes"
+          "text": "Artifacts from fragile leukemic cells"
         },
         {
           "label": "C",
@@ -16693,7 +16693,7 @@
     },
     {
       "id": "bl40-004",
-      "stem": "A patient with a several-year history of chronic lymphocytic leukemia/small lymphocytic lymphoma suddenly develops weakness, fevers, and diffuse bulky lymphadenopathy. A lymph node biopsy shows sheets of large transformed cells. This transformation is most consistent with which of the following, and what is the approximate prognosis?",
+      "stem": "A patient with a several-year history of chronic lymphocytic leukemia/small lymphocytic lymphoma suddenly develops weakness, fevers, and widespread bulky lymphadenopathy. A lymph node biopsy shows sheets of transformed cells several times the size of a normal lymphocyte. This transformation is most consistent with which of the following, and what is the approximate prognosis?",
       "choices": [
         {
           "label": "A",
@@ -16739,7 +16739,7 @@
     },
     {
       "id": "bl40-005",
-      "stem": "A 45-year-old asymptomatic man has flow cytometry performed after a mildly elevated lymphocyte count is noted. It reveals a small monoclonal B-cell population with an immunophenotype similar to CLL, quantified at 3,000 clonal lymphocytes/microliter. Which of the following is the most appropriate diagnosis?",
+      "stem": "A 45-year-old asymptomatic man has flow cytometry performed after a mildly elevated lymphocyte count is noted. It reveals a small clonal B-cell population with an immunophenotype similar to CLL, quantified at 3,000 clonal lymphocytes/microliter. Which of the following is the most appropriate diagnosis?",
       "choices": [
         {
           "label": "A",
@@ -16835,7 +16835,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Neoplastic follicles that lack mantle zones"
+          "text": "Follicles that lack mantle zones"
         },
         {
           "label": "B",
@@ -16974,11 +16974,11 @@
       "choices": [
         {
           "label": "A",
-          "text": "Cladribine"
+          "text": "Antibiotic eradication therapy"
         },
         {
           "label": "B",
-          "text": "Eradication of H. pylori"
+          "text": "Cladribine"
         },
         {
           "label": "C",
@@ -16993,12 +16993,12 @@
           "text": "Splenectomy"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "A",
       "explanation": {
         "summary": "Gastric MALT lymphoma is tied to H. pylori, so first-line therapy is antibiotic eradication of the organism.",
         "whyCorrect": "The brick explains that gastric MALT lymphoma's main association is with H. pylori, so first-line treatment is eradication of H. pylori with antibiotics; the regimen includes a proton pump inhibitor, tetracycline, metronidazole, and bismuth subsalicylate, and can cure the disease if caught early.",
         "whyWrongByChoice": {
-          "A": "Cladribine is the purine analog used for hairy cell leukemia, not MALT lymphoma.",
+          "B": "Cladribine is the purine analog used for hairy cell leukemia, not MALT lymphoma.",
           "C": "Ibrutinib is a BTK inhibitor used in CLL, not first-line for gastric MALT lymphoma.",
           "D": "Chemotherapy (along with radiation and surgery) is reserved for cases where eradication therapy fails, not as first-line.",
           "E": "Splenectomy is not a treatment for gastric MALT lymphoma."
@@ -17016,7 +17016,7 @@
     },
     {
       "id": "bl40-011",
-      "stem": "A 55-year-old man presents with fatigue and abdominal fullness. Examination shows marked splenomegaly but no lymphadenopathy. Laboratory studies reveal pancytopenia, and the peripheral smear shows rare mononuclear cells with abundant fluffy cytoplasm and indistinct hairy projections; molecular testing detects a BRAF mutation. Which of the following is the most likely diagnosis?",
+      "stem": "A 55-year-old man presents with fatigue and abdominal fullness. Examination shows marked splenomegaly but no lymphadenopathy. Laboratory studies reveal pancytopenia, and the peripheral smear shows rare mononuclear cells with abundant fluffy cytoplasm and fine, indistinct cytoplasmic projections; molecular testing detects a BRAF mutation. Which of the following is the most likely diagnosis?",
       "choices": [
         {
           "label": "A",
@@ -17153,7 +17153,7 @@
     },
     {
       "id": "bl40-014",
-      "stem": "A 63-year-old man is evaluated for a 6-month history of painless enlargement of cervical and axillary lymph nodes. A node biopsy shows sheets of small, mature-appearing lymphocytes that are CD5 positive and CD23 positive. His complete blood count is normal, with no circulating lymphocytosis. Which of the following terms best describes his disease?",
+      "stem": "A 63-year-old man is evaluated for a 6-month history of painless enlargement of cervical and axillary lymph nodes. A node biopsy shows sheets of monotonous, mature-appearing lymphocytes no larger than a normal lymphocyte that are CD5 positive and CD23 positive. His complete blood count is normal, with no circulating lymphocytosis. Which of the following terms best describes his disease?",
       "choices": [
         {
           "label": "A",
@@ -17529,7 +17529,7 @@
         },
         {
           "label": "B",
-          "text": "It is a BH3 mimetic that binds and inhibits BCL-2, restoring apoptosis"
+          "text": "It is a BH3 mimetic that binds and inhibits BCL-2, restoring programmed cell death"
         },
         {
           "label": "C",
@@ -17892,7 +17892,7 @@
     },
     {
       "id": "bl40-030",
-      "stem": "A 52-year-old woman with a long history of Sjögren syndrome develops painless enlargement of a parotid gland. Biopsy shows a low-grade B-cell lymphoma of marginal zone type arising beneath the mucosal surface. Which of the following best explains the development of this lymphoma?",
+      "stem": "A 52-year-old woman with a long history of Sjögren syndrome develops painless enlargement of a parotid gland. Biopsy shows a low-grade B-cell lymphoma of marginal zone type arising within the gland. Which of the following best explains the development of this lymphoma?",
       "choices": [
         {
           "label": "A",
@@ -18079,15 +18079,15 @@
       "choices": [
         {
           "label": "A",
-          "text": "Effacement by nodules that lack mantle zones"
+          "text": "Diffuse marrow infiltration with associated fibrosis"
         },
         {
           "label": "B",
-          "text": "Hypocellular marrow with fatty replacement"
+          "text": "Effacement by nodules that lack mantle zones"
         },
         {
           "label": "C",
-          "text": "Infiltration by hairy cells with associated fibrosis"
+          "text": "Hypocellular marrow with fatty replacement"
         },
         {
           "label": "D",
@@ -18098,13 +18098,13 @@
           "text": "Sheets of large transformed cells with prominent nucleoli"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "A",
       "explanation": {
         "summary": "In hairy cell leukemia the marrow is filled with hairy cells and the fibrosis they induce, and marrow sampling is the most useful diagnostic test.",
         "whyCorrect": "Bone marrow aspirate and biopsy are most useful in hairy cell leukemia, in which the bone marrow is the primary site of involvement and lymph nodes are spared. The marrow is filled with hairy cells and with the fibrosis that they induce, similar to what is seen in some myeloproliferative neoplasms.",
         "whyWrongByChoice": {
-          "A": "Nodules lacking mantle zones are the nodal pathology of follicular lymphoma, which does involve lymph nodes.",
-          "B": "The marrow in hairy cell leukemia is infiltrated rather than hypocellular and fatty, even though the blood counts are low.",
+          "B": "Nodules lacking mantle zones are the nodal pathology of follicular lymphoma, which does involve lymph nodes.",
+          "C": "The marrow in hairy cell leukemia is infiltrated rather than hypocellular and fatty, even though the blood counts are low.",
           "D": "Normal to high cellularity from increased B lymphocyte proliferation describes the marrow of CLL/SLL.",
           "E": "Sheets of large transformed cells describe diffuse large B-cell lymphoma, as arises in Richter transformation."
         }
@@ -18214,7 +18214,7 @@
     },
     {
       "id": "bl41-001",
-      "stem": "A 63-year-old man with a 4-year history of stable, asymptomatic chronic lymphocytic leukemia/small lymphocytic lymphoma (CLL/SLL) develops the sudden onset of fevers, abdominal pain, and rapidly progressive lymphadenopathy over several weeks. Examination shows new hepatosplenomegaly, and a lymph node biopsy reveals a diffuse proliferation of large neoplastic B cells. Which of the following best explains this patient's new diagnosis?",
+      "stem": "A 63-year-old man with a 4-year history of stable, asymptomatic chronic lymphocytic leukemia/small lymphocytic lymphoma (CLL/SLL) develops the sudden onset of fevers, abdominal pain, and rapidly progressive lymphadenopathy over several weeks. Examination shows new hepatosplenomegaly, and a lymph node biopsy reveals sheets of neoplastic B cells several times the size of a small lymphocyte. Which of the following best explains this patient's new diagnosis?",
       "choices": [
         {
           "label": "A",
@@ -18260,7 +18260,7 @@
     },
     {
       "id": "bl41-002",
-      "stem": "A 70-year-old woman presents with a rapidly enlarging neck mass and drenching night sweats. Excisional biopsy of a cervical lymph node shows a diffuse proliferation of neoplastic cells that are at least twice the size of normal lymphocytes, with large nuclei and a single prominent nucleolus. Which of the following is the most likely diagnosis?",
+      "stem": "A 70-year-old woman presents with a rapidly enlarging neck mass and drenching night sweats. Excisional biopsy of a cervical lymph node shows sheets of neoplastic cells that are at least twice the size of normal lymphocytes, with vesicular nuclei and a single prominent nucleolus. Which of the following is the most likely diagnosis?",
       "choices": [
         {
           "label": "A",
@@ -18494,11 +18494,11 @@
       "choices": [
         {
           "label": "A",
-          "text": "Foam cells laden with lipid"
+          "text": "Lipid-laden macrophages (foam cells)"
         },
         {
           "label": "B",
-          "text": "Langhans giant cells of granulomas"
+          "text": "Multinucleated Langhans macrophages of granulomas"
         },
         {
           "label": "C",
@@ -18996,7 +18996,7 @@
     },
     {
       "id": "bl41-018",
-      "stem": "Fluorescence in situ hybridization on a lymphoma specimen demonstrates overexpression of the MYC oncogene, leading to uncontrolled cell division. The MYC gene encodes a transcriptional regulator with which of the following specific functions?",
+      "stem": "Fluorescence in situ hybridization on a lymphoma specimen demonstrates overexpression of the MYC oncogene, leading to uncontrolled cell proliferation. The MYC gene encodes a transcriptional regulator with which of the following specific functions?",
       "choices": [
         {
           "label": "A",
@@ -19972,7 +19972,7 @@
         },
         {
           "label": "C",
-          "text": "Collections of neutrophils responding to a bacterial infection"
+          "text": "Collections of neutrophils within the epidermis responding to a bacterial infection"
         },
         {
           "label": "D",
@@ -21246,7 +21246,7 @@
         },
         {
           "label": "E",
-          "text": "Mother-to-infant transmission, chiefly via breast milk"
+          "text": "Mother-to-infant spread, chiefly via breast milk"
         }
       ],
       "correctAnswer": "E",
@@ -21476,7 +21476,7 @@
         },
         {
           "label": "E",
-          "text": "The malignant T cells are usually confined to the skin"
+          "text": "The malignant T cells usually remain within the skin"
         }
       ],
       "correctAnswer": "E",
@@ -22879,7 +22879,7 @@
         },
         {
           "label": "E",
-          "text": "Nearly half of patients have mediastinal lymphadenopathy on chest x-ray at diagnosis"
+          "text": "Nearly half of patients have intrathoracic lymphadenopathy at the time of diagnosis"
         }
       ],
       "correctAnswer": "E",
@@ -23499,7 +23499,7 @@
     },
     {
       "id": "bl44-009",
-      "stem": "A previously healthy 62-year-old man is found to have an elevated total serum protein on routine labs. Serum electrophoresis shows a small monoclonal spike. He is asymptomatic with a normal physical exam, and a bone marrow biopsy shows 6% plasma cells with no evidence of anemia, renal failure, hypercalcemia, or bone lesions. Which of the following is the most likely diagnosis?",
+      "stem": "A previously healthy 62-year-old man is found to have an elevated total serum protein on routine labs. Serum electrophoresis shows a small M spike. He is asymptomatic with a normal physical exam, and a bone marrow biopsy shows 6% plasma cells with no evidence of anemia, renal failure, hypercalcemia, or bone lesions. Which of the following is the most likely diagnosis?",
       "choices": [
         {
           "label": "A",
@@ -23867,7 +23867,7 @@
     },
     {
       "id": "bl44-017",
-      "stem": "A 64-year-old man is diagnosed with multiple myeloma. He asks whether anything in his past could have contributed to the disease. Which of the following exposures is considered a possible risk factor for multiple myeloma?",
+      "stem": "A 64-year-old man is diagnosed with multiple myeloma. He asks whether anything in his past could have contributed to the disease. Which of the following is considered a possible risk factor for multiple myeloma?",
       "choices": [
         {
           "label": "A",
@@ -24163,7 +24163,7 @@
         },
         {
           "label": "E",
-          "text": "Osteoclast resorption of bone stimulated by invading myeloma cells"
+          "text": "Osteoclast resorption of bone stimulated by the invading plasma cells"
         }
       ],
       "correctAnswer": "E",
@@ -25017,7 +25017,7 @@
     },
     {
       "id": "bl45-006",
-      "stem": "A 62-year-old woman received rituximab as part of treatment for B-cell lymphoma. Two years later, routine blood tests show newly elevated liver enzymes, and her hepatitis B surface antigen, previously negative, is now positive. Which of the following adverse effects of rituximab best explains this finding?",
+      "stem": "A 62-year-old woman received rituximab as part of treatment for B-cell lymphoma. Two years later, routine blood tests show newly elevated liver enzymes, and her HBsAg, previously negative, is now positive. Which of the following adverse effects of rituximab best explains this finding?",
       "choices": [
         {
           "label": "A",
@@ -25615,7 +25615,7 @@
     },
     {
       "id": "bl45-019",
-      "stem": "A researcher wants to study a cell-surface receptor that initiates intracellular signaling by forming a dimer and becoming phosphorylated when its ligand binds. Which of the following is an example of such a receptor?",
+      "stem": "A researcher wants to study a cell-surface protein that initiates intracellular signaling by forming a dimer and becoming phosphorylated when its ligand binds. Which of the following is an example of such a protein?",
       "choices": [
         {
           "label": "A",
@@ -25715,7 +25715,7 @@
         },
         {
           "label": "B",
-          "text": "It binds the ligand of the cell-surface receptor"
+          "text": "It binds the circulating ligand before it reaches the cell surface"
         },
         {
           "label": "C",
@@ -25937,11 +25937,11 @@
     },
     {
       "id": "bl45-026",
-      "stem": "After a monoclonal antibody attaches to a protein on a cancer cell, it contributes to killing the cell beyond simply blocking signal transduction. Which of the following is one of these additional effects?",
+      "stem": "After a monoclonal antibody attaches to a protein on a cancer cell, it contributes to killing the cell beyond simply blocking signal transduction. Which of the following is one of these other effects?",
       "choices": [
         {
           "label": "A",
-          "text": "It attracts additional chemotherapeutic agents to the cancer cell"
+          "text": "It attracts additional chemotherapeutic agents to the tumor cell"
         },
         {
           "label": "B",
@@ -26091,7 +26091,7 @@
         },
         {
           "label": "D",
-          "text": "Reduce the infusion rate and give an antihistamine"
+          "text": "Slow the rate of administration and give an antihistamine"
         },
         {
           "label": "E",
@@ -26279,7 +26279,7 @@
         },
         {
           "label": "E",
-          "text": "It prevents adhesion of myeloma cells to bone marrow"
+          "text": "It prevents adhesion of the malignant plasma cells to bone marrow"
         }
       ],
       "correctAnswer": "E",
@@ -28005,7 +28005,7 @@
         },
         {
           "label": "C",
-          "text": "The intracellular tyrosine kinase domain of the receptor"
+          "text": "The intracellular ATP-binding domain of the receptor"
         },
         {
           "label": "D",
@@ -28545,7 +28545,7 @@
     },
     {
       "id": "bl47-010",
-      "stem": "A 64-year-old man with long-standing untreated polycythemia vera develops progressive fatigue and massive enlargement of the spleen and liver. A bone marrow biopsy now shows extensive fibrosis with markedly reduced hematopoiesis. Which of the following best explains his splenic and hepatic enlargement?",
+      "stem": "A 64-year-old man with long-standing untreated polycythemia vera develops progressive fatigue and massive enlargement of the spleen and liver. A bone marrow biopsy now shows extensive fibrosis that has replaced most of the normal marrow elements. Which of the following best explains his splenic and hepatic enlargement?",
       "choices": [
         {
           "label": "A",
@@ -28817,7 +28817,7 @@
     },
     {
       "id": "bl47-016",
-      "stem": "A 57-year-old man has a complete blood count before elective hernia repair; his hemoglobin is 18.9 g/dL and hematocrit is 56%. He feels well and has no complaints. Which of the following best describes the typical way polycythemia vera comes to medical attention?",
+      "stem": "A 57-year-old man has a complete blood count before elective hernia repair; his hemoglobin is 18.9 g/dL. He feels well and has no complaints. Which of the following best describes the typical way polycythemia vera comes to medical attention?",
       "choices": [
         {
           "label": "A",
@@ -29472,7 +29472,7 @@
         },
         {
           "label": "C",
-          "text": "High-altitude living"
+          "text": "High-altitude living with a physiologic rise in erythropoietin"
         },
         {
           "label": "D",
@@ -29480,7 +29480,7 @@
         },
         {
           "label": "E",
-          "text": "Polycythemia vera"
+          "text": "Polycythemia vera with a suppressed erythropoietin level"
         }
       ],
       "correctAnswer": "B",
@@ -30242,7 +30242,7 @@
     },
     {
       "id": "bl48-011",
-      "stem": "A 34-year-old woman is found to have a platelet count of 620,000/mm3 on a routine complete blood count. She also has a microcytic, hypochromic anemia and reports heavy menstrual periods. Which of the following is the most likely explanation for her thrombocytosis?",
+      "stem": "A 34-year-old woman is found to have a platelet count of 620,000/mm3 on a routine complete blood count. She also has a microcytic, hypochromic anemia and reports heavy menstrual periods. Which of the following is the most likely explanation for her elevated platelet count?",
       "choices": [
         {
           "label": "A",
@@ -31090,7 +31090,7 @@
         },
         {
           "label": "E",
-          "text": "Reactive thrombocytosis driven by ongoing hemolysis"
+          "text": "Reactive thrombocytosis driven by ongoing red cell fragmentation"
         }
       ],
       "correctAnswer": "D",
@@ -32048,25 +32048,25 @@
         },
         {
           "label": "C",
-          "text": "Exposure to ionizing radiation"
+          "text": "Heavy long-term alcohol use"
         },
         {
           "label": "D",
-          "text": "Heavy long-term alcohol use"
+          "text": "Ionizing radiation"
         },
         {
           "label": "E",
           "text": "Long-standing dietary iron overload"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "Ionizing radiation is the only known risk factor for PMF; most cases arise from spontaneous gene mutations.",
         "whyCorrect": "The only known risk factor for primary myelofibrosis is ionizing radiation. There is no recognized familial inheritance of the disease, and most cases arise from spontaneous gene mutations such as those in JAK2, CALR, and MPL.",
         "whyWrongByChoice": {
           "A": "There is no recognized familial inheritance pattern for PMF; the driver mutations are acquired rather than inherited.",
           "B": "Epstein-Barr virus infection is not a recognized risk factor for this myeloproliferative neoplasm.",
-          "D": "Alcohol use has not been identified as a risk factor for developing PMF.",
+          "C": "Alcohol use has not been identified as a risk factor for developing PMF.",
           "E": "Iron overload is not among the risk factors identified for PMF."
         }
       },
@@ -32876,25 +32876,25 @@
         },
         {
           "label": "C",
-          "text": "Iron deficiency from occult blood loss"
+          "text": "Drug-induced mucocutaneous toxicity"
         },
         {
           "label": "D",
-          "text": "Mucocutaneous toxicity from hydroxyurea"
+          "text": "Iron deficiency from occult blood loss"
         },
         {
           "label": "E",
           "text": "Transformation to acute myeloid leukemia"
         }
       ],
-      "correctAnswer": "D",
+      "correctAnswer": "C",
       "explanation": {
         "summary": "Mucocutaneous ulcers and diarrhea are recognized adverse effects of hydroxyurea.",
         "whyCorrect": "Adverse effects of hydroxyurea include cytopenia, mucocutaneous ulcers, diarrhea, and peripheral neuropathy. Painful oral and leg ulcers with loose stools in a patient taking the drug fit this toxicity profile.",
         "whyWrongByChoice": {
           "A": "Graft-versus-host disease follows allogeneic transplantation, which this patient has not undergone.",
           "B": "Disseminated herpes infection would be expected to cause fever and vesicular lesions.",
-          "C": "Iron deficiency causes microcytic anemia rather than mucocutaneous ulceration.",
+          "D": "Iron deficiency causes microcytic anemia rather than mucocutaneous ulceration.",
           "E": "Leukemic transformation causes a rapid clinical decline with blasts, not isolated ulcers and diarrhea."
         }
       },
@@ -36656,7 +36656,7 @@
         },
         {
           "label": "E",
-          "text": "The donor's immune system attacking residual cancer cells"
+          "text": "The donor's immune system attacking residual tumor cells"
         }
       ],
       "correctAnswer": "E",
@@ -37844,7 +37844,7 @@
         },
         {
           "label": "C",
-          "text": "Donor T cells destroying recipient bile ducts and gut mucosa"
+          "text": "Donor immune cells destroying recipient bile ducts and gut mucosa"
         },
         {
           "label": "D",
