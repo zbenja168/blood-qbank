@@ -47,7 +47,8 @@
         "anticoagulation monitoring"
       ],
       "topicId": "coagulation-assays",
-      "topicName": "Coagulation Assays"
+      "topicName": "Coagulation Assays",
+      "tier": "core"
     },
     {
       "id": "bl16-002",
@@ -94,7 +95,8 @@
         "anticoagulation monitoring"
       ],
       "topicId": "coagulation-assays",
-      "topicName": "Coagulation Assays"
+      "topicName": "Coagulation Assays",
+      "tier": "core"
     },
     {
       "id": "bl16-003",
@@ -141,7 +143,8 @@
         "extrinsic pathway"
       ],
       "topicId": "coagulation-assays",
-      "topicName": "Coagulation Assays"
+      "topicName": "Coagulation Assays",
+      "tier": "core"
     },
     {
       "id": "bl16-004",
@@ -188,7 +191,8 @@
         "aPTT"
       ],
       "topicId": "coagulation-assays",
-      "topicName": "Coagulation Assays"
+      "topicName": "Coagulation Assays",
+      "tier": "core"
     },
     {
       "id": "bl16-005",
@@ -235,7 +239,8 @@
         "aPTT"
       ],
       "topicId": "coagulation-assays",
-      "topicName": "Coagulation Assays"
+      "topicName": "Coagulation Assays",
+      "tier": "core"
     },
     {
       "id": "bl16-006",
@@ -282,7 +287,8 @@
         "thrombosis"
       ],
       "topicId": "coagulation-assays",
-      "topicName": "Coagulation Assays"
+      "topicName": "Coagulation Assays",
+      "tier": "core"
     },
     {
       "id": "bl16-007",
@@ -329,7 +335,8 @@
         "intrinsic pathway"
       ],
       "topicId": "coagulation-assays",
-      "topicName": "Coagulation Assays"
+      "topicName": "Coagulation Assays",
+      "tier": "core"
     },
     {
       "id": "bl16-008",
@@ -377,7 +384,8 @@
         "thrombocytopenia"
       ],
       "topicId": "coagulation-assays",
-      "topicName": "Coagulation Assays"
+      "topicName": "Coagulation Assays",
+      "tier": "core"
     },
     {
       "id": "bl16-009",
@@ -424,7 +432,8 @@
         "rule out"
       ],
       "topicId": "coagulation-assays",
-      "topicName": "Coagulation Assays"
+      "topicName": "Coagulation Assays",
+      "tier": "core"
     },
     {
       "id": "bl16-010",
@@ -472,7 +481,8 @@
         "acquired"
       ],
       "topicId": "coagulation-assays",
-      "topicName": "Coagulation Assays"
+      "topicName": "Coagulation Assays",
+      "tier": "core"
     },
     {
       "id": "bl16-011",
@@ -518,7 +528,8 @@
         "common pathway"
       ],
       "topicId": "coagulation-assays",
-      "topicName": "Coagulation Assays"
+      "topicName": "Coagulation Assays",
+      "tier": "core"
     },
     {
       "id": "bl16-012",
@@ -565,7 +576,8 @@
         "technique"
       ],
       "topicId": "coagulation-assays",
-      "topicName": "Coagulation Assays"
+      "topicName": "Coagulation Assays",
+      "tier": "core"
     },
     {
       "id": "bl16-013",
@@ -611,7 +623,8 @@
         "fibrin"
       ],
       "topicId": "coagulation-assays",
-      "topicName": "Coagulation Assays"
+      "topicName": "Coagulation Assays",
+      "tier": "extra"
     },
     {
       "id": "bl16-014",
@@ -658,7 +671,8 @@
         "technique"
       ],
       "topicId": "coagulation-assays",
-      "topicName": "Coagulation Assays"
+      "topicName": "Coagulation Assays",
+      "tier": "extra"
     },
     {
       "id": "bl16-015",
@@ -705,7 +719,8 @@
         "pathway mapping"
       ],
       "topicId": "coagulation-assays",
-      "topicName": "Coagulation Assays"
+      "topicName": "Coagulation Assays",
+      "tier": "extra"
     },
     {
       "id": "bl16-016",
@@ -751,7 +766,8 @@
         "lab values"
       ],
       "topicId": "coagulation-assays",
-      "topicName": "Coagulation Assays"
+      "topicName": "Coagulation Assays",
+      "tier": "extra"
     },
     {
       "id": "bl16-017",
@@ -798,7 +814,8 @@
         "warfarin"
       ],
       "topicId": "coagulation-assays",
-      "topicName": "Coagulation Assays"
+      "topicName": "Coagulation Assays",
+      "tier": "extra"
     },
     {
       "id": "bl16-018",
@@ -844,7 +861,8 @@
         "assay sensitivity"
       ],
       "topicId": "coagulation-assays",
-      "topicName": "Coagulation Assays"
+      "topicName": "Coagulation Assays",
+      "tier": "extra"
     },
     {
       "id": "bl16-019",
@@ -890,7 +908,8 @@
         "monitoring"
       ],
       "topicId": "coagulation-assays",
-      "topicName": "Coagulation Assays"
+      "topicName": "Coagulation Assays",
+      "tier": "extra"
     },
     {
       "id": "bl16-020",
@@ -936,7 +955,8 @@
         "mechanism"
       ],
       "topicId": "coagulation-assays",
-      "topicName": "Coagulation Assays"
+      "topicName": "Coagulation Assays",
+      "tier": "extra"
     },
     {
       "id": "bl16-021",
@@ -983,7 +1003,8 @@
         "PTT"
       ],
       "topicId": "coagulation-assays",
-      "topicName": "Coagulation Assays"
+      "topicName": "Coagulation Assays",
+      "tier": "extra"
     },
     {
       "id": "bl16-022",
@@ -1029,7 +1050,8 @@
         "PTT"
       ],
       "topicId": "coagulation-assays",
-      "topicName": "Coagulation Assays"
+      "topicName": "Coagulation Assays",
+      "tier": "extra"
     },
     {
       "id": "bl16-023",
@@ -1075,7 +1097,8 @@
         "plasmin"
       ],
       "topicId": "coagulation-assays",
-      "topicName": "Coagulation Assays"
+      "topicName": "Coagulation Assays",
+      "tier": "extra"
     },
     {
       "id": "bl16-024",
@@ -1122,7 +1145,8 @@
         "tPA"
       ],
       "topicId": "coagulation-assays",
-      "topicName": "Coagulation Assays"
+      "topicName": "Coagulation Assays",
+      "tier": "extra"
     },
     {
       "id": "bl16-025",
@@ -1168,7 +1192,8 @@
         "plasmin"
       ],
       "topicId": "coagulation-assays",
-      "topicName": "Coagulation Assays"
+      "topicName": "Coagulation Assays",
+      "tier": "extra"
     },
     {
       "id": "bl16-026",
@@ -1214,7 +1239,8 @@
         "fibrinolysis"
       ],
       "topicId": "coagulation-assays",
-      "topicName": "Coagulation Assays"
+      "topicName": "Coagulation Assays",
+      "tier": "extra"
     },
     {
       "id": "bl16-027",
@@ -1261,7 +1287,8 @@
         "next step"
       ],
       "topicId": "coagulation-assays",
-      "topicName": "Coagulation Assays"
+      "topicName": "Coagulation Assays",
+      "tier": "extra"
     },
     {
       "id": "bl16-028",
@@ -1307,7 +1334,8 @@
         "Von Willebrand disease"
       ],
       "topicId": "coagulation-assays",
-      "topicName": "Coagulation Assays"
+      "topicName": "Coagulation Assays",
+      "tier": "extra"
     },
     {
       "id": "bl16-029",
@@ -1353,7 +1381,8 @@
         "platelet function"
       ],
       "topicId": "coagulation-assays",
-      "topicName": "Coagulation Assays"
+      "topicName": "Coagulation Assays",
+      "tier": "extra"
     },
     {
       "id": "bl16-030",
@@ -1399,7 +1428,8 @@
         "reference range"
       ],
       "topicId": "coagulation-assays",
-      "topicName": "Coagulation Assays"
+      "topicName": "Coagulation Assays",
+      "tier": "extra"
     },
     {
       "id": "bl16-031",
@@ -1446,7 +1476,8 @@
         "gamma-carboxylation"
       ],
       "topicId": "coagulation-assays",
-      "topicName": "Coagulation Assays"
+      "topicName": "Coagulation Assays",
+      "tier": "extra"
     },
     {
       "id": "bl16-032",
@@ -1493,7 +1524,8 @@
         "thrombocytopenia"
       ],
       "topicId": "coagulation-assays",
-      "topicName": "Coagulation Assays"
+      "topicName": "Coagulation Assays",
+      "tier": "extra"
     },
     {
       "id": "bl16-033",
@@ -1539,7 +1571,8 @@
         "coagulation cascade"
       ],
       "topicId": "coagulation-assays",
-      "topicName": "Coagulation Assays"
+      "topicName": "Coagulation Assays",
+      "tier": "extra"
     },
     {
       "id": "bl16-034",
@@ -1586,7 +1619,8 @@
         "preanalytic"
       ],
       "topicId": "coagulation-assays",
-      "topicName": "Coagulation Assays"
+      "topicName": "Coagulation Assays",
+      "tier": "extra"
     },
     {
       "id": "bl16-035",
@@ -1633,7 +1667,8 @@
         "reagent"
       ],
       "topicId": "coagulation-assays",
-      "topicName": "Coagulation Assays"
+      "topicName": "Coagulation Assays",
+      "tier": "extra"
     },
     {
       "id": "bl16-036",
@@ -1679,7 +1714,8 @@
         "lab values"
       ],
       "topicId": "coagulation-assays",
-      "topicName": "Coagulation Assays"
+      "topicName": "Coagulation Assays",
+      "tier": "extra"
     },
     {
       "id": "bl17-001",
@@ -1724,7 +1760,8 @@
         "plasmin"
       ],
       "topicId": "hemostasis",
-      "topicName": "Hemostasis"
+      "topicName": "Hemostasis",
+      "tier": "core"
     },
     {
       "id": "bl17-002",
@@ -1770,7 +1807,8 @@
         "primary hemostasis"
       ],
       "topicId": "hemostasis",
-      "topicName": "Hemostasis"
+      "topicName": "Hemostasis",
+      "tier": "core"
     },
     {
       "id": "bl17-003",
@@ -1816,7 +1854,8 @@
         "clotting factors"
       ],
       "topicId": "hemostasis",
-      "topicName": "Hemostasis"
+      "topicName": "Hemostasis",
+      "tier": "core"
     },
     {
       "id": "bl17-004",
@@ -1863,7 +1902,8 @@
         "aPTT"
       ],
       "topicId": "hemostasis",
-      "topicName": "Hemostasis"
+      "topicName": "Hemostasis",
+      "tier": "core"
     },
     {
       "id": "bl17-005",
@@ -1909,7 +1949,8 @@
         "endothelin"
       ],
       "topicId": "hemostasis",
-      "topicName": "Hemostasis"
+      "topicName": "Hemostasis",
+      "tier": "core"
     },
     {
       "id": "bl17-006",
@@ -1955,7 +1996,8 @@
         "coagulation cascade"
       ],
       "topicId": "hemostasis",
-      "topicName": "Hemostasis"
+      "topicName": "Hemostasis",
+      "tier": "core"
     },
     {
       "id": "bl17-007",
@@ -2001,7 +2043,8 @@
         "coagulation cascade"
       ],
       "topicId": "hemostasis",
-      "topicName": "Hemostasis"
+      "topicName": "Hemostasis",
+      "tier": "core"
     },
     {
       "id": "bl17-008",
@@ -2047,7 +2090,8 @@
         "anticoagulants"
       ],
       "topicId": "hemostasis",
-      "topicName": "Hemostasis"
+      "topicName": "Hemostasis",
+      "tier": "core"
     },
     {
       "id": "bl17-009",
@@ -2093,7 +2137,8 @@
         "protein C"
       ],
       "topicId": "hemostasis",
-      "topicName": "Hemostasis"
+      "topicName": "Hemostasis",
+      "tier": "core"
     },
     {
       "id": "bl17-010",
@@ -2140,7 +2185,8 @@
         "coagulation tests"
       ],
       "topicId": "hemostasis",
-      "topicName": "Hemostasis"
+      "topicName": "Hemostasis",
+      "tier": "core"
     },
     {
       "id": "bl17-011",
@@ -2187,7 +2233,8 @@
         "intrinsic pathway"
       ],
       "topicId": "hemostasis",
-      "topicName": "Hemostasis"
+      "topicName": "Hemostasis",
+      "tier": "core"
     },
     {
       "id": "bl17-012",
@@ -2234,7 +2281,8 @@
         "blood banking"
       ],
       "topicId": "hemostasis",
-      "topicName": "Hemostasis"
+      "topicName": "Hemostasis",
+      "tier": "core"
     },
     {
       "id": "bl17-013",
@@ -2280,7 +2328,8 @@
         "platelet aggregation"
       ],
       "topicId": "hemostasis",
-      "topicName": "Hemostasis"
+      "topicName": "Hemostasis",
+      "tier": "extra"
     },
     {
       "id": "bl17-014",
@@ -2326,7 +2375,8 @@
         "von Willebrand factor"
       ],
       "topicId": "hemostasis",
-      "topicName": "Hemostasis"
+      "topicName": "Hemostasis",
+      "tier": "extra"
     },
     {
       "id": "bl17-015",
@@ -2372,7 +2422,8 @@
         "bleeding disorders"
       ],
       "topicId": "hemostasis",
-      "topicName": "Hemostasis"
+      "topicName": "Hemostasis",
+      "tier": "extra"
     },
     {
       "id": "bl17-016",
@@ -2418,7 +2469,8 @@
         "common pathway"
       ],
       "topicId": "hemostasis",
-      "topicName": "Hemostasis"
+      "topicName": "Hemostasis",
+      "tier": "extra"
     },
     {
       "id": "bl17-017",
@@ -2464,7 +2516,8 @@
         "clotting factors"
       ],
       "topicId": "hemostasis",
-      "topicName": "Hemostasis"
+      "topicName": "Hemostasis",
+      "tier": "extra"
     },
     {
       "id": "bl17-018",
@@ -2511,7 +2564,8 @@
         "intrinsic pathway"
       ],
       "topicId": "hemostasis",
-      "topicName": "Hemostasis"
+      "topicName": "Hemostasis",
+      "tier": "extra"
     },
     {
       "id": "bl17-019",
@@ -2557,7 +2611,8 @@
         "atherosclerosis"
       ],
       "topicId": "hemostasis",
-      "topicName": "Hemostasis"
+      "topicName": "Hemostasis",
+      "tier": "extra"
     },
     {
       "id": "bl17-020",
@@ -2603,7 +2658,8 @@
         "hemorrhagic disease of the newborn"
       ],
       "topicId": "hemostasis",
-      "topicName": "Hemostasis"
+      "topicName": "Hemostasis",
+      "tier": "extra"
     },
     {
       "id": "bl17-021",
@@ -2650,7 +2706,8 @@
         "warfarin"
       ],
       "topicId": "hemostasis",
-      "topicName": "Hemostasis"
+      "topicName": "Hemostasis",
+      "tier": "extra"
     },
     {
       "id": "bl17-022",
@@ -2696,7 +2753,8 @@
         "extrinsic pathway"
       ],
       "topicId": "hemostasis",
-      "topicName": "Hemostasis"
+      "topicName": "Hemostasis",
+      "tier": "extra"
     },
     {
       "id": "bl17-023",
@@ -2743,7 +2801,8 @@
         "anticoagulants"
       ],
       "topicId": "hemostasis",
-      "topicName": "Hemostasis"
+      "topicName": "Hemostasis",
+      "tier": "extra"
     },
     {
       "id": "bl17-024",
@@ -2790,7 +2849,8 @@
         "antithrombotic"
       ],
       "topicId": "hemostasis",
-      "topicName": "Hemostasis"
+      "topicName": "Hemostasis",
+      "tier": "extra"
     },
     {
       "id": "bl17-025",
@@ -2836,7 +2896,8 @@
         "pulmonary embolism"
       ],
       "topicId": "hemostasis",
-      "topicName": "Hemostasis"
+      "topicName": "Hemostasis",
+      "tier": "extra"
     },
     {
       "id": "bl17-026",
@@ -2882,7 +2943,8 @@
         "fibrinolysis"
       ],
       "topicId": "hemostasis",
-      "topicName": "Hemostasis"
+      "topicName": "Hemostasis",
+      "tier": "extra"
     },
     {
       "id": "bl17-027",
@@ -2928,7 +2990,8 @@
         "clot remodeling"
       ],
       "topicId": "hemostasis",
-      "topicName": "Hemostasis"
+      "topicName": "Hemostasis",
+      "tier": "extra"
     },
     {
       "id": "bl17-028",
@@ -2974,7 +3037,8 @@
         "risk factors"
       ],
       "topicId": "hemostasis",
-      "topicName": "Hemostasis"
+      "topicName": "Hemostasis",
+      "tier": "extra"
     },
     {
       "id": "bl17-029",
@@ -3020,7 +3084,8 @@
         "reference range"
       ],
       "topicId": "hemostasis",
-      "topicName": "Hemostasis"
+      "topicName": "Hemostasis",
+      "tier": "extra"
     },
     {
       "id": "bl17-030",
@@ -3066,7 +3131,8 @@
         "coagulation tests"
       ],
       "topicId": "hemostasis",
-      "topicName": "Hemostasis"
+      "topicName": "Hemostasis",
+      "tier": "extra"
     },
     {
       "id": "bl17-031",
@@ -3112,7 +3178,8 @@
         "bleeding disorders"
       ],
       "topicId": "hemostasis",
-      "topicName": "Hemostasis"
+      "topicName": "Hemostasis",
+      "tier": "extra"
     },
     {
       "id": "bl17-032",
@@ -3158,7 +3225,8 @@
         "vWF activity test"
       ],
       "topicId": "hemostasis",
-      "topicName": "Hemostasis"
+      "topicName": "Hemostasis",
+      "tier": "extra"
     },
     {
       "id": "bl17-033",
@@ -3204,7 +3272,8 @@
         "intrinsic pathway"
       ],
       "topicId": "hemostasis",
-      "topicName": "Hemostasis"
+      "topicName": "Hemostasis",
+      "tier": "extra"
     },
     {
       "id": "bl17-034",
@@ -3250,7 +3319,8 @@
         "tissue factor"
       ],
       "topicId": "hemostasis",
-      "topicName": "Hemostasis"
+      "topicName": "Hemostasis",
+      "tier": "extra"
     },
     {
       "id": "bl17-035",
@@ -3296,7 +3366,8 @@
         "coagulation tests"
       ],
       "topicId": "hemostasis",
-      "topicName": "Hemostasis"
+      "topicName": "Hemostasis",
+      "tier": "extra"
     },
     {
       "id": "bl17-036",
@@ -3342,7 +3413,8 @@
         "mucocutaneous bleeding"
       ],
       "topicId": "hemostasis",
-      "topicName": "Hemostasis"
+      "topicName": "Hemostasis",
+      "tier": "extra"
     },
     {
       "id": "bl18-001",
@@ -3388,7 +3460,8 @@
         "ABO"
       ],
       "topicId": "transfusion-medicine",
-      "topicName": "Transfusion Medicine"
+      "topicName": "Transfusion Medicine",
+      "tier": "core"
     },
     {
       "id": "bl18-002",
@@ -3434,7 +3507,8 @@
         "universal donor"
       ],
       "topicId": "transfusion-medicine",
-      "topicName": "Transfusion Medicine"
+      "topicName": "Transfusion Medicine",
+      "tier": "core"
     },
     {
       "id": "bl18-003",
@@ -3480,7 +3554,8 @@
         "universal recipient"
       ],
       "topicId": "transfusion-medicine",
-      "topicName": "Transfusion Medicine"
+      "topicName": "Transfusion Medicine",
+      "tier": "core"
     },
     {
       "id": "bl18-004",
@@ -3526,7 +3601,8 @@
         "antibodies"
       ],
       "topicId": "transfusion-medicine",
-      "topicName": "Transfusion Medicine"
+      "topicName": "Transfusion Medicine",
+      "tier": "core"
     },
     {
       "id": "bl18-005",
@@ -3572,7 +3648,8 @@
         "RhoGAM"
       ],
       "topicId": "transfusion-medicine",
-      "topicName": "Transfusion Medicine"
+      "topicName": "Transfusion Medicine",
+      "tier": "core"
     },
     {
       "id": "bl18-006",
@@ -3618,7 +3695,8 @@
         "IgG"
       ],
       "topicId": "transfusion-medicine",
-      "topicName": "Transfusion Medicine"
+      "topicName": "Transfusion Medicine",
+      "tier": "core"
     },
     {
       "id": "bl18-007",
@@ -3663,7 +3741,8 @@
         "cross-match"
       ],
       "topicId": "transfusion-medicine",
-      "topicName": "Transfusion Medicine"
+      "topicName": "Transfusion Medicine",
+      "tier": "core"
     },
     {
       "id": "bl18-008",
@@ -3709,7 +3788,8 @@
         "fibrinogen"
       ],
       "topicId": "transfusion-medicine",
-      "topicName": "Transfusion Medicine"
+      "topicName": "Transfusion Medicine",
+      "tier": "core"
     },
     {
       "id": "bl18-009",
@@ -3755,7 +3835,8 @@
         "anemia"
       ],
       "topicId": "transfusion-medicine",
-      "topicName": "Transfusion Medicine"
+      "topicName": "Transfusion Medicine",
+      "tier": "core"
     },
     {
       "id": "bl18-010",
@@ -3801,7 +3882,8 @@
         "anaphylaxis"
       ],
       "topicId": "transfusion-medicine",
-      "topicName": "Transfusion Medicine"
+      "topicName": "Transfusion Medicine",
+      "tier": "core"
     },
     {
       "id": "bl18-011",
@@ -3847,7 +3929,8 @@
         "irradiation"
       ],
       "topicId": "transfusion-medicine",
-      "topicName": "Transfusion Medicine"
+      "topicName": "Transfusion Medicine",
+      "tier": "core"
     },
     {
       "id": "bl18-012",
@@ -3893,7 +3976,8 @@
         "leukoreduction"
       ],
       "topicId": "transfusion-medicine",
-      "topicName": "Transfusion Medicine"
+      "topicName": "Transfusion Medicine",
+      "tier": "core"
     },
     {
       "id": "bl18-013",
@@ -3939,7 +4023,8 @@
         "antigens"
       ],
       "topicId": "transfusion-medicine",
-      "topicName": "Transfusion Medicine"
+      "topicName": "Transfusion Medicine",
+      "tier": "extra"
     },
     {
       "id": "bl18-014",
@@ -3985,7 +4070,8 @@
         "inheritance"
       ],
       "topicId": "transfusion-medicine",
-      "topicName": "Transfusion Medicine"
+      "topicName": "Transfusion Medicine",
+      "tier": "extra"
     },
     {
       "id": "bl18-015",
@@ -4031,7 +4117,8 @@
         "blood groups"
       ],
       "topicId": "transfusion-medicine",
-      "topicName": "Transfusion Medicine"
+      "topicName": "Transfusion Medicine",
+      "tier": "extra"
     },
     {
       "id": "bl18-016",
@@ -4077,7 +4164,8 @@
         "type and screen"
       ],
       "topicId": "transfusion-medicine",
-      "topicName": "Transfusion Medicine"
+      "topicName": "Transfusion Medicine",
+      "tier": "extra"
     },
     {
       "id": "bl18-017",
@@ -4123,7 +4211,8 @@
         "ABO"
       ],
       "topicId": "transfusion-medicine",
-      "topicName": "Transfusion Medicine"
+      "topicName": "Transfusion Medicine",
+      "tier": "extra"
     },
     {
       "id": "bl18-018",
@@ -4169,7 +4258,8 @@
         "sensitization"
       ],
       "topicId": "transfusion-medicine",
-      "topicName": "Transfusion Medicine"
+      "topicName": "Transfusion Medicine",
+      "tier": "extra"
     },
     {
       "id": "bl18-019",
@@ -4215,7 +4305,8 @@
         "reverse typing"
       ],
       "topicId": "transfusion-medicine",
-      "topicName": "Transfusion Medicine"
+      "topicName": "Transfusion Medicine",
+      "tier": "extra"
     },
     {
       "id": "bl18-020",
@@ -4261,7 +4352,8 @@
         "type and screen"
       ],
       "topicId": "transfusion-medicine",
-      "topicName": "Transfusion Medicine"
+      "topicName": "Transfusion Medicine",
+      "tier": "extra"
     },
     {
       "id": "bl18-021",
@@ -4307,7 +4399,8 @@
         "blood bank"
       ],
       "topicId": "transfusion-medicine",
-      "topicName": "Transfusion Medicine"
+      "topicName": "Transfusion Medicine",
+      "tier": "extra"
     },
     {
       "id": "bl18-022",
@@ -4353,7 +4446,8 @@
         "trauma"
       ],
       "topicId": "transfusion-medicine",
-      "topicName": "Transfusion Medicine"
+      "topicName": "Transfusion Medicine",
+      "tier": "extra"
     },
     {
       "id": "bl18-023",
@@ -4399,7 +4493,8 @@
         "antigens"
       ],
       "topicId": "transfusion-medicine",
-      "topicName": "Transfusion Medicine"
+      "topicName": "Transfusion Medicine",
+      "tier": "extra"
     },
     {
       "id": "bl18-024",
@@ -4445,7 +4540,8 @@
         "thresholds"
       ],
       "topicId": "transfusion-medicine",
-      "topicName": "Transfusion Medicine"
+      "topicName": "Transfusion Medicine",
+      "tier": "extra"
     },
     {
       "id": "bl18-025",
@@ -4491,7 +4587,8 @@
         "neutropenia"
       ],
       "topicId": "transfusion-medicine",
-      "topicName": "Transfusion Medicine"
+      "topicName": "Transfusion Medicine",
+      "tier": "extra"
     },
     {
       "id": "bl18-026",
@@ -4537,7 +4634,8 @@
         "warfarin"
       ],
       "topicId": "transfusion-medicine",
-      "topicName": "Transfusion Medicine"
+      "topicName": "Transfusion Medicine",
+      "tier": "extra"
     },
     {
       "id": "bl18-027",
@@ -4583,7 +4681,8 @@
         "factor VIII"
       ],
       "topicId": "transfusion-medicine",
-      "topicName": "Transfusion Medicine"
+      "topicName": "Transfusion Medicine",
+      "tier": "extra"
     },
     {
       "id": "bl18-028",
@@ -4629,7 +4728,8 @@
         "blood bank"
       ],
       "topicId": "transfusion-medicine",
-      "topicName": "Transfusion Medicine"
+      "topicName": "Transfusion Medicine",
+      "tier": "extra"
     },
     {
       "id": "bl18-029",
@@ -4675,7 +4775,8 @@
         "protocol"
       ],
       "topicId": "transfusion-medicine",
-      "topicName": "Transfusion Medicine"
+      "topicName": "Transfusion Medicine",
+      "tier": "extra"
     },
     {
       "id": "bl18-030",
@@ -4721,7 +4822,8 @@
         "HIV"
       ],
       "topicId": "transfusion-medicine",
-      "topicName": "Transfusion Medicine"
+      "topicName": "Transfusion Medicine",
+      "tier": "extra"
     },
     {
       "id": "bl18-031",
@@ -4767,7 +4869,8 @@
         "leukoreduction"
       ],
       "topicId": "transfusion-medicine",
-      "topicName": "Transfusion Medicine"
+      "topicName": "Transfusion Medicine",
+      "tier": "extra"
     },
     {
       "id": "bl18-032",
@@ -4813,7 +4916,8 @@
         "platelets"
       ],
       "topicId": "transfusion-medicine",
-      "topicName": "Transfusion Medicine"
+      "topicName": "Transfusion Medicine",
+      "tier": "extra"
     },
     {
       "id": "bl18-033",
@@ -4859,7 +4963,8 @@
         "minor antigens"
       ],
       "topicId": "transfusion-medicine",
-      "topicName": "Transfusion Medicine"
+      "topicName": "Transfusion Medicine",
+      "tier": "extra"
     },
     {
       "id": "bl18-034",
@@ -4905,7 +5010,8 @@
         "DAT"
       ],
       "topicId": "transfusion-medicine",
-      "topicName": "Transfusion Medicine"
+      "topicName": "Transfusion Medicine",
+      "tier": "extra"
     },
     {
       "id": "bl18-035",
@@ -4951,7 +5057,8 @@
         "management"
       ],
       "topicId": "transfusion-medicine",
-      "topicName": "Transfusion Medicine"
+      "topicName": "Transfusion Medicine",
+      "tier": "extra"
     },
     {
       "id": "bl18-036",
@@ -4997,7 +5104,8 @@
         "management"
       ],
       "topicId": "transfusion-medicine",
-      "topicName": "Transfusion Medicine"
+      "topicName": "Transfusion Medicine",
+      "tier": "extra"
     },
     {
       "id": "bl19-001",
@@ -5043,7 +5151,8 @@
         "mixing study"
       ],
       "topicId": "hemophilia",
-      "topicName": "Hemophilia"
+      "topicName": "Hemophilia",
+      "tier": "core"
     },
     {
       "id": "bl19-002",
@@ -5089,7 +5198,8 @@
         "factor VIII"
       ],
       "topicId": "hemophilia",
-      "topicName": "Hemophilia"
+      "topicName": "Hemophilia",
+      "tier": "core"
     },
     {
       "id": "bl19-003",
@@ -5135,7 +5245,8 @@
         "X-linked recessive"
       ],
       "topicId": "hemophilia",
-      "topicName": "Hemophilia"
+      "topicName": "Hemophilia",
+      "tier": "core"
     },
     {
       "id": "bl19-004",
@@ -5181,7 +5292,8 @@
         "carrier risk"
       ],
       "topicId": "hemophilia",
-      "topicName": "Hemophilia"
+      "topicName": "Hemophilia",
+      "tier": "core"
     },
     {
       "id": "bl19-005",
@@ -5227,7 +5339,8 @@
         "PT"
       ],
       "topicId": "hemophilia",
-      "topicName": "Hemophilia"
+      "topicName": "Hemophilia",
+      "tier": "core"
     },
     {
       "id": "bl19-006",
@@ -5273,7 +5386,8 @@
         "von Willebrand disease"
       ],
       "topicId": "hemophilia",
-      "topicName": "Hemophilia"
+      "topicName": "Hemophilia",
+      "tier": "core"
     },
     {
       "id": "bl19-007",
@@ -5319,7 +5433,8 @@
         "mild hemophilia A"
       ],
       "topicId": "hemophilia",
-      "topicName": "Hemophilia"
+      "topicName": "Hemophilia",
+      "tier": "core"
     },
     {
       "id": "bl19-008",
@@ -5365,7 +5480,8 @@
         "hemophilia A"
       ],
       "topicId": "hemophilia",
-      "topicName": "Hemophilia"
+      "topicName": "Hemophilia",
+      "tier": "core"
     },
     {
       "id": "bl19-009",
@@ -5411,7 +5527,8 @@
         "recombinant factor VIIa"
       ],
       "topicId": "hemophilia",
-      "topicName": "Hemophilia"
+      "topicName": "Hemophilia",
+      "tier": "core"
     },
     {
       "id": "bl19-010",
@@ -5457,7 +5574,8 @@
         "severe hemophilia"
       ],
       "topicId": "hemophilia",
-      "topicName": "Hemophilia"
+      "topicName": "Hemophilia",
+      "tier": "core"
     },
     {
       "id": "bl19-011",
@@ -5503,7 +5621,8 @@
         "differential diagnosis"
       ],
       "topicId": "hemophilia",
-      "topicName": "Hemophilia"
+      "topicName": "Hemophilia",
+      "tier": "core"
     },
     {
       "id": "bl19-012",
@@ -5549,7 +5668,8 @@
         "mortality"
       ],
       "topicId": "hemophilia",
-      "topicName": "Hemophilia"
+      "topicName": "Hemophilia",
+      "tier": "core"
     },
     {
       "id": "bl19-013",
@@ -5595,7 +5715,8 @@
         "genetics"
       ],
       "topicId": "hemophilia",
-      "topicName": "Hemophilia"
+      "topicName": "Hemophilia",
+      "tier": "extra"
     },
     {
       "id": "bl19-014",
@@ -5641,7 +5762,8 @@
         "hemophilia B"
       ],
       "topicId": "hemophilia",
-      "topicName": "Hemophilia"
+      "topicName": "Hemophilia",
+      "tier": "extra"
     },
     {
       "id": "bl19-015",
@@ -5687,7 +5809,8 @@
         "joints"
       ],
       "topicId": "hemophilia",
-      "topicName": "Hemophilia"
+      "topicName": "Hemophilia",
+      "tier": "extra"
     },
     {
       "id": "bl19-016",
@@ -5733,7 +5856,8 @@
         "joint deformity"
       ],
       "topicId": "hemophilia",
-      "topicName": "Hemophilia"
+      "topicName": "Hemophilia",
+      "tier": "extra"
     },
     {
       "id": "bl19-017",
@@ -5779,7 +5903,8 @@
         "factor activity"
       ],
       "topicId": "hemophilia",
-      "topicName": "Hemophilia"
+      "topicName": "Hemophilia",
+      "tier": "extra"
     },
     {
       "id": "bl19-018",
@@ -5825,7 +5950,8 @@
         "hemophilia B"
       ],
       "topicId": "hemophilia",
-      "topicName": "Hemophilia"
+      "topicName": "Hemophilia",
+      "tier": "extra"
     },
     {
       "id": "bl19-019",
@@ -5871,7 +5997,8 @@
         "recombinant factor IX"
       ],
       "topicId": "hemophilia",
-      "topicName": "Hemophilia"
+      "topicName": "Hemophilia",
+      "tier": "extra"
     },
     {
       "id": "bl19-020",
@@ -5917,7 +6044,8 @@
         "inheritance"
       ],
       "topicId": "hemophilia",
-      "topicName": "Hemophilia"
+      "topicName": "Hemophilia",
+      "tier": "extra"
     },
     {
       "id": "bl19-021",
@@ -5963,7 +6091,8 @@
         "X-linked recessive"
       ],
       "topicId": "hemophilia",
-      "topicName": "Hemophilia"
+      "topicName": "Hemophilia",
+      "tier": "extra"
     },
     {
       "id": "bl19-022",
@@ -6009,7 +6138,8 @@
         "hemophilia A"
       ],
       "topicId": "hemophilia",
-      "topicName": "Hemophilia"
+      "topicName": "Hemophilia",
+      "tier": "extra"
     },
     {
       "id": "bl19-023",
@@ -6055,7 +6185,8 @@
         "treatment failure"
       ],
       "topicId": "hemophilia",
-      "topicName": "Hemophilia"
+      "topicName": "Hemophilia",
+      "tier": "extra"
     },
     {
       "id": "bl19-024",
@@ -6101,7 +6232,8 @@
         "factor VIII stability"
       ],
       "topicId": "hemophilia",
-      "topicName": "Hemophilia"
+      "topicName": "Hemophilia",
+      "tier": "extra"
     },
     {
       "id": "bl19-025",
@@ -6147,7 +6279,8 @@
         "factor assays"
       ],
       "topicId": "hemophilia",
-      "topicName": "Hemophilia"
+      "topicName": "Hemophilia",
+      "tier": "extra"
     },
     {
       "id": "bl19-026",
@@ -6193,7 +6326,8 @@
         "hemophilia A"
       ],
       "topicId": "hemophilia",
-      "topicName": "Hemophilia"
+      "topicName": "Hemophilia",
+      "tier": "extra"
     },
     {
       "id": "bl19-027",
@@ -6239,7 +6373,8 @@
         "treatment"
       ],
       "topicId": "hemophilia",
-      "topicName": "Hemophilia"
+      "topicName": "Hemophilia",
+      "tier": "extra"
     },
     {
       "id": "bl19-028",
@@ -6285,7 +6420,8 @@
         "treatment"
       ],
       "topicId": "hemophilia",
-      "topicName": "Hemophilia"
+      "topicName": "Hemophilia",
+      "tier": "extra"
     },
     {
       "id": "bl19-029",
@@ -6331,7 +6467,8 @@
         "treatment"
       ],
       "topicId": "hemophilia",
-      "topicName": "Hemophilia"
+      "topicName": "Hemophilia",
+      "tier": "extra"
     },
     {
       "id": "bl19-030",
@@ -6377,7 +6514,8 @@
         "idiopathic"
       ],
       "topicId": "hemophilia",
-      "topicName": "Hemophilia"
+      "topicName": "Hemophilia",
+      "tier": "extra"
     },
     {
       "id": "bl19-031",
@@ -6423,7 +6561,8 @@
         "treatment"
       ],
       "topicId": "hemophilia",
-      "topicName": "Hemophilia"
+      "topicName": "Hemophilia",
+      "tier": "extra"
     },
     {
       "id": "bl19-032",
@@ -6469,7 +6608,8 @@
         "perioperative care"
       ],
       "topicId": "hemophilia",
-      "topicName": "Hemophilia"
+      "topicName": "Hemophilia",
+      "tier": "extra"
     },
     {
       "id": "bl19-033",
@@ -6515,7 +6655,8 @@
         "hemostasis"
       ],
       "topicId": "hemophilia",
-      "topicName": "Hemophilia"
+      "topicName": "Hemophilia",
+      "tier": "extra"
     },
     {
       "id": "bl19-034",
@@ -6561,7 +6702,8 @@
         "intrinsic pathway"
       ],
       "topicId": "hemophilia",
-      "topicName": "Hemophilia"
+      "topicName": "Hemophilia",
+      "tier": "extra"
     },
     {
       "id": "bl19-035",
@@ -6607,7 +6749,8 @@
         "clot stabilization"
       ],
       "topicId": "hemophilia",
-      "topicName": "Hemophilia"
+      "topicName": "Hemophilia",
+      "tier": "extra"
     },
     {
       "id": "bl19-036",
@@ -6653,7 +6796,8 @@
         "clinical features"
       ],
       "topicId": "hemophilia",
-      "topicName": "Hemophilia"
+      "topicName": "Hemophilia",
+      "tier": "extra"
     },
     {
       "id": "bl20-001",
@@ -6699,7 +6843,8 @@
         "vWF function"
       ],
       "topicId": "von-willebrand-disease",
-      "topicName": "von Willebrand Disease"
+      "topicName": "von Willebrand Disease",
+      "tier": "core"
     },
     {
       "id": "bl20-002",
@@ -6745,7 +6890,8 @@
         "autosomal dominant"
       ],
       "topicId": "von-willebrand-disease",
-      "topicName": "von Willebrand Disease"
+      "topicName": "von Willebrand Disease",
+      "tier": "core"
     },
     {
       "id": "bl20-003",
@@ -6791,7 +6937,8 @@
         "vWF replacement"
       ],
       "topicId": "von-willebrand-disease",
-      "topicName": "von Willebrand Disease"
+      "topicName": "von Willebrand Disease",
+      "tier": "core"
     },
     {
       "id": "bl20-004",
@@ -6837,7 +6984,8 @@
         "clinical vignette"
       ],
       "topicId": "von-willebrand-disease",
-      "topicName": "von Willebrand Disease"
+      "topicName": "von Willebrand Disease",
+      "tier": "core"
     },
     {
       "id": "bl20-005",
@@ -6883,7 +7031,8 @@
         "GpIb"
       ],
       "topicId": "von-willebrand-disease",
-      "topicName": "von Willebrand Disease"
+      "topicName": "von Willebrand Disease",
+      "tier": "core"
     },
     {
       "id": "bl20-006",
@@ -6929,7 +7078,8 @@
         "pathophysiology"
       ],
       "topicId": "von-willebrand-disease",
-      "topicName": "von Willebrand Disease"
+      "topicName": "von Willebrand Disease",
+      "tier": "core"
     },
     {
       "id": "bl20-007",
@@ -6975,7 +7125,8 @@
         "vWF activity"
       ],
       "topicId": "von-willebrand-disease",
-      "topicName": "von Willebrand Disease"
+      "topicName": "von Willebrand Disease",
+      "tier": "core"
     },
     {
       "id": "bl20-008",
@@ -7021,7 +7172,8 @@
         "epidemiology"
       ],
       "topicId": "von-willebrand-disease",
-      "topicName": "von Willebrand Disease"
+      "topicName": "von Willebrand Disease",
+      "tier": "core"
     },
     {
       "id": "bl20-009",
@@ -7067,7 +7219,8 @@
         "vWF multimers"
       ],
       "topicId": "von-willebrand-disease",
-      "topicName": "von Willebrand Disease"
+      "topicName": "von Willebrand Disease",
+      "tier": "core"
     },
     {
       "id": "bl20-010",
@@ -7113,7 +7266,8 @@
         "DDAVP"
       ],
       "topicId": "von-willebrand-disease",
-      "topicName": "von Willebrand Disease"
+      "topicName": "von Willebrand Disease",
+      "tier": "core"
     },
     {
       "id": "bl20-011",
@@ -7159,7 +7313,8 @@
         "diagnosis"
       ],
       "topicId": "von-willebrand-disease",
-      "topicName": "von Willebrand Disease"
+      "topicName": "von Willebrand Disease",
+      "tier": "core"
     },
     {
       "id": "bl20-012",
@@ -7205,7 +7360,8 @@
         "qualitative vs quantitative"
       ],
       "topicId": "von-willebrand-disease",
-      "topicName": "von Willebrand Disease"
+      "topicName": "von Willebrand Disease",
+      "tier": "core"
     },
     {
       "id": "bl20-013",
@@ -7251,7 +7407,8 @@
         "inherited bleeding disorders"
       ],
       "topicId": "von-willebrand-disease",
-      "topicName": "von Willebrand Disease"
+      "topicName": "von Willebrand Disease",
+      "tier": "extra"
     },
     {
       "id": "bl20-014",
@@ -7297,7 +7454,8 @@
         "hemostatic challenge"
       ],
       "topicId": "von-willebrand-disease",
-      "topicName": "von Willebrand Disease"
+      "topicName": "von Willebrand Disease",
+      "tier": "extra"
     },
     {
       "id": "bl20-015",
@@ -7343,7 +7501,8 @@
         "sex differences"
       ],
       "topicId": "von-willebrand-disease",
-      "topicName": "von Willebrand Disease"
+      "topicName": "von Willebrand Disease",
+      "tier": "extra"
     },
     {
       "id": "bl20-016",
@@ -7389,7 +7548,8 @@
         "biochemistry"
       ],
       "topicId": "von-willebrand-disease",
-      "topicName": "von Willebrand Disease"
+      "topicName": "von Willebrand Disease",
+      "tier": "extra"
     },
     {
       "id": "bl20-017",
@@ -7435,7 +7595,8 @@
         "multimers"
       ],
       "topicId": "von-willebrand-disease",
-      "topicName": "von Willebrand Disease"
+      "topicName": "von Willebrand Disease",
+      "tier": "extra"
     },
     {
       "id": "bl20-018",
@@ -7481,7 +7642,8 @@
         "inheritance"
       ],
       "topicId": "von-willebrand-disease",
-      "topicName": "von Willebrand Disease"
+      "topicName": "von Willebrand Disease",
+      "tier": "extra"
     },
     {
       "id": "bl20-019",
@@ -7527,7 +7689,8 @@
         "secondary hemostasis"
       ],
       "topicId": "von-willebrand-disease",
-      "topicName": "von Willebrand Disease"
+      "topicName": "von Willebrand Disease",
+      "tier": "extra"
     },
     {
       "id": "bl20-020",
@@ -7573,7 +7736,8 @@
         "fibrinogen"
       ],
       "topicId": "von-willebrand-disease",
-      "topicName": "von Willebrand Disease"
+      "topicName": "von Willebrand Disease",
+      "tier": "extra"
     },
     {
       "id": "bl20-021",
@@ -7619,7 +7783,8 @@
         "pathophysiology"
       ],
       "topicId": "von-willebrand-disease",
-      "topicName": "von Willebrand Disease"
+      "topicName": "von Willebrand Disease",
+      "tier": "extra"
     },
     {
       "id": "bl20-022",
@@ -7665,7 +7830,8 @@
         "factor VIII"
       ],
       "topicId": "von-willebrand-disease",
-      "topicName": "von Willebrand Disease"
+      "topicName": "von Willebrand Disease",
+      "tier": "extra"
     },
     {
       "id": "bl20-023",
@@ -7711,7 +7877,8 @@
         "differential diagnosis"
       ],
       "topicId": "von-willebrand-disease",
-      "topicName": "von Willebrand Disease"
+      "topicName": "von Willebrand Disease",
+      "tier": "extra"
     },
     {
       "id": "bl20-024",
@@ -7757,7 +7924,8 @@
         "agglutination"
       ],
       "topicId": "von-willebrand-disease",
-      "topicName": "von Willebrand Disease"
+      "topicName": "von Willebrand Disease",
+      "tier": "extra"
     },
     {
       "id": "bl20-025",
@@ -7803,7 +7971,8 @@
         "diagnosis"
       ],
       "topicId": "von-willebrand-disease",
-      "topicName": "von Willebrand Disease"
+      "topicName": "von Willebrand Disease",
+      "tier": "extra"
     },
     {
       "id": "bl20-026",
@@ -7849,7 +8018,8 @@
         "workup sequence"
       ],
       "topicId": "von-willebrand-disease",
-      "topicName": "von Willebrand Disease"
+      "topicName": "von Willebrand Disease",
+      "tier": "extra"
     },
     {
       "id": "bl20-027",
@@ -7895,7 +8065,8 @@
         "glycoprotein Ib"
       ],
       "topicId": "von-willebrand-disease",
-      "topicName": "von Willebrand Disease"
+      "topicName": "von Willebrand Disease",
+      "tier": "extra"
     },
     {
       "id": "bl20-028",
@@ -7941,7 +8112,8 @@
         "laboratory interpretation"
       ],
       "topicId": "von-willebrand-disease",
-      "topicName": "von Willebrand Disease"
+      "topicName": "von Willebrand Disease",
+      "tier": "extra"
     },
     {
       "id": "bl20-029",
@@ -7987,7 +8159,8 @@
         "major bleeding"
       ],
       "topicId": "von-willebrand-disease",
-      "topicName": "von Willebrand Disease"
+      "topicName": "von Willebrand Disease",
+      "tier": "extra"
     },
     {
       "id": "bl20-030",
@@ -8033,7 +8206,8 @@
         "pediatrics"
       ],
       "topicId": "von-willebrand-disease",
-      "topicName": "von Willebrand Disease"
+      "topicName": "von Willebrand Disease",
+      "tier": "extra"
     },
     {
       "id": "bl20-031",
@@ -8079,7 +8253,8 @@
         "concentrate alternatives"
       ],
       "topicId": "von-willebrand-disease",
-      "topicName": "von Willebrand Disease"
+      "topicName": "von Willebrand Disease",
+      "tier": "extra"
     },
     {
       "id": "bl20-032",
@@ -8125,7 +8300,8 @@
         "dental procedures"
       ],
       "topicId": "von-willebrand-disease",
-      "topicName": "von Willebrand Disease"
+      "topicName": "von Willebrand Disease",
+      "tier": "extra"
     },
     {
       "id": "bl20-033",
@@ -8171,7 +8347,8 @@
         "indications"
       ],
       "topicId": "von-willebrand-disease",
-      "topicName": "von Willebrand Disease"
+      "topicName": "von Willebrand Disease",
+      "tier": "extra"
     },
     {
       "id": "bl20-034",
@@ -8217,7 +8394,8 @@
         "bleeding control"
       ],
       "topicId": "von-willebrand-disease",
-      "topicName": "von Willebrand Disease"
+      "topicName": "von Willebrand Disease",
+      "tier": "extra"
     },
     {
       "id": "bl20-035",
@@ -8263,7 +8441,8 @@
         "vWF multimers"
       ],
       "topicId": "von-willebrand-disease",
-      "topicName": "von Willebrand Disease"
+      "topicName": "von Willebrand Disease",
+      "tier": "extra"
     },
     {
       "id": "bl20-036",
@@ -8309,7 +8488,8 @@
         "treatment failure"
       ],
       "topicId": "von-willebrand-disease",
-      "topicName": "von Willebrand Disease"
+      "topicName": "von Willebrand Disease",
+      "tier": "extra"
     },
     {
       "id": "bl21-001",
@@ -8355,7 +8535,8 @@
         "sepsis"
       ],
       "topicId": "disseminated-intravascular-coagulation",
-      "topicName": "Disseminated Intravascular Coagulation"
+      "topicName": "Disseminated Intravascular Coagulation",
+      "tier": "core"
     },
     {
       "id": "bl21-002",
@@ -8401,7 +8582,8 @@
         "obstetric"
       ],
       "topicId": "disseminated-intravascular-coagulation",
-      "topicName": "Disseminated Intravascular Coagulation"
+      "topicName": "Disseminated Intravascular Coagulation",
+      "tier": "core"
     },
     {
       "id": "bl21-003",
@@ -8447,7 +8629,8 @@
         "schistocytes"
       ],
       "topicId": "disseminated-intravascular-coagulation",
-      "topicName": "Disseminated Intravascular Coagulation"
+      "topicName": "Disseminated Intravascular Coagulation",
+      "tier": "core"
     },
     {
       "id": "bl21-004",
@@ -8493,7 +8676,8 @@
         "pathophysiology"
       ],
       "topicId": "disseminated-intravascular-coagulation",
-      "topicName": "Disseminated Intravascular Coagulation"
+      "topicName": "Disseminated Intravascular Coagulation",
+      "tier": "core"
     },
     {
       "id": "bl21-005",
@@ -8539,7 +8723,8 @@
         "sepsis"
       ],
       "topicId": "disseminated-intravascular-coagulation",
-      "topicName": "Disseminated Intravascular Coagulation"
+      "topicName": "Disseminated Intravascular Coagulation",
+      "tier": "core"
     },
     {
       "id": "bl21-006",
@@ -8585,7 +8770,8 @@
         "coagulation tests"
       ],
       "topicId": "disseminated-intravascular-coagulation",
-      "topicName": "Disseminated Intravascular Coagulation"
+      "topicName": "Disseminated Intravascular Coagulation",
+      "tier": "core"
     },
     {
       "id": "bl21-007",
@@ -8631,7 +8817,8 @@
         "tissue factor"
       ],
       "topicId": "disseminated-intravascular-coagulation",
-      "topicName": "Disseminated Intravascular Coagulation"
+      "topicName": "Disseminated Intravascular Coagulation",
+      "tier": "core"
     },
     {
       "id": "bl21-008",
@@ -8677,7 +8864,8 @@
         "schistocytes"
       ],
       "topicId": "disseminated-intravascular-coagulation",
-      "topicName": "Disseminated Intravascular Coagulation"
+      "topicName": "Disseminated Intravascular Coagulation",
+      "tier": "core"
     },
     {
       "id": "bl21-009",
@@ -8723,7 +8911,8 @@
         "cryoprecipitate"
       ],
       "topicId": "disseminated-intravascular-coagulation",
-      "topicName": "Disseminated Intravascular Coagulation"
+      "topicName": "Disseminated Intravascular Coagulation",
+      "tier": "core"
     },
     {
       "id": "bl21-010",
@@ -8769,7 +8958,8 @@
         "heparin"
       ],
       "topicId": "disseminated-intravascular-coagulation",
-      "topicName": "Disseminated Intravascular Coagulation"
+      "topicName": "Disseminated Intravascular Coagulation",
+      "tier": "core"
     },
     {
       "id": "bl21-011",
@@ -8815,7 +9005,8 @@
         "malignancy"
       ],
       "topicId": "disseminated-intravascular-coagulation",
-      "topicName": "Disseminated Intravascular Coagulation"
+      "topicName": "Disseminated Intravascular Coagulation",
+      "tier": "core"
     },
     {
       "id": "bl21-012",
@@ -8861,7 +9052,8 @@
         "petechiae"
       ],
       "topicId": "disseminated-intravascular-coagulation",
-      "topicName": "Disseminated Intravascular Coagulation"
+      "topicName": "Disseminated Intravascular Coagulation",
+      "tier": "core"
     },
     {
       "id": "bl21-013",
@@ -8907,7 +9099,8 @@
         "mnemonic"
       ],
       "topicId": "disseminated-intravascular-coagulation",
-      "topicName": "Disseminated Intravascular Coagulation"
+      "topicName": "Disseminated Intravascular Coagulation",
+      "tier": "extra"
     },
     {
       "id": "bl21-014",
@@ -8953,7 +9146,8 @@
         "endothelial injury"
       ],
       "topicId": "disseminated-intravascular-coagulation",
-      "topicName": "Disseminated Intravascular Coagulation"
+      "topicName": "Disseminated Intravascular Coagulation",
+      "tier": "extra"
     },
     {
       "id": "bl21-015",
@@ -8999,7 +9193,8 @@
         "fibrin"
       ],
       "topicId": "disseminated-intravascular-coagulation",
-      "topicName": "Disseminated Intravascular Coagulation"
+      "topicName": "Disseminated Intravascular Coagulation",
+      "tier": "extra"
     },
     {
       "id": "bl21-016",
@@ -9045,7 +9240,8 @@
         "renal failure"
       ],
       "topicId": "disseminated-intravascular-coagulation",
-      "topicName": "Disseminated Intravascular Coagulation"
+      "topicName": "Disseminated Intravascular Coagulation",
+      "tier": "extra"
     },
     {
       "id": "bl21-017",
@@ -9091,7 +9287,8 @@
         "malignancy"
       ],
       "topicId": "disseminated-intravascular-coagulation",
-      "topicName": "Disseminated Intravascular Coagulation"
+      "topicName": "Disseminated Intravascular Coagulation",
+      "tier": "extra"
     },
     {
       "id": "bl21-018",
@@ -9137,7 +9334,8 @@
         "thrombotic microangiopathy"
       ],
       "topicId": "disseminated-intravascular-coagulation",
-      "topicName": "Disseminated Intravascular Coagulation"
+      "topicName": "Disseminated Intravascular Coagulation",
+      "tier": "extra"
     },
     {
       "id": "bl21-019",
@@ -9183,7 +9381,8 @@
         "pathophysiology"
       ],
       "topicId": "disseminated-intravascular-coagulation",
-      "topicName": "Disseminated Intravascular Coagulation"
+      "topicName": "Disseminated Intravascular Coagulation",
+      "tier": "extra"
     },
     {
       "id": "bl21-020",
@@ -9229,7 +9428,8 @@
         "laboratory"
       ],
       "topicId": "disseminated-intravascular-coagulation",
-      "topicName": "Disseminated Intravascular Coagulation"
+      "topicName": "Disseminated Intravascular Coagulation",
+      "tier": "extra"
     },
     {
       "id": "bl21-021",
@@ -9275,7 +9475,8 @@
         "laboratory"
       ],
       "topicId": "disseminated-intravascular-coagulation",
-      "topicName": "Disseminated Intravascular Coagulation"
+      "topicName": "Disseminated Intravascular Coagulation",
+      "tier": "extra"
     },
     {
       "id": "bl21-022",
@@ -9321,7 +9522,8 @@
         "test characteristics"
       ],
       "topicId": "disseminated-intravascular-coagulation",
-      "topicName": "Disseminated Intravascular Coagulation"
+      "topicName": "Disseminated Intravascular Coagulation",
+      "tier": "extra"
     },
     {
       "id": "bl21-023",
@@ -9367,7 +9569,8 @@
         "diagnosis"
       ],
       "topicId": "disseminated-intravascular-coagulation",
-      "topicName": "Disseminated Intravascular Coagulation"
+      "topicName": "Disseminated Intravascular Coagulation",
+      "tier": "extra"
     },
     {
       "id": "bl21-024",
@@ -9413,7 +9616,8 @@
         "fibrin degradation products"
       ],
       "topicId": "disseminated-intravascular-coagulation",
-      "topicName": "Disseminated Intravascular Coagulation"
+      "topicName": "Disseminated Intravascular Coagulation",
+      "tier": "extra"
     },
     {
       "id": "bl21-025",
@@ -9459,7 +9663,8 @@
         "transfusion"
       ],
       "topicId": "disseminated-intravascular-coagulation",
-      "topicName": "Disseminated Intravascular Coagulation"
+      "topicName": "Disseminated Intravascular Coagulation",
+      "tier": "extra"
     },
     {
       "id": "bl21-026",
@@ -9505,7 +9710,8 @@
         "fresh frozen plasma"
       ],
       "topicId": "disseminated-intravascular-coagulation",
-      "topicName": "Disseminated Intravascular Coagulation"
+      "topicName": "Disseminated Intravascular Coagulation",
+      "tier": "extra"
     },
     {
       "id": "bl21-027",
@@ -9551,7 +9757,8 @@
         "transfusion"
       ],
       "topicId": "disseminated-intravascular-coagulation",
-      "topicName": "Disseminated Intravascular Coagulation"
+      "topicName": "Disseminated Intravascular Coagulation",
+      "tier": "extra"
     },
     {
       "id": "bl21-028",
@@ -9597,7 +9804,8 @@
         "periprocedural"
       ],
       "topicId": "disseminated-intravascular-coagulation",
-      "topicName": "Disseminated Intravascular Coagulation"
+      "topicName": "Disseminated Intravascular Coagulation",
+      "tier": "extra"
     },
     {
       "id": "bl21-029",
@@ -9643,7 +9851,8 @@
         "history and physical"
       ],
       "topicId": "disseminated-intravascular-coagulation",
-      "topicName": "Disseminated Intravascular Coagulation"
+      "topicName": "Disseminated Intravascular Coagulation",
+      "tier": "extra"
     },
     {
       "id": "bl21-030",
@@ -9689,7 +9898,8 @@
         "thrombotic microangiopathy"
       ],
       "topicId": "disseminated-intravascular-coagulation",
-      "topicName": "Disseminated Intravascular Coagulation"
+      "topicName": "Disseminated Intravascular Coagulation",
+      "tier": "extra"
     },
     {
       "id": "bl21-031",
@@ -9735,7 +9945,8 @@
         "definition"
       ],
       "topicId": "disseminated-intravascular-coagulation",
-      "topicName": "Disseminated Intravascular Coagulation"
+      "topicName": "Disseminated Intravascular Coagulation",
+      "tier": "extra"
     },
     {
       "id": "bl21-032",
@@ -9781,7 +9992,8 @@
         "thrombosis"
       ],
       "topicId": "disseminated-intravascular-coagulation",
-      "topicName": "Disseminated Intravascular Coagulation"
+      "topicName": "Disseminated Intravascular Coagulation",
+      "tier": "extra"
     },
     {
       "id": "bl21-033",
@@ -9827,7 +10039,8 @@
         "pulmonary"
       ],
       "topicId": "disseminated-intravascular-coagulation",
-      "topicName": "Disseminated Intravascular Coagulation"
+      "topicName": "Disseminated Intravascular Coagulation",
+      "tier": "extra"
     },
     {
       "id": "bl21-034",
@@ -9873,7 +10086,8 @@
         "consumption"
       ],
       "topicId": "disseminated-intravascular-coagulation",
-      "topicName": "Disseminated Intravascular Coagulation"
+      "topicName": "Disseminated Intravascular Coagulation",
+      "tier": "extra"
     },
     {
       "id": "bl21-035",
@@ -9919,7 +10133,8 @@
         "terminology"
       ],
       "topicId": "disseminated-intravascular-coagulation",
-      "topicName": "Disseminated Intravascular Coagulation"
+      "topicName": "Disseminated Intravascular Coagulation",
+      "tier": "extra"
     },
     {
       "id": "bl21-036",
@@ -9965,7 +10180,8 @@
         "anticoagulation"
       ],
       "topicId": "disseminated-intravascular-coagulation",
-      "topicName": "Disseminated Intravascular Coagulation"
+      "topicName": "Disseminated Intravascular Coagulation",
+      "tier": "extra"
     },
     {
       "id": "bl22-001",
@@ -10011,7 +10227,8 @@
         "associations"
       ],
       "topicId": "antiphospholipid-antibody-syndrome",
-      "topicName": "Antiphospholipid Antibody Syndrome"
+      "topicName": "Antiphospholipid Antibody Syndrome",
+      "tier": "core"
     },
     {
       "id": "bl22-002",
@@ -10057,7 +10274,8 @@
         "aPTT"
       ],
       "topicId": "antiphospholipid-antibody-syndrome",
-      "topicName": "Antiphospholipid Antibody Syndrome"
+      "topicName": "Antiphospholipid Antibody Syndrome",
+      "tier": "core"
     },
     {
       "id": "bl22-003",
@@ -10103,7 +10321,8 @@
         "livedo reticularis"
       ],
       "topicId": "antiphospholipid-antibody-syndrome",
-      "topicName": "Antiphospholipid Antibody Syndrome"
+      "topicName": "Antiphospholipid Antibody Syndrome",
+      "tier": "core"
     },
     {
       "id": "bl22-004",
@@ -10149,7 +10368,8 @@
         "pathophysiology"
       ],
       "topicId": "antiphospholipid-antibody-syndrome",
-      "topicName": "Antiphospholipid Antibody Syndrome"
+      "topicName": "Antiphospholipid Antibody Syndrome",
+      "tier": "core"
     },
     {
       "id": "bl22-005",
@@ -10195,7 +10415,8 @@
         "anticoagulation"
       ],
       "topicId": "antiphospholipid-antibody-syndrome",
-      "topicName": "Antiphospholipid Antibody Syndrome"
+      "topicName": "Antiphospholipid Antibody Syndrome",
+      "tier": "core"
     },
     {
       "id": "bl22-006",
@@ -10241,7 +10462,8 @@
         "criteria"
       ],
       "topicId": "antiphospholipid-antibody-syndrome",
-      "topicName": "Antiphospholipid Antibody Syndrome"
+      "topicName": "Antiphospholipid Antibody Syndrome",
+      "tier": "core"
     },
     {
       "id": "bl22-007",
@@ -10287,7 +10509,8 @@
         "mechanism"
       ],
       "topicId": "antiphospholipid-antibody-syndrome",
-      "topicName": "Antiphospholipid Antibody Syndrome"
+      "topicName": "Antiphospholipid Antibody Syndrome",
+      "tier": "core"
     },
     {
       "id": "bl22-008",
@@ -10333,7 +10556,8 @@
         "treatment"
       ],
       "topicId": "antiphospholipid-antibody-syndrome",
-      "topicName": "Antiphospholipid Antibody Syndrome"
+      "topicName": "Antiphospholipid Antibody Syndrome",
+      "tier": "core"
     },
     {
       "id": "bl22-009",
@@ -10379,7 +10603,8 @@
         "diagnosis"
       ],
       "topicId": "antiphospholipid-antibody-syndrome",
-      "topicName": "Antiphospholipid Antibody Syndrome"
+      "topicName": "Antiphospholipid Antibody Syndrome",
+      "tier": "core"
     },
     {
       "id": "bl22-010",
@@ -10425,7 +10650,8 @@
         "risk factors"
       ],
       "topicId": "antiphospholipid-antibody-syndrome",
-      "topicName": "Antiphospholipid Antibody Syndrome"
+      "topicName": "Antiphospholipid Antibody Syndrome",
+      "tier": "core"
     },
     {
       "id": "bl22-011",
@@ -10471,7 +10697,8 @@
         "thrombosis"
       ],
       "topicId": "antiphospholipid-antibody-syndrome",
-      "topicName": "Antiphospholipid Antibody Syndrome"
+      "topicName": "Antiphospholipid Antibody Syndrome",
+      "tier": "core"
     },
     {
       "id": "bl22-012",
@@ -10517,7 +10744,8 @@
         "diagnosis"
       ],
       "topicId": "antiphospholipid-antibody-syndrome",
-      "topicName": "Antiphospholipid Antibody Syndrome"
+      "topicName": "Antiphospholipid Antibody Syndrome",
+      "tier": "core"
     },
     {
       "id": "bl22-013",
@@ -10563,7 +10791,8 @@
         "prevalence"
       ],
       "topicId": "antiphospholipid-antibody-syndrome",
-      "topicName": "Antiphospholipid Antibody Syndrome"
+      "topicName": "Antiphospholipid Antibody Syndrome",
+      "tier": "extra"
     },
     {
       "id": "bl22-014",
@@ -10609,7 +10838,8 @@
         "epidemiology"
       ],
       "topicId": "antiphospholipid-antibody-syndrome",
-      "topicName": "Antiphospholipid Antibody Syndrome"
+      "topicName": "Antiphospholipid Antibody Syndrome",
+      "tier": "extra"
     },
     {
       "id": "bl22-015",
@@ -10655,7 +10885,8 @@
         "epidemiology"
       ],
       "topicId": "antiphospholipid-antibody-syndrome",
-      "topicName": "Antiphospholipid Antibody Syndrome"
+      "topicName": "Antiphospholipid Antibody Syndrome",
+      "tier": "extra"
     },
     {
       "id": "bl22-016",
@@ -10701,7 +10932,8 @@
         "diagnosis"
       ],
       "topicId": "antiphospholipid-antibody-syndrome",
-      "topicName": "Antiphospholipid Antibody Syndrome"
+      "topicName": "Antiphospholipid Antibody Syndrome",
+      "tier": "extra"
     },
     {
       "id": "bl22-017",
@@ -10747,7 +10979,8 @@
         "phospholipids"
       ],
       "topicId": "antiphospholipid-antibody-syndrome",
-      "topicName": "Antiphospholipid Antibody Syndrome"
+      "topicName": "Antiphospholipid Antibody Syndrome",
+      "tier": "extra"
     },
     {
       "id": "bl22-018",
@@ -10793,7 +11026,8 @@
         "phospholipids"
       ],
       "topicId": "antiphospholipid-antibody-syndrome",
-      "topicName": "Antiphospholipid Antibody Syndrome"
+      "topicName": "Antiphospholipid Antibody Syndrome",
+      "tier": "extra"
     },
     {
       "id": "bl22-019",
@@ -10839,7 +11073,8 @@
         "infection"
       ],
       "topicId": "antiphospholipid-antibody-syndrome",
-      "topicName": "Antiphospholipid Antibody Syndrome"
+      "topicName": "Antiphospholipid Antibody Syndrome",
+      "tier": "extra"
     },
     {
       "id": "bl22-020",
@@ -10885,7 +11120,8 @@
         "idiopathic"
       ],
       "topicId": "antiphospholipid-antibody-syndrome",
-      "topicName": "Antiphospholipid Antibody Syndrome"
+      "topicName": "Antiphospholipid Antibody Syndrome",
+      "tier": "extra"
     },
     {
       "id": "bl22-021",
@@ -10931,7 +11167,8 @@
         "antibodies"
       ],
       "topicId": "antiphospholipid-antibody-syndrome",
-      "topicName": "Antiphospholipid Antibody Syndrome"
+      "topicName": "Antiphospholipid Antibody Syndrome",
+      "tier": "extra"
     },
     {
       "id": "bl22-022",
@@ -10977,7 +11214,8 @@
         "laboratory"
       ],
       "topicId": "antiphospholipid-antibody-syndrome",
-      "topicName": "Antiphospholipid Antibody Syndrome"
+      "topicName": "Antiphospholipid Antibody Syndrome",
+      "tier": "extra"
     },
     {
       "id": "bl22-023",
@@ -11023,7 +11261,8 @@
         "laboratory"
       ],
       "topicId": "antiphospholipid-antibody-syndrome",
-      "topicName": "Antiphospholipid Antibody Syndrome"
+      "topicName": "Antiphospholipid Antibody Syndrome",
+      "tier": "extra"
     },
     {
       "id": "bl22-024",
@@ -11069,7 +11308,8 @@
         "laboratory"
       ],
       "topicId": "antiphospholipid-antibody-syndrome",
-      "topicName": "Antiphospholipid Antibody Syndrome"
+      "topicName": "Antiphospholipid Antibody Syndrome",
+      "tier": "extra"
     },
     {
       "id": "bl22-025",
@@ -11115,7 +11355,8 @@
         "thrombosis"
       ],
       "topicId": "antiphospholipid-antibody-syndrome",
-      "topicName": "Antiphospholipid Antibody Syndrome"
+      "topicName": "Antiphospholipid Antibody Syndrome",
+      "tier": "extra"
     },
     {
       "id": "bl22-026",
@@ -11161,7 +11402,8 @@
         "testing indications"
       ],
       "topicId": "antiphospholipid-antibody-syndrome",
-      "topicName": "Antiphospholipid Antibody Syndrome"
+      "topicName": "Antiphospholipid Antibody Syndrome",
+      "tier": "extra"
     },
     {
       "id": "bl22-027",
@@ -11207,7 +11449,8 @@
         "thrombosis"
       ],
       "topicId": "antiphospholipid-antibody-syndrome",
-      "topicName": "Antiphospholipid Antibody Syndrome"
+      "topicName": "Antiphospholipid Antibody Syndrome",
+      "tier": "extra"
     },
     {
       "id": "bl22-028",
@@ -11253,7 +11496,8 @@
         "presentation"
       ],
       "topicId": "antiphospholipid-antibody-syndrome",
-      "topicName": "Antiphospholipid Antibody Syndrome"
+      "topicName": "Antiphospholipid Antibody Syndrome",
+      "tier": "extra"
     },
     {
       "id": "bl22-029",
@@ -11299,7 +11543,8 @@
         "warfarin"
       ],
       "topicId": "antiphospholipid-antibody-syndrome",
-      "topicName": "Antiphospholipid Antibody Syndrome"
+      "topicName": "Antiphospholipid Antibody Syndrome",
+      "tier": "extra"
     },
     {
       "id": "bl22-030",
@@ -11345,7 +11590,8 @@
         "mechanism"
       ],
       "topicId": "antiphospholipid-antibody-syndrome",
-      "topicName": "Antiphospholipid Antibody Syndrome"
+      "topicName": "Antiphospholipid Antibody Syndrome",
+      "tier": "extra"
     },
     {
       "id": "bl22-031",
@@ -11391,7 +11637,8 @@
         "hereditary thrombophilia"
       ],
       "topicId": "antiphospholipid-antibody-syndrome",
-      "topicName": "Antiphospholipid Antibody Syndrome"
+      "topicName": "Antiphospholipid Antibody Syndrome",
+      "tier": "extra"
     },
     {
       "id": "bl22-032",
@@ -11437,7 +11684,8 @@
         "contrast"
       ],
       "topicId": "antiphospholipid-antibody-syndrome",
-      "topicName": "Antiphospholipid Antibody Syndrome"
+      "topicName": "Antiphospholipid Antibody Syndrome",
+      "tier": "extra"
     },
     {
       "id": "bl22-033",
@@ -11483,7 +11731,8 @@
         "criteria"
       ],
       "topicId": "antiphospholipid-antibody-syndrome",
-      "topicName": "Antiphospholipid Antibody Syndrome"
+      "topicName": "Antiphospholipid Antibody Syndrome",
+      "tier": "extra"
     },
     {
       "id": "bl22-034",
@@ -11529,7 +11778,8 @@
         "arterial"
       ],
       "topicId": "antiphospholipid-antibody-syndrome",
-      "topicName": "Antiphospholipid Antibody Syndrome"
+      "topicName": "Antiphospholipid Antibody Syndrome",
+      "tier": "extra"
     },
     {
       "id": "bl22-035",
@@ -11575,7 +11825,8 @@
         "management"
       ],
       "topicId": "antiphospholipid-antibody-syndrome",
-      "topicName": "Antiphospholipid Antibody Syndrome"
+      "topicName": "Antiphospholipid Antibody Syndrome",
+      "tier": "extra"
     },
     {
       "id": "bl22-036",
@@ -11621,7 +11872,8 @@
         "clinical reasoning"
       ],
       "topicId": "antiphospholipid-antibody-syndrome",
-      "topicName": "Antiphospholipid Antibody Syndrome"
+      "topicName": "Antiphospholipid Antibody Syndrome",
+      "tier": "extra"
     },
     {
       "id": "bl23-001",
@@ -11667,7 +11919,8 @@
         "thrombophilia"
       ],
       "topicId": "genetic-thrombotic-disorders",
-      "topicName": "Genetic Thrombotic Disorders"
+      "topicName": "Genetic Thrombotic Disorders",
+      "tier": "core"
     },
     {
       "id": "bl23-002",
@@ -11713,7 +11966,8 @@
         "thrombophilia"
       ],
       "topicId": "genetic-thrombotic-disorders",
-      "topicName": "Genetic Thrombotic Disorders"
+      "topicName": "Genetic Thrombotic Disorders",
+      "tier": "core"
     },
     {
       "id": "bl23-003",
@@ -11759,7 +12013,8 @@
         "factor VIIIa"
       ],
       "topicId": "genetic-thrombotic-disorders",
-      "topicName": "Genetic Thrombotic Disorders"
+      "topicName": "Genetic Thrombotic Disorders",
+      "tier": "core"
     },
     {
       "id": "bl23-004",
@@ -11805,7 +12060,8 @@
         "DVT"
       ],
       "topicId": "genetic-thrombotic-disorders",
-      "topicName": "Genetic Thrombotic Disorders"
+      "topicName": "Genetic Thrombotic Disorders",
+      "tier": "core"
     },
     {
       "id": "bl23-005",
@@ -11852,7 +12108,8 @@
         "DVT"
       ],
       "topicId": "genetic-thrombotic-disorders",
-      "topicName": "Genetic Thrombotic Disorders"
+      "topicName": "Genetic Thrombotic Disorders",
+      "tier": "core"
     },
     {
       "id": "bl23-006",
@@ -11898,7 +12155,8 @@
         "skin necrosis"
       ],
       "topicId": "genetic-thrombotic-disorders",
-      "topicName": "Genetic Thrombotic Disorders"
+      "topicName": "Genetic Thrombotic Disorders",
+      "tier": "core"
     },
     {
       "id": "bl23-007",
@@ -11944,7 +12202,8 @@
         "thrombophilia"
       ],
       "topicId": "genetic-thrombotic-disorders",
-      "topicName": "Genetic Thrombotic Disorders"
+      "topicName": "Genetic Thrombotic Disorders",
+      "tier": "core"
     },
     {
       "id": "bl23-008",
@@ -11990,7 +12249,8 @@
         "recall"
       ],
       "topicId": "genetic-thrombotic-disorders",
-      "topicName": "Genetic Thrombotic Disorders"
+      "topicName": "Genetic Thrombotic Disorders",
+      "tier": "core"
     },
     {
       "id": "bl23-009",
@@ -12036,7 +12296,8 @@
         "laboratory testing"
       ],
       "topicId": "genetic-thrombotic-disorders",
-      "topicName": "Genetic Thrombotic Disorders"
+      "topicName": "Genetic Thrombotic Disorders",
+      "tier": "core"
     },
     {
       "id": "bl23-010",
@@ -12082,7 +12343,8 @@
         "DIC"
       ],
       "topicId": "genetic-thrombotic-disorders",
-      "topicName": "Genetic Thrombotic Disorders"
+      "topicName": "Genetic Thrombotic Disorders",
+      "tier": "core"
     },
     {
       "id": "bl23-011",
@@ -12128,7 +12390,8 @@
         "management"
       ],
       "topicId": "genetic-thrombotic-disorders",
-      "topicName": "Genetic Thrombotic Disorders"
+      "topicName": "Genetic Thrombotic Disorders",
+      "tier": "core"
     },
     {
       "id": "bl23-012",
@@ -12174,7 +12437,8 @@
         "genetics"
       ],
       "topicId": "genetic-thrombotic-disorders",
-      "topicName": "Genetic Thrombotic Disorders"
+      "topicName": "Genetic Thrombotic Disorders",
+      "tier": "core"
     },
     {
       "id": "bl23-013",
@@ -12220,7 +12484,8 @@
         "venous thrombosis"
       ],
       "topicId": "genetic-thrombotic-disorders",
-      "topicName": "Genetic Thrombotic Disorders"
+      "topicName": "Genetic Thrombotic Disorders",
+      "tier": "extra"
     },
     {
       "id": "bl23-014",
@@ -12266,7 +12531,8 @@
         "DVT"
       ],
       "topicId": "genetic-thrombotic-disorders",
-      "topicName": "Genetic Thrombotic Disorders"
+      "topicName": "Genetic Thrombotic Disorders",
+      "tier": "extra"
     },
     {
       "id": "bl23-015",
@@ -12312,7 +12578,8 @@
         "when to test"
       ],
       "topicId": "genetic-thrombotic-disorders",
-      "topicName": "Genetic Thrombotic Disorders"
+      "topicName": "Genetic Thrombotic Disorders",
+      "tier": "extra"
     },
     {
       "id": "bl23-016",
@@ -12358,7 +12625,8 @@
         "family history"
       ],
       "topicId": "genetic-thrombotic-disorders",
-      "topicName": "Genetic Thrombotic Disorders"
+      "topicName": "Genetic Thrombotic Disorders",
+      "tier": "extra"
     },
     {
       "id": "bl23-017",
@@ -12404,7 +12672,8 @@
         "synergy"
       ],
       "topicId": "genetic-thrombotic-disorders",
-      "topicName": "Genetic Thrombotic Disorders"
+      "topicName": "Genetic Thrombotic Disorders",
+      "tier": "extra"
     },
     {
       "id": "bl23-018",
@@ -12450,7 +12719,8 @@
         "pathophysiology"
       ],
       "topicId": "genetic-thrombotic-disorders",
-      "topicName": "Genetic Thrombotic Disorders"
+      "topicName": "Genetic Thrombotic Disorders",
+      "tier": "extra"
     },
     {
       "id": "bl23-019",
@@ -12496,7 +12766,8 @@
         "molecular genetics"
       ],
       "topicId": "genetic-thrombotic-disorders",
-      "topicName": "Genetic Thrombotic Disorders"
+      "topicName": "Genetic Thrombotic Disorders",
+      "tier": "extra"
     },
     {
       "id": "bl23-020",
@@ -12542,7 +12813,8 @@
         "genetics"
       ],
       "topicId": "genetic-thrombotic-disorders",
-      "topicName": "Genetic Thrombotic Disorders"
+      "topicName": "Genetic Thrombotic Disorders",
+      "tier": "extra"
     },
     {
       "id": "bl23-021",
@@ -12588,7 +12860,8 @@
         "counseling"
       ],
       "topicId": "genetic-thrombotic-disorders",
-      "topicName": "Genetic Thrombotic Disorders"
+      "topicName": "Genetic Thrombotic Disorders",
+      "tier": "extra"
     },
     {
       "id": "bl23-022",
@@ -12634,7 +12907,8 @@
         "protein C"
       ],
       "topicId": "genetic-thrombotic-disorders",
-      "topicName": "Genetic Thrombotic Disorders"
+      "topicName": "Genetic Thrombotic Disorders",
+      "tier": "extra"
     },
     {
       "id": "bl23-023",
@@ -12680,7 +12954,8 @@
         "thrombin"
       ],
       "topicId": "genetic-thrombotic-disorders",
-      "topicName": "Genetic Thrombotic Disorders"
+      "topicName": "Genetic Thrombotic Disorders",
+      "tier": "extra"
     },
     {
       "id": "bl23-024",
@@ -12726,7 +13001,8 @@
         "cofactor"
       ],
       "topicId": "genetic-thrombotic-disorders",
-      "topicName": "Genetic Thrombotic Disorders"
+      "topicName": "Genetic Thrombotic Disorders",
+      "tier": "extra"
     },
     {
       "id": "bl23-025",
@@ -12772,7 +13048,8 @@
         "liver disease"
       ],
       "topicId": "genetic-thrombotic-disorders",
-      "topicName": "Genetic Thrombotic Disorders"
+      "topicName": "Genetic Thrombotic Disorders",
+      "tier": "extra"
     },
     {
       "id": "bl23-026",
@@ -12818,7 +13095,8 @@
         "pharmacology"
       ],
       "topicId": "genetic-thrombotic-disorders",
-      "topicName": "Genetic Thrombotic Disorders"
+      "topicName": "Genetic Thrombotic Disorders",
+      "tier": "extra"
     },
     {
       "id": "bl23-027",
@@ -12864,7 +13142,8 @@
         "complications"
       ],
       "topicId": "genetic-thrombotic-disorders",
-      "topicName": "Genetic Thrombotic Disorders"
+      "topicName": "Genetic Thrombotic Disorders",
+      "tier": "extra"
     },
     {
       "id": "bl23-028",
@@ -12910,7 +13189,8 @@
         "management"
       ],
       "topicId": "genetic-thrombotic-disorders",
-      "topicName": "Genetic Thrombotic Disorders"
+      "topicName": "Genetic Thrombotic Disorders",
+      "tier": "extra"
     },
     {
       "id": "bl23-029",
@@ -12956,7 +13236,8 @@
         "genetics"
       ],
       "topicId": "genetic-thrombotic-disorders",
-      "topicName": "Genetic Thrombotic Disorders"
+      "topicName": "Genetic Thrombotic Disorders",
+      "tier": "extra"
     },
     {
       "id": "bl23-030",
@@ -13002,7 +13283,8 @@
         "pharmacology"
       ],
       "topicId": "genetic-thrombotic-disorders",
-      "topicName": "Genetic Thrombotic Disorders"
+      "topicName": "Genetic Thrombotic Disorders",
+      "tier": "extra"
     },
     {
       "id": "bl23-031",
@@ -13048,7 +13330,8 @@
         "dabigatran"
       ],
       "topicId": "genetic-thrombotic-disorders",
-      "topicName": "Genetic Thrombotic Disorders"
+      "topicName": "Genetic Thrombotic Disorders",
+      "tier": "extra"
     },
     {
       "id": "bl23-032",
@@ -13094,7 +13377,8 @@
         "clinical correlation"
       ],
       "topicId": "genetic-thrombotic-disorders",
-      "topicName": "Genetic Thrombotic Disorders"
+      "topicName": "Genetic Thrombotic Disorders",
+      "tier": "extra"
     },
     {
       "id": "bl23-033",
@@ -13140,7 +13424,8 @@
         "activated protein C resistance"
       ],
       "topicId": "genetic-thrombotic-disorders",
-      "topicName": "Genetic Thrombotic Disorders"
+      "topicName": "Genetic Thrombotic Disorders",
+      "tier": "extra"
     },
     {
       "id": "bl23-034",
@@ -13186,7 +13471,8 @@
         "workup sequence"
       ],
       "topicId": "genetic-thrombotic-disorders",
-      "topicName": "Genetic Thrombotic Disorders"
+      "topicName": "Genetic Thrombotic Disorders",
+      "tier": "extra"
     },
     {
       "id": "bl23-035",
@@ -13232,7 +13518,8 @@
         "asymptomatic carrier"
       ],
       "topicId": "genetic-thrombotic-disorders",
-      "topicName": "Genetic Thrombotic Disorders"
+      "topicName": "Genetic Thrombotic Disorders",
+      "tier": "extra"
     },
     {
       "id": "bl23-036",
@@ -13278,7 +13565,8 @@
         "clinical presentation"
       ],
       "topicId": "genetic-thrombotic-disorders",
-      "topicName": "Genetic Thrombotic Disorders"
+      "topicName": "Genetic Thrombotic Disorders",
+      "tier": "extra"
     },
     {
       "id": "bl24-001",
@@ -13323,7 +13611,8 @@
         "clinical presentation"
       ],
       "topicId": "thrombotic-disorders-foundations-and-frameworks",
-      "topicName": "Thrombotic Disorders: Foundations and Frameworks"
+      "topicName": "Thrombotic Disorders: Foundations and Frameworks",
+      "tier": "core"
     },
     {
       "id": "bl24-002",
@@ -13368,7 +13657,8 @@
         "genetic thrombotic disorders"
       ],
       "topicId": "thrombotic-disorders-foundations-and-frameworks",
-      "topicName": "Thrombotic Disorders: Foundations and Frameworks"
+      "topicName": "Thrombotic Disorders: Foundations and Frameworks",
+      "tier": "core"
     },
     {
       "id": "bl24-003",
@@ -13413,7 +13703,8 @@
         "epidemiology"
       ],
       "topicId": "thrombotic-disorders-foundations-and-frameworks",
-      "topicName": "Thrombotic Disorders: Foundations and Frameworks"
+      "topicName": "Thrombotic Disorders: Foundations and Frameworks",
+      "tier": "core"
     },
     {
       "id": "bl24-004",
@@ -13458,7 +13749,8 @@
         "acquired disorders"
       ],
       "topicId": "thrombotic-disorders-foundations-and-frameworks",
-      "topicName": "Thrombotic Disorders: Foundations and Frameworks"
+      "topicName": "Thrombotic Disorders: Foundations and Frameworks",
+      "tier": "core"
     },
     {
       "id": "bl24-005",
@@ -13503,7 +13795,8 @@
         "mechanism of action"
       ],
       "topicId": "thrombotic-disorders-foundations-and-frameworks",
-      "topicName": "Thrombotic Disorders: Foundations and Frameworks"
+      "topicName": "Thrombotic Disorders: Foundations and Frameworks",
+      "tier": "core"
     },
     {
       "id": "bl24-006",
@@ -13549,7 +13842,8 @@
         "protein C deficiency"
       ],
       "topicId": "thrombotic-disorders-foundations-and-frameworks",
-      "topicName": "Thrombotic Disorders: Foundations and Frameworks"
+      "topicName": "Thrombotic Disorders: Foundations and Frameworks",
+      "tier": "core"
     },
     {
       "id": "bl24-007",
@@ -13595,7 +13889,8 @@
         "PT INR"
       ],
       "topicId": "thrombotic-disorders-foundations-and-frameworks",
-      "topicName": "Thrombotic Disorders: Foundations and Frameworks"
+      "topicName": "Thrombotic Disorders: Foundations and Frameworks",
+      "tier": "core"
     },
     {
       "id": "bl24-008",
@@ -13641,7 +13936,8 @@
         "bleeding"
       ],
       "topicId": "thrombotic-disorders-foundations-and-frameworks",
-      "topicName": "Thrombotic Disorders: Foundations and Frameworks"
+      "topicName": "Thrombotic Disorders: Foundations and Frameworks",
+      "tier": "core"
     },
     {
       "id": "bl24-009",
@@ -13687,7 +13983,8 @@
         "CYP2C9"
       ],
       "topicId": "thrombotic-disorders-foundations-and-frameworks",
-      "topicName": "Thrombotic Disorders: Foundations and Frameworks"
+      "topicName": "Thrombotic Disorders: Foundations and Frameworks",
+      "tier": "core"
     },
     {
       "id": "bl24-010",
@@ -13733,7 +14030,8 @@
         "antithrombin"
       ],
       "topicId": "thrombotic-disorders-foundations-and-frameworks",
-      "topicName": "Thrombotic Disorders: Foundations and Frameworks"
+      "topicName": "Thrombotic Disorders: Foundations and Frameworks",
+      "tier": "core"
     },
     {
       "id": "bl24-011",
@@ -13779,7 +14077,8 @@
         "protamine sulfate"
       ],
       "topicId": "thrombotic-disorders-foundations-and-frameworks",
-      "topicName": "Thrombotic Disorders: Foundations and Frameworks"
+      "topicName": "Thrombotic Disorders: Foundations and Frameworks",
+      "tier": "core"
     },
     {
       "id": "bl24-012",
@@ -13825,7 +14124,8 @@
         "direct thrombin inhibitors"
       ],
       "topicId": "thrombotic-disorders-foundations-and-frameworks",
-      "topicName": "Thrombotic Disorders: Foundations and Frameworks"
+      "topicName": "Thrombotic Disorders: Foundations and Frameworks",
+      "tier": "core"
     },
     {
       "id": "bl24-013",
@@ -13871,7 +14171,8 @@
         "terminology"
       ],
       "topicId": "thrombotic-disorders-foundations-and-frameworks",
-      "topicName": "Thrombotic Disorders: Foundations and Frameworks"
+      "topicName": "Thrombotic Disorders: Foundations and Frameworks",
+      "tier": "extra"
     },
     {
       "id": "bl24-014",
@@ -13917,7 +14218,8 @@
         "risk factors"
       ],
       "topicId": "thrombotic-disorders-foundations-and-frameworks",
-      "topicName": "Thrombotic Disorders: Foundations and Frameworks"
+      "topicName": "Thrombotic Disorders: Foundations and Frameworks",
+      "tier": "extra"
     },
     {
       "id": "bl24-015",
@@ -13963,7 +14265,8 @@
         "genetic thrombotic disorders"
       ],
       "topicId": "thrombotic-disorders-foundations-and-frameworks",
-      "topicName": "Thrombotic Disorders: Foundations and Frameworks"
+      "topicName": "Thrombotic Disorders: Foundations and Frameworks",
+      "tier": "extra"
     },
     {
       "id": "bl24-016",
@@ -14008,7 +14311,8 @@
         "clotting inhibitors"
       ],
       "topicId": "thrombotic-disorders-foundations-and-frameworks",
-      "topicName": "Thrombotic Disorders: Foundations and Frameworks"
+      "topicName": "Thrombotic Disorders: Foundations and Frameworks",
+      "tier": "extra"
     },
     {
       "id": "bl24-017",
@@ -14054,7 +14358,8 @@
         "coagulation cascade"
       ],
       "topicId": "thrombotic-disorders-foundations-and-frameworks",
-      "topicName": "Thrombotic Disorders: Foundations and Frameworks"
+      "topicName": "Thrombotic Disorders: Foundations and Frameworks",
+      "tier": "extra"
     },
     {
       "id": "bl24-018",
@@ -14100,7 +14405,8 @@
         "clotting inhibitors"
       ],
       "topicId": "thrombotic-disorders-foundations-and-frameworks",
-      "topicName": "Thrombotic Disorders: Foundations and Frameworks"
+      "topicName": "Thrombotic Disorders: Foundations and Frameworks",
+      "tier": "extra"
     },
     {
       "id": "bl24-019",
@@ -14145,7 +14451,8 @@
         "systemic lupus erythematosus"
       ],
       "topicId": "thrombotic-disorders-foundations-and-frameworks",
-      "topicName": "Thrombotic Disorders: Foundations and Frameworks"
+      "topicName": "Thrombotic Disorders: Foundations and Frameworks",
+      "tier": "extra"
     },
     {
       "id": "bl24-020",
@@ -14191,7 +14498,8 @@
         "heparin bridging"
       ],
       "topicId": "thrombotic-disorders-foundations-and-frameworks",
-      "topicName": "Thrombotic Disorders: Foundations and Frameworks"
+      "topicName": "Thrombotic Disorders: Foundations and Frameworks",
+      "tier": "extra"
     },
     {
       "id": "bl24-021",
@@ -14237,7 +14545,8 @@
         "mechanical heart valve"
       ],
       "topicId": "thrombotic-disorders-foundations-and-frameworks",
-      "topicName": "Thrombotic Disorders: Foundations and Frameworks"
+      "topicName": "Thrombotic Disorders: Foundations and Frameworks",
+      "tier": "extra"
     },
     {
       "id": "bl24-022",
@@ -14283,7 +14592,8 @@
         "reversal"
       ],
       "topicId": "thrombotic-disorders-foundations-and-frameworks",
-      "topicName": "Thrombotic Disorders: Foundations and Frameworks"
+      "topicName": "Thrombotic Disorders: Foundations and Frameworks",
+      "tier": "extra"
     },
     {
       "id": "bl24-023",
@@ -14329,7 +14639,8 @@
         "reversal"
       ],
       "topicId": "thrombotic-disorders-foundations-and-frameworks",
-      "topicName": "Thrombotic Disorders: Foundations and Frameworks"
+      "topicName": "Thrombotic Disorders: Foundations and Frameworks",
+      "tier": "extra"
     },
     {
       "id": "bl24-024",
@@ -14375,7 +14686,8 @@
         "treatment"
       ],
       "topicId": "thrombotic-disorders-foundations-and-frameworks",
-      "topicName": "Thrombotic Disorders: Foundations and Frameworks"
+      "topicName": "Thrombotic Disorders: Foundations and Frameworks",
+      "tier": "extra"
     },
     {
       "id": "bl24-025",
@@ -14421,7 +14733,8 @@
         "pregnancy"
       ],
       "topicId": "thrombotic-disorders-foundations-and-frameworks",
-      "topicName": "Thrombotic Disorders: Foundations and Frameworks"
+      "topicName": "Thrombotic Disorders: Foundations and Frameworks",
+      "tier": "extra"
     },
     {
       "id": "bl24-026",
@@ -14466,7 +14779,8 @@
         "contraindications"
       ],
       "topicId": "thrombotic-disorders-foundations-and-frameworks",
-      "topicName": "Thrombotic Disorders: Foundations and Frameworks"
+      "topicName": "Thrombotic Disorders: Foundations and Frameworks",
+      "tier": "extra"
     },
     {
       "id": "bl24-027",
@@ -14513,7 +14827,8 @@
         "INR"
       ],
       "topicId": "thrombotic-disorders-foundations-and-frameworks",
-      "topicName": "Thrombotic Disorders: Foundations and Frameworks"
+      "topicName": "Thrombotic Disorders: Foundations and Frameworks",
+      "tier": "extra"
     },
     {
       "id": "bl24-028",
@@ -14559,7 +14874,8 @@
         "mechanism"
       ],
       "topicId": "thrombotic-disorders-foundations-and-frameworks",
-      "topicName": "Thrombotic Disorders: Foundations and Frameworks"
+      "topicName": "Thrombotic Disorders: Foundations and Frameworks",
+      "tier": "extra"
     },
     {
       "id": "bl24-029",
@@ -14604,7 +14920,8 @@
         "routes of administration"
       ],
       "topicId": "thrombotic-disorders-foundations-and-frameworks",
-      "topicName": "Thrombotic Disorders: Foundations and Frameworks"
+      "topicName": "Thrombotic Disorders: Foundations and Frameworks",
+      "tier": "extra"
     },
     {
       "id": "bl24-030",
@@ -14650,7 +14967,8 @@
         "anti-Xa"
       ],
       "topicId": "thrombotic-disorders-foundations-and-frameworks",
-      "topicName": "Thrombotic Disorders: Foundations and Frameworks"
+      "topicName": "Thrombotic Disorders: Foundations and Frameworks",
+      "tier": "extra"
     },
     {
       "id": "bl24-031",
@@ -14695,7 +15013,8 @@
         "monitoring"
       ],
       "topicId": "thrombotic-disorders-foundations-and-frameworks",
-      "topicName": "Thrombotic Disorders: Foundations and Frameworks"
+      "topicName": "Thrombotic Disorders: Foundations and Frameworks",
+      "tier": "extra"
     },
     {
       "id": "bl24-032",
@@ -14741,7 +15060,8 @@
         "HITT"
       ],
       "topicId": "thrombotic-disorders-foundations-and-frameworks",
-      "topicName": "Thrombotic Disorders: Foundations and Frameworks"
+      "topicName": "Thrombotic Disorders: Foundations and Frameworks",
+      "tier": "extra"
     },
     {
       "id": "bl24-033",
@@ -14787,7 +15107,8 @@
         "HITT"
       ],
       "topicId": "thrombotic-disorders-foundations-and-frameworks",
-      "topicName": "Thrombotic Disorders: Foundations and Frameworks"
+      "topicName": "Thrombotic Disorders: Foundations and Frameworks",
+      "tier": "extra"
     },
     {
       "id": "bl24-034",
@@ -14833,7 +15154,8 @@
         "reversal"
       ],
       "topicId": "thrombotic-disorders-foundations-and-frameworks",
-      "topicName": "Thrombotic Disorders: Foundations and Frameworks"
+      "topicName": "Thrombotic Disorders: Foundations and Frameworks",
+      "tier": "extra"
     },
     {
       "id": "bl24-035",
@@ -14879,7 +15201,8 @@
         "reversal"
       ],
       "topicId": "thrombotic-disorders-foundations-and-frameworks",
-      "topicName": "Thrombotic Disorders: Foundations and Frameworks"
+      "topicName": "Thrombotic Disorders: Foundations and Frameworks",
+      "tier": "extra"
     },
     {
       "id": "bl24-036",
@@ -14925,7 +15248,8 @@
         "contraindications"
       ],
       "topicId": "thrombotic-disorders-foundations-and-frameworks",
-      "topicName": "Thrombotic Disorders: Foundations and Frameworks"
+      "topicName": "Thrombotic Disorders: Foundations and Frameworks",
+      "tier": "extra"
     },
     {
       "id": "bl25-001",
@@ -14972,7 +15296,8 @@
         "adhesion"
       ],
       "topicId": "hereditary-platelet-disorders",
-      "topicName": "Hereditary Platelet Disorders"
+      "topicName": "Hereditary Platelet Disorders",
+      "tier": "core"
     },
     {
       "id": "bl25-002",
@@ -15019,7 +15344,8 @@
         "ristocetin"
       ],
       "topicId": "hereditary-platelet-disorders",
-      "topicName": "Hereditary Platelet Disorders"
+      "topicName": "Hereditary Platelet Disorders",
+      "tier": "core"
     },
     {
       "id": "bl25-003",
@@ -15066,7 +15392,8 @@
         "calcium"
       ],
       "topicId": "hereditary-platelet-disorders",
-      "topicName": "Hereditary Platelet Disorders"
+      "topicName": "Hereditary Platelet Disorders",
+      "tier": "core"
     },
     {
       "id": "bl25-004",
@@ -15112,7 +15439,8 @@
         "myelofibrosis"
       ],
       "topicId": "hereditary-platelet-disorders",
-      "topicName": "Hereditary Platelet Disorders"
+      "topicName": "Hereditary Platelet Disorders",
+      "tier": "core"
     },
     {
       "id": "bl25-005",
@@ -15158,7 +15486,8 @@
         "Chediak-Higashi"
       ],
       "topicId": "hereditary-platelet-disorders",
-      "topicName": "Hereditary Platelet Disorders"
+      "topicName": "Hereditary Platelet Disorders",
+      "tier": "core"
     },
     {
       "id": "bl25-006",
@@ -15205,7 +15534,8 @@
         "PFA-100"
       ],
       "topicId": "hereditary-platelet-disorders",
-      "topicName": "Hereditary Platelet Disorders"
+      "topicName": "Hereditary Platelet Disorders",
+      "tier": "core"
     },
     {
       "id": "bl25-007",
@@ -15251,7 +15581,8 @@
         "hemophilia"
       ],
       "topicId": "hereditary-platelet-disorders",
-      "topicName": "Hereditary Platelet Disorders"
+      "topicName": "Hereditary Platelet Disorders",
+      "tier": "core"
     },
     {
       "id": "bl25-008",
@@ -15297,7 +15628,8 @@
         "genetic counseling"
       ],
       "topicId": "hereditary-platelet-disorders",
-      "topicName": "Hereditary Platelet Disorders"
+      "topicName": "Hereditary Platelet Disorders",
+      "tier": "core"
     },
     {
       "id": "bl25-009",
@@ -15344,7 +15676,8 @@
         "thrombopoietin agonist"
       ],
       "topicId": "hereditary-platelet-disorders",
-      "topicName": "Hereditary Platelet Disorders"
+      "topicName": "Hereditary Platelet Disorders",
+      "tier": "core"
     },
     {
       "id": "bl25-010",
@@ -15391,7 +15724,8 @@
         "HLA"
       ],
       "topicId": "hereditary-platelet-disorders",
-      "topicName": "Hereditary Platelet Disorders"
+      "topicName": "Hereditary Platelet Disorders",
+      "tier": "core"
     },
     {
       "id": "bl25-011",
@@ -15438,7 +15772,8 @@
         "diagnosis"
       ],
       "topicId": "hereditary-platelet-disorders",
-      "topicName": "Hereditary Platelet Disorders"
+      "topicName": "Hereditary Platelet Disorders",
+      "tier": "core"
     },
     {
       "id": "bl25-012",
@@ -15485,7 +15820,8 @@
         "delayed umbilical cord separation"
       ],
       "topicId": "hereditary-platelet-disorders",
-      "topicName": "Hereditary Platelet Disorders"
+      "topicName": "Hereditary Platelet Disorders",
+      "tier": "core"
     },
     {
       "id": "bl25-013",
@@ -15531,7 +15867,8 @@
         "terminology"
       ],
       "topicId": "hereditary-platelet-disorders",
-      "topicName": "Hereditary Platelet Disorders"
+      "topicName": "Hereditary Platelet Disorders",
+      "tier": "extra"
     },
     {
       "id": "bl25-014",
@@ -15578,7 +15915,8 @@
         "von Willebrand factor"
       ],
       "topicId": "hereditary-platelet-disorders",
-      "topicName": "Hereditary Platelet Disorders"
+      "topicName": "Hereditary Platelet Disorders",
+      "tier": "extra"
     },
     {
       "id": "bl25-015",
@@ -15625,7 +15963,8 @@
         "platelet physiology"
       ],
       "topicId": "hereditary-platelet-disorders",
-      "topicName": "Hereditary Platelet Disorders"
+      "topicName": "Hereditary Platelet Disorders",
+      "tier": "extra"
     },
     {
       "id": "bl25-016",
@@ -15671,7 +16010,8 @@
         "alpha granules"
       ],
       "topicId": "hereditary-platelet-disorders",
-      "topicName": "Hereditary Platelet Disorders"
+      "topicName": "Hereditary Platelet Disorders",
+      "tier": "extra"
     },
     {
       "id": "bl25-017",
@@ -15717,7 +16057,8 @@
         "bone marrow"
       ],
       "topicId": "hereditary-platelet-disorders",
-      "topicName": "Hereditary Platelet Disorders"
+      "topicName": "Hereditary Platelet Disorders",
+      "tier": "extra"
     },
     {
       "id": "bl25-018",
@@ -15764,7 +16105,8 @@
         "mechanism"
       ],
       "topicId": "hereditary-platelet-disorders",
-      "topicName": "Hereditary Platelet Disorders"
+      "topicName": "Hereditary Platelet Disorders",
+      "tier": "extra"
     },
     {
       "id": "bl25-019",
@@ -15810,7 +16152,8 @@
         "complications"
       ],
       "topicId": "hereditary-platelet-disorders",
-      "topicName": "Hereditary Platelet Disorders"
+      "topicName": "Hereditary Platelet Disorders",
+      "tier": "extra"
     },
     {
       "id": "bl25-020",
@@ -15857,7 +16200,8 @@
         "eczema"
       ],
       "topicId": "hereditary-platelet-disorders",
-      "topicName": "Hereditary Platelet Disorders"
+      "topicName": "Hereditary Platelet Disorders",
+      "tier": "extra"
     },
     {
       "id": "bl25-021",
@@ -15904,7 +16248,8 @@
         "gray platelet syndrome"
       ],
       "topicId": "hereditary-platelet-disorders",
-      "topicName": "Hereditary Platelet Disorders"
+      "topicName": "Hereditary Platelet Disorders",
+      "tier": "extra"
     },
     {
       "id": "bl25-022",
@@ -15950,7 +16295,8 @@
         "platelet plug"
       ],
       "topicId": "hereditary-platelet-disorders",
-      "topicName": "Hereditary Platelet Disorders"
+      "topicName": "Hereditary Platelet Disorders",
+      "tier": "extra"
     },
     {
       "id": "bl25-023",
@@ -15996,7 +16342,8 @@
         "management"
       ],
       "topicId": "hereditary-platelet-disorders",
-      "topicName": "Hereditary Platelet Disorders"
+      "topicName": "Hereditary Platelet Disorders",
+      "tier": "extra"
     },
     {
       "id": "bl25-024",
@@ -16043,7 +16390,8 @@
         "menarche"
       ],
       "topicId": "hereditary-platelet-disorders",
-      "topicName": "Hereditary Platelet Disorders"
+      "topicName": "Hereditary Platelet Disorders",
+      "tier": "extra"
     },
     {
       "id": "bl25-025",
@@ -16089,7 +16437,8 @@
         "treatment"
       ],
       "topicId": "hereditary-platelet-disorders",
-      "topicName": "Hereditary Platelet Disorders"
+      "topicName": "Hereditary Platelet Disorders",
+      "tier": "extra"
     },
     {
       "id": "bl25-026",
@@ -16136,7 +16485,8 @@
         "treatment"
       ],
       "topicId": "hereditary-platelet-disorders",
-      "topicName": "Hereditary Platelet Disorders"
+      "topicName": "Hereditary Platelet Disorders",
+      "tier": "extra"
     },
     {
       "id": "bl25-027",
@@ -16183,7 +16533,8 @@
         "carrier"
       ],
       "topicId": "hereditary-platelet-disorders",
-      "topicName": "Hereditary Platelet Disorders"
+      "topicName": "Hereditary Platelet Disorders",
+      "tier": "extra"
     },
     {
       "id": "bl25-028",
@@ -16230,7 +16581,8 @@
         "peripheral smear"
       ],
       "topicId": "hereditary-platelet-disorders",
-      "topicName": "Hereditary Platelet Disorders"
+      "topicName": "Hereditary Platelet Disorders",
+      "tier": "extra"
     },
     {
       "id": "bl25-029",
@@ -16276,7 +16628,8 @@
         "coagulation cascade"
       ],
       "topicId": "hereditary-platelet-disorders",
-      "topicName": "Hereditary Platelet Disorders"
+      "topicName": "Hereditary Platelet Disorders",
+      "tier": "extra"
     },
     {
       "id": "bl25-030",
@@ -16324,7 +16677,8 @@
         "PTT"
       ],
       "topicId": "hereditary-platelet-disorders",
-      "topicName": "Hereditary Platelet Disorders"
+      "topicName": "Hereditary Platelet Disorders",
+      "tier": "extra"
     },
     {
       "id": "bl25-031",
@@ -16370,7 +16724,8 @@
         "diagnosis"
       ],
       "topicId": "hereditary-platelet-disorders",
-      "topicName": "Hereditary Platelet Disorders"
+      "topicName": "Hereditary Platelet Disorders",
+      "tier": "extra"
     },
     {
       "id": "bl25-032",
@@ -16416,7 +16771,8 @@
         "platelet function analyzer"
       ],
       "topicId": "hereditary-platelet-disorders",
-      "topicName": "Hereditary Platelet Disorders"
+      "topicName": "Hereditary Platelet Disorders",
+      "tier": "extra"
     },
     {
       "id": "bl25-033",
@@ -16462,7 +16818,8 @@
         "platelet function"
       ],
       "topicId": "hereditary-platelet-disorders",
-      "topicName": "Hereditary Platelet Disorders"
+      "topicName": "Hereditary Platelet Disorders",
+      "tier": "extra"
     },
     {
       "id": "bl25-034",
@@ -16508,7 +16865,8 @@
         "management"
       ],
       "topicId": "hereditary-platelet-disorders",
-      "topicName": "Hereditary Platelet Disorders"
+      "topicName": "Hereditary Platelet Disorders",
+      "tier": "extra"
     },
     {
       "id": "bl25-035",
@@ -16554,7 +16912,8 @@
         "management"
       ],
       "topicId": "hereditary-platelet-disorders",
-      "topicName": "Hereditary Platelet Disorders"
+      "topicName": "Hereditary Platelet Disorders",
+      "tier": "extra"
     },
     {
       "id": "bl25-036",
@@ -16601,7 +16960,8 @@
         "inheritance"
       ],
       "topicId": "hereditary-platelet-disorders",
-      "topicName": "Hereditary Platelet Disorders"
+      "topicName": "Hereditary Platelet Disorders",
+      "tier": "extra"
     },
     {
       "id": "bl26-001",
@@ -16647,7 +17007,8 @@
         "thresholds"
       ],
       "topicId": "thrombocytopenia",
-      "topicName": "Thrombocytopenia"
+      "topicName": "Thrombocytopenia",
+      "tier": "core"
     },
     {
       "id": "bl26-002",
@@ -16694,7 +17055,8 @@
         "thrombosis"
       ],
       "topicId": "thrombocytopenia",
-      "topicName": "Thrombocytopenia"
+      "topicName": "Thrombocytopenia",
+      "tier": "core"
     },
     {
       "id": "bl26-003",
@@ -16740,7 +17102,8 @@
         "skin findings"
       ],
       "topicId": "thrombocytopenia",
-      "topicName": "Thrombocytopenia"
+      "topicName": "Thrombocytopenia",
+      "tier": "core"
     },
     {
       "id": "bl26-004",
@@ -16786,7 +17149,8 @@
         "thresholds"
       ],
       "topicId": "thrombocytopenia",
-      "topicName": "Thrombocytopenia"
+      "topicName": "Thrombocytopenia",
+      "tier": "core"
     },
     {
       "id": "bl26-005",
@@ -16833,7 +17197,8 @@
         "workup"
       ],
       "topicId": "thrombocytopenia",
-      "topicName": "Thrombocytopenia"
+      "topicName": "Thrombocytopenia",
+      "tier": "core"
     },
     {
       "id": "bl26-006",
@@ -16880,7 +17245,8 @@
         "mechanism"
       ],
       "topicId": "thrombocytopenia",
-      "topicName": "Thrombocytopenia"
+      "topicName": "Thrombocytopenia",
+      "tier": "core"
     },
     {
       "id": "bl26-007",
@@ -16927,7 +17293,8 @@
         "diagnosis"
       ],
       "topicId": "thrombocytopenia",
-      "topicName": "Thrombocytopenia"
+      "topicName": "Thrombocytopenia",
+      "tier": "core"
     },
     {
       "id": "bl26-008",
@@ -16974,7 +17341,8 @@
         "sepsis"
       ],
       "topicId": "thrombocytopenia",
-      "topicName": "Thrombocytopenia"
+      "topicName": "Thrombocytopenia",
+      "tier": "core"
     },
     {
       "id": "bl26-009",
@@ -17020,7 +17388,8 @@
         "microangiopathic hemolytic anemia"
       ],
       "topicId": "thrombocytopenia",
-      "topicName": "Thrombocytopenia"
+      "topicName": "Thrombocytopenia",
+      "tier": "core"
     },
     {
       "id": "bl26-010",
@@ -17067,7 +17436,8 @@
         "workup"
       ],
       "topicId": "thrombocytopenia",
-      "topicName": "Thrombocytopenia"
+      "topicName": "Thrombocytopenia",
+      "tier": "core"
     },
     {
       "id": "bl26-011",
@@ -17114,7 +17484,8 @@
         "bleeding pattern"
       ],
       "topicId": "thrombocytopenia",
-      "topicName": "Thrombocytopenia"
+      "topicName": "Thrombocytopenia",
+      "tier": "core"
     },
     {
       "id": "bl26-012",
@@ -17161,7 +17532,8 @@
         "management"
       ],
       "topicId": "thrombocytopenia",
-      "topicName": "Thrombocytopenia"
+      "topicName": "Thrombocytopenia",
+      "tier": "core"
     },
     {
       "id": "bl26-013",
@@ -17207,7 +17579,8 @@
         "platelet count"
       ],
       "topicId": "thrombocytopenia",
-      "topicName": "Thrombocytopenia"
+      "topicName": "Thrombocytopenia",
+      "tier": "extra"
     },
     {
       "id": "bl26-014",
@@ -17253,7 +17626,8 @@
         "clinical presentation"
       ],
       "topicId": "thrombocytopenia",
-      "topicName": "Thrombocytopenia"
+      "topicName": "Thrombocytopenia",
+      "tier": "extra"
     },
     {
       "id": "bl26-015",
@@ -17299,7 +17673,8 @@
         "complications"
       ],
       "topicId": "thrombocytopenia",
-      "topicName": "Thrombocytopenia"
+      "topicName": "Thrombocytopenia",
+      "tier": "extra"
     },
     {
       "id": "bl26-016",
@@ -17346,7 +17721,8 @@
         "CNS bleeding"
       ],
       "topicId": "thrombocytopenia",
-      "topicName": "Thrombocytopenia"
+      "topicName": "Thrombocytopenia",
+      "tier": "extra"
     },
     {
       "id": "bl26-017",
@@ -17392,7 +17768,8 @@
         "diagnosis"
       ],
       "topicId": "thrombocytopenia",
-      "topicName": "Thrombocytopenia"
+      "topicName": "Thrombocytopenia",
+      "tier": "extra"
     },
     {
       "id": "bl26-018",
@@ -17439,7 +17816,8 @@
         "purpura"
       ],
       "topicId": "thrombocytopenia",
-      "topicName": "Thrombocytopenia"
+      "topicName": "Thrombocytopenia",
+      "tier": "extra"
     },
     {
       "id": "bl26-019",
@@ -17485,7 +17863,8 @@
         "skin findings"
       ],
       "topicId": "thrombocytopenia",
-      "topicName": "Thrombocytopenia"
+      "topicName": "Thrombocytopenia",
+      "tier": "extra"
     },
     {
       "id": "bl26-020",
@@ -17531,7 +17910,8 @@
         "clinical presentation"
       ],
       "topicId": "thrombocytopenia",
-      "topicName": "Thrombocytopenia"
+      "topicName": "Thrombocytopenia",
+      "tier": "extra"
     },
     {
       "id": "bl26-021",
@@ -17577,7 +17957,8 @@
         "bone marrow"
       ],
       "topicId": "thrombocytopenia",
-      "topicName": "Thrombocytopenia"
+      "topicName": "Thrombocytopenia",
+      "tier": "extra"
     },
     {
       "id": "bl26-022",
@@ -17623,7 +18004,8 @@
         "pancytopenia"
       ],
       "topicId": "thrombocytopenia",
-      "topicName": "Thrombocytopenia"
+      "topicName": "Thrombocytopenia",
+      "tier": "extra"
     },
     {
       "id": "bl26-023",
@@ -17670,7 +18052,8 @@
         "folate"
       ],
       "topicId": "thrombocytopenia",
-      "topicName": "Thrombocytopenia"
+      "topicName": "Thrombocytopenia",
+      "tier": "extra"
     },
     {
       "id": "bl26-024",
@@ -17716,7 +18099,8 @@
         "inherited thrombocytopenia"
       ],
       "topicId": "thrombocytopenia",
-      "topicName": "Thrombocytopenia"
+      "topicName": "Thrombocytopenia",
+      "tier": "extra"
     },
     {
       "id": "bl26-025",
@@ -17762,7 +18146,8 @@
         "causes"
       ],
       "topicId": "thrombocytopenia",
-      "topicName": "Thrombocytopenia"
+      "topicName": "Thrombocytopenia",
+      "tier": "extra"
     },
     {
       "id": "bl26-026",
@@ -17808,7 +18193,8 @@
         "immune destruction"
       ],
       "topicId": "thrombocytopenia",
-      "topicName": "Thrombocytopenia"
+      "topicName": "Thrombocytopenia",
+      "tier": "extra"
     },
     {
       "id": "bl26-027",
@@ -17854,7 +18240,8 @@
         "platelet function"
       ],
       "topicId": "thrombocytopenia",
-      "topicName": "Thrombocytopenia"
+      "topicName": "Thrombocytopenia",
+      "tier": "extra"
     },
     {
       "id": "bl26-028",
@@ -17900,7 +18287,8 @@
         "decreased production"
       ],
       "topicId": "thrombocytopenia",
-      "topicName": "Thrombocytopenia"
+      "topicName": "Thrombocytopenia",
+      "tier": "extra"
     },
     {
       "id": "bl26-029",
@@ -17946,7 +18334,8 @@
         "hypersplenism"
       ],
       "topicId": "thrombocytopenia",
-      "topicName": "Thrombocytopenia"
+      "topicName": "Thrombocytopenia",
+      "tier": "extra"
     },
     {
       "id": "bl26-030",
@@ -17993,7 +18382,8 @@
         "mechanism"
       ],
       "topicId": "thrombocytopenia",
-      "topicName": "Thrombocytopenia"
+      "topicName": "Thrombocytopenia",
+      "tier": "extra"
     },
     {
       "id": "bl26-031",
@@ -18039,7 +18429,8 @@
         "alloimmune destruction"
       ],
       "topicId": "thrombocytopenia",
-      "topicName": "Thrombocytopenia"
+      "topicName": "Thrombocytopenia",
+      "tier": "extra"
     },
     {
       "id": "bl26-032",
@@ -18086,7 +18477,8 @@
         "mechanism"
       ],
       "topicId": "thrombocytopenia",
-      "topicName": "Thrombocytopenia"
+      "topicName": "Thrombocytopenia",
+      "tier": "extra"
     },
     {
       "id": "bl26-033",
@@ -18132,7 +18524,8 @@
         "re-exposure"
       ],
       "topicId": "thrombocytopenia",
-      "topicName": "Thrombocytopenia"
+      "topicName": "Thrombocytopenia",
+      "tier": "extra"
     },
     {
       "id": "bl26-034",
@@ -18179,7 +18572,8 @@
         "management"
       ],
       "topicId": "thrombocytopenia",
-      "topicName": "Thrombocytopenia"
+      "topicName": "Thrombocytopenia",
+      "tier": "extra"
     },
     {
       "id": "bl26-035",
@@ -18225,7 +18619,8 @@
         "diagnosis"
       ],
       "topicId": "thrombocytopenia",
-      "topicName": "Thrombocytopenia"
+      "topicName": "Thrombocytopenia",
+      "tier": "extra"
     },
     {
       "id": "bl26-036",
@@ -18272,7 +18667,8 @@
         "workup"
       ],
       "topicId": "thrombocytopenia",
-      "topicName": "Thrombocytopenia"
+      "topicName": "Thrombocytopenia",
+      "tier": "extra"
     },
     {
       "id": "bl27-001",
@@ -18318,7 +18714,8 @@
         "spleen"
       ],
       "topicId": "immune-thrombocytopenia",
-      "topicName": "Immune Thrombocytopenia"
+      "topicName": "Immune Thrombocytopenia",
+      "tier": "core"
     },
     {
       "id": "bl27-002",
@@ -18364,7 +18761,8 @@
         "megakaryocytes"
       ],
       "topicId": "immune-thrombocytopenia",
-      "topicName": "Immune Thrombocytopenia"
+      "topicName": "Immune Thrombocytopenia",
+      "tier": "core"
     },
     {
       "id": "bl27-003",
@@ -18410,7 +18808,8 @@
         "isolated thrombocytopenia"
       ],
       "topicId": "immune-thrombocytopenia",
-      "topicName": "Immune Thrombocytopenia"
+      "topicName": "Immune Thrombocytopenia",
+      "tier": "core"
     },
     {
       "id": "bl27-004",
@@ -18456,7 +18855,8 @@
         "isolated thrombocytopenia"
       ],
       "topicId": "immune-thrombocytopenia",
-      "topicName": "Immune Thrombocytopenia"
+      "topicName": "Immune Thrombocytopenia",
+      "tier": "core"
     },
     {
       "id": "bl27-005",
@@ -18502,7 +18902,8 @@
         "antiplatelet antibodies"
       ],
       "topicId": "immune-thrombocytopenia",
-      "topicName": "Immune Thrombocytopenia"
+      "topicName": "Immune Thrombocytopenia",
+      "tier": "core"
     },
     {
       "id": "bl27-006",
@@ -18548,7 +18949,8 @@
         "children"
       ],
       "topicId": "immune-thrombocytopenia",
-      "topicName": "Immune Thrombocytopenia"
+      "topicName": "Immune Thrombocytopenia",
+      "tier": "core"
     },
     {
       "id": "bl27-007",
@@ -18594,7 +18996,8 @@
         "secondary causes"
       ],
       "topicId": "immune-thrombocytopenia",
-      "topicName": "Immune Thrombocytopenia"
+      "topicName": "Immune Thrombocytopenia",
+      "tier": "core"
     },
     {
       "id": "bl27-008",
@@ -18640,7 +19043,8 @@
         "molecular mimicry"
       ],
       "topicId": "immune-thrombocytopenia",
-      "topicName": "Immune Thrombocytopenia"
+      "topicName": "Immune Thrombocytopenia",
+      "tier": "core"
     },
     {
       "id": "bl27-009",
@@ -18686,7 +19090,8 @@
         "corticosteroids"
       ],
       "topicId": "immune-thrombocytopenia",
-      "topicName": "Immune Thrombocytopenia"
+      "topicName": "Immune Thrombocytopenia",
+      "tier": "core"
     },
     {
       "id": "bl27-010",
@@ -18732,7 +19137,8 @@
         "IVIG"
       ],
       "topicId": "immune-thrombocytopenia",
-      "topicName": "Immune Thrombocytopenia"
+      "topicName": "Immune Thrombocytopenia",
+      "tier": "core"
     },
     {
       "id": "bl27-011",
@@ -18778,7 +19184,8 @@
         "splenectomy"
       ],
       "topicId": "immune-thrombocytopenia",
-      "topicName": "Immune Thrombocytopenia"
+      "topicName": "Immune Thrombocytopenia",
+      "tier": "core"
     },
     {
       "id": "bl27-012",
@@ -18824,7 +19231,8 @@
         "platelet transfusion"
       ],
       "topicId": "immune-thrombocytopenia",
-      "topicName": "Immune Thrombocytopenia"
+      "topicName": "Immune Thrombocytopenia",
+      "tier": "core"
     },
     {
       "id": "bl27-013",
@@ -18870,7 +19278,8 @@
         "definition"
       ],
       "topicId": "immune-thrombocytopenia",
-      "topicName": "Immune Thrombocytopenia"
+      "topicName": "Immune Thrombocytopenia",
+      "tier": "extra"
     },
     {
       "id": "bl27-014",
@@ -18916,7 +19325,8 @@
         "clinical presentation"
       ],
       "topicId": "immune-thrombocytopenia",
-      "topicName": "Immune Thrombocytopenia"
+      "topicName": "Immune Thrombocytopenia",
+      "tier": "extra"
     },
     {
       "id": "bl27-015",
@@ -18962,7 +19372,8 @@
         "glycoprotein IIb/IIIa"
       ],
       "topicId": "immune-thrombocytopenia",
-      "topicName": "Immune Thrombocytopenia"
+      "topicName": "Immune Thrombocytopenia",
+      "tier": "extra"
     },
     {
       "id": "bl27-016",
@@ -19008,7 +19419,8 @@
         "immunology"
       ],
       "topicId": "immune-thrombocytopenia",
-      "topicName": "Immune Thrombocytopenia"
+      "topicName": "Immune Thrombocytopenia",
+      "tier": "extra"
     },
     {
       "id": "bl27-017",
@@ -19054,7 +19466,8 @@
         "pathophysiology"
       ],
       "topicId": "immune-thrombocytopenia",
-      "topicName": "Immune Thrombocytopenia"
+      "topicName": "Immune Thrombocytopenia",
+      "tier": "extra"
     },
     {
       "id": "bl27-018",
@@ -19100,7 +19513,8 @@
         "incidence"
       ],
       "topicId": "immune-thrombocytopenia",
-      "topicName": "Immune Thrombocytopenia"
+      "topicName": "Immune Thrombocytopenia",
+      "tier": "extra"
     },
     {
       "id": "bl27-019",
@@ -19146,7 +19560,8 @@
         "age"
       ],
       "topicId": "immune-thrombocytopenia",
-      "topicName": "Immune Thrombocytopenia"
+      "topicName": "Immune Thrombocytopenia",
+      "tier": "extra"
     },
     {
       "id": "bl27-020",
@@ -19192,7 +19607,8 @@
         "pseudothrombocytopenia"
       ],
       "topicId": "immune-thrombocytopenia",
-      "topicName": "Immune Thrombocytopenia"
+      "topicName": "Immune Thrombocytopenia",
+      "tier": "extra"
     },
     {
       "id": "bl27-021",
@@ -19238,7 +19654,8 @@
         "differential diagnosis"
       ],
       "topicId": "immune-thrombocytopenia",
-      "topicName": "Immune Thrombocytopenia"
+      "topicName": "Immune Thrombocytopenia",
+      "tier": "extra"
     },
     {
       "id": "bl27-022",
@@ -19284,7 +19701,8 @@
         "pregnancy"
       ],
       "topicId": "immune-thrombocytopenia",
-      "topicName": "Immune Thrombocytopenia"
+      "topicName": "Immune Thrombocytopenia",
+      "tier": "extra"
     },
     {
       "id": "bl27-023",
@@ -19330,7 +19748,8 @@
         "medications"
       ],
       "topicId": "immune-thrombocytopenia",
-      "topicName": "Immune Thrombocytopenia"
+      "topicName": "Immune Thrombocytopenia",
+      "tier": "extra"
     },
     {
       "id": "bl27-024",
@@ -19376,7 +19795,8 @@
         "rituximab"
       ],
       "topicId": "immune-thrombocytopenia",
-      "topicName": "Immune Thrombocytopenia"
+      "topicName": "Immune Thrombocytopenia",
+      "tier": "extra"
     },
     {
       "id": "bl27-025",
@@ -19422,7 +19842,8 @@
         "TPO agonists"
       ],
       "topicId": "immune-thrombocytopenia",
-      "topicName": "Immune Thrombocytopenia"
+      "topicName": "Immune Thrombocytopenia",
+      "tier": "extra"
     },
     {
       "id": "bl27-026",
@@ -19468,7 +19889,8 @@
         "splenectomy"
       ],
       "topicId": "immune-thrombocytopenia",
-      "topicName": "Immune Thrombocytopenia"
+      "topicName": "Immune Thrombocytopenia",
+      "tier": "extra"
     },
     {
       "id": "bl27-027",
@@ -19514,7 +19936,8 @@
         "bleeding risk"
       ],
       "topicId": "immune-thrombocytopenia",
-      "topicName": "Immune Thrombocytopenia"
+      "topicName": "Immune Thrombocytopenia",
+      "tier": "extra"
     },
     {
       "id": "bl27-028",
@@ -19560,7 +19983,8 @@
         "platelet count"
       ],
       "topicId": "immune-thrombocytopenia",
-      "topicName": "Immune Thrombocytopenia"
+      "topicName": "Immune Thrombocytopenia",
+      "tier": "extra"
     },
     {
       "id": "bl27-029",
@@ -19606,7 +20030,8 @@
         "acute ITP"
       ],
       "topicId": "immune-thrombocytopenia",
-      "topicName": "Immune Thrombocytopenia"
+      "topicName": "Immune Thrombocytopenia",
+      "tier": "extra"
     },
     {
       "id": "bl27-030",
@@ -19652,7 +20077,8 @@
         "secondary causes"
       ],
       "topicId": "immune-thrombocytopenia",
-      "topicName": "Immune Thrombocytopenia"
+      "topicName": "Immune Thrombocytopenia",
+      "tier": "extra"
     },
     {
       "id": "bl27-031",
@@ -19698,7 +20124,8 @@
         "autoimmune disease"
       ],
       "topicId": "immune-thrombocytopenia",
-      "topicName": "Immune Thrombocytopenia"
+      "topicName": "Immune Thrombocytopenia",
+      "tier": "extra"
     },
     {
       "id": "bl27-032",
@@ -19744,7 +20171,8 @@
         "CLL/SLL"
       ],
       "topicId": "immune-thrombocytopenia",
-      "topicName": "Immune Thrombocytopenia"
+      "topicName": "Immune Thrombocytopenia",
+      "tier": "extra"
     },
     {
       "id": "bl27-033",
@@ -19790,7 +20218,8 @@
         "bleeding"
       ],
       "topicId": "immune-thrombocytopenia",
-      "topicName": "Immune Thrombocytopenia"
+      "topicName": "Immune Thrombocytopenia",
+      "tier": "extra"
     },
     {
       "id": "bl27-034",
@@ -19836,7 +20265,8 @@
         "clinical presentation"
       ],
       "topicId": "immune-thrombocytopenia",
-      "topicName": "Immune Thrombocytopenia"
+      "topicName": "Immune Thrombocytopenia",
+      "tier": "extra"
     },
     {
       "id": "bl27-035",
@@ -19882,7 +20312,8 @@
         "management"
       ],
       "topicId": "immune-thrombocytopenia",
-      "topicName": "Immune Thrombocytopenia"
+      "topicName": "Immune Thrombocytopenia",
+      "tier": "extra"
     },
     {
       "id": "bl27-036",
@@ -19928,7 +20359,8 @@
         "management"
       ],
       "topicId": "immune-thrombocytopenia",
-      "topicName": "Immune Thrombocytopenia"
+      "topicName": "Immune Thrombocytopenia",
+      "tier": "extra"
     },
     {
       "id": "bl28-001",
@@ -19974,7 +20406,8 @@
         "spontaneous bleeding"
       ],
       "topicId": "platelet-assays",
-      "topicName": "Platelet Assays"
+      "topicName": "Platelet Assays",
+      "tier": "core"
     },
     {
       "id": "bl28-002",
@@ -20019,7 +20452,8 @@
         "platelet function"
       ],
       "topicId": "platelet-assays",
-      "topicName": "Platelet Assays"
+      "topicName": "Platelet Assays",
+      "tier": "core"
     },
     {
       "id": "bl28-003",
@@ -20065,7 +20499,8 @@
         "case"
       ],
       "topicId": "platelet-assays",
-      "topicName": "Platelet Assays"
+      "topicName": "Platelet Assays",
+      "tier": "core"
     },
     {
       "id": "bl28-004",
@@ -20111,7 +20546,8 @@
         "aggregation studies"
       ],
       "topicId": "platelet-assays",
-      "topicName": "Platelet Assays"
+      "topicName": "Platelet Assays",
+      "tier": "core"
     },
     {
       "id": "bl28-005",
@@ -20157,7 +20593,8 @@
         "vWF"
       ],
       "topicId": "platelet-assays",
-      "topicName": "Platelet Assays"
+      "topicName": "Platelet Assays",
+      "tier": "core"
     },
     {
       "id": "bl28-006",
@@ -20203,7 +20640,8 @@
         "preanalytical"
       ],
       "topicId": "platelet-assays",
-      "topicName": "Platelet Assays"
+      "topicName": "Platelet Assays",
+      "tier": "core"
     },
     {
       "id": "bl28-007",
@@ -20249,7 +20687,8 @@
         "limitations"
       ],
       "topicId": "platelet-assays",
-      "topicName": "Platelet Assays"
+      "topicName": "Platelet Assays",
+      "tier": "core"
     },
     {
       "id": "bl28-008",
@@ -20295,7 +20734,8 @@
         "diagnosis"
       ],
       "topicId": "platelet-assays",
-      "topicName": "Platelet Assays"
+      "topicName": "Platelet Assays",
+      "tier": "core"
     },
     {
       "id": "bl28-009",
@@ -20341,7 +20781,8 @@
         "function"
       ],
       "topicId": "platelet-assays",
-      "topicName": "Platelet Assays"
+      "topicName": "Platelet Assays",
+      "tier": "core"
     },
     {
       "id": "bl28-010",
@@ -20387,7 +20828,8 @@
         "hereditary disorders"
       ],
       "topicId": "platelet-assays",
-      "topicName": "Platelet Assays"
+      "topicName": "Platelet Assays",
+      "tier": "core"
     },
     {
       "id": "bl28-011",
@@ -20433,7 +20875,8 @@
         "platelet function"
       ],
       "topicId": "platelet-assays",
-      "topicName": "Platelet Assays"
+      "topicName": "Platelet Assays",
+      "tier": "core"
     },
     {
       "id": "bl28-012",
@@ -20479,7 +20922,8 @@
         "specialized tests"
       ],
       "topicId": "platelet-assays",
-      "topicName": "Platelet Assays"
+      "topicName": "Platelet Assays",
+      "tier": "core"
     },
     {
       "id": "bl28-013",
@@ -20524,7 +20968,8 @@
         "reference range"
       ],
       "topicId": "platelet-assays",
-      "topicName": "Platelet Assays"
+      "topicName": "Platelet Assays",
+      "tier": "extra"
     },
     {
       "id": "bl28-014",
@@ -20570,7 +21015,8 @@
         "ischemia"
       ],
       "topicId": "platelet-assays",
-      "topicName": "Platelet Assays"
+      "topicName": "Platelet Assays",
+      "tier": "extra"
     },
     {
       "id": "bl28-015",
@@ -20616,7 +21062,8 @@
         "bleeding risk"
       ],
       "topicId": "platelet-assays",
-      "topicName": "Platelet Assays"
+      "topicName": "Platelet Assays",
+      "tier": "extra"
     },
     {
       "id": "bl28-016",
@@ -20662,7 +21109,8 @@
         "interpretation"
       ],
       "topicId": "platelet-assays",
-      "topicName": "Platelet Assays"
+      "topicName": "Platelet Assays",
+      "tier": "extra"
     },
     {
       "id": "bl28-017",
@@ -20708,7 +21156,8 @@
         "coagulation cascade"
       ],
       "topicId": "platelet-assays",
-      "topicName": "Platelet Assays"
+      "topicName": "Platelet Assays",
+      "tier": "extra"
     },
     {
       "id": "bl28-018",
@@ -20754,7 +21203,8 @@
         "leukemia"
       ],
       "topicId": "platelet-assays",
-      "topicName": "Platelet Assays"
+      "topicName": "Platelet Assays",
+      "tier": "extra"
     },
     {
       "id": "bl28-019",
@@ -20800,7 +21250,8 @@
         "cancer therapy"
       ],
       "topicId": "platelet-assays",
-      "topicName": "Platelet Assays"
+      "topicName": "Platelet Assays",
+      "tier": "extra"
     },
     {
       "id": "bl28-020",
@@ -20846,7 +21297,8 @@
         "abnormal bleeding"
       ],
       "topicId": "platelet-assays",
-      "topicName": "Platelet Assays"
+      "topicName": "Platelet Assays",
+      "tier": "extra"
     },
     {
       "id": "bl28-021",
@@ -20892,7 +21344,8 @@
         "spurious result"
       ],
       "topicId": "platelet-assays",
-      "topicName": "Platelet Assays"
+      "topicName": "Platelet Assays",
+      "tier": "extra"
     },
     {
       "id": "bl28-022",
@@ -20937,7 +21390,8 @@
         "blood smear"
       ],
       "topicId": "platelet-assays",
-      "topicName": "Platelet Assays"
+      "topicName": "Platelet Assays",
+      "tier": "extra"
     },
     {
       "id": "bl28-023",
@@ -20983,7 +21437,8 @@
         "limitations"
       ],
       "topicId": "platelet-assays",
-      "topicName": "Platelet Assays"
+      "topicName": "Platelet Assays",
+      "tier": "extra"
     },
     {
       "id": "bl28-024",
@@ -21029,7 +21484,8 @@
         "gray platelets"
       ],
       "topicId": "platelet-assays",
-      "topicName": "Platelet Assays"
+      "topicName": "Platelet Assays",
+      "tier": "extra"
     },
     {
       "id": "bl28-025",
@@ -21075,7 +21531,8 @@
         "methodology"
       ],
       "topicId": "platelet-assays",
-      "topicName": "Platelet Assays"
+      "topicName": "Platelet Assays",
+      "tier": "extra"
     },
     {
       "id": "bl28-026",
@@ -21121,7 +21578,8 @@
         "in vitro versus in vivo"
       ],
       "topicId": "platelet-assays",
-      "topicName": "Platelet Assays"
+      "topicName": "Platelet Assays",
+      "tier": "extra"
     },
     {
       "id": "bl28-027",
@@ -21167,7 +21625,8 @@
         "primary hemostasis"
       ],
       "topicId": "platelet-assays",
-      "topicName": "Platelet Assays"
+      "topicName": "Platelet Assays",
+      "tier": "extra"
     },
     {
       "id": "bl28-028",
@@ -21213,7 +21672,8 @@
         "limitations"
       ],
       "topicId": "platelet-assays",
-      "topicName": "Platelet Assays"
+      "topicName": "Platelet Assays",
+      "tier": "extra"
     },
     {
       "id": "bl28-029",
@@ -21259,7 +21719,8 @@
         "aggregation studies"
       ],
       "topicId": "platelet-assays",
-      "topicName": "Platelet Assays"
+      "topicName": "Platelet Assays",
+      "tier": "extra"
     },
     {
       "id": "bl28-030",
@@ -21305,7 +21766,8 @@
         "platelet receptors"
       ],
       "topicId": "platelet-assays",
-      "topicName": "Platelet Assays"
+      "topicName": "Platelet Assays",
+      "tier": "extra"
     },
     {
       "id": "bl28-031",
@@ -21351,7 +21813,8 @@
         "aggregating agents"
       ],
       "topicId": "platelet-assays",
-      "topicName": "Platelet Assays"
+      "topicName": "Platelet Assays",
+      "tier": "extra"
     },
     {
       "id": "bl28-032",
@@ -21396,7 +21859,8 @@
         "aggregating agents"
       ],
       "topicId": "platelet-assays",
-      "topicName": "Platelet Assays"
+      "topicName": "Platelet Assays",
+      "tier": "extra"
     },
     {
       "id": "bl28-033",
@@ -21442,7 +21906,8 @@
         "diagnosis"
       ],
       "topicId": "platelet-assays",
-      "topicName": "Platelet Assays"
+      "topicName": "Platelet Assays",
+      "tier": "extra"
     },
     {
       "id": "bl28-034",
@@ -21488,7 +21953,8 @@
         "specialized tests"
       ],
       "topicId": "platelet-assays",
-      "topicName": "Platelet Assays"
+      "topicName": "Platelet Assays",
+      "tier": "extra"
     },
     {
       "id": "bl28-035",
@@ -21534,7 +22000,8 @@
         "platelet function"
       ],
       "topicId": "platelet-assays",
-      "topicName": "Platelet Assays"
+      "topicName": "Platelet Assays",
+      "tier": "extra"
     },
     {
       "id": "bl28-036",
@@ -21580,7 +22047,8 @@
         "perioperative risk"
       ],
       "topicId": "platelet-assays",
-      "topicName": "Platelet Assays"
+      "topicName": "Platelet Assays",
+      "tier": "extra"
     },
     {
       "id": "bl29-001",
@@ -21626,7 +22094,8 @@
         "causes"
       ],
       "topicId": "thrombotic-microangiopathies",
-      "topicName": "Thrombotic Microangiopathies"
+      "topicName": "Thrombotic Microangiopathies",
+      "tier": "core"
     },
     {
       "id": "bl29-002",
@@ -21672,7 +22141,8 @@
         "clinical distinction"
       ],
       "topicId": "thrombotic-microangiopathies",
-      "topicName": "Thrombotic Microangiopathies"
+      "topicName": "Thrombotic Microangiopathies",
+      "tier": "core"
     },
     {
       "id": "bl29-003",
@@ -21719,7 +22189,8 @@
         "pathophysiology"
       ],
       "topicId": "thrombotic-microangiopathies",
-      "topicName": "Thrombotic Microangiopathies"
+      "topicName": "Thrombotic Microangiopathies",
+      "tier": "core"
     },
     {
       "id": "bl29-004",
@@ -21765,7 +22236,8 @@
         "peripheral smear"
       ],
       "topicId": "thrombotic-microangiopathies",
-      "topicName": "Thrombotic Microangiopathies"
+      "topicName": "Thrombotic Microangiopathies",
+      "tier": "core"
     },
     {
       "id": "bl29-005",
@@ -21811,7 +22283,8 @@
         "DIC"
       ],
       "topicId": "thrombotic-microangiopathies",
-      "topicName": "Thrombotic Microangiopathies"
+      "topicName": "Thrombotic Microangiopathies",
+      "tier": "core"
     },
     {
       "id": "bl29-006",
@@ -21857,7 +22330,8 @@
         "plasmapheresis"
       ],
       "topicId": "thrombotic-microangiopathies",
-      "topicName": "Thrombotic Microangiopathies"
+      "topicName": "Thrombotic Microangiopathies",
+      "tier": "core"
     },
     {
       "id": "bl29-007",
@@ -21903,7 +22377,8 @@
         "supportive care"
       ],
       "topicId": "thrombotic-microangiopathies",
-      "topicName": "Thrombotic Microangiopathies"
+      "topicName": "Thrombotic Microangiopathies",
+      "tier": "core"
     },
     {
       "id": "bl29-008",
@@ -21949,7 +22424,8 @@
         "MAHA"
       ],
       "topicId": "thrombotic-microangiopathies",
-      "topicName": "Thrombotic Microangiopathies"
+      "topicName": "Thrombotic Microangiopathies",
+      "tier": "core"
     },
     {
       "id": "bl29-009",
@@ -21995,7 +22471,8 @@
         "pregnancy"
       ],
       "topicId": "thrombotic-microangiopathies",
-      "topicName": "Thrombotic Microangiopathies"
+      "topicName": "Thrombotic Microangiopathies",
+      "tier": "core"
     },
     {
       "id": "bl29-010",
@@ -22041,7 +22518,8 @@
         "MAHA"
       ],
       "topicId": "thrombotic-microangiopathies",
-      "topicName": "Thrombotic Microangiopathies"
+      "topicName": "Thrombotic Microangiopathies",
+      "tier": "core"
     },
     {
       "id": "bl29-011",
@@ -22087,7 +22565,8 @@
         "ADAMTS13"
       ],
       "topicId": "thrombotic-microangiopathies",
-      "topicName": "Thrombotic Microangiopathies"
+      "topicName": "Thrombotic Microangiopathies",
+      "tier": "core"
     },
     {
       "id": "bl29-012",
@@ -22133,7 +22612,8 @@
         "diagnosis"
       ],
       "topicId": "thrombotic-microangiopathies",
-      "topicName": "Thrombotic Microangiopathies"
+      "topicName": "Thrombotic Microangiopathies",
+      "tier": "core"
     },
     {
       "id": "bl29-013",
@@ -22179,7 +22659,8 @@
         "incidence"
       ],
       "topicId": "thrombotic-microangiopathies",
-      "topicName": "Thrombotic Microangiopathies"
+      "topicName": "Thrombotic Microangiopathies",
+      "tier": "extra"
     },
     {
       "id": "bl29-014",
@@ -22225,7 +22706,8 @@
         "clinical presentation"
       ],
       "topicId": "thrombotic-microangiopathies",
-      "topicName": "Thrombotic Microangiopathies"
+      "topicName": "Thrombotic Microangiopathies",
+      "tier": "extra"
     },
     {
       "id": "bl29-015",
@@ -22271,7 +22753,8 @@
         "epidemiology"
       ],
       "topicId": "thrombotic-microangiopathies",
-      "topicName": "Thrombotic Microangiopathies"
+      "topicName": "Thrombotic Microangiopathies",
+      "tier": "extra"
     },
     {
       "id": "bl29-016",
@@ -22317,7 +22800,8 @@
         "uremia"
       ],
       "topicId": "thrombotic-microangiopathies",
-      "topicName": "Thrombotic Microangiopathies"
+      "topicName": "Thrombotic Microangiopathies",
+      "tier": "extra"
     },
     {
       "id": "bl29-017",
@@ -22363,7 +22847,8 @@
         "volume depletion"
       ],
       "topicId": "thrombotic-microangiopathies",
-      "topicName": "Thrombotic Microangiopathies"
+      "topicName": "Thrombotic Microangiopathies",
+      "tier": "extra"
     },
     {
       "id": "bl29-018",
@@ -22409,7 +22894,8 @@
         "genetic"
       ],
       "topicId": "thrombotic-microangiopathies",
-      "topicName": "Thrombotic Microangiopathies"
+      "topicName": "Thrombotic Microangiopathies",
+      "tier": "extra"
     },
     {
       "id": "bl29-019",
@@ -22455,7 +22941,8 @@
         "microbiology"
       ],
       "topicId": "thrombotic-microangiopathies",
-      "topicName": "Thrombotic Microangiopathies"
+      "topicName": "Thrombotic Microangiopathies",
+      "tier": "extra"
     },
     {
       "id": "bl29-020",
@@ -22501,7 +22988,8 @@
         "peripheral smear"
       ],
       "topicId": "thrombotic-microangiopathies",
-      "topicName": "Thrombotic Microangiopathies"
+      "topicName": "Thrombotic Microangiopathies",
+      "tier": "extra"
     },
     {
       "id": "bl29-021",
@@ -22547,7 +23035,8 @@
         "laboratory"
       ],
       "topicId": "thrombotic-microangiopathies",
-      "topicName": "Thrombotic Microangiopathies"
+      "topicName": "Thrombotic Microangiopathies",
+      "tier": "extra"
     },
     {
       "id": "bl29-022",
@@ -22593,7 +23082,8 @@
         "hemolysis"
       ],
       "topicId": "thrombotic-microangiopathies",
-      "topicName": "Thrombotic Microangiopathies"
+      "topicName": "Thrombotic Microangiopathies",
+      "tier": "extra"
     },
     {
       "id": "bl29-023",
@@ -22639,7 +23129,8 @@
         "clinical correlation"
       ],
       "topicId": "thrombotic-microangiopathies",
-      "topicName": "Thrombotic Microangiopathies"
+      "topicName": "Thrombotic Microangiopathies",
+      "tier": "extra"
     },
     {
       "id": "bl29-024",
@@ -22685,7 +23176,8 @@
         "secondary causes"
       ],
       "topicId": "thrombotic-microangiopathies",
-      "topicName": "Thrombotic Microangiopathies"
+      "topicName": "Thrombotic Microangiopathies",
+      "tier": "extra"
     },
     {
       "id": "bl29-025",
@@ -22731,7 +23223,8 @@
         "secondary causes"
       ],
       "topicId": "thrombotic-microangiopathies",
-      "topicName": "Thrombotic Microangiopathies"
+      "topicName": "Thrombotic Microangiopathies",
+      "tier": "extra"
     },
     {
       "id": "bl29-026",
@@ -22777,7 +23270,8 @@
         "HIV"
       ],
       "topicId": "thrombotic-microangiopathies",
-      "topicName": "Thrombotic Microangiopathies"
+      "topicName": "Thrombotic Microangiopathies",
+      "tier": "extra"
     },
     {
       "id": "bl29-027",
@@ -22823,7 +23317,8 @@
         "micrometastases"
       ],
       "topicId": "thrombotic-microangiopathies",
-      "topicName": "Thrombotic Microangiopathies"
+      "topicName": "Thrombotic Microangiopathies",
+      "tier": "extra"
     },
     {
       "id": "bl29-028",
@@ -22869,7 +23364,8 @@
         "chemotherapy"
       ],
       "topicId": "thrombotic-microangiopathies",
-      "topicName": "Thrombotic Microangiopathies"
+      "topicName": "Thrombotic Microangiopathies",
+      "tier": "extra"
     },
     {
       "id": "bl29-029",
@@ -22915,7 +23411,8 @@
         "systemic sclerosis"
       ],
       "topicId": "thrombotic-microangiopathies",
-      "topicName": "Thrombotic Microangiopathies"
+      "topicName": "Thrombotic Microangiopathies",
+      "tier": "extra"
     },
     {
       "id": "bl29-030",
@@ -22961,7 +23458,8 @@
         "thrombin time"
       ],
       "topicId": "thrombotic-microangiopathies",
-      "topicName": "Thrombotic Microangiopathies"
+      "topicName": "Thrombotic Microangiopathies",
+      "tier": "extra"
     },
     {
       "id": "bl29-031",
@@ -23007,7 +23505,8 @@
         "TTP"
       ],
       "topicId": "thrombotic-microangiopathies",
-      "topicName": "Thrombotic Microangiopathies"
+      "topicName": "Thrombotic Microangiopathies",
+      "tier": "extra"
     },
     {
       "id": "bl29-032",
@@ -23053,7 +23552,8 @@
         "management"
       ],
       "topicId": "thrombotic-microangiopathies",
-      "topicName": "Thrombotic Microangiopathies"
+      "topicName": "Thrombotic Microangiopathies",
+      "tier": "extra"
     },
     {
       "id": "bl29-033",
@@ -23099,7 +23599,8 @@
         "clinical correlation"
       ],
       "topicId": "thrombotic-microangiopathies",
-      "topicName": "Thrombotic Microangiopathies"
+      "topicName": "Thrombotic Microangiopathies",
+      "tier": "extra"
     },
     {
       "id": "bl29-034",
@@ -23145,7 +23646,8 @@
         "SLE"
       ],
       "topicId": "thrombotic-microangiopathies",
-      "topicName": "Thrombotic Microangiopathies"
+      "topicName": "Thrombotic Microangiopathies",
+      "tier": "extra"
     },
     {
       "id": "bl29-035",
@@ -23191,7 +23693,8 @@
         "quinine"
       ],
       "topicId": "thrombotic-microangiopathies",
-      "topicName": "Thrombotic Microangiopathies"
+      "topicName": "Thrombotic Microangiopathies",
+      "tier": "extra"
     },
     {
       "id": "bl29-036",
@@ -23237,7 +23740,8 @@
         "pathophysiology"
       ],
       "topicId": "thrombotic-microangiopathies",
-      "topicName": "Thrombotic Microangiopathies"
+      "topicName": "Thrombotic Microangiopathies",
+      "tier": "extra"
     }
   ]
 }

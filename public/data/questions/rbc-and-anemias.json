@@ -46,7 +46,8 @@
         "myelofibrosis"
       ],
       "topicId": "hematopoiesis",
-      "topicName": "Hematopoiesis"
+      "topicName": "Hematopoiesis",
+      "tier": "core"
     },
     {
       "id": "bl01-002",
@@ -92,7 +93,8 @@
         "liver"
       ],
       "topicId": "hematopoiesis",
-      "topicName": "Hematopoiesis"
+      "topicName": "Hematopoiesis",
+      "tier": "core"
     },
     {
       "id": "bl01-003",
@@ -138,7 +140,8 @@
         "clinical correlation"
       ],
       "topicId": "hematopoiesis",
-      "topicName": "Hematopoiesis"
+      "topicName": "Hematopoiesis",
+      "tier": "core"
     },
     {
       "id": "bl01-004",
@@ -184,7 +187,8 @@
         "leukemia"
       ],
       "topicId": "hematopoiesis",
-      "topicName": "Hematopoiesis"
+      "topicName": "Hematopoiesis",
+      "tier": "core"
     },
     {
       "id": "bl01-005",
@@ -230,7 +234,8 @@
         "erythropoiesis"
       ],
       "topicId": "hematopoiesis",
-      "topicName": "Hematopoiesis"
+      "topicName": "Hematopoiesis",
+      "tier": "core"
     },
     {
       "id": "bl01-006",
@@ -276,7 +281,8 @@
         "JAK/STAT"
       ],
       "topicId": "hematopoiesis",
-      "topicName": "Hematopoiesis"
+      "topicName": "Hematopoiesis",
+      "tier": "core"
     },
     {
       "id": "bl01-007",
@@ -322,7 +328,8 @@
         "anemia"
       ],
       "topicId": "hematopoiesis",
-      "topicName": "Hematopoiesis"
+      "topicName": "Hematopoiesis",
+      "tier": "core"
     },
     {
       "id": "bl01-008",
@@ -368,7 +375,8 @@
         "anemia"
       ],
       "topicId": "hematopoiesis",
-      "topicName": "Hematopoiesis"
+      "topicName": "Hematopoiesis",
+      "tier": "core"
     },
     {
       "id": "bl01-009",
@@ -414,7 +422,8 @@
         "red cell maturation"
       ],
       "topicId": "hematopoiesis",
-      "topicName": "Hematopoiesis"
+      "topicName": "Hematopoiesis",
+      "tier": "core"
     },
     {
       "id": "bl01-010",
@@ -460,7 +469,8 @@
         "physiology"
       ],
       "topicId": "hematopoiesis",
-      "topicName": "Hematopoiesis"
+      "topicName": "Hematopoiesis",
+      "tier": "core"
     },
     {
       "id": "bl01-011",
@@ -506,7 +516,8 @@
         "growth factors"
       ],
       "topicId": "hematopoiesis",
-      "topicName": "Hematopoiesis"
+      "topicName": "Hematopoiesis",
+      "tier": "core"
     },
     {
       "id": "bl01-012",
@@ -552,7 +563,8 @@
         "endomitosis"
       ],
       "topicId": "hematopoiesis",
-      "topicName": "Hematopoiesis"
+      "topicName": "Hematopoiesis",
+      "tier": "core"
     },
     {
       "id": "bl01-013",
@@ -598,7 +610,8 @@
         "AGM region"
       ],
       "topicId": "hematopoiesis",
-      "topicName": "Hematopoiesis"
+      "topicName": "Hematopoiesis",
+      "tier": "extra"
     },
     {
       "id": "bl01-014",
@@ -644,7 +657,8 @@
         "bone marrow"
       ],
       "topicId": "hematopoiesis",
-      "topicName": "Hematopoiesis"
+      "topicName": "Hematopoiesis",
+      "tier": "extra"
     },
     {
       "id": "bl01-015",
@@ -690,7 +704,8 @@
         "development"
       ],
       "topicId": "hematopoiesis",
-      "topicName": "Hematopoiesis"
+      "topicName": "Hematopoiesis",
+      "tier": "extra"
     },
     {
       "id": "bl01-016",
@@ -736,7 +751,8 @@
         "pediatrics"
       ],
       "topicId": "hematopoiesis",
-      "topicName": "Hematopoiesis"
+      "topicName": "Hematopoiesis",
+      "tier": "extra"
     },
     {
       "id": "bl01-017",
@@ -782,7 +798,8 @@
         "cell lines"
       ],
       "topicId": "hematopoiesis",
-      "topicName": "Hematopoiesis"
+      "topicName": "Hematopoiesis",
+      "tier": "extra"
     },
     {
       "id": "bl01-018",
@@ -828,7 +845,8 @@
         "macrophage"
       ],
       "topicId": "hematopoiesis",
-      "topicName": "Hematopoiesis"
+      "topicName": "Hematopoiesis",
+      "tier": "extra"
     },
     {
       "id": "bl01-019",
@@ -874,7 +892,8 @@
         "macrophages"
       ],
       "topicId": "hematopoiesis",
-      "topicName": "Hematopoiesis"
+      "topicName": "Hematopoiesis",
+      "tier": "extra"
     },
     {
       "id": "bl01-020",
@@ -920,7 +939,8 @@
         "physiology"
       ],
       "topicId": "hematopoiesis",
-      "topicName": "Hematopoiesis"
+      "topicName": "Hematopoiesis",
+      "tier": "extra"
     },
     {
       "id": "bl01-021",
@@ -966,7 +986,8 @@
         "histology"
       ],
       "topicId": "hematopoiesis",
-      "topicName": "Hematopoiesis"
+      "topicName": "Hematopoiesis",
+      "tier": "extra"
     },
     {
       "id": "bl01-022",
@@ -1012,7 +1033,8 @@
         "erythropoiesis"
       ],
       "topicId": "hematopoiesis",
-      "topicName": "Hematopoiesis"
+      "topicName": "Hematopoiesis",
+      "tier": "extra"
     },
     {
       "id": "bl01-023",
@@ -1058,7 +1080,8 @@
         "iron deficiency"
       ],
       "topicId": "hematopoiesis",
-      "topicName": "Hematopoiesis"
+      "topicName": "Hematopoiesis",
+      "tier": "extra"
     },
     {
       "id": "bl01-024",
@@ -1104,7 +1127,8 @@
         "high altitude"
       ],
       "topicId": "hematopoiesis",
-      "topicName": "Hematopoiesis"
+      "topicName": "Hematopoiesis",
+      "tier": "extra"
     },
     {
       "id": "bl01-025",
@@ -1150,7 +1174,8 @@
         "histology"
       ],
       "topicId": "hematopoiesis",
-      "topicName": "Hematopoiesis"
+      "topicName": "Hematopoiesis",
+      "tier": "extra"
     },
     {
       "id": "bl01-026",
@@ -1196,7 +1221,8 @@
         "clinical correlation"
       ],
       "topicId": "hematopoiesis",
-      "topicName": "Hematopoiesis"
+      "topicName": "Hematopoiesis",
+      "tier": "extra"
     },
     {
       "id": "bl01-027",
@@ -1242,7 +1268,8 @@
         "neutrophil"
       ],
       "topicId": "hematopoiesis",
-      "topicName": "Hematopoiesis"
+      "topicName": "Hematopoiesis",
+      "tier": "extra"
     },
     {
       "id": "bl01-028",
@@ -1288,7 +1315,8 @@
         "maturation stages"
       ],
       "topicId": "hematopoiesis",
-      "topicName": "Hematopoiesis"
+      "topicName": "Hematopoiesis",
+      "tier": "extra"
     },
     {
       "id": "bl01-029",
@@ -1334,7 +1362,8 @@
         "leukocytes"
       ],
       "topicId": "hematopoiesis",
-      "topicName": "Hematopoiesis"
+      "topicName": "Hematopoiesis",
+      "tier": "extra"
     },
     {
       "id": "bl01-030",
@@ -1380,7 +1409,8 @@
         "hematopoiesis"
       ],
       "topicId": "hematopoiesis",
-      "topicName": "Hematopoiesis"
+      "topicName": "Hematopoiesis",
+      "tier": "extra"
     },
     {
       "id": "bl01-031",
@@ -1426,7 +1456,8 @@
         "eosinophils"
       ],
       "topicId": "hematopoiesis",
-      "topicName": "Hematopoiesis"
+      "topicName": "Hematopoiesis",
+      "tier": "extra"
     },
     {
       "id": "bl01-032",
@@ -1472,7 +1503,8 @@
         "platelets"
       ],
       "topicId": "hematopoiesis",
-      "topicName": "Hematopoiesis"
+      "topicName": "Hematopoiesis",
+      "tier": "extra"
     },
     {
       "id": "bl01-033",
@@ -1518,7 +1550,8 @@
         "physiology"
       ],
       "topicId": "hematopoiesis",
-      "topicName": "Hematopoiesis"
+      "topicName": "Hematopoiesis",
+      "tier": "extra"
     },
     {
       "id": "bl01-034",
@@ -1564,7 +1597,8 @@
         "liver"
       ],
       "topicId": "hematopoiesis",
-      "topicName": "Hematopoiesis"
+      "topicName": "Hematopoiesis",
+      "tier": "extra"
     },
     {
       "id": "bl01-035",
@@ -1610,7 +1644,8 @@
         "platelets"
       ],
       "topicId": "hematopoiesis",
-      "topicName": "Hematopoiesis"
+      "topicName": "Hematopoiesis",
+      "tier": "extra"
     },
     {
       "id": "bl01-036",
@@ -1656,7 +1691,8 @@
         "pharmacology"
       ],
       "topicId": "hematopoiesis",
-      "topicName": "Hematopoiesis"
+      "topicName": "Hematopoiesis",
+      "tier": "extra"
     },
     {
       "id": "bl02-001",
@@ -1702,7 +1738,8 @@
         "cyanosis"
       ],
       "topicId": "rbc-metabolism",
-      "topicName": "RBC Metabolism"
+      "topicName": "RBC Metabolism",
+      "tier": "core"
     },
     {
       "id": "bl02-002",
@@ -1749,7 +1786,8 @@
         "hemolytic anemia"
       ],
       "topicId": "rbc-metabolism",
-      "topicName": "RBC Metabolism"
+      "topicName": "RBC Metabolism",
+      "tier": "core"
     },
     {
       "id": "bl02-003",
@@ -1795,7 +1833,8 @@
         "testing window"
       ],
       "topicId": "rbc-metabolism",
-      "topicName": "RBC Metabolism"
+      "topicName": "RBC Metabolism",
+      "tier": "core"
     },
     {
       "id": "bl02-004",
@@ -1841,7 +1880,8 @@
         "chronic hemolysis"
       ],
       "topicId": "rbc-metabolism",
-      "topicName": "RBC Metabolism"
+      "topicName": "RBC Metabolism",
+      "tier": "core"
     },
     {
       "id": "bl02-005",
@@ -1887,7 +1927,8 @@
         "oxygen affinity"
       ],
       "topicId": "rbc-metabolism",
-      "topicName": "RBC Metabolism"
+      "topicName": "RBC Metabolism",
+      "tier": "core"
     },
     {
       "id": "bl02-006",
@@ -1934,7 +1975,8 @@
         "mitochondria"
       ],
       "topicId": "rbc-metabolism",
-      "topicName": "RBC Metabolism"
+      "topicName": "RBC Metabolism",
+      "tier": "core"
     },
     {
       "id": "bl02-007",
@@ -1981,7 +2023,8 @@
         "erythrocyte metabolism"
       ],
       "topicId": "rbc-metabolism",
-      "topicName": "RBC Metabolism"
+      "topicName": "RBC Metabolism",
+      "tier": "core"
     },
     {
       "id": "bl02-008",
@@ -2028,7 +2071,8 @@
         "pentose phosphate pathway"
       ],
       "topicId": "rbc-metabolism",
-      "topicName": "RBC Metabolism"
+      "topicName": "RBC Metabolism",
+      "tier": "core"
     },
     {
       "id": "bl02-009",
@@ -2074,7 +2118,8 @@
         "cyanosis"
       ],
       "topicId": "rbc-metabolism",
-      "topicName": "RBC Metabolism"
+      "topicName": "RBC Metabolism",
+      "tier": "core"
     },
     {
       "id": "bl02-010",
@@ -2121,7 +2166,8 @@
         "contraindication"
       ],
       "topicId": "rbc-metabolism",
-      "topicName": "RBC Metabolism"
+      "topicName": "RBC Metabolism",
+      "tier": "core"
     },
     {
       "id": "bl02-011",
@@ -2168,7 +2214,8 @@
         "temperature"
       ],
       "topicId": "rbc-metabolism",
-      "topicName": "RBC Metabolism"
+      "topicName": "RBC Metabolism",
+      "tier": "core"
     },
     {
       "id": "bl02-012",
@@ -2214,7 +2261,8 @@
         "pulse oximetry"
       ],
       "topicId": "rbc-metabolism",
-      "topicName": "RBC Metabolism"
+      "topicName": "RBC Metabolism",
+      "tier": "core"
     },
     {
       "id": "bl02-013",
@@ -2261,7 +2309,8 @@
         "oxygen affinity"
       ],
       "topicId": "rbc-metabolism",
-      "topicName": "RBC Metabolism"
+      "topicName": "RBC Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bl02-014",
@@ -2307,7 +2356,8 @@
         "oxygen affinity"
       ],
       "topicId": "rbc-metabolism",
-      "topicName": "RBC Metabolism"
+      "topicName": "RBC Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bl02-015",
@@ -2353,7 +2403,8 @@
         "hemoglobin modulators"
       ],
       "topicId": "rbc-metabolism",
-      "topicName": "RBC Metabolism"
+      "topicName": "RBC Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bl02-016",
@@ -2399,7 +2450,8 @@
         "right shift"
       ],
       "topicId": "rbc-metabolism",
-      "topicName": "RBC Metabolism"
+      "topicName": "RBC Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bl02-017",
@@ -2446,7 +2498,8 @@
         "ATP yield"
       ],
       "topicId": "rbc-metabolism",
-      "topicName": "RBC Metabolism"
+      "topicName": "RBC Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bl02-018",
@@ -2493,7 +2546,8 @@
         "erythrocyte metabolism"
       ],
       "topicId": "rbc-metabolism",
-      "topicName": "RBC Metabolism"
+      "topicName": "RBC Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bl02-019",
@@ -2539,7 +2593,8 @@
         "NADPH"
       ],
       "topicId": "rbc-metabolism",
-      "topicName": "RBC Metabolism"
+      "topicName": "RBC Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bl02-020",
@@ -2586,7 +2641,8 @@
         "pentose phosphate pathway"
       ],
       "topicId": "rbc-metabolism",
-      "topicName": "RBC Metabolism"
+      "topicName": "RBC Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bl02-021",
@@ -2633,7 +2689,8 @@
         "oxidative stress"
       ],
       "topicId": "rbc-metabolism",
-      "topicName": "RBC Metabolism"
+      "topicName": "RBC Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bl02-022",
@@ -2680,7 +2737,8 @@
         "antioxidant defense"
       ],
       "topicId": "rbc-metabolism",
-      "topicName": "RBC Metabolism"
+      "topicName": "RBC Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bl02-023",
@@ -2726,7 +2784,8 @@
         "infection"
       ],
       "topicId": "rbc-metabolism",
-      "topicName": "RBC Metabolism"
+      "topicName": "RBC Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bl02-024",
@@ -2772,7 +2831,8 @@
         "clinical reasoning"
       ],
       "topicId": "rbc-metabolism",
-      "topicName": "RBC Metabolism"
+      "topicName": "RBC Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bl02-025",
@@ -2818,7 +2878,8 @@
         "peripheral smear"
       ],
       "topicId": "rbc-metabolism",
-      "topicName": "RBC Metabolism"
+      "topicName": "RBC Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bl02-026",
@@ -2865,7 +2926,8 @@
         "enzyme instability"
       ],
       "topicId": "rbc-metabolism",
-      "topicName": "RBC Metabolism"
+      "topicName": "RBC Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bl02-027",
@@ -2911,7 +2973,8 @@
         "self-limiting hemolysis"
       ],
       "topicId": "rbc-metabolism",
-      "topicName": "RBC Metabolism"
+      "topicName": "RBC Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bl02-028",
@@ -2957,7 +3020,8 @@
         "G6PD contrast"
       ],
       "topicId": "rbc-metabolism",
-      "topicName": "RBC Metabolism"
+      "topicName": "RBC Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bl02-029",
@@ -3003,7 +3067,8 @@
         "oxygen delivery"
       ],
       "topicId": "rbc-metabolism",
-      "topicName": "RBC Metabolism"
+      "topicName": "RBC Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bl02-030",
@@ -3050,7 +3115,8 @@
         "chronic hemolysis"
       ],
       "topicId": "rbc-metabolism",
-      "topicName": "RBC Metabolism"
+      "topicName": "RBC Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bl02-031",
@@ -3096,7 +3162,8 @@
         "erythrocyte metabolism"
       ],
       "topicId": "rbc-metabolism",
-      "topicName": "RBC Metabolism"
+      "topicName": "RBC Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bl02-032",
@@ -3142,7 +3209,8 @@
         "tetramer conformation"
       ],
       "topicId": "rbc-metabolism",
-      "topicName": "RBC Metabolism"
+      "topicName": "RBC Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bl02-033",
@@ -3188,7 +3256,8 @@
         "thresholds"
       ],
       "topicId": "rbc-metabolism",
-      "topicName": "RBC Metabolism"
+      "topicName": "RBC Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bl02-034",
@@ -3235,7 +3304,8 @@
         "cytochrome b5 reductase"
       ],
       "topicId": "rbc-metabolism",
-      "topicName": "RBC Metabolism"
+      "topicName": "RBC Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bl02-035",
@@ -3281,7 +3351,8 @@
         "management"
       ],
       "topicId": "rbc-metabolism",
-      "topicName": "RBC Metabolism"
+      "topicName": "RBC Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bl02-036",
@@ -3328,7 +3399,8 @@
         "hydroxocobalamin"
       ],
       "topicId": "rbc-metabolism",
-      "topicName": "RBC Metabolism"
+      "topicName": "RBC Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bl03-001",
@@ -3374,7 +3446,8 @@
         "iron-deficiency anemia"
       ],
       "topicId": "red-blood-cell-laboratory-tests",
-      "topicName": "Red Blood Cell Laboratory Tests"
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "core"
     },
     {
       "id": "bl03-002",
@@ -3420,7 +3493,8 @@
         "anisocytosis"
       ],
       "topicId": "red-blood-cell-laboratory-tests",
-      "topicName": "Red Blood Cell Laboratory Tests"
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "core"
     },
     {
       "id": "bl03-003",
@@ -3466,7 +3540,8 @@
         "staining"
       ],
       "topicId": "red-blood-cell-laboratory-tests",
-      "topicName": "Red Blood Cell Laboratory Tests"
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "core"
     },
     {
       "id": "bl03-004",
@@ -3512,7 +3587,8 @@
         "myelofibrosis"
       ],
       "topicId": "red-blood-cell-laboratory-tests",
-      "topicName": "Red Blood Cell Laboratory Tests"
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "core"
     },
     {
       "id": "bl03-005",
@@ -3558,7 +3634,8 @@
         "asplenia"
       ],
       "topicId": "red-blood-cell-laboratory-tests",
-      "topicName": "Red Blood Cell Laboratory Tests"
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "core"
     },
     {
       "id": "bl03-006",
@@ -3604,7 +3681,8 @@
         "lead poisoning"
       ],
       "topicId": "red-blood-cell-laboratory-tests",
-      "topicName": "Red Blood Cell Laboratory Tests"
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "core"
     },
     {
       "id": "bl03-007",
@@ -3650,7 +3728,8 @@
         "staining"
       ],
       "topicId": "red-blood-cell-laboratory-tests",
-      "topicName": "Red Blood Cell Laboratory Tests"
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "core"
     },
     {
       "id": "bl03-008",
@@ -3696,7 +3775,8 @@
         "marrow response"
       ],
       "topicId": "red-blood-cell-laboratory-tests",
-      "topicName": "Red Blood Cell Laboratory Tests"
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "core"
     },
     {
       "id": "bl03-009",
@@ -3742,7 +3822,8 @@
         "screening"
       ],
       "topicId": "red-blood-cell-laboratory-tests",
-      "topicName": "Red Blood Cell Laboratory Tests"
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "core"
     },
     {
       "id": "bl03-010",
@@ -3788,7 +3869,8 @@
         "hemolysis"
       ],
       "topicId": "red-blood-cell-laboratory-tests",
-      "topicName": "Red Blood Cell Laboratory Tests"
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "core"
     },
     {
       "id": "bl03-011",
@@ -3834,7 +3916,8 @@
         "autoimmune hemolytic anemia"
       ],
       "topicId": "red-blood-cell-laboratory-tests",
-      "topicName": "Red Blood Cell Laboratory Tests"
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "core"
     },
     {
       "id": "bl03-012",
@@ -3880,7 +3963,8 @@
         "spurious results"
       ],
       "topicId": "red-blood-cell-laboratory-tests",
-      "topicName": "Red Blood Cell Laboratory Tests"
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "core"
     },
     {
       "id": "bl03-013",
@@ -3926,7 +4010,8 @@
         "CBC"
       ],
       "topicId": "red-blood-cell-laboratory-tests",
-      "topicName": "Red Blood Cell Laboratory Tests"
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "extra"
     },
     {
       "id": "bl03-014",
@@ -3972,7 +4057,8 @@
         "reference ranges"
       ],
       "topicId": "red-blood-cell-laboratory-tests",
-      "topicName": "Red Blood Cell Laboratory Tests"
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "extra"
     },
     {
       "id": "bl03-015",
@@ -4018,7 +4104,8 @@
         "anemia"
       ],
       "topicId": "red-blood-cell-laboratory-tests",
-      "topicName": "Red Blood Cell Laboratory Tests"
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "extra"
     },
     {
       "id": "bl03-016",
@@ -4064,7 +4151,8 @@
         "hemoglobin"
       ],
       "topicId": "red-blood-cell-laboratory-tests",
-      "topicName": "Red Blood Cell Laboratory Tests"
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "extra"
     },
     {
       "id": "bl03-017",
@@ -4110,7 +4198,8 @@
         "blood smear"
       ],
       "topicId": "red-blood-cell-laboratory-tests",
-      "topicName": "Red Blood Cell Laboratory Tests"
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "extra"
     },
     {
       "id": "bl03-018",
@@ -4156,7 +4245,8 @@
         "blood smear"
       ],
       "topicId": "red-blood-cell-laboratory-tests",
-      "topicName": "Red Blood Cell Laboratory Tests"
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "extra"
     },
     {
       "id": "bl03-019",
@@ -4202,7 +4292,8 @@
         "liver disease"
       ],
       "topicId": "red-blood-cell-laboratory-tests",
-      "topicName": "Red Blood Cell Laboratory Tests"
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "extra"
     },
     {
       "id": "bl03-020",
@@ -4248,7 +4339,8 @@
         "spurious findings"
       ],
       "topicId": "red-blood-cell-laboratory-tests",
-      "topicName": "Red Blood Cell Laboratory Tests"
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "extra"
     },
     {
       "id": "bl03-021",
@@ -4294,7 +4386,8 @@
         "microangiopathic hemolytic anemia"
       ],
       "topicId": "red-blood-cell-laboratory-tests",
-      "topicName": "Red Blood Cell Laboratory Tests"
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "extra"
     },
     {
       "id": "bl03-022",
@@ -4340,7 +4433,8 @@
         "warm autoimmune hemolytic anemia"
       ],
       "topicId": "red-blood-cell-laboratory-tests",
-      "topicName": "Red Blood Cell Laboratory Tests"
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "extra"
     },
     {
       "id": "bl03-023",
@@ -4386,7 +4480,8 @@
         "immunoglobulins"
       ],
       "topicId": "red-blood-cell-laboratory-tests",
-      "topicName": "Red Blood Cell Laboratory Tests"
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "extra"
     },
     {
       "id": "bl03-024",
@@ -4432,7 +4527,8 @@
         "cold autoimmune hemolytic anemia"
       ],
       "topicId": "red-blood-cell-laboratory-tests",
-      "topicName": "Red Blood Cell Laboratory Tests"
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "extra"
     },
     {
       "id": "bl03-025",
@@ -4478,7 +4574,8 @@
         "G6PD deficiency"
       ],
       "topicId": "red-blood-cell-laboratory-tests",
-      "topicName": "Red Blood Cell Laboratory Tests"
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "extra"
     },
     {
       "id": "bl03-026",
@@ -4524,7 +4621,8 @@
         "sideroblastic anemia"
       ],
       "topicId": "red-blood-cell-laboratory-tests",
-      "topicName": "Red Blood Cell Laboratory Tests"
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "extra"
     },
     {
       "id": "bl03-027",
@@ -4570,7 +4668,8 @@
         "malaria"
       ],
       "topicId": "red-blood-cell-laboratory-tests",
-      "topicName": "Red Blood Cell Laboratory Tests"
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "extra"
     },
     {
       "id": "bl03-028",
@@ -4616,7 +4715,8 @@
         "calculation"
       ],
       "topicId": "red-blood-cell-laboratory-tests",
-      "topicName": "Red Blood Cell Laboratory Tests"
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "extra"
     },
     {
       "id": "bl03-029",
@@ -4662,7 +4762,8 @@
         "mnemonic"
       ],
       "topicId": "red-blood-cell-laboratory-tests",
-      "topicName": "Red Blood Cell Laboratory Tests"
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "extra"
     },
     {
       "id": "bl03-030",
@@ -4708,7 +4809,8 @@
         "interpretation"
       ],
       "topicId": "red-blood-cell-laboratory-tests",
-      "topicName": "Red Blood Cell Laboratory Tests"
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "extra"
     },
     {
       "id": "bl03-031",
@@ -4754,7 +4856,8 @@
         "electrophoresis"
       ],
       "topicId": "red-blood-cell-laboratory-tests",
-      "topicName": "Red Blood Cell Laboratory Tests"
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "extra"
     },
     {
       "id": "bl03-032",
@@ -4800,7 +4903,8 @@
         "hemoglobinopathy"
       ],
       "topicId": "red-blood-cell-laboratory-tests",
-      "topicName": "Red Blood Cell Laboratory Tests"
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "extra"
     },
     {
       "id": "bl03-033",
@@ -4846,7 +4950,8 @@
         "test interpretation"
       ],
       "topicId": "red-blood-cell-laboratory-tests",
-      "topicName": "Red Blood Cell Laboratory Tests"
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "extra"
     },
     {
       "id": "bl03-034",
@@ -4892,7 +4997,8 @@
         "hereditary spherocytosis"
       ],
       "topicId": "red-blood-cell-laboratory-tests",
-      "topicName": "Red Blood Cell Laboratory Tests"
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "extra"
     },
     {
       "id": "bl03-035",
@@ -4938,7 +5044,8 @@
         "platelet count"
       ],
       "topicId": "red-blood-cell-laboratory-tests",
-      "topicName": "Red Blood Cell Laboratory Tests"
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "extra"
     },
     {
       "id": "bl03-036",
@@ -4984,7 +5091,8 @@
         "hemoglobinopathy"
       ],
       "topicId": "red-blood-cell-laboratory-tests",
-      "topicName": "Red Blood Cell Laboratory Tests"
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "extra"
     },
     {
       "id": "bl04-001",
@@ -5030,7 +5138,8 @@
         "hemoglobin"
       ],
       "topicId": "history-taking-approach-to-anemia",
-      "topicName": "History-Taking Approach to Anemia"
+      "topicName": "History-Taking Approach to Anemia",
+      "tier": "core"
     },
     {
       "id": "bl04-002",
@@ -5076,7 +5185,8 @@
         "plasma-volume"
       ],
       "topicId": "history-taking-approach-to-anemia",
-      "topicName": "History-Taking Approach to Anemia"
+      "topicName": "History-Taking Approach to Anemia",
+      "tier": "core"
     },
     {
       "id": "bl04-003",
@@ -5122,7 +5232,8 @@
         "erythropoietin"
       ],
       "topicId": "history-taking-approach-to-anemia",
-      "topicName": "History-Taking Approach to Anemia"
+      "topicName": "History-Taking Approach to Anemia",
+      "tier": "core"
     },
     {
       "id": "bl04-004",
@@ -5168,7 +5279,8 @@
         "is-the-patient-truly-anemic"
       ],
       "topicId": "history-taking-approach-to-anemia",
-      "topicName": "History-Taking Approach to Anemia"
+      "topicName": "History-Taking Approach to Anemia",
+      "tier": "core"
     },
     {
       "id": "bl04-005",
@@ -5214,7 +5326,8 @@
         "is-there-evidence-of-blood-loss"
       ],
       "topicId": "history-taking-approach-to-anemia",
-      "topicName": "History-Taking Approach to Anemia"
+      "topicName": "History-Taking Approach to Anemia",
+      "tier": "core"
     },
     {
       "id": "bl04-006",
@@ -5260,7 +5373,8 @@
         "is-there-evidence-of-blood-loss"
       ],
       "topicId": "history-taking-approach-to-anemia",
-      "topicName": "History-Taking Approach to Anemia"
+      "topicName": "History-Taking Approach to Anemia",
+      "tier": "core"
     },
     {
       "id": "bl04-007",
@@ -5306,7 +5420,8 @@
         "six-history-questions"
       ],
       "topicId": "history-taking-approach-to-anemia",
-      "topicName": "History-Taking Approach to Anemia"
+      "topicName": "History-Taking Approach to Anemia",
+      "tier": "core"
     },
     {
       "id": "bl04-008",
@@ -5352,7 +5467,8 @@
         "is-there-evidence-of-hemolysis"
       ],
       "topicId": "history-taking-approach-to-anemia",
-      "topicName": "History-Taking Approach to Anemia"
+      "topicName": "History-Taking Approach to Anemia",
+      "tier": "core"
     },
     {
       "id": "bl04-009",
@@ -5398,7 +5514,8 @@
         "medication-induced-hemolysis"
       ],
       "topicId": "history-taking-approach-to-anemia",
-      "topicName": "History-Taking Approach to Anemia"
+      "topicName": "History-Taking Approach to Anemia",
+      "tier": "core"
     },
     {
       "id": "bl04-010",
@@ -5444,7 +5561,8 @@
         "medication-induced-anemia"
       ],
       "topicId": "history-taking-approach-to-anemia",
-      "topicName": "History-Taking Approach to Anemia"
+      "topicName": "History-Taking Approach to Anemia",
+      "tier": "core"
     },
     {
       "id": "bl04-011",
@@ -5490,7 +5608,8 @@
         "systemic-illness"
       ],
       "topicId": "history-taking-approach-to-anemia",
-      "topicName": "History-Taking Approach to Anemia"
+      "topicName": "History-Taking Approach to Anemia",
+      "tier": "core"
     },
     {
       "id": "bl04-012",
@@ -5536,7 +5655,8 @@
         "oxygen-carrying-capacity"
       ],
       "topicId": "history-taking-approach-to-anemia",
-      "topicName": "History-Taking Approach to Anemia"
+      "topicName": "History-Taking Approach to Anemia",
+      "tier": "core"
     },
     {
       "id": "bl04-013",
@@ -5582,7 +5702,8 @@
         "medication-exposure"
       ],
       "topicId": "history-taking-approach-to-anemia",
-      "topicName": "History-Taking Approach to Anemia"
+      "topicName": "History-Taking Approach to Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl04-014",
@@ -5628,7 +5749,8 @@
         "CBC"
       ],
       "topicId": "history-taking-approach-to-anemia",
-      "topicName": "History-Taking Approach to Anemia"
+      "topicName": "History-Taking Approach to Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl04-015",
@@ -5674,7 +5796,8 @@
         "importance-of-history"
       ],
       "topicId": "history-taking-approach-to-anemia",
-      "topicName": "History-Taking Approach to Anemia"
+      "topicName": "History-Taking Approach to Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl04-016",
@@ -5720,7 +5843,8 @@
         "MCH"
       ],
       "topicId": "history-taking-approach-to-anemia",
-      "topicName": "History-Taking Approach to Anemia"
+      "topicName": "History-Taking Approach to Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl04-017",
@@ -5766,7 +5890,8 @@
         "CBC"
       ],
       "topicId": "history-taking-approach-to-anemia",
-      "topicName": "History-Taking Approach to Anemia"
+      "topicName": "History-Taking Approach to Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl04-018",
@@ -5812,7 +5937,8 @@
         "erythropoietin"
       ],
       "topicId": "history-taking-approach-to-anemia",
-      "topicName": "History-Taking Approach to Anemia"
+      "topicName": "History-Taking Approach to Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl04-019",
@@ -5858,7 +5984,8 @@
         "CBC"
       ],
       "topicId": "history-taking-approach-to-anemia",
-      "topicName": "History-Taking Approach to Anemia"
+      "topicName": "History-Taking Approach to Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl04-020",
@@ -5904,7 +6031,8 @@
         "hemoglobin"
       ],
       "topicId": "history-taking-approach-to-anemia",
-      "topicName": "History-Taking Approach to Anemia"
+      "topicName": "History-Taking Approach to Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl04-021",
@@ -5950,7 +6078,8 @@
         "congestive-heart-failure"
       ],
       "topicId": "history-taking-approach-to-anemia",
-      "topicName": "History-Taking Approach to Anemia"
+      "topicName": "History-Taking Approach to Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl04-022",
@@ -5996,7 +6125,8 @@
         "is-the-patient-truly-anemic"
       ],
       "topicId": "history-taking-approach-to-anemia",
-      "topicName": "History-Taking Approach to Anemia"
+      "topicName": "History-Taking Approach to Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl04-023",
@@ -6042,7 +6172,8 @@
         "dilutional-anemia-of-pregnancy"
       ],
       "topicId": "history-taking-approach-to-anemia",
-      "topicName": "History-Taking Approach to Anemia"
+      "topicName": "History-Taking Approach to Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl04-024",
@@ -6088,7 +6219,8 @@
         "when-to-evaluate-further"
       ],
       "topicId": "history-taking-approach-to-anemia",
-      "topicName": "History-Taking Approach to Anemia"
+      "topicName": "History-Taking Approach to Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl04-025",
@@ -6134,7 +6266,8 @@
         "is-there-evidence-of-blood-loss"
       ],
       "topicId": "history-taking-approach-to-anemia",
-      "topicName": "History-Taking Approach to Anemia"
+      "topicName": "History-Taking Approach to Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl04-026",
@@ -6180,7 +6313,8 @@
         "is-there-evidence-of-blood-loss"
       ],
       "topicId": "history-taking-approach-to-anemia",
-      "topicName": "History-Taking Approach to Anemia"
+      "topicName": "History-Taking Approach to Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl04-027",
@@ -6226,7 +6360,8 @@
         "is-there-evidence-of-blood-loss"
       ],
       "topicId": "history-taking-approach-to-anemia",
-      "topicName": "History-Taking Approach to Anemia"
+      "topicName": "History-Taking Approach to Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl04-028",
@@ -6272,7 +6407,8 @@
         "iron-loss"
       ],
       "topicId": "history-taking-approach-to-anemia",
-      "topicName": "History-Taking Approach to Anemia"
+      "topicName": "History-Taking Approach to Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl04-029",
@@ -6318,7 +6454,8 @@
         "is-there-evidence-of-blood-loss"
       ],
       "topicId": "history-taking-approach-to-anemia",
-      "topicName": "History-Taking Approach to Anemia"
+      "topicName": "History-Taking Approach to Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl04-030",
@@ -6364,7 +6501,8 @@
         "transfusion-history"
       ],
       "topicId": "history-taking-approach-to-anemia",
-      "topicName": "History-Taking Approach to Anemia"
+      "topicName": "History-Taking Approach to Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl04-031",
@@ -6410,7 +6548,8 @@
         "malaria-resistance"
       ],
       "topicId": "history-taking-approach-to-anemia",
-      "topicName": "History-Taking Approach to Anemia"
+      "topicName": "History-Taking Approach to Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl04-032",
@@ -6456,7 +6595,8 @@
         "dark-urine"
       ],
       "topicId": "history-taking-approach-to-anemia",
-      "topicName": "History-Taking Approach to Anemia"
+      "topicName": "History-Taking Approach to Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl04-033",
@@ -6502,7 +6642,8 @@
         "is-there-evidence-of-hemolysis"
       ],
       "topicId": "history-taking-approach-to-anemia",
-      "topicName": "History-Taking Approach to Anemia"
+      "topicName": "History-Taking Approach to Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl04-034",
@@ -6548,7 +6689,8 @@
         "medication-induced-anemia"
       ],
       "topicId": "history-taking-approach-to-anemia",
-      "topicName": "History-Taking Approach to Anemia"
+      "topicName": "History-Taking Approach to Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl04-035",
@@ -6594,7 +6736,8 @@
         "maturation-defect"
       ],
       "topicId": "history-taking-approach-to-anemia",
-      "topicName": "History-Taking Approach to Anemia"
+      "topicName": "History-Taking Approach to Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl04-036",
@@ -6640,7 +6783,8 @@
         "hemolysis"
       ],
       "topicId": "history-taking-approach-to-anemia",
-      "topicName": "History-Taking Approach to Anemia"
+      "topicName": "History-Taking Approach to Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl05-001",
@@ -6686,7 +6830,8 @@
         "epidemiology"
       ],
       "topicId": "iron-deficiency-anemia",
-      "topicName": "Iron-Deficiency Anemia"
+      "topicName": "Iron-Deficiency Anemia",
+      "tier": "core"
     },
     {
       "id": "bl05-002",
@@ -6732,7 +6877,8 @@
         "menorrhagia"
       ],
       "topicId": "iron-deficiency-anemia",
-      "topicName": "Iron-Deficiency Anemia"
+      "topicName": "Iron-Deficiency Anemia",
+      "tier": "core"
     },
     {
       "id": "bl05-003",
@@ -6778,7 +6924,8 @@
         "acute-phase reactant"
       ],
       "topicId": "iron-deficiency-anemia",
-      "topicName": "Iron-Deficiency Anemia"
+      "topicName": "Iron-Deficiency Anemia",
+      "tier": "core"
     },
     {
       "id": "bl05-004",
@@ -6824,7 +6971,8 @@
         "colon cancer"
       ],
       "topicId": "iron-deficiency-anemia",
-      "topicName": "Iron-Deficiency Anemia"
+      "topicName": "Iron-Deficiency Anemia",
+      "tier": "core"
     },
     {
       "id": "bl05-005",
@@ -6870,7 +7018,8 @@
         "ferrochelatase"
       ],
       "topicId": "iron-deficiency-anemia",
-      "topicName": "Iron-Deficiency Anemia"
+      "topicName": "Iron-Deficiency Anemia",
+      "tier": "core"
     },
     {
       "id": "bl05-006",
@@ -6916,7 +7065,8 @@
         "ferroportin"
       ],
       "topicId": "iron-deficiency-anemia",
-      "topicName": "Iron-Deficiency Anemia"
+      "topicName": "Iron-Deficiency Anemia",
+      "tier": "core"
     },
     {
       "id": "bl05-007",
@@ -6962,7 +7112,8 @@
         "hepcidin"
       ],
       "topicId": "iron-deficiency-anemia",
-      "topicName": "Iron-Deficiency Anemia"
+      "topicName": "Iron-Deficiency Anemia",
+      "tier": "core"
     },
     {
       "id": "bl05-008",
@@ -7008,7 +7159,8 @@
         "pediatrics"
       ],
       "topicId": "iron-deficiency-anemia",
-      "topicName": "Iron-Deficiency Anemia"
+      "topicName": "Iron-Deficiency Anemia",
+      "tier": "core"
     },
     {
       "id": "bl05-009",
@@ -7054,7 +7206,8 @@
         "clinical signs"
       ],
       "topicId": "iron-deficiency-anemia",
-      "topicName": "Iron-Deficiency Anemia"
+      "topicName": "Iron-Deficiency Anemia",
+      "tier": "core"
     },
     {
       "id": "bl05-010",
@@ -7100,7 +7253,8 @@
         "hypochromic microcytic"
       ],
       "topicId": "iron-deficiency-anemia",
-      "topicName": "Iron-Deficiency Anemia"
+      "topicName": "Iron-Deficiency Anemia",
+      "tier": "core"
     },
     {
       "id": "bl05-011",
@@ -7146,7 +7300,8 @@
         "transferrin"
       ],
       "topicId": "iron-deficiency-anemia",
-      "topicName": "Iron-Deficiency Anemia"
+      "topicName": "Iron-Deficiency Anemia",
+      "tier": "core"
     },
     {
       "id": "bl05-012",
@@ -7192,7 +7347,8 @@
         "malabsorption"
       ],
       "topicId": "iron-deficiency-anemia",
-      "topicName": "Iron-Deficiency Anemia"
+      "topicName": "Iron-Deficiency Anemia",
+      "tier": "core"
     },
     {
       "id": "bl05-013",
@@ -7238,7 +7394,8 @@
         "prevalence"
       ],
       "topicId": "iron-deficiency-anemia",
-      "topicName": "Iron-Deficiency Anemia"
+      "topicName": "Iron-Deficiency Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl05-014",
@@ -7284,7 +7441,8 @@
         "heme vs nonheme"
       ],
       "topicId": "iron-deficiency-anemia",
-      "topicName": "Iron-Deficiency Anemia"
+      "topicName": "Iron-Deficiency Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl05-015",
@@ -7330,7 +7488,8 @@
         "enterocyte"
       ],
       "topicId": "iron-deficiency-anemia",
-      "topicName": "Iron-Deficiency Anemia"
+      "topicName": "Iron-Deficiency Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl05-016",
@@ -7376,7 +7535,8 @@
         "enterocyte"
       ],
       "topicId": "iron-deficiency-anemia",
-      "topicName": "Iron-Deficiency Anemia"
+      "topicName": "Iron-Deficiency Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl05-017",
@@ -7422,7 +7582,8 @@
         "vegan diet"
       ],
       "topicId": "iron-deficiency-anemia",
-      "topicName": "Iron-Deficiency Anemia"
+      "topicName": "Iron-Deficiency Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl05-018",
@@ -7468,7 +7629,8 @@
         "iron storage"
       ],
       "topicId": "iron-deficiency-anemia",
-      "topicName": "Iron-Deficiency Anemia"
+      "topicName": "Iron-Deficiency Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl05-019",
@@ -7514,7 +7676,8 @@
         "physiology"
       ],
       "topicId": "iron-deficiency-anemia",
-      "topicName": "Iron-Deficiency Anemia"
+      "topicName": "Iron-Deficiency Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl05-020",
@@ -7560,7 +7723,8 @@
         "iron sequestration"
       ],
       "topicId": "iron-deficiency-anemia",
-      "topicName": "Iron-Deficiency Anemia"
+      "topicName": "Iron-Deficiency Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl05-021",
@@ -7606,7 +7770,8 @@
         "host defense"
       ],
       "topicId": "iron-deficiency-anemia",
-      "topicName": "Iron-Deficiency Anemia"
+      "topicName": "Iron-Deficiency Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl05-022",
@@ -7652,7 +7817,8 @@
         "diagnosis"
       ],
       "topicId": "iron-deficiency-anemia",
-      "topicName": "Iron-Deficiency Anemia"
+      "topicName": "Iron-Deficiency Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl05-023",
@@ -7698,7 +7864,8 @@
         "homeostasis"
       ],
       "topicId": "iron-deficiency-anemia",
-      "topicName": "Iron-Deficiency Anemia"
+      "topicName": "Iron-Deficiency Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl05-024",
@@ -7744,7 +7911,8 @@
         "adverse effects"
       ],
       "topicId": "iron-deficiency-anemia",
-      "topicName": "Iron-Deficiency Anemia"
+      "topicName": "Iron-Deficiency Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl05-025",
@@ -7790,7 +7958,8 @@
         "GI blood loss"
       ],
       "topicId": "iron-deficiency-anemia",
-      "topicName": "Iron-Deficiency Anemia"
+      "topicName": "Iron-Deficiency Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl05-026",
@@ -7836,7 +8005,8 @@
         "blood loss"
       ],
       "topicId": "iron-deficiency-anemia",
-      "topicName": "Iron-Deficiency Anemia"
+      "topicName": "Iron-Deficiency Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl05-027",
@@ -7882,7 +8052,8 @@
         "intravascular hemolysis"
       ],
       "topicId": "iron-deficiency-anemia",
-      "topicName": "Iron-Deficiency Anemia"
+      "topicName": "Iron-Deficiency Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl05-028",
@@ -7928,7 +8099,8 @@
         "cow's milk"
       ],
       "topicId": "iron-deficiency-anemia",
-      "topicName": "Iron-Deficiency Anemia"
+      "topicName": "Iron-Deficiency Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl05-029",
@@ -7974,7 +8146,8 @@
         "neurodevelopment"
       ],
       "topicId": "iron-deficiency-anemia",
-      "topicName": "Iron-Deficiency Anemia"
+      "topicName": "Iron-Deficiency Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl05-030",
@@ -8020,7 +8193,8 @@
         "placenta"
       ],
       "topicId": "iron-deficiency-anemia",
-      "topicName": "Iron-Deficiency Anemia"
+      "topicName": "Iron-Deficiency Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl05-031",
@@ -8066,7 +8240,8 @@
         "CBC"
       ],
       "topicId": "iron-deficiency-anemia",
-      "topicName": "Iron-Deficiency Anemia"
+      "topicName": "Iron-Deficiency Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl05-032",
@@ -8112,7 +8287,8 @@
         "CBC"
       ],
       "topicId": "iron-deficiency-anemia",
-      "topicName": "Iron-Deficiency Anemia"
+      "topicName": "Iron-Deficiency Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl05-033",
@@ -8158,7 +8334,8 @@
         "diagnostic thresholds"
       ],
       "topicId": "iron-deficiency-anemia",
-      "topicName": "Iron-Deficiency Anemia"
+      "topicName": "Iron-Deficiency Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl05-034",
@@ -8204,7 +8381,8 @@
         "complications"
       ],
       "topicId": "iron-deficiency-anemia",
-      "topicName": "Iron-Deficiency Anemia"
+      "topicName": "Iron-Deficiency Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl05-035",
@@ -8250,7 +8428,8 @@
         "ischemic heart disease"
       ],
       "topicId": "iron-deficiency-anemia",
-      "topicName": "Iron-Deficiency Anemia"
+      "topicName": "Iron-Deficiency Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl05-036",
@@ -8296,7 +8475,8 @@
         "iron supplementation"
       ],
       "topicId": "iron-deficiency-anemia",
-      "topicName": "Iron-Deficiency Anemia"
+      "topicName": "Iron-Deficiency Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl06-001",
@@ -8342,7 +8522,8 @@
         "iron deficiency"
       ],
       "topicId": "thalassemias",
-      "topicName": "Thalassemias"
+      "topicName": "Thalassemias",
+      "tier": "core"
     },
     {
       "id": "bl06-002",
@@ -8388,7 +8569,8 @@
         "HbH"
       ],
       "topicId": "thalassemias",
-      "topicName": "Thalassemias"
+      "topicName": "Thalassemias",
+      "tier": "core"
     },
     {
       "id": "bl06-003",
@@ -8434,7 +8616,8 @@
         "diagnosis"
       ],
       "topicId": "thalassemias",
-      "topicName": "Thalassemias"
+      "topicName": "Thalassemias",
+      "tier": "core"
     },
     {
       "id": "bl06-004",
@@ -8480,7 +8663,8 @@
         "iron overload"
       ],
       "topicId": "thalassemias",
-      "topicName": "Thalassemias"
+      "topicName": "Thalassemias",
+      "tier": "core"
     },
     {
       "id": "bl06-005",
@@ -8526,7 +8710,8 @@
         "physiology"
       ],
       "topicId": "thalassemias",
-      "topicName": "Thalassemias"
+      "topicName": "Thalassemias",
+      "tier": "core"
     },
     {
       "id": "bl06-006",
@@ -8572,7 +8757,8 @@
         "Hb Barts"
       ],
       "topicId": "thalassemias",
-      "topicName": "Thalassemias"
+      "topicName": "Thalassemias",
+      "tier": "core"
     },
     {
       "id": "bl06-007",
@@ -8618,7 +8804,8 @@
         "physical exam"
       ],
       "topicId": "thalassemias",
-      "topicName": "Thalassemias"
+      "topicName": "Thalassemias",
+      "tier": "core"
     },
     {
       "id": "bl06-008",
@@ -8664,7 +8851,8 @@
         "beta-0"
       ],
       "topicId": "thalassemias",
-      "topicName": "Thalassemias"
+      "topicName": "Thalassemias",
+      "tier": "core"
     },
     {
       "id": "bl06-009",
@@ -8710,7 +8898,8 @@
         "HbA2"
       ],
       "topicId": "thalassemias",
-      "topicName": "Thalassemias"
+      "topicName": "Thalassemias",
+      "tier": "core"
     },
     {
       "id": "bl06-010",
@@ -8756,7 +8945,8 @@
         "pharmacology"
       ],
       "topicId": "thalassemias",
-      "topicName": "Thalassemias"
+      "topicName": "Thalassemias",
+      "tier": "core"
     },
     {
       "id": "bl06-011",
@@ -8802,7 +8992,8 @@
         "hemolysis"
       ],
       "topicId": "thalassemias",
-      "topicName": "Thalassemias"
+      "topicName": "Thalassemias",
+      "tier": "core"
     },
     {
       "id": "bl06-012",
@@ -8848,7 +9039,8 @@
         "hypersplenism"
       ],
       "topicId": "thalassemias",
-      "topicName": "Thalassemias"
+      "topicName": "Thalassemias",
+      "tier": "core"
     },
     {
       "id": "bl06-013",
@@ -8894,7 +9086,8 @@
         "hemoglobinopathy"
       ],
       "topicId": "thalassemias",
-      "topicName": "Thalassemias"
+      "topicName": "Thalassemias",
+      "tier": "extra"
     },
     {
       "id": "bl06-014",
@@ -8940,7 +9133,8 @@
         "beta-thalassemia"
       ],
       "topicId": "thalassemias",
-      "topicName": "Thalassemias"
+      "topicName": "Thalassemias",
+      "tier": "extra"
     },
     {
       "id": "bl06-015",
@@ -8986,7 +9180,8 @@
         "chromosome 16"
       ],
       "topicId": "thalassemias",
-      "topicName": "Thalassemias"
+      "topicName": "Thalassemias",
+      "tier": "extra"
     },
     {
       "id": "bl06-016",
@@ -9032,7 +9227,8 @@
         "CBC"
       ],
       "topicId": "thalassemias",
-      "topicName": "Thalassemias"
+      "topicName": "Thalassemias",
+      "tier": "extra"
     },
     {
       "id": "bl06-017",
@@ -9078,7 +9274,8 @@
         "stressors"
       ],
       "topicId": "thalassemias",
-      "topicName": "Thalassemias"
+      "topicName": "Thalassemias",
+      "tier": "extra"
     },
     {
       "id": "bl06-018",
@@ -9124,7 +9321,8 @@
         "pathophysiology"
       ],
       "topicId": "thalassemias",
-      "topicName": "Thalassemias"
+      "topicName": "Thalassemias",
+      "tier": "extra"
     },
     {
       "id": "bl06-019",
@@ -9170,7 +9368,8 @@
         "genotype"
       ],
       "topicId": "thalassemias",
-      "topicName": "Thalassemias"
+      "topicName": "Thalassemias",
+      "tier": "extra"
     },
     {
       "id": "bl06-020",
@@ -9216,7 +9415,8 @@
         "diagnosis"
       ],
       "topicId": "thalassemias",
-      "topicName": "Thalassemias"
+      "topicName": "Thalassemias",
+      "tier": "extra"
     },
     {
       "id": "bl06-021",
@@ -9262,7 +9462,8 @@
         "severity"
       ],
       "topicId": "thalassemias",
-      "topicName": "Thalassemias"
+      "topicName": "Thalassemias",
+      "tier": "extra"
     },
     {
       "id": "bl06-022",
@@ -9308,7 +9509,8 @@
         "severity"
       ],
       "topicId": "thalassemias",
-      "topicName": "Thalassemias"
+      "topicName": "Thalassemias",
+      "tier": "extra"
     },
     {
       "id": "bl06-023",
@@ -9354,7 +9556,8 @@
         "differential diagnosis"
       ],
       "topicId": "thalassemias",
-      "topicName": "Thalassemias"
+      "topicName": "Thalassemias",
+      "tier": "extra"
     },
     {
       "id": "bl06-024",
@@ -9400,7 +9603,8 @@
         "workup"
       ],
       "topicId": "thalassemias",
-      "topicName": "Thalassemias"
+      "topicName": "Thalassemias",
+      "tier": "extra"
     },
     {
       "id": "bl06-025",
@@ -9446,7 +9650,8 @@
         "biochemistry"
       ],
       "topicId": "thalassemias",
-      "topicName": "Thalassemias"
+      "topicName": "Thalassemias",
+      "tier": "extra"
     },
     {
       "id": "bl06-026",
@@ -9492,7 +9697,8 @@
         "marrow hyperplasia"
       ],
       "topicId": "thalassemias",
-      "topicName": "Thalassemias"
+      "topicName": "Thalassemias",
+      "tier": "extra"
     },
     {
       "id": "bl06-027",
@@ -9538,7 +9744,8 @@
         "complications"
       ],
       "topicId": "thalassemias",
-      "topicName": "Thalassemias"
+      "topicName": "Thalassemias",
+      "tier": "extra"
     },
     {
       "id": "bl06-028",
@@ -9584,7 +9791,8 @@
         "management goals"
       ],
       "topicId": "thalassemias",
-      "topicName": "Thalassemias"
+      "topicName": "Thalassemias",
+      "tier": "extra"
     },
     {
       "id": "bl06-029",
@@ -9630,7 +9838,8 @@
         "counseling"
       ],
       "topicId": "thalassemias",
-      "topicName": "Thalassemias"
+      "topicName": "Thalassemias",
+      "tier": "extra"
     },
     {
       "id": "bl06-030",
@@ -9676,7 +9885,8 @@
         "iron deficiency"
       ],
       "topicId": "thalassemias",
-      "topicName": "Thalassemias"
+      "topicName": "Thalassemias",
+      "tier": "extra"
     },
     {
       "id": "bl06-031",
@@ -9722,7 +9932,8 @@
         "management"
       ],
       "topicId": "thalassemias",
-      "topicName": "Thalassemias"
+      "topicName": "Thalassemias",
+      "tier": "extra"
     },
     {
       "id": "bl06-032",
@@ -9768,7 +9979,8 @@
         "iron chelation"
       ],
       "topicId": "thalassemias",
-      "topicName": "Thalassemias"
+      "topicName": "Thalassemias",
+      "tier": "extra"
     },
     {
       "id": "bl06-033",
@@ -9814,7 +10026,8 @@
         "iron deficiency"
       ],
       "topicId": "thalassemias",
-      "topicName": "Thalassemias"
+      "topicName": "Thalassemias",
+      "tier": "extra"
     },
     {
       "id": "bl06-034",
@@ -9860,7 +10073,8 @@
         "jaundice"
       ],
       "topicId": "thalassemias",
-      "topicName": "Thalassemias"
+      "topicName": "Thalassemias",
+      "tier": "extra"
     },
     {
       "id": "bl06-035",
@@ -9906,7 +10120,8 @@
         "disease severity"
       ],
       "topicId": "thalassemias",
-      "topicName": "Thalassemias"
+      "topicName": "Thalassemias",
+      "tier": "extra"
     },
     {
       "id": "bl06-036",
@@ -9952,7 +10167,8 @@
         "hemolysis"
       ],
       "topicId": "thalassemias",
-      "topicName": "Thalassemias"
+      "topicName": "Thalassemias",
+      "tier": "extra"
     },
     {
       "id": "bl07-001",
@@ -9998,7 +10214,8 @@
         "diagnosis"
       ],
       "topicId": "anemia-of-chronic-disease-inflammation",
-      "topicName": "Anemia of Chronic Disease/Inflammation"
+      "topicName": "Anemia of Chronic Disease/Inflammation",
+      "tier": "core"
     },
     {
       "id": "bl07-002",
@@ -10044,7 +10261,8 @@
         "IL-6"
       ],
       "topicId": "anemia-of-chronic-disease-inflammation",
-      "topicName": "Anemia of Chronic Disease/Inflammation"
+      "topicName": "Anemia of Chronic Disease/Inflammation",
+      "tier": "core"
     },
     {
       "id": "bl07-003",
@@ -10090,7 +10308,8 @@
         "iron studies"
       ],
       "topicId": "anemia-of-chronic-disease-inflammation",
-      "topicName": "Anemia of Chronic Disease/Inflammation"
+      "topicName": "Anemia of Chronic Disease/Inflammation",
+      "tier": "core"
     },
     {
       "id": "bl07-004",
@@ -10136,7 +10355,8 @@
         "hepcidin"
       ],
       "topicId": "anemia-of-chronic-disease-inflammation",
-      "topicName": "Anemia of Chronic Disease/Inflammation"
+      "topicName": "Anemia of Chronic Disease/Inflammation",
+      "tier": "core"
     },
     {
       "id": "bl07-005",
@@ -10182,7 +10402,8 @@
         "underlying disease"
       ],
       "topicId": "anemia-of-chronic-disease-inflammation",
-      "topicName": "Anemia of Chronic Disease/Inflammation"
+      "topicName": "Anemia of Chronic Disease/Inflammation",
+      "tier": "core"
     },
     {
       "id": "bl07-006",
@@ -10228,7 +10449,8 @@
         "mechanism"
       ],
       "topicId": "anemia-of-chronic-disease-inflammation",
-      "topicName": "Anemia of Chronic Disease/Inflammation"
+      "topicName": "Anemia of Chronic Disease/Inflammation",
+      "tier": "core"
     },
     {
       "id": "bl07-007",
@@ -10274,7 +10496,8 @@
         "hepcidin"
       ],
       "topicId": "anemia-of-chronic-disease-inflammation",
-      "topicName": "Anemia of Chronic Disease/Inflammation"
+      "topicName": "Anemia of Chronic Disease/Inflammation",
+      "tier": "core"
     },
     {
       "id": "bl07-008",
@@ -10320,7 +10543,8 @@
         "iron studies"
       ],
       "topicId": "anemia-of-chronic-disease-inflammation",
-      "topicName": "Anemia of Chronic Disease/Inflammation"
+      "topicName": "Anemia of Chronic Disease/Inflammation",
+      "tier": "core"
     },
     {
       "id": "bl07-009",
@@ -10366,7 +10590,8 @@
         "pathophysiology"
       ],
       "topicId": "anemia-of-chronic-disease-inflammation",
-      "topicName": "Anemia of Chronic Disease/Inflammation"
+      "topicName": "Anemia of Chronic Disease/Inflammation",
+      "tier": "core"
     },
     {
       "id": "bl07-010",
@@ -10412,7 +10637,8 @@
         "peripheral smear"
       ],
       "topicId": "anemia-of-chronic-disease-inflammation",
-      "topicName": "Anemia of Chronic Disease/Inflammation"
+      "topicName": "Anemia of Chronic Disease/Inflammation",
+      "tier": "core"
     },
     {
       "id": "bl07-011",
@@ -10458,7 +10684,8 @@
         "clinical correlation"
       ],
       "topicId": "anemia-of-chronic-disease-inflammation",
-      "topicName": "Anemia of Chronic Disease/Inflammation"
+      "topicName": "Anemia of Chronic Disease/Inflammation",
+      "tier": "core"
     },
     {
       "id": "bl07-012",
@@ -10504,7 +10731,8 @@
         "management"
       ],
       "topicId": "anemia-of-chronic-disease-inflammation",
-      "topicName": "Anemia of Chronic Disease/Inflammation"
+      "topicName": "Anemia of Chronic Disease/Inflammation",
+      "tier": "core"
     },
     {
       "id": "bl07-013",
@@ -10550,7 +10778,8 @@
         "iron-deficiency anemia"
       ],
       "topicId": "anemia-of-chronic-disease-inflammation",
-      "topicName": "Anemia of Chronic Disease/Inflammation"
+      "topicName": "Anemia of Chronic Disease/Inflammation",
+      "tier": "extra"
     },
     {
       "id": "bl07-014",
@@ -10596,7 +10825,8 @@
         "chronic disease"
       ],
       "topicId": "anemia-of-chronic-disease-inflammation",
-      "topicName": "Anemia of Chronic Disease/Inflammation"
+      "topicName": "Anemia of Chronic Disease/Inflammation",
+      "tier": "extra"
     },
     {
       "id": "bl07-015",
@@ -10642,7 +10872,8 @@
         "GI blood loss"
       ],
       "topicId": "anemia-of-chronic-disease-inflammation",
-      "topicName": "Anemia of Chronic Disease/Inflammation"
+      "topicName": "Anemia of Chronic Disease/Inflammation",
+      "tier": "extra"
     },
     {
       "id": "bl07-016",
@@ -10688,7 +10919,8 @@
         "multiple mechanisms"
       ],
       "topicId": "anemia-of-chronic-disease-inflammation",
-      "topicName": "Anemia of Chronic Disease/Inflammation"
+      "topicName": "Anemia of Chronic Disease/Inflammation",
+      "tier": "extra"
     },
     {
       "id": "bl07-017",
@@ -10734,7 +10966,8 @@
         "systemic sclerosis"
       ],
       "topicId": "anemia-of-chronic-disease-inflammation",
-      "topicName": "Anemia of Chronic Disease/Inflammation"
+      "topicName": "Anemia of Chronic Disease/Inflammation",
+      "tier": "extra"
     },
     {
       "id": "bl07-018",
@@ -10780,7 +11013,8 @@
         "chronic infection"
       ],
       "topicId": "anemia-of-chronic-disease-inflammation",
-      "topicName": "Anemia of Chronic Disease/Inflammation"
+      "topicName": "Anemia of Chronic Disease/Inflammation",
+      "tier": "extra"
     },
     {
       "id": "bl07-019",
@@ -10826,7 +11060,8 @@
         "inflammatory conditions"
       ],
       "topicId": "anemia-of-chronic-disease-inflammation",
-      "topicName": "Anemia of Chronic Disease/Inflammation"
+      "topicName": "Anemia of Chronic Disease/Inflammation",
+      "tier": "extra"
     },
     {
       "id": "bl07-020",
@@ -10872,7 +11107,8 @@
         "pathophysiology"
       ],
       "topicId": "anemia-of-chronic-disease-inflammation",
-      "topicName": "Anemia of Chronic Disease/Inflammation"
+      "topicName": "Anemia of Chronic Disease/Inflammation",
+      "tier": "extra"
     },
     {
       "id": "bl07-021",
@@ -10918,7 +11154,8 @@
         "iron metabolism"
       ],
       "topicId": "anemia-of-chronic-disease-inflammation",
-      "topicName": "Anemia of Chronic Disease/Inflammation"
+      "topicName": "Anemia of Chronic Disease/Inflammation",
+      "tier": "extra"
     },
     {
       "id": "bl07-022",
@@ -10964,7 +11201,8 @@
         "iron metabolism"
       ],
       "topicId": "anemia-of-chronic-disease-inflammation",
-      "topicName": "Anemia of Chronic Disease/Inflammation"
+      "topicName": "Anemia of Chronic Disease/Inflammation",
+      "tier": "extra"
     },
     {
       "id": "bl07-023",
@@ -11010,7 +11248,8 @@
         "oral iron"
       ],
       "topicId": "anemia-of-chronic-disease-inflammation",
-      "topicName": "Anemia of Chronic Disease/Inflammation"
+      "topicName": "Anemia of Chronic Disease/Inflammation",
+      "tier": "extra"
     },
     {
       "id": "bl07-024",
@@ -11056,7 +11295,8 @@
         "pathophysiology"
       ],
       "topicId": "anemia-of-chronic-disease-inflammation",
-      "topicName": "Anemia of Chronic Disease/Inflammation"
+      "topicName": "Anemia of Chronic Disease/Inflammation",
+      "tier": "extra"
     },
     {
       "id": "bl07-025",
@@ -11102,7 +11342,8 @@
         "RBC lifespan"
       ],
       "topicId": "anemia-of-chronic-disease-inflammation",
-      "topicName": "Anemia of Chronic Disease/Inflammation"
+      "topicName": "Anemia of Chronic Disease/Inflammation",
+      "tier": "extra"
     },
     {
       "id": "bl07-026",
@@ -11148,7 +11389,8 @@
         "secondary anemia"
       ],
       "topicId": "anemia-of-chronic-disease-inflammation",
-      "topicName": "Anemia of Chronic Disease/Inflammation"
+      "topicName": "Anemia of Chronic Disease/Inflammation",
+      "tier": "extra"
     },
     {
       "id": "bl07-027",
@@ -11194,7 +11436,8 @@
         "inflammatory markers"
       ],
       "topicId": "anemia-of-chronic-disease-inflammation",
-      "topicName": "Anemia of Chronic Disease/Inflammation"
+      "topicName": "Anemia of Chronic Disease/Inflammation",
+      "tier": "extra"
     },
     {
       "id": "bl07-028",
@@ -11240,7 +11483,8 @@
         "diagnosis"
       ],
       "topicId": "anemia-of-chronic-disease-inflammation",
-      "topicName": "Anemia of Chronic Disease/Inflammation"
+      "topicName": "Anemia of Chronic Disease/Inflammation",
+      "tier": "extra"
     },
     {
       "id": "bl07-029",
@@ -11286,7 +11530,8 @@
         "laboratory findings"
       ],
       "topicId": "anemia-of-chronic-disease-inflammation",
-      "topicName": "Anemia of Chronic Disease/Inflammation"
+      "topicName": "Anemia of Chronic Disease/Inflammation",
+      "tier": "extra"
     },
     {
       "id": "bl07-030",
@@ -11332,7 +11577,8 @@
         "differential diagnosis"
       ],
       "topicId": "anemia-of-chronic-disease-inflammation",
-      "topicName": "Anemia of Chronic Disease/Inflammation"
+      "topicName": "Anemia of Chronic Disease/Inflammation",
+      "tier": "extra"
     },
     {
       "id": "bl07-031",
@@ -11378,7 +11624,8 @@
         "hemoglobin"
       ],
       "topicId": "anemia-of-chronic-disease-inflammation",
-      "topicName": "Anemia of Chronic Disease/Inflammation"
+      "topicName": "Anemia of Chronic Disease/Inflammation",
+      "tier": "extra"
     },
     {
       "id": "bl07-032",
@@ -11424,7 +11671,8 @@
         "differential diagnosis"
       ],
       "topicId": "anemia-of-chronic-disease-inflammation",
-      "topicName": "Anemia of Chronic Disease/Inflammation"
+      "topicName": "Anemia of Chronic Disease/Inflammation",
+      "tier": "extra"
     },
     {
       "id": "bl07-033",
@@ -11470,7 +11718,8 @@
         "interpretation"
       ],
       "topicId": "anemia-of-chronic-disease-inflammation",
-      "topicName": "Anemia of Chronic Disease/Inflammation"
+      "topicName": "Anemia of Chronic Disease/Inflammation",
+      "tier": "extra"
     },
     {
       "id": "bl07-034",
@@ -11516,7 +11765,8 @@
         "negative acute-phase reactant"
       ],
       "topicId": "anemia-of-chronic-disease-inflammation",
-      "topicName": "Anemia of Chronic Disease/Inflammation"
+      "topicName": "Anemia of Chronic Disease/Inflammation",
+      "tier": "extra"
     },
     {
       "id": "bl07-035",
@@ -11562,7 +11812,8 @@
         "severe anemia"
       ],
       "topicId": "anemia-of-chronic-disease-inflammation",
-      "topicName": "Anemia of Chronic Disease/Inflammation"
+      "topicName": "Anemia of Chronic Disease/Inflammation",
+      "tier": "extra"
     },
     {
       "id": "bl07-036",
@@ -11608,7 +11859,8 @@
         "management"
       ],
       "topicId": "anemia-of-chronic-disease-inflammation",
-      "topicName": "Anemia of Chronic Disease/Inflammation"
+      "topicName": "Anemia of Chronic Disease/Inflammation",
+      "tier": "extra"
     },
     {
       "id": "bl08-001",
@@ -11654,7 +11906,8 @@
         "ringed sideroblasts"
       ],
       "topicId": "sideroblastic-anemia",
-      "topicName": "Sideroblastic Anemia"
+      "topicName": "Sideroblastic Anemia",
+      "tier": "core"
     },
     {
       "id": "bl08-002",
@@ -11700,7 +11953,8 @@
         "Pappenheimer bodies"
       ],
       "topicId": "sideroblastic-anemia",
-      "topicName": "Sideroblastic Anemia"
+      "topicName": "Sideroblastic Anemia",
+      "tier": "core"
     },
     {
       "id": "bl08-003",
@@ -11747,7 +12001,8 @@
         "vitamin B6"
       ],
       "topicId": "sideroblastic-anemia",
-      "topicName": "Sideroblastic Anemia"
+      "topicName": "Sideroblastic Anemia",
+      "tier": "core"
     },
     {
       "id": "bl08-004",
@@ -11794,7 +12049,8 @@
         "X-linked"
       ],
       "topicId": "sideroblastic-anemia",
-      "topicName": "Sideroblastic Anemia"
+      "topicName": "Sideroblastic Anemia",
+      "tier": "core"
     },
     {
       "id": "bl08-005",
@@ -11841,7 +12097,8 @@
         "enzymes"
       ],
       "topicId": "sideroblastic-anemia",
-      "topicName": "Sideroblastic Anemia"
+      "topicName": "Sideroblastic Anemia",
+      "tier": "core"
     },
     {
       "id": "bl08-006",
@@ -11888,7 +12145,8 @@
         "vitamin B6"
       ],
       "topicId": "sideroblastic-anemia",
-      "topicName": "Sideroblastic Anemia"
+      "topicName": "Sideroblastic Anemia",
+      "tier": "core"
     },
     {
       "id": "bl08-007",
@@ -11934,7 +12192,8 @@
         "diagnosis"
       ],
       "topicId": "sideroblastic-anemia",
-      "topicName": "Sideroblastic Anemia"
+      "topicName": "Sideroblastic Anemia",
+      "tier": "core"
     },
     {
       "id": "bl08-008",
@@ -11980,7 +12239,8 @@
         "secondary hemochromatosis"
       ],
       "topicId": "sideroblastic-anemia",
-      "topicName": "Sideroblastic Anemia"
+      "topicName": "Sideroblastic Anemia",
+      "tier": "core"
     },
     {
       "id": "bl08-009",
@@ -12026,7 +12286,8 @@
         "etiology"
       ],
       "topicId": "sideroblastic-anemia",
-      "topicName": "Sideroblastic Anemia"
+      "topicName": "Sideroblastic Anemia",
+      "tier": "core"
     },
     {
       "id": "bl08-010",
@@ -12073,7 +12334,8 @@
         "etiology"
       ],
       "topicId": "sideroblastic-anemia",
-      "topicName": "Sideroblastic Anemia"
+      "topicName": "Sideroblastic Anemia",
+      "tier": "core"
     },
     {
       "id": "bl08-011",
@@ -12120,7 +12382,8 @@
         "management"
       ],
       "topicId": "sideroblastic-anemia",
-      "topicName": "Sideroblastic Anemia"
+      "topicName": "Sideroblastic Anemia",
+      "tier": "core"
     },
     {
       "id": "bl08-012",
@@ -12166,7 +12429,8 @@
         "morphology"
       ],
       "topicId": "sideroblastic-anemia",
-      "topicName": "Sideroblastic Anemia"
+      "topicName": "Sideroblastic Anemia",
+      "tier": "core"
     },
     {
       "id": "bl08-013",
@@ -12213,7 +12477,8 @@
         "erythrocyte"
       ],
       "topicId": "sideroblastic-anemia",
-      "topicName": "Sideroblastic Anemia"
+      "topicName": "Sideroblastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl08-014",
@@ -12259,7 +12524,8 @@
         "ineffective erythropoiesis"
       ],
       "topicId": "sideroblastic-anemia",
-      "topicName": "Sideroblastic Anemia"
+      "topicName": "Sideroblastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl08-015",
@@ -12305,7 +12571,8 @@
         "infants"
       ],
       "topicId": "sideroblastic-anemia",
-      "topicName": "Sideroblastic Anemia"
+      "topicName": "Sideroblastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl08-016",
@@ -12352,7 +12619,8 @@
         "pediatrics"
       ],
       "topicId": "sideroblastic-anemia",
-      "topicName": "Sideroblastic Anemia"
+      "topicName": "Sideroblastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl08-017",
@@ -12399,7 +12667,8 @@
         "splenomegaly"
       ],
       "topicId": "sideroblastic-anemia",
-      "topicName": "Sideroblastic Anemia"
+      "topicName": "Sideroblastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl08-018",
@@ -12445,7 +12714,8 @@
         "prevention"
       ],
       "topicId": "sideroblastic-anemia",
-      "topicName": "Sideroblastic Anemia"
+      "topicName": "Sideroblastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl08-019",
@@ -12491,7 +12761,8 @@
         "pediatrics"
       ],
       "topicId": "sideroblastic-anemia",
-      "topicName": "Sideroblastic Anemia"
+      "topicName": "Sideroblastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl08-020",
@@ -12537,7 +12808,8 @@
         "biochemistry"
       ],
       "topicId": "sideroblastic-anemia",
-      "topicName": "Sideroblastic Anemia"
+      "topicName": "Sideroblastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl08-021",
@@ -12583,7 +12855,8 @@
         "biochemistry"
       ],
       "topicId": "sideroblastic-anemia",
-      "topicName": "Sideroblastic Anemia"
+      "topicName": "Sideroblastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl08-022",
@@ -12629,7 +12902,8 @@
         "biochemistry"
       ],
       "topicId": "sideroblastic-anemia",
-      "topicName": "Sideroblastic Anemia"
+      "topicName": "Sideroblastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl08-023",
@@ -12676,7 +12950,8 @@
         "hemolysis"
       ],
       "topicId": "sideroblastic-anemia",
-      "topicName": "Sideroblastic Anemia"
+      "topicName": "Sideroblastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl08-024",
@@ -12722,7 +12997,8 @@
         "laboratory findings"
       ],
       "topicId": "sideroblastic-anemia",
-      "topicName": "Sideroblastic Anemia"
+      "topicName": "Sideroblastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl08-025",
@@ -12769,7 +13045,8 @@
         "etiology"
       ],
       "topicId": "sideroblastic-anemia",
-      "topicName": "Sideroblastic Anemia"
+      "topicName": "Sideroblastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl08-026",
@@ -12816,7 +13093,8 @@
         "etiology"
       ],
       "topicId": "sideroblastic-anemia",
-      "topicName": "Sideroblastic Anemia"
+      "topicName": "Sideroblastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl08-027",
@@ -12862,7 +13140,8 @@
         "management"
       ],
       "topicId": "sideroblastic-anemia",
-      "topicName": "Sideroblastic Anemia"
+      "topicName": "Sideroblastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl08-028",
@@ -12909,7 +13188,8 @@
         "management"
       ],
       "topicId": "sideroblastic-anemia",
-      "topicName": "Sideroblastic Anemia"
+      "topicName": "Sideroblastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl08-029",
@@ -12955,7 +13235,8 @@
         "risk factors"
       ],
       "topicId": "sideroblastic-anemia",
-      "topicName": "Sideroblastic Anemia"
+      "topicName": "Sideroblastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl08-030",
@@ -13002,7 +13283,8 @@
         "ALAS"
       ],
       "topicId": "sideroblastic-anemia",
-      "topicName": "Sideroblastic Anemia"
+      "topicName": "Sideroblastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl08-031",
@@ -13049,7 +13331,8 @@
         "pediatrics"
       ],
       "topicId": "sideroblastic-anemia",
-      "topicName": "Sideroblastic Anemia"
+      "topicName": "Sideroblastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl08-032",
@@ -13095,7 +13378,8 @@
         "bone marrow biopsy"
       ],
       "topicId": "sideroblastic-anemia",
-      "topicName": "Sideroblastic Anemia"
+      "topicName": "Sideroblastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl08-033",
@@ -13141,7 +13425,8 @@
         "erythroid hyperplasia"
       ],
       "topicId": "sideroblastic-anemia",
-      "topicName": "Sideroblastic Anemia"
+      "topicName": "Sideroblastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl08-034",
@@ -13187,7 +13472,8 @@
         "dimorphic RBCs"
       ],
       "topicId": "sideroblastic-anemia",
-      "topicName": "Sideroblastic Anemia"
+      "topicName": "Sideroblastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl08-035",
@@ -13233,7 +13519,8 @@
         "laboratory findings"
       ],
       "topicId": "sideroblastic-anemia",
-      "topicName": "Sideroblastic Anemia"
+      "topicName": "Sideroblastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl08-036",
@@ -13280,7 +13567,8 @@
         "vitamin B6"
       ],
       "topicId": "sideroblastic-anemia",
-      "topicName": "Sideroblastic Anemia"
+      "topicName": "Sideroblastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl09-001",
@@ -13326,7 +13614,8 @@
         "hematocrit"
       ],
       "topicId": "red-blood-cell-laboratory-tests-b09",
-      "topicName": "Red Blood Cell Laboratory Tests"
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "core"
     },
     {
       "id": "bl09-002",
@@ -13372,7 +13661,8 @@
         "hemoglobinopathy"
       ],
       "topicId": "red-blood-cell-laboratory-tests-b09",
-      "topicName": "Red Blood Cell Laboratory Tests"
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "core"
     },
     {
       "id": "bl09-003",
@@ -13418,7 +13708,8 @@
         "blood smear"
       ],
       "topicId": "red-blood-cell-laboratory-tests-b09",
-      "topicName": "Red Blood Cell Laboratory Tests"
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "core"
     },
     {
       "id": "bl09-004",
@@ -13464,7 +13755,8 @@
         "RBC indices"
       ],
       "topicId": "red-blood-cell-laboratory-tests-b09",
-      "topicName": "Red Blood Cell Laboratory Tests"
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "core"
     },
     {
       "id": "bl09-005",
@@ -13510,7 +13802,8 @@
         "myelofibrosis"
       ],
       "topicId": "red-blood-cell-laboratory-tests-b09",
-      "topicName": "Red Blood Cell Laboratory Tests"
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "core"
     },
     {
       "id": "bl09-006",
@@ -13556,7 +13849,8 @@
         "spherocyte"
       ],
       "topicId": "red-blood-cell-laboratory-tests-b09",
-      "topicName": "Red Blood Cell Laboratory Tests"
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "core"
     },
     {
       "id": "bl09-007",
@@ -13602,7 +13896,8 @@
         "Coombs"
       ],
       "topicId": "red-blood-cell-laboratory-tests-b09",
-      "topicName": "Red Blood Cell Laboratory Tests"
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "core"
     },
     {
       "id": "bl09-008",
@@ -13648,7 +13943,8 @@
         "hemoglobin types"
       ],
       "topicId": "red-blood-cell-laboratory-tests-b09",
-      "topicName": "Red Blood Cell Laboratory Tests"
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "core"
     },
     {
       "id": "bl09-009",
@@ -13694,7 +13990,8 @@
         "bone marrow"
       ],
       "topicId": "red-blood-cell-laboratory-tests-b09",
-      "topicName": "Red Blood Cell Laboratory Tests"
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "core"
     },
     {
       "id": "bl09-010",
@@ -13740,7 +14037,8 @@
         "G6PD deficiency"
       ],
       "topicId": "red-blood-cell-laboratory-tests-b09",
-      "topicName": "Red Blood Cell Laboratory Tests"
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "core"
     },
     {
       "id": "bl09-011",
@@ -13786,7 +14084,8 @@
         "lead poisoning"
       ],
       "topicId": "red-blood-cell-laboratory-tests-b09",
-      "topicName": "Red Blood Cell Laboratory Tests"
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "core"
     },
     {
       "id": "bl09-012",
@@ -13832,7 +14131,8 @@
         "CBC"
       ],
       "topicId": "red-blood-cell-laboratory-tests-b09",
-      "topicName": "Red Blood Cell Laboratory Tests"
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "core"
     },
     {
       "id": "bl10-001",
@@ -13878,7 +14178,8 @@
         "pathophysiology"
       ],
       "topicId": "aplastic-anemia",
-      "topicName": "Aplastic Anemia"
+      "topicName": "Aplastic Anemia",
+      "tier": "core"
     },
     {
       "id": "bl10-002",
@@ -13924,7 +14225,8 @@
         "laboratory findings"
       ],
       "topicId": "aplastic-anemia",
-      "topicName": "Aplastic Anemia"
+      "topicName": "Aplastic Anemia",
+      "tier": "core"
     },
     {
       "id": "bl10-003",
@@ -13970,7 +14272,8 @@
         "diagnosis"
       ],
       "topicId": "aplastic-anemia",
-      "topicName": "Aplastic Anemia"
+      "topicName": "Aplastic Anemia",
+      "tier": "core"
     },
     {
       "id": "bl10-004",
@@ -14016,7 +14319,8 @@
         "radiation"
       ],
       "topicId": "aplastic-anemia",
-      "topicName": "Aplastic Anemia"
+      "topicName": "Aplastic Anemia",
+      "tier": "core"
     },
     {
       "id": "bl10-005",
@@ -14062,7 +14366,8 @@
         "drug-induced"
       ],
       "topicId": "aplastic-anemia",
-      "topicName": "Aplastic Anemia"
+      "topicName": "Aplastic Anemia",
+      "tier": "core"
     },
     {
       "id": "bl10-006",
@@ -14108,7 +14413,8 @@
         "hereditary"
       ],
       "topicId": "aplastic-anemia",
-      "topicName": "Aplastic Anemia"
+      "topicName": "Aplastic Anemia",
+      "tier": "core"
     },
     {
       "id": "bl10-007",
@@ -14154,7 +14460,8 @@
         "eltrombopag"
       ],
       "topicId": "aplastic-anemia",
-      "topicName": "Aplastic Anemia"
+      "topicName": "Aplastic Anemia",
+      "tier": "core"
     },
     {
       "id": "bl10-008",
@@ -14200,7 +14507,8 @@
         "complications"
       ],
       "topicId": "aplastic-anemia",
-      "topicName": "Aplastic Anemia"
+      "topicName": "Aplastic Anemia",
+      "tier": "core"
     },
     {
       "id": "bl10-009",
@@ -14246,7 +14554,8 @@
         "diagnosis"
       ],
       "topicId": "aplastic-anemia",
-      "topicName": "Aplastic Anemia"
+      "topicName": "Aplastic Anemia",
+      "tier": "core"
     },
     {
       "id": "bl10-010",
@@ -14292,7 +14601,8 @@
         "congenital"
       ],
       "topicId": "aplastic-anemia",
-      "topicName": "Aplastic Anemia"
+      "topicName": "Aplastic Anemia",
+      "tier": "core"
     },
     {
       "id": "bl10-011",
@@ -14337,7 +14647,8 @@
         "prognosis"
       ],
       "topicId": "aplastic-anemia",
-      "topicName": "Aplastic Anemia"
+      "topicName": "Aplastic Anemia",
+      "tier": "core"
     },
     {
       "id": "bl10-012",
@@ -14382,7 +14693,8 @@
         "complications"
       ],
       "topicId": "aplastic-anemia",
-      "topicName": "Aplastic Anemia"
+      "topicName": "Aplastic Anemia",
+      "tier": "core"
     },
     {
       "id": "bl10-013",
@@ -14428,7 +14740,8 @@
         "environmental exposure"
       ],
       "topicId": "aplastic-anemia",
-      "topicName": "Aplastic Anemia"
+      "topicName": "Aplastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl10-014",
@@ -14474,7 +14787,8 @@
         "differential diagnosis"
       ],
       "topicId": "aplastic-anemia",
-      "topicName": "Aplastic Anemia"
+      "topicName": "Aplastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl10-015",
@@ -14519,7 +14833,8 @@
         "myeloid lineage"
       ],
       "topicId": "aplastic-anemia",
-      "topicName": "Aplastic Anemia"
+      "topicName": "Aplastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl10-016",
@@ -14564,7 +14879,8 @@
         "etiology"
       ],
       "topicId": "aplastic-anemia",
-      "topicName": "Aplastic Anemia"
+      "topicName": "Aplastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl10-017",
@@ -14610,7 +14926,8 @@
         "mechanism"
       ],
       "topicId": "aplastic-anemia",
-      "topicName": "Aplastic Anemia"
+      "topicName": "Aplastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl10-018",
@@ -14656,7 +14973,8 @@
         "chemotherapy"
       ],
       "topicId": "aplastic-anemia",
-      "topicName": "Aplastic Anemia"
+      "topicName": "Aplastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl10-019",
@@ -14702,7 +15020,8 @@
         "mechanism"
       ],
       "topicId": "aplastic-anemia",
-      "topicName": "Aplastic Anemia"
+      "topicName": "Aplastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl10-020",
@@ -14748,7 +15067,8 @@
         "pharmacology"
       ],
       "topicId": "aplastic-anemia",
-      "topicName": "Aplastic Anemia"
+      "topicName": "Aplastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl10-021",
@@ -14794,7 +15114,8 @@
         "mechanism"
       ],
       "topicId": "aplastic-anemia",
-      "topicName": "Aplastic Anemia"
+      "topicName": "Aplastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl10-022",
@@ -14840,7 +15161,8 @@
         "systemic lupus erythematosus"
       ],
       "topicId": "aplastic-anemia",
-      "topicName": "Aplastic Anemia"
+      "topicName": "Aplastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl10-023",
@@ -14886,7 +15208,8 @@
         "acquired mutation"
       ],
       "topicId": "aplastic-anemia",
-      "topicName": "Aplastic Anemia"
+      "topicName": "Aplastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl10-024",
@@ -14932,7 +15255,8 @@
         "hereditary"
       ],
       "topicId": "aplastic-anemia",
-      "topicName": "Aplastic Anemia"
+      "topicName": "Aplastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl10-025",
@@ -14978,7 +15302,8 @@
         "natural history"
       ],
       "topicId": "aplastic-anemia",
-      "topicName": "Aplastic Anemia"
+      "topicName": "Aplastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl10-026",
@@ -15024,7 +15349,8 @@
         "pure red cell aplasia"
       ],
       "topicId": "aplastic-anemia",
-      "topicName": "Aplastic Anemia"
+      "topicName": "Aplastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl10-027",
@@ -15069,7 +15395,8 @@
         "management"
       ],
       "topicId": "aplastic-anemia",
-      "topicName": "Aplastic Anemia"
+      "topicName": "Aplastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl10-028",
@@ -15115,7 +15442,8 @@
         "aging"
       ],
       "topicId": "aplastic-anemia",
-      "topicName": "Aplastic Anemia"
+      "topicName": "Aplastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl10-029",
@@ -15161,7 +15489,8 @@
         "diagnosis"
       ],
       "topicId": "aplastic-anemia",
-      "topicName": "Aplastic Anemia"
+      "topicName": "Aplastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl10-030",
@@ -15207,7 +15536,8 @@
         "thrombocytopenia"
       ],
       "topicId": "aplastic-anemia",
-      "topicName": "Aplastic Anemia"
+      "topicName": "Aplastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl10-031",
@@ -15253,7 +15583,8 @@
         "peripheral smear"
       ],
       "topicId": "aplastic-anemia",
-      "topicName": "Aplastic Anemia"
+      "topicName": "Aplastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl10-032",
@@ -15298,7 +15629,8 @@
         "cancer predisposition"
       ],
       "topicId": "aplastic-anemia",
-      "topicName": "Aplastic Anemia"
+      "topicName": "Aplastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl10-033",
@@ -15344,7 +15676,8 @@
         "thrombotic microangiopathy"
       ],
       "topicId": "aplastic-anemia",
-      "topicName": "Aplastic Anemia"
+      "topicName": "Aplastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl10-034",
@@ -15390,7 +15723,8 @@
         "supportive care"
       ],
       "topicId": "aplastic-anemia",
-      "topicName": "Aplastic Anemia"
+      "topicName": "Aplastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl10-035",
@@ -15436,7 +15770,8 @@
         "immunosuppression"
       ],
       "topicId": "aplastic-anemia",
-      "topicName": "Aplastic Anemia"
+      "topicName": "Aplastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl10-036",
@@ -15482,7 +15817,8 @@
         "diagnosis"
       ],
       "topicId": "aplastic-anemia",
-      "topicName": "Aplastic Anemia"
+      "topicName": "Aplastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl11-001",
@@ -15528,7 +15864,8 @@
         "EMA binding"
       ],
       "topicId": "hereditary-spherocytosis",
-      "topicName": "Hereditary Spherocytosis"
+      "topicName": "Hereditary Spherocytosis",
+      "tier": "core"
     },
     {
       "id": "bl11-002",
@@ -15574,7 +15911,8 @@
         "hereditary spherocytosis"
       ],
       "topicId": "hereditary-spherocytosis",
-      "topicName": "Hereditary Spherocytosis"
+      "topicName": "Hereditary Spherocytosis",
+      "tier": "core"
     },
     {
       "id": "bl11-003",
@@ -15620,7 +15958,8 @@
         "differential"
       ],
       "topicId": "hereditary-spherocytosis",
-      "topicName": "Hereditary Spherocytosis"
+      "topicName": "Hereditary Spherocytosis",
+      "tier": "core"
     },
     {
       "id": "bl11-004",
@@ -15666,7 +16005,8 @@
         "membrane defects"
       ],
       "topicId": "hereditary-spherocytosis",
-      "topicName": "Hereditary Spherocytosis"
+      "topicName": "Hereditary Spherocytosis",
+      "tier": "core"
     },
     {
       "id": "bl11-005",
@@ -15712,7 +16052,8 @@
         "observation"
       ],
       "topicId": "hereditary-spherocytosis",
-      "topicName": "Hereditary Spherocytosis"
+      "topicName": "Hereditary Spherocytosis",
+      "tier": "core"
     },
     {
       "id": "bl11-006",
@@ -15758,7 +16099,8 @@
         "confirmatory test"
       ],
       "topicId": "hereditary-spherocytosis",
-      "topicName": "Hereditary Spherocytosis"
+      "topicName": "Hereditary Spherocytosis",
+      "tier": "core"
     },
     {
       "id": "bl11-007",
@@ -15804,7 +16146,8 @@
         "pathophysiology"
       ],
       "topicId": "hereditary-spherocytosis",
-      "topicName": "Hereditary Spherocytosis"
+      "topicName": "Hereditary Spherocytosis",
+      "tier": "core"
     },
     {
       "id": "bl11-008",
@@ -15850,7 +16193,8 @@
         "autoimmune hemolytic anemia"
       ],
       "topicId": "hereditary-spherocytosis",
-      "topicName": "Hereditary Spherocytosis"
+      "topicName": "Hereditary Spherocytosis",
+      "tier": "core"
     },
     {
       "id": "bl11-009",
@@ -15896,7 +16240,8 @@
         "complications"
       ],
       "topicId": "hereditary-spherocytosis",
-      "topicName": "Hereditary Spherocytosis"
+      "topicName": "Hereditary Spherocytosis",
+      "tier": "core"
     },
     {
       "id": "bl11-010",
@@ -15942,7 +16287,8 @@
         "pregnancy"
       ],
       "topicId": "hereditary-spherocytosis",
-      "topicName": "Hereditary Spherocytosis"
+      "topicName": "Hereditary Spherocytosis",
+      "tier": "core"
     },
     {
       "id": "bl11-011",
@@ -15988,7 +16334,8 @@
         "membrane defects"
       ],
       "topicId": "hereditary-spherocytosis",
-      "topicName": "Hereditary Spherocytosis"
+      "topicName": "Hereditary Spherocytosis",
+      "tier": "core"
     },
     {
       "id": "bl11-012",
@@ -16034,7 +16381,8 @@
         "morphology"
       ],
       "topicId": "hereditary-spherocytosis",
-      "topicName": "Hereditary Spherocytosis"
+      "topicName": "Hereditary Spherocytosis",
+      "tier": "core"
     },
     {
       "id": "bl11-013",
@@ -16080,7 +16428,8 @@
         "prevalence"
       ],
       "topicId": "hereditary-spherocytosis",
-      "topicName": "Hereditary Spherocytosis"
+      "topicName": "Hereditary Spherocytosis",
+      "tier": "extra"
     },
     {
       "id": "bl11-014",
@@ -16126,7 +16475,8 @@
         "inheritance"
       ],
       "topicId": "hereditary-spherocytosis",
-      "topicName": "Hereditary Spherocytosis"
+      "topicName": "Hereditary Spherocytosis",
+      "tier": "extra"
     },
     {
       "id": "bl11-015",
@@ -16172,7 +16522,8 @@
         "cytoskeleton"
       ],
       "topicId": "hereditary-spherocytosis",
-      "topicName": "Hereditary Spherocytosis"
+      "topicName": "Hereditary Spherocytosis",
+      "tier": "extra"
     },
     {
       "id": "bl11-016",
@@ -16218,7 +16569,8 @@
         "sodium-potassium pump"
       ],
       "topicId": "hereditary-spherocytosis",
-      "topicName": "Hereditary Spherocytosis"
+      "topicName": "Hereditary Spherocytosis",
+      "tier": "extra"
     },
     {
       "id": "bl11-017",
@@ -16264,7 +16616,8 @@
         "spleen"
       ],
       "topicId": "hereditary-spherocytosis",
-      "topicName": "Hereditary Spherocytosis"
+      "topicName": "Hereditary Spherocytosis",
+      "tier": "extra"
     },
     {
       "id": "bl11-018",
@@ -16310,7 +16663,8 @@
         "complications"
       ],
       "topicId": "hereditary-spherocytosis",
-      "topicName": "Hereditary Spherocytosis"
+      "topicName": "Hereditary Spherocytosis",
+      "tier": "extra"
     },
     {
       "id": "bl11-019",
@@ -16356,7 +16710,8 @@
         "pathophysiology"
       ],
       "topicId": "hereditary-spherocytosis",
-      "topicName": "Hereditary Spherocytosis"
+      "topicName": "Hereditary Spherocytosis",
+      "tier": "extra"
     },
     {
       "id": "bl11-020",
@@ -16402,7 +16757,8 @@
         "transfusion reaction"
       ],
       "topicId": "hereditary-spherocytosis",
-      "topicName": "Hereditary Spherocytosis"
+      "topicName": "Hereditary Spherocytosis",
+      "tier": "extra"
     },
     {
       "id": "bl11-021",
@@ -16448,7 +16804,8 @@
         "management"
       ],
       "topicId": "hereditary-spherocytosis",
-      "topicName": "Hereditary Spherocytosis"
+      "topicName": "Hereditary Spherocytosis",
+      "tier": "extra"
     },
     {
       "id": "bl11-022",
@@ -16494,7 +16851,8 @@
         "management"
       ],
       "topicId": "hereditary-spherocytosis",
-      "topicName": "Hereditary Spherocytosis"
+      "topicName": "Hereditary Spherocytosis",
+      "tier": "extra"
     },
     {
       "id": "bl11-023",
@@ -16540,7 +16898,8 @@
         "severe disease"
       ],
       "topicId": "hereditary-spherocytosis",
-      "topicName": "Hereditary Spherocytosis"
+      "topicName": "Hereditary Spherocytosis",
+      "tier": "extra"
     },
     {
       "id": "bl11-024",
@@ -16586,7 +16945,8 @@
         "laboratory interpretation"
       ],
       "topicId": "hereditary-spherocytosis",
-      "topicName": "Hereditary Spherocytosis"
+      "topicName": "Hereditary Spherocytosis",
+      "tier": "extra"
     },
     {
       "id": "bl11-025",
@@ -16632,7 +16992,8 @@
         "normocytic anemia"
       ],
       "topicId": "hereditary-spherocytosis",
-      "topicName": "Hereditary Spherocytosis"
+      "topicName": "Hereditary Spherocytosis",
+      "tier": "extra"
     },
     {
       "id": "bl11-026",
@@ -16678,7 +17039,8 @@
         "laboratory findings"
       ],
       "topicId": "hereditary-spherocytosis",
-      "topicName": "Hereditary Spherocytosis"
+      "topicName": "Hereditary Spherocytosis",
+      "tier": "extra"
     },
     {
       "id": "bl11-027",
@@ -16724,7 +17086,8 @@
         "hemolysis"
       ],
       "topicId": "hereditary-spherocytosis",
-      "topicName": "Hereditary Spherocytosis"
+      "topicName": "Hereditary Spherocytosis",
+      "tier": "extra"
     },
     {
       "id": "bl11-028",
@@ -16770,7 +17133,8 @@
         "laboratory findings"
       ],
       "topicId": "hereditary-spherocytosis",
-      "topicName": "Hereditary Spherocytosis"
+      "topicName": "Hereditary Spherocytosis",
+      "tier": "extra"
     },
     {
       "id": "bl11-029",
@@ -16816,7 +17180,8 @@
         "hemolysis"
       ],
       "topicId": "hereditary-spherocytosis",
-      "topicName": "Hereditary Spherocytosis"
+      "topicName": "Hereditary Spherocytosis",
+      "tier": "extra"
     },
     {
       "id": "bl11-030",
@@ -16862,7 +17227,8 @@
         "diagnosis"
       ],
       "topicId": "hereditary-spherocytosis",
-      "topicName": "Hereditary Spherocytosis"
+      "topicName": "Hereditary Spherocytosis",
+      "tier": "extra"
     },
     {
       "id": "bl11-031",
@@ -16908,7 +17274,8 @@
         "diagnosis"
       ],
       "topicId": "hereditary-spherocytosis",
-      "topicName": "Hereditary Spherocytosis"
+      "topicName": "Hereditary Spherocytosis",
+      "tier": "extra"
     },
     {
       "id": "bl11-032",
@@ -16954,7 +17321,8 @@
         "band 3"
       ],
       "topicId": "hereditary-spherocytosis",
-      "topicName": "Hereditary Spherocytosis"
+      "topicName": "Hereditary Spherocytosis",
+      "tier": "extra"
     },
     {
       "id": "bl11-033",
@@ -17000,7 +17368,8 @@
         "diagnosis"
       ],
       "topicId": "hereditary-spherocytosis",
-      "topicName": "Hereditary Spherocytosis"
+      "topicName": "Hereditary Spherocytosis",
+      "tier": "extra"
     },
     {
       "id": "bl11-034",
@@ -17046,7 +17415,8 @@
         "inheritance"
       ],
       "topicId": "hereditary-spherocytosis",
-      "topicName": "Hereditary Spherocytosis"
+      "topicName": "Hereditary Spherocytosis",
+      "tier": "extra"
     },
     {
       "id": "bl11-035",
@@ -17092,7 +17462,8 @@
         "hemoglobin"
       ],
       "topicId": "hereditary-spherocytosis",
-      "topicName": "Hereditary Spherocytosis"
+      "topicName": "Hereditary Spherocytosis",
+      "tier": "extra"
     },
     {
       "id": "bl11-036",
@@ -17138,7 +17509,8 @@
         "differential diagnosis"
       ],
       "topicId": "hereditary-spherocytosis",
-      "topicName": "Hereditary Spherocytosis"
+      "topicName": "Hereditary Spherocytosis",
+      "tier": "extra"
     },
     {
       "id": "bl12-001",
@@ -17183,7 +17555,8 @@
         "molecular basis"
       ],
       "topicId": "sickle-cell-disease",
-      "topicName": "Sickle Cell Disease"
+      "topicName": "Sickle Cell Disease",
+      "tier": "core"
     },
     {
       "id": "bl12-002",
@@ -17228,7 +17601,8 @@
         "hemoglobin"
       ],
       "topicId": "sickle-cell-disease",
-      "topicName": "Sickle Cell Disease"
+      "topicName": "Sickle Cell Disease",
+      "tier": "core"
     },
     {
       "id": "bl12-003",
@@ -17273,7 +17647,8 @@
         "oxygen dissociation curve"
       ],
       "topicId": "sickle-cell-disease",
-      "topicName": "Sickle Cell Disease"
+      "topicName": "Sickle Cell Disease",
+      "tier": "core"
     },
     {
       "id": "bl12-004",
@@ -17318,7 +17693,8 @@
         "hemoglobin polymerization"
       ],
       "topicId": "sickle-cell-disease",
-      "topicName": "Sickle Cell Disease"
+      "topicName": "Sickle Cell Disease",
+      "tier": "core"
     },
     {
       "id": "bl12-005",
@@ -17363,7 +17739,8 @@
         "inheritance"
       ],
       "topicId": "sickle-cell-disease",
-      "topicName": "Sickle Cell Disease"
+      "topicName": "Sickle Cell Disease",
+      "tier": "core"
     },
     {
       "id": "bl12-006",
@@ -17409,7 +17786,8 @@
         "infection"
       ],
       "topicId": "sickle-cell-disease",
-      "topicName": "Sickle Cell Disease"
+      "topicName": "Sickle Cell Disease",
+      "tier": "core"
     },
     {
       "id": "bl12-007",
@@ -17455,7 +17833,8 @@
         "management"
       ],
       "topicId": "sickle-cell-disease",
-      "topicName": "Sickle Cell Disease"
+      "topicName": "Sickle Cell Disease",
+      "tier": "core"
     },
     {
       "id": "bl12-008",
@@ -17501,7 +17880,8 @@
         "fetal hemoglobin"
       ],
       "topicId": "sickle-cell-disease",
-      "topicName": "Sickle Cell Disease"
+      "topicName": "Sickle Cell Disease",
+      "tier": "core"
     },
     {
       "id": "bl12-009",
@@ -17547,7 +17927,8 @@
         "parvovirus B19"
       ],
       "topicId": "sickle-cell-disease",
-      "topicName": "Sickle Cell Disease"
+      "topicName": "Sickle Cell Disease",
+      "tier": "core"
     },
     {
       "id": "bl12-010",
@@ -17593,7 +17974,8 @@
         "asplenia"
       ],
       "topicId": "sickle-cell-disease",
-      "topicName": "Sickle Cell Disease"
+      "topicName": "Sickle Cell Disease",
+      "tier": "core"
     },
     {
       "id": "bl12-011",
@@ -17638,7 +18020,8 @@
         "pathology"
       ],
       "topicId": "sickle-cell-disease",
-      "topicName": "Sickle Cell Disease"
+      "topicName": "Sickle Cell Disease",
+      "tier": "core"
     },
     {
       "id": "bl12-012",
@@ -17684,7 +18067,8 @@
         "analgesia"
       ],
       "topicId": "sickle-cell-disease",
-      "topicName": "Sickle Cell Disease"
+      "topicName": "Sickle Cell Disease",
+      "tier": "core"
     },
     {
       "id": "bl12-013",
@@ -17729,7 +18113,8 @@
         "prevalence"
       ],
       "topicId": "sickle-cell-disease",
-      "topicName": "Sickle Cell Disease"
+      "topicName": "Sickle Cell Disease",
+      "tier": "extra"
     },
     {
       "id": "bl12-014",
@@ -17775,7 +18160,8 @@
         "pathophysiology"
       ],
       "topicId": "sickle-cell-disease",
-      "topicName": "Sickle Cell Disease"
+      "topicName": "Sickle Cell Disease",
+      "tier": "extra"
     },
     {
       "id": "bl12-015",
@@ -17821,7 +18207,8 @@
         "complications"
       ],
       "topicId": "sickle-cell-disease",
-      "topicName": "Sickle Cell Disease"
+      "topicName": "Sickle Cell Disease",
+      "tier": "extra"
     },
     {
       "id": "bl12-016",
@@ -17867,7 +18254,8 @@
         "pathology"
       ],
       "topicId": "sickle-cell-disease",
-      "topicName": "Sickle Cell Disease"
+      "topicName": "Sickle Cell Disease",
+      "tier": "extra"
     },
     {
       "id": "bl12-017",
@@ -17913,7 +18301,8 @@
         "pathophysiology"
       ],
       "topicId": "sickle-cell-disease",
-      "topicName": "Sickle Cell Disease"
+      "topicName": "Sickle Cell Disease",
+      "tier": "extra"
     },
     {
       "id": "bl12-018",
@@ -17959,7 +18348,8 @@
         "lifestyle"
       ],
       "topicId": "sickle-cell-disease",
-      "topicName": "Sickle Cell Disease"
+      "topicName": "Sickle Cell Disease",
+      "tier": "extra"
     },
     {
       "id": "bl12-019",
@@ -18005,7 +18395,8 @@
         "spleen"
       ],
       "topicId": "sickle-cell-disease",
-      "topicName": "Sickle Cell Disease"
+      "topicName": "Sickle Cell Disease",
+      "tier": "extra"
     },
     {
       "id": "bl12-020",
@@ -18051,7 +18442,8 @@
         "bilirubin"
       ],
       "topicId": "sickle-cell-disease",
-      "topicName": "Sickle Cell Disease"
+      "topicName": "Sickle Cell Disease",
+      "tier": "extra"
     },
     {
       "id": "bl12-021",
@@ -18097,7 +18489,8 @@
         "vaso-occlusion"
       ],
       "topicId": "sickle-cell-disease",
-      "topicName": "Sickle Cell Disease"
+      "topicName": "Sickle Cell Disease",
+      "tier": "extra"
     },
     {
       "id": "bl12-022",
@@ -18143,7 +18536,8 @@
         "vaso-occlusion"
       ],
       "topicId": "sickle-cell-disease",
-      "topicName": "Sickle Cell Disease"
+      "topicName": "Sickle Cell Disease",
+      "tier": "extra"
     },
     {
       "id": "bl12-023",
@@ -18189,7 +18583,8 @@
         "vaso-occlusion"
       ],
       "topicId": "sickle-cell-disease",
-      "topicName": "Sickle Cell Disease"
+      "topicName": "Sickle Cell Disease",
+      "tier": "extra"
     },
     {
       "id": "bl12-024",
@@ -18235,7 +18630,8 @@
         "diagnosis"
       ],
       "topicId": "sickle-cell-disease",
-      "topicName": "Sickle Cell Disease"
+      "topicName": "Sickle Cell Disease",
+      "tier": "extra"
     },
     {
       "id": "bl12-025",
@@ -18281,7 +18677,8 @@
         "hemolytic anemia"
       ],
       "topicId": "sickle-cell-disease",
-      "topicName": "Sickle Cell Disease"
+      "topicName": "Sickle Cell Disease",
+      "tier": "extra"
     },
     {
       "id": "bl12-026",
@@ -18327,7 +18724,8 @@
         "peripheral smear"
       ],
       "topicId": "sickle-cell-disease",
-      "topicName": "Sickle Cell Disease"
+      "topicName": "Sickle Cell Disease",
+      "tier": "extra"
     },
     {
       "id": "bl12-027",
@@ -18373,7 +18771,8 @@
         "diagnosis"
       ],
       "topicId": "sickle-cell-disease",
-      "topicName": "Sickle Cell Disease"
+      "topicName": "Sickle Cell Disease",
+      "tier": "extra"
     },
     {
       "id": "bl12-028",
@@ -18419,7 +18818,8 @@
         "haptoglobin"
       ],
       "topicId": "sickle-cell-disease",
-      "topicName": "Sickle Cell Disease"
+      "topicName": "Sickle Cell Disease",
+      "tier": "extra"
     },
     {
       "id": "bl12-029",
@@ -18465,7 +18865,8 @@
         "hemoglobin"
       ],
       "topicId": "sickle-cell-disease",
-      "topicName": "Sickle Cell Disease"
+      "topicName": "Sickle Cell Disease",
+      "tier": "extra"
     },
     {
       "id": "bl12-030",
@@ -18511,7 +18912,8 @@
         "diagnosis"
       ],
       "topicId": "sickle-cell-disease",
-      "topicName": "Sickle Cell Disease"
+      "topicName": "Sickle Cell Disease",
+      "tier": "extra"
     },
     {
       "id": "bl12-031",
@@ -18557,7 +18959,8 @@
         "infection prevention"
       ],
       "topicId": "sickle-cell-disease",
-      "topicName": "Sickle Cell Disease"
+      "topicName": "Sickle Cell Disease",
+      "tier": "extra"
     },
     {
       "id": "bl12-032",
@@ -18603,7 +19006,8 @@
         "management"
       ],
       "topicId": "sickle-cell-disease",
-      "topicName": "Sickle Cell Disease"
+      "topicName": "Sickle Cell Disease",
+      "tier": "extra"
     },
     {
       "id": "bl12-033",
@@ -18649,7 +19053,8 @@
         "anemia"
       ],
       "topicId": "sickle-cell-disease",
-      "topicName": "Sickle Cell Disease"
+      "topicName": "Sickle Cell Disease",
+      "tier": "extra"
     },
     {
       "id": "bl12-034",
@@ -18695,7 +19100,8 @@
         "hydration"
       ],
       "topicId": "sickle-cell-disease",
-      "topicName": "Sickle Cell Disease"
+      "topicName": "Sickle Cell Disease",
+      "tier": "extra"
     },
     {
       "id": "bl12-035",
@@ -18741,7 +19147,8 @@
         "curative therapy"
       ],
       "topicId": "sickle-cell-disease",
-      "topicName": "Sickle Cell Disease"
+      "topicName": "Sickle Cell Disease",
+      "tier": "extra"
     },
     {
       "id": "bl12-036",
@@ -18787,7 +19194,8 @@
         "electrophoresis"
       ],
       "topicId": "sickle-cell-disease",
-      "topicName": "Sickle Cell Disease"
+      "topicName": "Sickle Cell Disease",
+      "tier": "extra"
     },
     {
       "id": "bl13-001",
@@ -18833,7 +19241,8 @@
         "normocytic anemia"
       ],
       "topicId": "g6pd-and-pyruvate-kinase-deficiencies",
-      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies"
+      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+      "tier": "core"
     },
     {
       "id": "bl13-002",
@@ -18879,7 +19288,8 @@
         "trigger avoidance"
       ],
       "topicId": "g6pd-and-pyruvate-kinase-deficiencies",
-      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies"
+      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+      "tier": "core"
     },
     {
       "id": "bl13-003",
@@ -18925,7 +19335,8 @@
         "NADPH"
       ],
       "topicId": "g6pd-and-pyruvate-kinase-deficiencies",
-      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies"
+      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+      "tier": "core"
     },
     {
       "id": "bl13-004",
@@ -18971,7 +19382,8 @@
         "neonatal anemia"
       ],
       "topicId": "g6pd-and-pyruvate-kinase-deficiencies",
-      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies"
+      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+      "tier": "core"
     },
     {
       "id": "bl13-005",
@@ -19017,7 +19429,8 @@
         "peripheral smear"
       ],
       "topicId": "g6pd-and-pyruvate-kinase-deficiencies",
-      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies"
+      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+      "tier": "core"
     },
     {
       "id": "bl13-006",
@@ -19063,7 +19476,8 @@
         "spleen"
       ],
       "topicId": "g6pd-and-pyruvate-kinase-deficiencies",
-      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies"
+      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+      "tier": "core"
     },
     {
       "id": "bl13-007",
@@ -19109,7 +19523,8 @@
         "enzyme assay"
       ],
       "topicId": "g6pd-and-pyruvate-kinase-deficiencies",
-      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies"
+      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+      "tier": "core"
     },
     {
       "id": "bl13-008",
@@ -19155,7 +19570,8 @@
         "X-linked"
       ],
       "topicId": "g6pd-and-pyruvate-kinase-deficiencies",
-      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies"
+      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+      "tier": "core"
     },
     {
       "id": "bl13-009",
@@ -19201,7 +19617,8 @@
         "oxidative hemolysis"
       ],
       "topicId": "g6pd-and-pyruvate-kinase-deficiencies",
-      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies"
+      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+      "tier": "core"
     },
     {
       "id": "bl13-010",
@@ -19247,7 +19664,8 @@
         "hemoglobinuria"
       ],
       "topicId": "g6pd-and-pyruvate-kinase-deficiencies",
-      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies"
+      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+      "tier": "core"
     },
     {
       "id": "bl13-011",
@@ -19293,7 +19711,8 @@
         "glycolysis"
       ],
       "topicId": "g6pd-and-pyruvate-kinase-deficiencies",
-      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies"
+      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+      "tier": "core"
     },
     {
       "id": "bl13-012",
@@ -19339,7 +19758,8 @@
         "hemolysis"
       ],
       "topicId": "g6pd-and-pyruvate-kinase-deficiencies",
-      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies"
+      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+      "tier": "core"
     },
     {
       "id": "bl13-013",
@@ -19385,7 +19805,8 @@
         "prevalence"
       ],
       "topicId": "g6pd-and-pyruvate-kinase-deficiencies",
-      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies"
+      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+      "tier": "extra"
     },
     {
       "id": "bl13-014",
@@ -19431,7 +19852,8 @@
         "clinical correlation"
       ],
       "topicId": "g6pd-and-pyruvate-kinase-deficiencies",
-      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies"
+      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+      "tier": "extra"
     },
     {
       "id": "bl13-015",
@@ -19477,7 +19899,8 @@
         "red blood cell"
       ],
       "topicId": "g6pd-and-pyruvate-kinase-deficiencies",
-      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies"
+      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+      "tier": "extra"
     },
     {
       "id": "bl13-016",
@@ -19523,7 +19946,8 @@
         "antioxidant"
       ],
       "topicId": "g6pd-and-pyruvate-kinase-deficiencies",
-      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies"
+      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+      "tier": "extra"
     },
     {
       "id": "bl13-017",
@@ -19569,7 +19993,8 @@
         "biochemistry"
       ],
       "topicId": "g6pd-and-pyruvate-kinase-deficiencies",
-      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies"
+      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+      "tier": "extra"
     },
     {
       "id": "bl13-018",
@@ -19615,7 +20040,8 @@
         "self-limited hemolysis"
       ],
       "topicId": "g6pd-and-pyruvate-kinase-deficiencies",
-      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies"
+      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+      "tier": "extra"
     },
     {
       "id": "bl13-019",
@@ -19661,7 +20087,8 @@
         "reticulocyte"
       ],
       "topicId": "g6pd-and-pyruvate-kinase-deficiencies",
-      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies"
+      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+      "tier": "extra"
     },
     {
       "id": "bl13-020",
@@ -19707,7 +20134,8 @@
         "primaquine"
       ],
       "topicId": "g6pd-and-pyruvate-kinase-deficiencies",
-      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies"
+      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+      "tier": "extra"
     },
     {
       "id": "bl13-021",
@@ -19753,7 +20181,8 @@
         "management"
       ],
       "topicId": "g6pd-and-pyruvate-kinase-deficiencies",
-      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies"
+      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+      "tier": "extra"
     },
     {
       "id": "bl13-022",
@@ -19799,7 +20228,8 @@
         "haptoglobin"
       ],
       "topicId": "g6pd-and-pyruvate-kinase-deficiencies",
-      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies"
+      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+      "tier": "extra"
     },
     {
       "id": "bl13-023",
@@ -19845,7 +20275,8 @@
         "asymptomatic"
       ],
       "topicId": "g6pd-and-pyruvate-kinase-deficiencies",
-      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies"
+      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+      "tier": "extra"
     },
     {
       "id": "bl13-024",
@@ -19891,7 +20322,8 @@
         "extravascular hemolysis"
       ],
       "topicId": "g6pd-and-pyruvate-kinase-deficiencies",
-      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies"
+      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+      "tier": "extra"
     },
     {
       "id": "bl13-025",
@@ -19937,7 +20369,8 @@
         "peripheral smear"
       ],
       "topicId": "g6pd-and-pyruvate-kinase-deficiencies",
-      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies"
+      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+      "tier": "extra"
     },
     {
       "id": "bl13-026",
@@ -19983,7 +20416,8 @@
         "pathology"
       ],
       "topicId": "g6pd-and-pyruvate-kinase-deficiencies",
-      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies"
+      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+      "tier": "extra"
     },
     {
       "id": "bl13-027",
@@ -20029,7 +20463,8 @@
         "female carrier"
       ],
       "topicId": "g6pd-and-pyruvate-kinase-deficiencies",
-      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies"
+      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+      "tier": "extra"
     },
     {
       "id": "bl13-028",
@@ -20075,7 +20510,8 @@
         "genetics"
       ],
       "topicId": "g6pd-and-pyruvate-kinase-deficiencies",
-      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies"
+      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+      "tier": "extra"
     },
     {
       "id": "bl13-029",
@@ -20121,7 +20557,8 @@
         "oxygen affinity"
       ],
       "topicId": "g6pd-and-pyruvate-kinase-deficiencies",
-      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies"
+      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+      "tier": "extra"
     },
     {
       "id": "bl13-030",
@@ -20167,7 +20604,8 @@
         "genetics"
       ],
       "topicId": "g6pd-and-pyruvate-kinase-deficiencies",
-      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies"
+      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+      "tier": "extra"
     },
     {
       "id": "bl13-031",
@@ -20213,7 +20651,8 @@
         "chronic hemolysis"
       ],
       "topicId": "g6pd-and-pyruvate-kinase-deficiencies",
-      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies"
+      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+      "tier": "extra"
     },
     {
       "id": "bl13-032",
@@ -20259,7 +20698,8 @@
         "chelation"
       ],
       "topicId": "g6pd-and-pyruvate-kinase-deficiencies",
-      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies"
+      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+      "tier": "extra"
     },
     {
       "id": "bl13-033",
@@ -20305,7 +20745,8 @@
         "peripheral smear"
       ],
       "topicId": "g6pd-and-pyruvate-kinase-deficiencies",
-      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies"
+      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+      "tier": "extra"
     },
     {
       "id": "bl13-034",
@@ -20351,7 +20792,8 @@
         "enzyme assay"
       ],
       "topicId": "g6pd-and-pyruvate-kinase-deficiencies",
-      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies"
+      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+      "tier": "extra"
     },
     {
       "id": "bl13-035",
@@ -20397,7 +20839,8 @@
         "clinical spectrum"
       ],
       "topicId": "g6pd-and-pyruvate-kinase-deficiencies",
-      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies"
+      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+      "tier": "extra"
     },
     {
       "id": "bl13-036",
@@ -20443,7 +20886,8 @@
         "pathophysiology"
       ],
       "topicId": "g6pd-and-pyruvate-kinase-deficiencies",
-      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies"
+      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+      "tier": "extra"
     },
     {
       "id": "bl14-001",
@@ -20489,7 +20933,8 @@
         "spherocytes"
       ],
       "topicId": "autoimmune-hemolytic-anemias",
-      "topicName": "Autoimmune Hemolytic Anemias"
+      "topicName": "Autoimmune Hemolytic Anemias",
+      "tier": "core"
     },
     {
       "id": "bl14-002",
@@ -20535,7 +20980,8 @@
         "diagnosis"
       ],
       "topicId": "autoimmune-hemolytic-anemias",
-      "topicName": "Autoimmune Hemolytic Anemias"
+      "topicName": "Autoimmune Hemolytic Anemias",
+      "tier": "core"
     },
     {
       "id": "bl14-003",
@@ -20582,7 +21028,8 @@
         "Mycoplasma"
       ],
       "topicId": "autoimmune-hemolytic-anemias",
-      "topicName": "Autoimmune Hemolytic Anemias"
+      "topicName": "Autoimmune Hemolytic Anemias",
+      "tier": "core"
     },
     {
       "id": "bl14-004",
@@ -20628,7 +21075,8 @@
         "glucocorticoids"
       ],
       "topicId": "autoimmune-hemolytic-anemias",
-      "topicName": "Autoimmune Hemolytic Anemias"
+      "topicName": "Autoimmune Hemolytic Anemias",
+      "tier": "core"
     },
     {
       "id": "bl14-005",
@@ -20674,7 +21122,8 @@
         "lab findings"
       ],
       "topicId": "autoimmune-hemolytic-anemias",
-      "topicName": "Autoimmune Hemolytic Anemias"
+      "topicName": "Autoimmune Hemolytic Anemias",
+      "tier": "core"
     },
     {
       "id": "bl14-006",
@@ -20722,7 +21171,8 @@
         "flow cytometry"
       ],
       "topicId": "autoimmune-hemolytic-anemias",
-      "topicName": "Autoimmune Hemolytic Anemias"
+      "topicName": "Autoimmune Hemolytic Anemias",
+      "tier": "core"
     },
     {
       "id": "bl14-007",
@@ -20768,7 +21218,8 @@
         "extravascular hemolysis"
       ],
       "topicId": "autoimmune-hemolytic-anemias",
-      "topicName": "Autoimmune Hemolytic Anemias"
+      "topicName": "Autoimmune Hemolytic Anemias",
+      "tier": "core"
     },
     {
       "id": "bl14-008",
@@ -20814,7 +21265,8 @@
         "extravascular hemolysis"
       ],
       "topicId": "autoimmune-hemolytic-anemias",
-      "topicName": "Autoimmune Hemolytic Anemias"
+      "topicName": "Autoimmune Hemolytic Anemias",
+      "tier": "core"
     },
     {
       "id": "bl14-009",
@@ -20860,7 +21312,8 @@
         "rituximab"
       ],
       "topicId": "autoimmune-hemolytic-anemias",
-      "topicName": "Autoimmune Hemolytic Anemias"
+      "topicName": "Autoimmune Hemolytic Anemias",
+      "tier": "core"
     },
     {
       "id": "bl14-010",
@@ -20906,7 +21359,8 @@
         "P antigen"
       ],
       "topicId": "autoimmune-hemolytic-anemias",
-      "topicName": "Autoimmune Hemolytic Anemias"
+      "topicName": "Autoimmune Hemolytic Anemias",
+      "tier": "core"
     },
     {
       "id": "bl14-011",
@@ -20953,7 +21407,8 @@
         "thrombosis"
       ],
       "topicId": "autoimmune-hemolytic-anemias",
-      "topicName": "Autoimmune Hemolytic Anemias"
+      "topicName": "Autoimmune Hemolytic Anemias",
+      "tier": "core"
     },
     {
       "id": "bl14-012",
@@ -20999,7 +21454,8 @@
         "Coombs reagent"
       ],
       "topicId": "autoimmune-hemolytic-anemias",
-      "topicName": "Autoimmune Hemolytic Anemias"
+      "topicName": "Autoimmune Hemolytic Anemias",
+      "tier": "core"
     },
     {
       "id": "bl14-013",
@@ -21045,7 +21501,8 @@
         "incidence"
       ],
       "topicId": "autoimmune-hemolytic-anemias",
-      "topicName": "Autoimmune Hemolytic Anemias"
+      "topicName": "Autoimmune Hemolytic Anemias",
+      "tier": "extra"
     },
     {
       "id": "bl14-014",
@@ -21091,7 +21548,8 @@
         "splenic sequestration"
       ],
       "topicId": "autoimmune-hemolytic-anemias",
-      "topicName": "Autoimmune Hemolytic Anemias"
+      "topicName": "Autoimmune Hemolytic Anemias",
+      "tier": "extra"
     },
     {
       "id": "bl14-015",
@@ -21138,7 +21596,8 @@
         "etiology"
       ],
       "topicId": "autoimmune-hemolytic-anemias",
-      "topicName": "Autoimmune Hemolytic Anemias"
+      "topicName": "Autoimmune Hemolytic Anemias",
+      "tier": "extra"
     },
     {
       "id": "bl14-016",
@@ -21184,7 +21643,8 @@
         "lymphoproliferative disorders"
       ],
       "topicId": "autoimmune-hemolytic-anemias",
-      "topicName": "Autoimmune Hemolytic Anemias"
+      "topicName": "Autoimmune Hemolytic Anemias",
+      "tier": "extra"
     },
     {
       "id": "bl14-017",
@@ -21230,7 +21690,8 @@
         "splenic macrophage"
       ],
       "topicId": "autoimmune-hemolytic-anemias",
-      "topicName": "Autoimmune Hemolytic Anemias"
+      "topicName": "Autoimmune Hemolytic Anemias",
+      "tier": "extra"
     },
     {
       "id": "bl14-018",
@@ -21276,7 +21737,8 @@
         "warm AHA"
       ],
       "topicId": "autoimmune-hemolytic-anemias",
-      "topicName": "Autoimmune Hemolytic Anemias"
+      "topicName": "Autoimmune Hemolytic Anemias",
+      "tier": "extra"
     },
     {
       "id": "bl14-019",
@@ -21322,7 +21784,8 @@
         "DAT negative"
       ],
       "topicId": "autoimmune-hemolytic-anemias",
-      "topicName": "Autoimmune Hemolytic Anemias"
+      "topicName": "Autoimmune Hemolytic Anemias",
+      "tier": "extra"
     },
     {
       "id": "bl14-020",
@@ -21369,7 +21832,8 @@
         "agglutination"
       ],
       "topicId": "autoimmune-hemolytic-anemias",
-      "topicName": "Autoimmune Hemolytic Anemias"
+      "topicName": "Autoimmune Hemolytic Anemias",
+      "tier": "extra"
     },
     {
       "id": "bl14-021",
@@ -21416,7 +21880,8 @@
         "extravascular hemolysis"
       ],
       "topicId": "autoimmune-hemolytic-anemias",
-      "topicName": "Autoimmune Hemolytic Anemias"
+      "topicName": "Autoimmune Hemolytic Anemias",
+      "tier": "extra"
     },
     {
       "id": "bl14-022",
@@ -21462,7 +21927,8 @@
         "temperature dependence"
       ],
       "topicId": "autoimmune-hemolytic-anemias",
-      "topicName": "Autoimmune Hemolytic Anemias"
+      "topicName": "Autoimmune Hemolytic Anemias",
+      "tier": "extra"
     },
     {
       "id": "bl14-023",
@@ -21508,7 +21974,8 @@
         "temperature threshold"
       ],
       "topicId": "autoimmune-hemolytic-anemias",
-      "topicName": "Autoimmune Hemolytic Anemias"
+      "topicName": "Autoimmune Hemolytic Anemias",
+      "tier": "extra"
     },
     {
       "id": "bl14-024",
@@ -21554,7 +22021,8 @@
         "reticulocytes"
       ],
       "topicId": "autoimmune-hemolytic-anemias",
-      "topicName": "Autoimmune Hemolytic Anemias"
+      "topicName": "Autoimmune Hemolytic Anemias",
+      "tier": "extra"
     },
     {
       "id": "bl14-025",
@@ -21600,7 +22068,8 @@
         "agglutinates"
       ],
       "topicId": "autoimmune-hemolytic-anemias",
-      "topicName": "Autoimmune Hemolytic Anemias"
+      "topicName": "Autoimmune Hemolytic Anemias",
+      "tier": "extra"
     },
     {
       "id": "bl14-026",
@@ -21647,7 +22116,8 @@
         "lab findings"
       ],
       "topicId": "autoimmune-hemolytic-anemias",
-      "topicName": "Autoimmune Hemolytic Anemias"
+      "topicName": "Autoimmune Hemolytic Anemias",
+      "tier": "extra"
     },
     {
       "id": "bl14-027",
@@ -21693,7 +22163,8 @@
         "pregnancy"
       ],
       "topicId": "autoimmune-hemolytic-anemias",
-      "topicName": "Autoimmune Hemolytic Anemias"
+      "topicName": "Autoimmune Hemolytic Anemias",
+      "tier": "extra"
     },
     {
       "id": "bl14-028",
@@ -21739,7 +22210,8 @@
         "nonimmune hemolysis"
       ],
       "topicId": "autoimmune-hemolytic-anemias",
-      "topicName": "Autoimmune Hemolytic Anemias"
+      "topicName": "Autoimmune Hemolytic Anemias",
+      "tier": "extra"
     },
     {
       "id": "bl14-029",
@@ -21785,7 +22257,8 @@
         "management"
       ],
       "topicId": "autoimmune-hemolytic-anemias",
-      "topicName": "Autoimmune Hemolytic Anemias"
+      "topicName": "Autoimmune Hemolytic Anemias",
+      "tier": "extra"
     },
     {
       "id": "bl14-030",
@@ -21831,7 +22304,8 @@
         "management"
       ],
       "topicId": "autoimmune-hemolytic-anemias",
-      "topicName": "Autoimmune Hemolytic Anemias"
+      "topicName": "Autoimmune Hemolytic Anemias",
+      "tier": "extra"
     },
     {
       "id": "bl14-031",
@@ -21877,7 +22351,8 @@
         "encapsulated bacteria"
       ],
       "topicId": "autoimmune-hemolytic-anemias",
-      "topicName": "Autoimmune Hemolytic Anemias"
+      "topicName": "Autoimmune Hemolytic Anemias",
+      "tier": "extra"
     },
     {
       "id": "bl14-032",
@@ -21924,7 +22399,8 @@
         "treatment"
       ],
       "topicId": "autoimmune-hemolytic-anemias",
-      "topicName": "Autoimmune Hemolytic Anemias"
+      "topicName": "Autoimmune Hemolytic Anemias",
+      "tier": "extra"
     },
     {
       "id": "bl14-033",
@@ -21971,7 +22447,8 @@
         "genetics"
       ],
       "topicId": "autoimmune-hemolytic-anemias",
-      "topicName": "Autoimmune Hemolytic Anemias"
+      "topicName": "Autoimmune Hemolytic Anemias",
+      "tier": "extra"
     },
     {
       "id": "bl14-034",
@@ -22017,7 +22494,8 @@
         "clinical presentation"
       ],
       "topicId": "autoimmune-hemolytic-anemias",
-      "topicName": "Autoimmune Hemolytic Anemias"
+      "topicName": "Autoimmune Hemolytic Anemias",
+      "tier": "extra"
     },
     {
       "id": "bl14-035",
@@ -22064,7 +22542,8 @@
         "vaccination"
       ],
       "topicId": "autoimmune-hemolytic-anemias",
-      "topicName": "Autoimmune Hemolytic Anemias"
+      "topicName": "Autoimmune Hemolytic Anemias",
+      "tier": "extra"
     },
     {
       "id": "bl14-036",
@@ -22110,7 +22589,8 @@
         "treatment"
       ],
       "topicId": "autoimmune-hemolytic-anemias",
-      "topicName": "Autoimmune Hemolytic Anemias"
+      "topicName": "Autoimmune Hemolytic Anemias",
+      "tier": "extra"
     },
     {
       "id": "bl15-001",
@@ -22156,7 +22636,8 @@
         "intrinsic factor"
       ],
       "topicId": "megaloblastic-anemia",
-      "topicName": "Megaloblastic Anemia"
+      "topicName": "Megaloblastic Anemia",
+      "tier": "core"
     },
     {
       "id": "bl15-002",
@@ -22202,7 +22683,8 @@
         "subacute combined degeneration"
       ],
       "topicId": "megaloblastic-anemia",
-      "topicName": "Megaloblastic Anemia"
+      "topicName": "Megaloblastic Anemia",
+      "tier": "core"
     },
     {
       "id": "bl15-003",
@@ -22249,7 +22731,8 @@
         "neurologic symptoms"
       ],
       "topicId": "megaloblastic-anemia",
-      "topicName": "Megaloblastic Anemia"
+      "topicName": "Megaloblastic Anemia",
+      "tier": "core"
     },
     {
       "id": "bl15-004",
@@ -22295,7 +22778,8 @@
         "macro-ovalocytes"
       ],
       "topicId": "megaloblastic-anemia",
-      "topicName": "Megaloblastic Anemia"
+      "topicName": "Megaloblastic Anemia",
+      "tier": "core"
     },
     {
       "id": "bl15-005",
@@ -22342,7 +22826,8 @@
         "DNA synthesis"
       ],
       "topicId": "megaloblastic-anemia",
-      "topicName": "Megaloblastic Anemia"
+      "topicName": "Megaloblastic Anemia",
+      "tier": "core"
     },
     {
       "id": "bl15-006",
@@ -22388,7 +22873,8 @@
         "parasite"
       ],
       "topicId": "megaloblastic-anemia",
-      "topicName": "Megaloblastic Anemia"
+      "topicName": "Megaloblastic Anemia",
+      "tier": "core"
     },
     {
       "id": "bl15-007",
@@ -22434,7 +22920,8 @@
         "neural tube defects"
       ],
       "topicId": "megaloblastic-anemia",
-      "topicName": "Megaloblastic Anemia"
+      "topicName": "Megaloblastic Anemia",
+      "tier": "core"
     },
     {
       "id": "bl15-008",
@@ -22480,7 +22967,8 @@
         "bone marrow"
       ],
       "topicId": "megaloblastic-anemia",
-      "topicName": "Megaloblastic Anemia"
+      "topicName": "Megaloblastic Anemia",
+      "tier": "core"
     },
     {
       "id": "bl15-009",
@@ -22527,7 +23015,8 @@
         "vitamin B12"
       ],
       "topicId": "megaloblastic-anemia",
-      "topicName": "Megaloblastic Anemia"
+      "topicName": "Megaloblastic Anemia",
+      "tier": "core"
     },
     {
       "id": "bl15-010",
@@ -22574,7 +23063,8 @@
         "drug-induced"
       ],
       "topicId": "megaloblastic-anemia",
-      "topicName": "Megaloblastic Anemia"
+      "topicName": "Megaloblastic Anemia",
+      "tier": "core"
     },
     {
       "id": "bl15-011",
@@ -22621,7 +23111,8 @@
         "differential"
       ],
       "topicId": "megaloblastic-anemia",
-      "topicName": "Megaloblastic Anemia"
+      "topicName": "Megaloblastic Anemia",
+      "tier": "core"
     },
     {
       "id": "bl15-012",
@@ -22667,7 +23158,8 @@
         "intramuscular B12"
       ],
       "topicId": "megaloblastic-anemia",
-      "topicName": "Megaloblastic Anemia"
+      "topicName": "Megaloblastic Anemia",
+      "tier": "core"
     },
     {
       "id": "bl15-013",
@@ -22713,7 +23205,8 @@
         "food sources"
       ],
       "topicId": "megaloblastic-anemia",
-      "topicName": "Megaloblastic Anemia"
+      "topicName": "Megaloblastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl15-014",
@@ -22759,7 +23252,8 @@
         "oral ulcers"
       ],
       "topicId": "megaloblastic-anemia",
-      "topicName": "Megaloblastic Anemia"
+      "topicName": "Megaloblastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl15-015",
@@ -22806,7 +23300,8 @@
         "clinical findings"
       ],
       "topicId": "megaloblastic-anemia",
-      "topicName": "Megaloblastic Anemia"
+      "topicName": "Megaloblastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl15-016",
@@ -22852,7 +23347,8 @@
         "age"
       ],
       "topicId": "megaloblastic-anemia",
-      "topicName": "Megaloblastic Anemia"
+      "topicName": "Megaloblastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl15-017",
@@ -22898,7 +23394,8 @@
         "next step"
       ],
       "topicId": "megaloblastic-anemia",
-      "topicName": "Megaloblastic Anemia"
+      "topicName": "Megaloblastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl15-018",
@@ -22943,7 +23440,8 @@
         "anemia symptoms"
       ],
       "topicId": "megaloblastic-anemia",
-      "topicName": "Megaloblastic Anemia"
+      "topicName": "Megaloblastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl15-019",
@@ -22990,7 +23488,8 @@
         "contrast"
       ],
       "topicId": "megaloblastic-anemia",
-      "topicName": "Megaloblastic Anemia"
+      "topicName": "Megaloblastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl15-020",
@@ -23037,7 +23536,8 @@
         "absorption"
       ],
       "topicId": "megaloblastic-anemia",
-      "topicName": "Megaloblastic Anemia"
+      "topicName": "Megaloblastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl15-021",
@@ -23084,7 +23584,8 @@
         "sickle cell disease"
       ],
       "topicId": "megaloblastic-anemia",
-      "topicName": "Megaloblastic Anemia"
+      "topicName": "Megaloblastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl15-022",
@@ -23130,7 +23631,8 @@
         "hemolytic anemia"
       ],
       "topicId": "megaloblastic-anemia",
-      "topicName": "Megaloblastic Anemia"
+      "topicName": "Megaloblastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl15-023",
@@ -23177,7 +23679,8 @@
         "DNA synthesis"
       ],
       "topicId": "megaloblastic-anemia",
-      "topicName": "Megaloblastic Anemia"
+      "topicName": "Megaloblastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl15-024",
@@ -23224,7 +23727,8 @@
         "DNA synthesis"
       ],
       "topicId": "megaloblastic-anemia",
-      "topicName": "Megaloblastic Anemia"
+      "topicName": "Megaloblastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl15-025",
@@ -23270,7 +23774,8 @@
         "vitamin B12"
       ],
       "topicId": "megaloblastic-anemia",
-      "topicName": "Megaloblastic Anemia"
+      "topicName": "Megaloblastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl15-026",
@@ -23316,7 +23821,8 @@
         "rapidly dividing cells"
       ],
       "topicId": "megaloblastic-anemia",
-      "topicName": "Megaloblastic Anemia"
+      "topicName": "Megaloblastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl15-027",
@@ -23362,7 +23868,8 @@
         "diagnosis"
       ],
       "topicId": "megaloblastic-anemia",
-      "topicName": "Megaloblastic Anemia"
+      "topicName": "Megaloblastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl15-028",
@@ -23409,7 +23916,8 @@
         "bone marrow"
       ],
       "topicId": "megaloblastic-anemia",
-      "topicName": "Megaloblastic Anemia"
+      "topicName": "Megaloblastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl15-029",
@@ -23456,7 +23964,8 @@
         "laboratory tests"
       ],
       "topicId": "megaloblastic-anemia",
-      "topicName": "Megaloblastic Anemia"
+      "topicName": "Megaloblastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl15-030",
@@ -23502,7 +24011,8 @@
         "dysplastic erythroblasts"
       ],
       "topicId": "megaloblastic-anemia",
-      "topicName": "Megaloblastic Anemia"
+      "topicName": "Megaloblastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl15-031",
@@ -23548,7 +24058,8 @@
         "time course"
       ],
       "topicId": "megaloblastic-anemia",
-      "topicName": "Megaloblastic Anemia"
+      "topicName": "Megaloblastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl15-032",
@@ -23595,7 +24106,8 @@
         "treatment"
       ],
       "topicId": "megaloblastic-anemia",
-      "topicName": "Megaloblastic Anemia"
+      "topicName": "Megaloblastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl15-033",
@@ -23642,7 +24154,8 @@
         "vitamin B12"
       ],
       "topicId": "megaloblastic-anemia",
-      "topicName": "Megaloblastic Anemia"
+      "topicName": "Megaloblastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl15-034",
@@ -23688,7 +24201,8 @@
         "poor correlation"
       ],
       "topicId": "megaloblastic-anemia",
-      "topicName": "Megaloblastic Anemia"
+      "topicName": "Megaloblastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl15-035",
@@ -23734,7 +24248,8 @@
         "macrocytic differential"
       ],
       "topicId": "megaloblastic-anemia",
-      "topicName": "Megaloblastic Anemia"
+      "topicName": "Megaloblastic Anemia",
+      "tier": "extra"
     },
     {
       "id": "bl15-036",
@@ -23781,7 +24296,8 @@
         "homocysteine"
       ],
       "topicId": "megaloblastic-anemia",
-      "topicName": "Megaloblastic Anemia"
+      "topicName": "Megaloblastic Anemia",
+      "tier": "extra"
     }
   ]
 }
