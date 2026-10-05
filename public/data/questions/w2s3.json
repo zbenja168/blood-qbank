@@ -1,0 +1,3963 @@
+{
+  "categoryId": "w2s3",
+  "categoryName": "Session 3",
+  "questions": [
+    {
+      "id": "bl25-001",
+      "stem": "A 16-year-old girl is evaluated for lifelong easy bruising, frequent nosebleeds, and heavy menstrual periods. Physical exam shows scattered petechiae. A complete blood count reveals a low platelet count, and the peripheral smear shows strikingly large (giant) platelets. Platelet aggregation studies are normal in response to ADP, collagen, and epinephrine but show no response to ristocetin. Which of the following is the most likely defective protein?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alpha-granule contents"
+        },
+        {
+          "label": "B",
+          "text": "Delta (dense) granules"
+        },
+        {
+          "label": "C",
+          "text": "Glycoprotein Ib"
+        },
+        {
+          "label": "D",
+          "text": "Glycoprotein IIb/IIIa"
+        },
+        {
+          "label": "E",
+          "text": "von Willebrand factor"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Giant platelets with thrombocytopenia and an absent ristocetin response indicate Bernard-Soulier syndrome, a defect in glycoprotein Ib.",
+        "whyCorrect": "Bernard-Soulier syndrome is caused by a defect in the glycoprotein Ib (GPIb) receptor, which normally binds von Willebrand factor to anchor platelets to the exposed subendothelium. Because ristocetin tests GPIb-mediated adhesion, the aggregation curve to ristocetin is absent, while responses to ADP, collagen, and epinephrine are preserved. The platelets are characteristically giant and the platelet count is often low.",
+        "whyWrongByChoice": {
+          "A": "Loss of alpha granules produces gray platelet syndrome, whose platelets appear empty/gray rather than simply giant, and ristocetin response is not the defining abnormality.",
+          "B": "Delta-granule deficiency shows histologically normal platelets on smear, not giant platelets, and requires electron microscopy to detect.",
+          "D": "A defect in GPIIb/IIIa causes Glanzmann thrombasthenia, in which the platelet count and platelet appearance are normal and ristocetin aggregation is preserved.",
+          "E": "The problem is the platelet receptor for von Willebrand factor, not von Willebrand factor itself; vWF levels are not the primary defect in this inherited platelet disorder."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Bernard-Soulier syndrome",
+        "glycoprotein Ib",
+        "ristocetin",
+        "adhesion"
+      ],
+      "topicId": "hereditary-platelet-disorders",
+      "topicName": "Hereditary Platelet Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bl25-002",
+      "stem": "An 18-year-old man has a history of severe mucocutaneous bleeding since childhood. His platelet count and platelet morphology on peripheral smear are normal. Aggregation studies show no aggregation in response to ADP, collagen, epinephrine, or arachidonic acid, but the response to high-dose ristocetin is normal. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bernard-Soulier syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Delta-granule deficiency"
+        },
+        {
+          "label": "C",
+          "text": "Glanzmann thrombasthenia"
+        },
+        {
+          "label": "D",
+          "text": "Gray platelet syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Hemophilia A"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Absent aggregation to all agonists except a preserved ristocetin response, with normal platelet count and appearance, is characteristic of Glanzmann thrombasthenia.",
+        "whyCorrect": "Glanzmann thrombasthenia is a defect of the GPIIb/IIIa receptor, which binds fibrinogen to bridge platelets during aggregation. As a result there is no aggregation to ADP, collagen, epinephrine, or arachidonic acid, while ristocetin (which depends on the intact GPIb-vWF pathway) remains normal. Platelet count and morphology are normal because this is an aggregation problem, not an adhesion or granule problem.",
+        "whyWrongByChoice": {
+          "A": "Bernard-Soulier syndrome shows the opposite aggregation pattern (absent ristocetin) plus giant platelets and a low platelet count.",
+          "B": "Delta-granule deficiency involves impaired dense-granule secretion and is diagnosed by electron microscopy, not this classic loss of all agonist responses with preserved ristocetin.",
+          "D": "Gray platelet syndrome shows large, gray, empty platelets from absent alpha granules and often thrombocytopenia, not this aggregation pattern.",
+          "E": "Hemophilia A is a clotting-factor deficiency causing deep tissue and joint bleeding with a prolonged PTT, not a platelet aggregation defect."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Glanzmann thrombasthenia",
+        "GPIIb/IIIa",
+        "aggregation",
+        "ristocetin"
+      ],
+      "topicId": "hereditary-platelet-disorders",
+      "topicName": "Hereditary Platelet Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bl25-003",
+      "stem": "During normal platelet plug formation, dense (delta) granules release small molecules that are essential for platelet activation. Which of the following pairs of substances is released primarily by delta granules?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Calcium and serotonin"
+        },
+        {
+          "label": "B",
+          "text": "Collagen and thrombin"
+        },
+        {
+          "label": "C",
+          "text": "Factor VIII and factor IX"
+        },
+        {
+          "label": "D",
+          "text": "Fibrinogen and von Willebrand factor"
+        },
+        {
+          "label": "E",
+          "text": "Heparin and histamine"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Delta (dense) granules release calcium and serotonin, small molecules essential for platelet activation.",
+        "whyCorrect": "The brick describes that delta granules release small molecules such as calcium and serotonin, which are essential for platelet activation, whereas alpha granules release larger proteins. Loss of these granules underlies delta-granule deficiency.",
+        "whyWrongByChoice": {
+          "B": "Collagen is a subendothelial protein and thrombin is generated in the coagulation cascade; neither is a delta-granule content.",
+          "C": "Factors VIII and IX are plasma coagulation factors, not substances stored in platelet dense granules.",
+          "D": "Fibrinogen and von Willebrand factor are released from alpha granules, not delta granules.",
+          "E": "Heparin and histamine are associated with mast cells and basophils, not platelet dense granules."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "delta granules",
+        "platelet physiology",
+        "serotonin",
+        "calcium"
+      ],
+      "topicId": "hereditary-platelet-disorders",
+      "topicName": "Hereditary Platelet Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bl25-004",
+      "stem": "A 22-year-old woman has easy bruising and mild thrombocytopenia. Her peripheral smear shows large platelets that appear pale, empty, and gray compared with normally pigmented platelets. Additional evaluation reveals myelofibrosis, splenomegaly, and an elevated serum vitamin B12 level. Which of the following best explains the abnormal platelet appearance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Absence of dense (delta) granules"
+        },
+        {
+          "label": "B",
+          "text": "Defective glycoprotein Ib receptors"
+        },
+        {
+          "label": "C",
+          "text": "Defective glycoprotein IIb/IIIa receptors"
+        },
+        {
+          "label": "D",
+          "text": "Deficiency of von Willebrand factor"
+        },
+        {
+          "label": "E",
+          "text": "Reduction or absence of alpha granules"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Large, empty, gray platelets with thrombocytopenia, myelofibrosis, and elevated B12 describe gray platelet syndrome, caused by loss of alpha granules.",
+        "whyCorrect": "Gray platelet syndrome is defined by a reduction or complete absence of alpha granules. Without granule contents, the giant platelets look empty or gray on the smear. Other features described in the brick include progressive thrombocytopenia, myelofibrosis, splenomegaly, and elevated serum B12.",
+        "whyWrongByChoice": {
+          "A": "Dense (delta) granule deficiency produces histologically normal-appearing platelets requiring electron microscopy, not gray empty platelets.",
+          "B": "A GPIb defect causes Bernard-Soulier syndrome, whose giant platelets are not described as empty/gray and which lacks the myelofibrosis and elevated B12 picture.",
+          "C": "A GPIIb/IIIa defect causes Glanzmann thrombasthenia, with normal platelet count and appearance.",
+          "D": "von Willebrand factor deficiency is von Willebrand disease, which does not produce empty gray platelets on the smear."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "gray platelet syndrome",
+        "alpha granules",
+        "myelofibrosis"
+      ],
+      "topicId": "hereditary-platelet-disorders",
+      "topicName": "Hereditary Platelet Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bl25-005",
+      "stem": "A 2-year-old girl has a history of easy bruising and recurrent bacterial infections; a maternal uncle had a bleeding disorder. Her complete blood count shows a low platelet count, and the platelets appear normal on the peripheral smear. PT and PTT are normal, but the PFA-100 is abnormal. A combined bleeding and immune deficiency such as Chediak-Higashi syndrome is suspected. Which of the following studies is most likely to confirm the platelet abnormality?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bone marrow karyotype analysis"
+        },
+        {
+          "label": "B",
+          "text": "Electron microscopy of the platelets"
+        },
+        {
+          "label": "C",
+          "text": "Prothrombin time and INR"
+        },
+        {
+          "label": "D",
+          "text": "Repeat routine peripheral blood smear"
+        },
+        {
+          "label": "E",
+          "text": "Serum ferritin and iron studies"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Delta-granule deficiency has normal light-microscopy platelets, so electron microscopy is needed to detect the abnormal granules.",
+        "whyCorrect": "Delta-granule deficiency is frequently found together with disorders such as Chediak-Higashi or Wiskott-Aldrich syndrome, producing combined bleeding and immunodeficiency. Because the platelets look normal on routine smear, the brick states that electron microscopy is used to detect the abnormal dense granules.",
+        "whyWrongByChoice": {
+          "A": "Karyotype analysis does not visualize platelet granules and is not the test used to confirm delta-granule deficiency.",
+          "C": "PT/INR reflects the coagulation cascade, which is normal in platelet disorders and does not identify a granule defect.",
+          "D": "A routine light-microscopy smear appears normal in delta-granule deficiency, so repeating it will not reveal the defect.",
+          "E": "Iron studies address iron deficiency, a supportive management issue, not the diagnosis of a granule abnormality."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "delta-granule deficiency",
+        "electron microscopy",
+        "Chediak-Higashi"
+      ],
+      "topicId": "hereditary-platelet-disorders",
+      "topicName": "Hereditary Platelet Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bl25-006",
+      "stem": "A 14-year-old boy with suspected hereditary platelet dysfunction undergoes laboratory testing. Which of the following sets of results would be most consistent with an inherited platelet disorder?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Normal PT, normal PTT, abnormal platelet function test"
+        },
+        {
+          "label": "B",
+          "text": "Normal PT, prolonged PTT, normal platelet function test"
+        },
+        {
+          "label": "C",
+          "text": "Prolonged PT, normal PTT, normal platelet function test"
+        },
+        {
+          "label": "D",
+          "text": "Prolonged PT, prolonged PTT, abnormal platelet function test"
+        },
+        {
+          "label": "E",
+          "text": "Prolonged PT, prolonged PTT, normal platelet function test"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In platelet disorders the coagulation cascade is intact, so PT and PTT are normal while the platelet function test is abnormal.",
+        "whyCorrect": "Because hereditary platelet disorders affect the platelets and not the coagulation cascade, the PT and PTT are normal. The platelet function analyzer (PFA-100), which has largely replaced the bleeding time, is abnormal, reflecting impaired platelet function.",
+        "whyWrongByChoice": {
+          "B": "A prolonged PTT alone suggests an intrinsic-pathway factor deficiency such as hemophilia, not a platelet disorder.",
+          "C": "A prolonged PT alone suggests a factor deficiency in the extrinsic pathway, not impaired platelet function.",
+          "D": "Platelet disorders do not prolong PT or PTT, so a picture with both prolonged is inconsistent with an isolated platelet defect.",
+          "E": "A prolonged PT and PTT with a normal platelet function test points to a coagulation-factor problem, not a platelet disorder."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "laboratory testing",
+        "PT",
+        "PTT",
+        "PFA-100"
+      ],
+      "topicId": "hereditary-platelet-disorders",
+      "topicName": "Hereditary Platelet Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bl25-007",
+      "stem": "A physician is teaching students about how hereditary platelet disorders present clinically. Which of the following bleeding patterns is LEAST consistent with an inherited platelet disorder and should instead raise concern for a clotting-factor deficiency such as hemophilia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bleeding into joints and deep muscles"
+        },
+        {
+          "label": "B",
+          "text": "Gum bleeding after a routine dental cleaning"
+        },
+        {
+          "label": "C",
+          "text": "Petechiae on the skin and oral mucosa"
+        },
+        {
+          "label": "D",
+          "text": "Purpura and ecchymoses on the extremities"
+        },
+        {
+          "label": "E",
+          "text": "Recurrent nosebleeds and mucosal oozing"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Platelet disorders cause mucocutaneous bleeding; deep tissue and joint bleeding instead suggests a clotting-factor deficiency like hemophilia.",
+        "whyCorrect": "The brick states that bleeding involving deep tissues (muscles) or joints is not commonly associated with platelet disorders and is more typical of clotting-factor deficiencies such as hemophilia. Hereditary platelet disorders instead cause mucocutaneous bleeding.",
+        "whyWrongByChoice": {
+          "B": "Gum bleeding on mucosal surfaces is typical mucocutaneous bleeding seen in platelet disorders.",
+          "C": "Petechiae are small pinpoint capillary breaks seen on the skin and are a classic mucocutaneous sign of platelet disorders.",
+          "D": "Purpura and ecchymoses are cutaneous bleeding lesions characteristic of platelet disorders.",
+          "E": "Nosebleeds (epistaxis) are a common mucocutaneous manifestation of platelet dysfunction."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "mucocutaneous bleeding",
+        "clinical presentation",
+        "hemophilia"
+      ],
+      "topicId": "hereditary-platelet-disorders",
+      "topicName": "Hereditary Platelet Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bl25-008",
+      "stem": "A man with Glanzmann thrombasthenia and his wife, whose genetic background is unknown, ask about the chance their child will be affected. Both Glanzmann thrombasthenia and Bernard-Soulier syndrome follow which of the following inheritance patterns?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autosomal dominant"
+        },
+        {
+          "label": "B",
+          "text": "Autosomal recessive"
+        },
+        {
+          "label": "C",
+          "text": "Mitochondrial"
+        },
+        {
+          "label": "D",
+          "text": "X-linked dominant"
+        },
+        {
+          "label": "E",
+          "text": "X-linked recessive"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Bernard-Soulier syndrome and Glanzmann thrombasthenia are both autosomal recessive disorders.",
+        "whyCorrect": "The brick explicitly states that both Bernard-Soulier syndrome and Glanzmann thrombasthenia are autosomal recessive. Two copies of the affected gene are required to produce disease, so an affected father must pass his gene and the mother must also be a carrier for the child to be affected.",
+        "whyWrongByChoice": {
+          "A": "These receptor disorders are recessive, not dominant; a single copy of the gene does not produce the syndrome.",
+          "C": "These disorders result from nuclear gene defects in platelet glycoproteins, not mitochondrial inheritance.",
+          "D": "The inheritance is recessive and autosomal, not X-linked dominant.",
+          "E": "They are autosomal, not X-linked recessive. Wiskott-Aldrich syndrome is an example of an X-linked disorder, but it is a different condition."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "inheritance",
+        "autosomal recessive",
+        "genetic counseling"
+      ],
+      "topicId": "hereditary-platelet-disorders",
+      "topicName": "Hereditary Platelet Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bl25-009",
+      "stem": "A 20-year-old woman with Bernard-Soulier syndrome has recurrent bleeding episodes that are difficult to control. In addition to supportive measures, which of the following targeted therapies is most appropriate for this disorder?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A thrombopoietin agonist such as eltrombopag"
+        },
+        {
+          "label": "B",
+          "text": "Corticosteroids for immune-mediated platelet destruction"
+        },
+        {
+          "label": "C",
+          "text": "Daily aspirin therapy"
+        },
+        {
+          "label": "D",
+          "text": "Intravenous immunoglobulin (IVIG)"
+        },
+        {
+          "label": "E",
+          "text": "Lifelong warfarin anticoagulation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Bernard-Soulier syndrome can be treated with recombinant factor VIIa or a thrombopoietin agonist such as eltrombopag.",
+        "whyCorrect": "The brick lists recombinant factor VIIa or a thrombopoietin agonist (eltrombopag) as specific treatments for Bernard-Soulier syndrome. Thrombopoietin agonists can raise the platelet count and help control bleeding.",
+        "whyWrongByChoice": {
+          "B": "Corticosteroids treat immune-mediated platelet destruction, but Bernard-Soulier syndrome is an inherited structural receptor defect.",
+          "C": "Aspirin impairs platelet function and is avoided (like NSAIDs) in these patients, not used as therapy.",
+          "D": "IVIG is used for immune thrombocytopenia, not for the inherited receptor defect of Bernard-Soulier syndrome.",
+          "E": "Warfarin is an anticoagulant that would worsen bleeding in a patient with a hereditary platelet disorder."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "treatment",
+        "Bernard-Soulier syndrome",
+        "eltrombopag",
+        "thrombopoietin agonist"
+      ],
+      "topicId": "hereditary-platelet-disorders",
+      "topicName": "Hereditary Platelet Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bl25-010",
+      "stem": "A patient with a hereditary platelet disorder has received numerous platelet transfusions over several years to control bleeding, but recent transfusions have become progressively less effective. Which of the following best explains this loss of effectiveness?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acquired vitamin K deficiency"
+        },
+        {
+          "label": "B",
+          "text": "Conversion of the disorder to acute leukemia"
+        },
+        {
+          "label": "C",
+          "text": "Depletion of the patient's own clotting factors"
+        },
+        {
+          "label": "D",
+          "text": "Development of antiplatelet and HLA alloantibodies"
+        },
+        {
+          "label": "E",
+          "text": "Development of iron overload in the bone marrow"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Repeated platelet transfusions can induce antiplatelet and HLA antibodies that limit the effectiveness of subsequent transfusions.",
+        "whyCorrect": "The brick warns that repeated transfusions may lead to formation of antiplatelet antibodies (especially against platelet glycoproteins) and HLA antibodies. These alloantibodies limit the usefulness of later transfusions by targeting the transfused platelets.",
+        "whyWrongByChoice": {
+          "A": "Vitamin K deficiency affects clotting factors and PT, not the effectiveness of platelet transfusions.",
+          "B": "Hereditary platelet disorders do not transform into acute leukemia as a result of transfusion.",
+          "C": "Clotting-factor depletion is not the mechanism; platelet disorders leave the coagulation cascade intact and transfusions supply platelets, not factors.",
+          "E": "Iron overload is a concern with chronic red-cell transfusion but does not explain refractoriness to platelet transfusion."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "treatment",
+        "platelet transfusion",
+        "alloantibodies",
+        "HLA"
+      ],
+      "topicId": "hereditary-platelet-disorders",
+      "topicName": "Hereditary Platelet Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bl25-011",
+      "stem": "A hematologist wants to order the single best laboratory test for assessing overall platelet function in a patient with suspected hereditary platelet dysfunction. Which of the following tests has largely replaced the bleeding time for this purpose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Activated partial thromboplastin time (aPTT)"
+        },
+        {
+          "label": "B",
+          "text": "Platelet function analyzer (PFA-100)"
+        },
+        {
+          "label": "C",
+          "text": "Prothrombin time (PT) with the INR"
+        },
+        {
+          "label": "D",
+          "text": "Quantitative plasma D-dimer assay"
+        },
+        {
+          "label": "E",
+          "text": "Quantitative plasma fibrinogen level"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The PFA-100 (platelet function analyzer) has largely replaced the bleeding time as the best test of platelet function.",
+        "whyCorrect": "The brick states that patients with hereditary platelet disorders will have an abnormal platelet function test, such as the PFA-100, which has largely replaced the bleeding time as the best test for platelet function.",
+        "whyWrongByChoice": {
+          "A": "PTT measures the intrinsic coagulation pathway and is normal in platelet disorders.",
+          "C": "PT measures the extrinsic coagulation pathway, not platelet function, and is normal in platelet disorders.",
+          "D": "D-dimer reflects fibrin degradation and is used to evaluate thrombosis, not primary platelet function.",
+          "E": "Fibrinogen level measures a clotting protein, not the functional capacity of platelets."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "PFA-100",
+        "platelet function test",
+        "bleeding time",
+        "diagnosis"
+      ],
+      "topicId": "hereditary-platelet-disorders",
+      "topicName": "Hereditary Platelet Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bl25-012",
+      "stem": "A newborn with Glanzmann thrombasthenia is noted to have leukocytosis, delayed separation of the umbilical cord, and a severe bacterial infection. These additional findings are best explained by co-occurrence of which of the following conditions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Disseminated intravascular coagulation"
+        },
+        {
+          "label": "B",
+          "text": "Hereditary spherocytosis"
+        },
+        {
+          "label": "C",
+          "text": "Iron deficiency anemia"
+        },
+        {
+          "label": "D",
+          "text": "Leukocyte adhesion deficiency"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin K deficiency of the newborn"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In infants, Glanzmann thrombasthenia can co-occur with leukocyte adhesion deficiency, explaining leukocytosis, delayed cord separation, and severe infections.",
+        "whyCorrect": "The brick notes that Glanzmann thrombasthenia in infants often presents at birth with leukocytosis, delayed umbilical cord separation, or severe bacterial infections because the disorder often co-occurs with a leukocyte adhesion deficiency, a type of immunodeficiency.",
+        "whyWrongByChoice": {
+          "A": "DIC is a consumptive coagulopathy with bleeding and clotting, not the inherited leukocyte defect described here.",
+          "B": "Hereditary spherocytosis is a red-cell membrane disorder causing hemolytic anemia, unrelated to these leukocyte and infection findings.",
+          "C": "Iron deficiency anemia causes fatigue and microcytic anemia, not leukocytosis with delayed cord separation and severe infection.",
+          "E": "Vitamin K deficiency causes bleeding from low clotting factors but does not cause leukocytosis or delayed umbilical cord separation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Glanzmann thrombasthenia",
+        "leukocyte adhesion deficiency",
+        "neonatal",
+        "delayed umbilical cord separation"
+      ],
+      "topicId": "hereditary-platelet-disorders",
+      "topicName": "Hereditary Platelet Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bl26-001",
+      "stem": "An asymptomatic 30-year-old man has a routine complete blood count performed at a wellness visit. His hematologist notes that in adults the normal platelet count ranges from 150,000 to 400,000 cells/uL. Below which of the following platelet counts is a patient, by definition, considered to have thrombocytopenia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "10,000 cells/uL"
+        },
+        {
+          "label": "B",
+          "text": "50,000 cells/uL"
+        },
+        {
+          "label": "C",
+          "text": "100,000 cells/uL"
+        },
+        {
+          "label": "D",
+          "text": "150,000 cells/uL"
+        },
+        {
+          "label": "E",
+          "text": "400,000 cells/uL"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Thrombocytopenia is defined as a platelet count below 150,000 cells/uL, the lower limit of the normal adult range.",
+        "whyCorrect": "The normal adult platelet count is 150,000 to 400,000 cells/uL, so any count below 150,000 cells/uL meets the definition of thrombocytopenia. Lower thresholds mark increasing severity but are not the defining cutoff.",
+        "whyWrongByChoice": {
+          "A": "Below 10,000 cells/uL is a hematologic emergency with risk of spontaneous bleeding, not the definitional threshold.",
+          "B": "Below 50,000 cells/uL marks the point at which serious bleeding risk and skin signs appear, but it is not the definition of thrombocytopenia.",
+          "C": "100,000 cells/uL is below normal but is not the definitional cutoff; a count below 150,000 already qualifies.",
+          "E": "400,000 cells/uL is the upper limit of the normal range, not a threshold for thrombocytopenia."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "definition",
+        "platelet count",
+        "thresholds"
+      ],
+      "topicId": "thrombocytopenia",
+      "topicName": "Thrombocytopenia",
+      "tier": "core"
+    },
+    {
+      "id": "bl26-002",
+      "stem": "A 68-year-old woman with hypertension and COPD is admitted for pneumonia and subsequently develops a deep venous thrombosis. She is started on several medications. Five days after admission, a complete blood count shows that her platelet count has dropped from 250,000 to 70,000 cells/uL. Which of the following medications is the most likely cause of her thrombocytopenia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acetaminophen"
+        },
+        {
+          "label": "B",
+          "text": "Albuterol"
+        },
+        {
+          "label": "C",
+          "text": "Azithromycin"
+        },
+        {
+          "label": "D",
+          "text": "Heparin"
+        },
+        {
+          "label": "E",
+          "text": "Lisinopril"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A significant platelet drop 5-10 days after starting heparin for a venous thrombosis is classic for heparin-induced thrombocytopenia.",
+        "whyCorrect": "Heparin-induced thrombocytopenia (HIT) develops when a circulating antibody complexes heparin with platelet factor 4, leading to platelet destruction and paradoxical thrombosis. It typically occurs 5-10 days after heparin exposure, which matches this patient treated for a DVT.",
+        "whyWrongByChoice": {
+          "A": "Acetaminophen is not a recognized cause of the acute platelet drop seen here.",
+          "B": "Albuterol is used for COPD and is not an established cause of thrombocytopenia in this setting.",
+          "C": "Azithromycin treats the pneumonia; drug-induced thrombocytopenia from it is far less likely than from heparin.",
+          "E": "Lisinopril is an outpatient antihypertensive and is not a typical cause of acute thrombocytopenia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "heparin-induced thrombocytopenia",
+        "HIT",
+        "drug-induced",
+        "thrombosis"
+      ],
+      "topicId": "thrombocytopenia",
+      "topicName": "Thrombocytopenia",
+      "tier": "core"
+    },
+    {
+      "id": "bl26-003",
+      "stem": "A medical student is asked to describe the skin findings of a patient with thrombocytopenia. Both petechiae and purpura are present. Which of the following best differentiates petechiae from purpura?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Petechiae appear on the abdomen while purpura appears only on the legs"
+        },
+        {
+          "label": "B",
+          "text": "Petechiae are caused by inflammation while purpura are caused by bleeding"
+        },
+        {
+          "label": "C",
+          "text": "Petechiae are more numerous than purpura"
+        },
+        {
+          "label": "D",
+          "text": "Petechiae are red while purpura are purple"
+        },
+        {
+          "label": "E",
+          "text": "Petechiae are smaller than purpura"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Petechiae and purpura are distinguished chiefly by size: petechiae are less than 3 mm, whereas purpura are 3 to 10 mm.",
+        "whyCorrect": "Petechiae are nonblanchable superficial macules smaller than 3 mm, while purpura are larger lesions of 3 to 10 mm. Both result from extravasation of blood from small vessels into the skin, so size is the key distinguishing feature.",
+        "whyWrongByChoice": {
+          "A": "Location does not differentiate the two; both can occur at the same sites.",
+          "B": "Both petechiae and purpura share the same etiology of subcutaneous bleeding, not inflammation.",
+          "C": "Relative number is not a defining distinction between petechiae and purpura.",
+          "D": "Color overlaps (both are red to purple) and is not the reliable distinguishing feature."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "petechiae",
+        "purpura",
+        "skin findings"
+      ],
+      "topicId": "thrombocytopenia",
+      "topicName": "Thrombocytopenia",
+      "tier": "core"
+    },
+    {
+      "id": "bl26-004",
+      "stem": "A 55-year-old man receiving chemotherapy has a platelet count of 8,000 cells/uL. He has no bruising, petechiae, or active bleeding, and platelet clumping has been excluded. According to standard practice, prophylactic platelet transfusion is generally indicated once the platelet count falls below which of the following values in a non-bleeding patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "5,000 cells/uL"
+        },
+        {
+          "label": "B",
+          "text": "10,000 cells/uL"
+        },
+        {
+          "label": "C",
+          "text": "30,000 cells/uL"
+        },
+        {
+          "label": "D",
+          "text": "50,000 cells/uL"
+        },
+        {
+          "label": "E",
+          "text": "100,000 cells/uL"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In a patient who is not actively bleeding, prophylactic platelet transfusion is generally given once the count is below 10,000 cells/uL.",
+        "whyCorrect": "A platelet count below 10,000 cells/uL carries a high risk of spontaneous bleeding, so patients at or below this level should receive transfusion even without active bleeding. Actively bleeding patients with low counts are also transfused, with a goal above 50,000 cells/uL for most patients.",
+        "whyWrongByChoice": {
+          "A": "5,000 cells/uL is lower than the accepted trigger; transfusion is indicated before the count falls this far.",
+          "C": "30,000 cells/uL is not the standard prophylactic transfusion threshold for a non-bleeding patient.",
+          "D": "50,000 cells/uL is the general post-transfusion goal and the surgical safety threshold, not the prophylactic trigger.",
+          "E": "Above 100,000 cells/uL is a post-transfusion goal for patients bleeding into the central nervous system, not a prophylactic transfusion threshold."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "management",
+        "platelet transfusion",
+        "thresholds"
+      ],
+      "topicId": "thrombocytopenia",
+      "topicName": "Thrombocytopenia",
+      "tier": "core"
+    },
+    {
+      "id": "bl26-005",
+      "stem": "A 45-year-old woman has a complete blood count as part of a pre-employment physical. The CBC is normal except for a platelet count of 8,000 cells/uL. She feels well, and no bruises, petechiae, or purpura are found on examination. Which of the following is the most appropriate next step in working up her thrombocytopenia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bone marrow biopsy"
+        },
+        {
+          "label": "B",
+          "text": "Coagulation studies"
+        },
+        {
+          "label": "C",
+          "text": "Liver function tests"
+        },
+        {
+          "label": "D",
+          "text": "Peripheral blood smear"
+        },
+        {
+          "label": "E",
+          "text": "Renal function tests"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A markedly low platelet count in a completely asymptomatic patient suggests artifactual (pseudo)thrombocytopenia, which is investigated first with a peripheral blood smear.",
+        "whyCorrect": "Such a low count with no bleeding signs is suspicious for pseudothrombocytopenia from platelet clumping in the EDTA specimen. A peripheral smear can reveal the clumps; if present, a repeat CBC in a citrate tube gives an accurate count. Pseudothrombocytopenia should be excluded before further workup or treatment.",
+        "whyWrongByChoice": {
+          "A": "Bone marrow biopsy is a last resort, generally reserved for confirmed low counts with pancytopenia, not for a possible lab artifact.",
+          "B": "Coagulation studies are part of the broader workup but should follow confirmation that the platelet count is truly low.",
+          "C": "Liver function tests are useful once real thrombocytopenia is established, not as the immediate next step.",
+          "E": "Renal function tests belong to the later workup and do not address the likely clumping artifact."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "pseudothrombocytopenia",
+        "peripheral smear",
+        "platelet clumping",
+        "workup"
+      ],
+      "topicId": "thrombocytopenia",
+      "topicName": "Thrombocytopenia",
+      "tier": "core"
+    },
+    {
+      "id": "bl26-006",
+      "stem": "A 19-year-old man with infectious mononucleosis is found to have a platelet count of 95,000 cells/uL. He has no bleeding symptoms, and his hemoglobin and white blood cell count are normal. On examination he has a palpably enlarged spleen. Which of the following mechanisms best explains his thrombocytopenia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antibodies to the heparin-PF4 complex"
+        },
+        {
+          "label": "B",
+          "text": "Bone marrow infiltration by leukemic cells"
+        },
+        {
+          "label": "C",
+          "text": "Immune destruction of platelets by autoantibodies"
+        },
+        {
+          "label": "D",
+          "text": "Increased splenic sequestration of platelets"
+        },
+        {
+          "label": "E",
+          "text": "Platelet consumption within microthrombi"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "An enlarged spleen from mononucleosis sequesters an increased fraction of platelets, producing mild thrombocytopenia.",
+        "whyCorrect": "Normally about one-third of platelets are sequestered in the splenic sinusoids. When the spleen enlarges (hypersplenism), a greater proportion is trapped there and unavailable to the circulation, lowering the measured platelet count. Infection such as mononucleosis is a recognized cause of splenomegaly.",
+        "whyWrongByChoice": {
+          "A": "There is no heparin exposure, so HIT antibodies are not the mechanism.",
+          "B": "There is no pancytopenia or abnormal cells to suggest marrow infiltration by leukemia.",
+          "C": "Immune destruction (ITP) is not indicated here; the splenomegaly points to sequestration rather than autoantibody-mediated destruction.",
+          "E": "There are no schistocytes or coagulation abnormalities to indicate consumption within microthrombi."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hypersplenism",
+        "sequestration",
+        "splenomegaly",
+        "mechanism"
+      ],
+      "topicId": "thrombocytopenia",
+      "topicName": "Thrombocytopenia",
+      "tier": "core"
+    },
+    {
+      "id": "bl26-007",
+      "stem": "A 27-year-old woman develops petechiae on her lower legs and gum bleeding two weeks after a viral upper respiratory illness. She feels otherwise well. Her CBC shows an isolated platelet count of 18,000 cells/uL with a normal hemoglobin and white blood cell count. The peripheral smear shows reduced but otherwise normal-appearing platelets and no schistocytes. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bone marrow suppression from leukemia"
+        },
+        {
+          "label": "B",
+          "text": "Disseminated intravascular coagulation"
+        },
+        {
+          "label": "C",
+          "text": "Heparin-induced thrombocytopenia"
+        },
+        {
+          "label": "D",
+          "text": "Hypersplenism"
+        },
+        {
+          "label": "E",
+          "text": "Immune thrombocytopenia (ITP)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Isolated thrombocytopenia in an otherwise well patient, often after a viral illness, is characteristic of immune thrombocytopenia (ITP).",
+        "whyCorrect": "ITP is a common acquired autoimmune cause of thrombocytopenia in which autoantibodies destroy platelets in the spleen. It typically presents as isolated thrombocytopenia with normal other cell lines and can follow infections; the smear shows reduced but morphologically normal platelets.",
+        "whyWrongByChoice": {
+          "A": "Marrow suppression from leukemia would typically cause pancytopenia with abnormal cells, not isolated thrombocytopenia.",
+          "B": "DIC shows schistocytes, prolonged PT/PTT, and a critically ill patient, none of which are present here.",
+          "C": "HIT requires recent heparin exposure and characteristically causes thrombosis, not this post-viral isolated thrombocytopenia.",
+          "D": "Hypersplenism would be expected to produce splenomegaly and often affects multiple cell lines rather than isolated platelets."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ITP",
+        "immune thrombocytopenia",
+        "autoimmune",
+        "diagnosis"
+      ],
+      "topicId": "thrombocytopenia",
+      "topicName": "Thrombocytopenia",
+      "tier": "core"
+    },
+    {
+      "id": "bl26-008",
+      "stem": "A 60-year-old man in the ICU with gram-negative sepsis develops oozing from his intravenous catheter sites and around his gums. Laboratory studies show a platelet count of 40,000 cells/uL, prolonged prothrombin time and partial thromboplastin time, and schistocytes on the peripheral smear. Which of the following is the most likely cause of his thrombocytopenia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Disseminated intravascular coagulation"
+        },
+        {
+          "label": "B",
+          "text": "Glanzmann thrombasthenia (GpIIb/IIIa defect)"
+        },
+        {
+          "label": "C",
+          "text": "Heparin-induced thrombocytopenia (HIT)"
+        },
+        {
+          "label": "D",
+          "text": "Immune thrombocytopenic purpura (ITP)"
+        },
+        {
+          "label": "E",
+          "text": "Pseudothrombocytopenia from EDTA clumping"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Sepsis with bleeding, thrombocytopenia, prolonged coagulation times, and schistocytes indicates disseminated intravascular coagulation.",
+        "whyCorrect": "In DIC, derangement of the coagulation cascade drives rapid platelet consumption as microthrombi form, producing thrombocytopenia. The associated microangiopathic damage generates schistocytes, and simultaneous consumption of clotting factors prolongs both the PT and PTT. Prolonged coagulation studies are the exception in thrombocytopenia and point specifically to DIC.",
+        "whyWrongByChoice": {
+          "B": "Glanzmann thrombasthenia is a hereditary platelet aggregation defect with a normal platelet count, not consumptive thrombocytopenia.",
+          "C": "HIT characteristically produces thrombosis rather than diffuse bleeding, and it does not typically prolong the PT/PTT or produce schistocytes.",
+          "D": "ITP causes isolated thrombocytopenia with normal PT/PTT and no schistocytes.",
+          "E": "Pseudothrombocytopenia is a lab artifact in a well patient and would not cause real bleeding or abnormal coagulation studies."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "DIC",
+        "consumption",
+        "schistocytes",
+        "sepsis"
+      ],
+      "topicId": "thrombocytopenia",
+      "topicName": "Thrombocytopenia",
+      "tier": "core"
+    },
+    {
+      "id": "bl26-009",
+      "stem": "A 32-year-old woman at 35 weeks of gestation presents with right upper quadrant pain and malaise. Laboratory studies show a platelet count of 60,000 cells/uL, elevated liver transaminases, and evidence of hemolysis on the peripheral smear. Which of the following best explains her thrombocytopenia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "HELLP syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Heparin-induced thrombocytopenia"
+        },
+        {
+          "label": "C",
+          "text": "Immune thrombocytopenia"
+        },
+        {
+          "label": "D",
+          "text": "Splenic sequestration"
+        },
+        {
+          "label": "E",
+          "text": "Thrombotic thrombocytopenic purpura"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Hemolysis, elevated liver enzymes, and low platelets in a pregnant woman define HELLP syndrome, a microangiopathic consumptive process.",
+        "whyCorrect": "HELLP syndrome (hemolysis, elevated liver enzymes, low platelets) occurs in pregnancy and causes rapid platelet consumption within microthrombi, a form of microangiopathic hemolytic anemia. The combination of pregnancy, right upper quadrant pain, transaminase elevation, and hemolysis is characteristic.",
+        "whyWrongByChoice": {
+          "B": "HIT requires heparin exposure and causes thrombosis, not the hemolysis and liver findings seen here.",
+          "C": "ITP produces isolated thrombocytopenia without hemolysis or elevated liver enzymes.",
+          "D": "Splenic sequestration causes mild thrombocytopenia from an enlarged spleen and does not explain hemolysis with elevated liver enzymes.",
+          "E": "TTP is a thrombotic microangiopathy but classically presents with neurologic changes and renal involvement rather than the liver-enzyme elevation of pregnancy-related HELLP."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HELLP syndrome",
+        "pregnancy",
+        "microangiopathic hemolytic anemia"
+      ],
+      "topicId": "thrombocytopenia",
+      "topicName": "Thrombocytopenia",
+      "tier": "core"
+    },
+    {
+      "id": "bl26-010",
+      "stem": "A 68-year-old man reports several weeks of fatigue and is noted to be pale. His CBC shows a platelet count of 35,000 cells/uL, a hemoglobin of 8.5 g/dL, and a white blood cell count of 2,000/uL. The peripheral smear shows abnormal-appearing cells across multiple cell lines. Platelet clumping has been excluded. Which of the following is the most appropriate next diagnostic step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bone marrow biopsy"
+        },
+        {
+          "label": "B",
+          "text": "Coagulation studies"
+        },
+        {
+          "label": "C",
+          "text": "Platelet transfusion"
+        },
+        {
+          "label": "D",
+          "text": "Renal function tests"
+        },
+        {
+          "label": "E",
+          "text": "Repeat CBC in a citrate tube"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Pancytopenia with abnormal cells on smear indicates possible marrow failure or neoplasia, which is evaluated with a bone marrow biopsy.",
+        "whyCorrect": "The concurrent presence of thrombocytopenia, anemia, and leukopenia defines pancytopenia and points to pathology in the bone marrow. A bone marrow biopsy is indicated to distinguish marrow toxicity from hematopoietic neoplasia and to identify a neoplasm such as leukemia if present.",
+        "whyWrongByChoice": {
+          "B": "Coagulation studies do not explain pancytopenia or identify a marrow disorder.",
+          "C": "Transfusion may be needed for symptoms but is not a diagnostic step and does not establish the cause.",
+          "D": "Renal function tests would not explain pancytopenia with abnormal cells across cell lines.",
+          "E": "Clumping has already been excluded, so a citrate-tube recount for pseudothrombocytopenia is unnecessary."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pancytopenia",
+        "bone marrow biopsy",
+        "marrow suppression",
+        "workup"
+      ],
+      "topicId": "thrombocytopenia",
+      "topicName": "Thrombocytopenia",
+      "tier": "core"
+    },
+    {
+      "id": "bl26-011",
+      "stem": "A hematologist is teaching students how the bleeding pattern of thrombocytopenia differs from that of a coagulation-factor disorder such as hemophilia. Which of the following findings most strongly suggests a platelet problem (thrombocytopenia) rather than a coagulation-factor disorder?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A prolonged PTT with a normal platelet count"
+        },
+        {
+          "label": "B",
+          "text": "Deep bleeding into joints (hemarthrosis)"
+        },
+        {
+          "label": "C",
+          "text": "Deep intramuscular hematomas"
+        },
+        {
+          "label": "D",
+          "text": "Delayed bleeding that begins hours after injury"
+        },
+        {
+          "label": "E",
+          "text": "Superficial mucocutaneous bleeding with petechiae"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Thrombocytopenia causes superficial mucocutaneous bleeding with petechiae, unlike the deep tissue bleeding of coagulation-factor disorders.",
+        "whyCorrect": "Bleeding in thrombocytopenia is superficial, presenting as petechiae, purpura, and mucous membrane bleeding from the gums and nose. This contrasts with hemophilia and other coagulation disorders, in which bleeding is deep, such as into joints and muscles.",
+        "whyWrongByChoice": {
+          "A": "A prolonged PTT with a normal platelet count reflects a coagulation-cascade abnormality, not thrombocytopenia.",
+          "B": "Hemarthrosis is a hallmark of coagulation-factor disorders such as hemophilia, not thrombocytopenia.",
+          "C": "Deep intramuscular hematomas indicate a coagulation-factor disorder, not a platelet disorder.",
+          "D": "Delayed bleeding hours after injury is typical of coagulation-factor defects rather than platelet problems."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "mucocutaneous bleeding",
+        "hemophilia",
+        "petechiae",
+        "bleeding pattern"
+      ],
+      "topicId": "thrombocytopenia",
+      "topicName": "Thrombocytopenia",
+      "tier": "core"
+    },
+    {
+      "id": "bl26-012",
+      "stem": "A 70-year-old man treated with heparin for 6 days develops a 60% drop in his platelet count along with a new arterial clot. A heparin-PF4 antibody test is positive. Heparin is stopped immediately. Because he still requires anticoagulation for his thrombosis, which of the following is the most appropriate next agent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Argatroban"
+        },
+        {
+          "label": "B",
+          "text": "Aspirin"
+        },
+        {
+          "label": "C",
+          "text": "Platelet transfusion"
+        },
+        {
+          "label": "D",
+          "text": "Restart heparin at a lower dose"
+        },
+        {
+          "label": "E",
+          "text": "Warfarin started alone immediately"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "After stopping heparin in HIT, anticoagulation is continued with an alternative agent such as the direct thrombin inhibitor argatroban.",
+        "whyCorrect": "In heparin-induced thrombocytopenia, stopping heparin is the first step, and the next is starting an alternative anticoagulant. Direct thrombin inhibitors such as argatroban or bivalirudin, or direct factor Xa inhibitors such as rivaroxaban or apixaban, are appropriate choices to treat the ongoing thrombotic risk.",
+        "whyWrongByChoice": {
+          "B": "Aspirin is an antiplatelet agent and provides inadequate anticoagulation for an active HIT-related thrombosis.",
+          "C": "Platelet transfusion can fuel further thrombosis in HIT and does not address the anticoagulation need.",
+          "D": "Restarting heparin would reintroduce the offending agent and worsen the antibody-mediated process.",
+          "E": "Warfarin should not be started alone in acute HIT because of thrombotic risk; a nonheparin anticoagulant is used first."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "HIT",
+        "argatroban",
+        "direct thrombin inhibitor",
+        "management"
+      ],
+      "topicId": "thrombocytopenia",
+      "topicName": "Thrombocytopenia",
+      "tier": "core"
+    },
+    {
+      "id": "bl27-001",
+      "stem": "A 30-year-old woman is diagnosed with immune thrombocytopenia (ITP). Her antiplatelet antibodies have bound to glycoproteins on the surface of her platelets. Which of the following best explains how these antibody-coated platelets are removed from the circulation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Activation of complement causes intravascular lysis of the platelets"
+        },
+        {
+          "label": "B",
+          "text": "Macrophages in the spleen phagocytose the platelets via Fc receptors"
+        },
+        {
+          "label": "C",
+          "text": "Natural killer cells recognize and destroy the platelets"
+        },
+        {
+          "label": "D",
+          "text": "The bone marrow stops releasing platelets into the blood"
+        },
+        {
+          "label": "E",
+          "text": "The liver sequesters and stores the platelets long-term"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In ITP, IgG-opsonized platelets are cleared by splenic macrophages through Fc receptor binding.",
+        "whyCorrect": "Antibodies (usually IgG) coat the platelets in a process called opsonization. Macrophages in the spleen then bind the Fc portion of these antibodies via their Fc receptors, phagocytose the antibody-coated platelets, and remove them completely from the circulation, lowering the platelet count.",
+        "whyWrongByChoice": {
+          "A": "The brick attributes platelet loss to splenic phagocytosis, not to complement-mediated intravascular lysis.",
+          "C": "Destruction is carried out by splenic macrophages, not natural killer cells.",
+          "D": "Marrow production is actually increased in ITP (increased megakaryocytes); platelets are destroyed peripherally, not held back by the marrow.",
+          "E": "It is splenic macrophages that engulf the platelets; the liver does not simply store them."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ITP",
+        "pathophysiology",
+        "spleen"
+      ],
+      "topicId": "immune-thrombocytopenia",
+      "topicName": "Immune Thrombocytopenia",
+      "tier": "core"
+    },
+    {
+      "id": "bl27-002",
+      "stem": "A 40-year-old woman with immune thrombocytopenia undergoes a bone marrow biopsy as part of an atypical workup. Which of the following findings would most likely be seen in her marrow?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Absent megakaryocytes"
+        },
+        {
+          "label": "B",
+          "text": "Diffuse infiltration by blasts"
+        },
+        {
+          "label": "C",
+          "text": "Extensive marrow fibrosis"
+        },
+        {
+          "label": "D",
+          "text": "Increased megakaryocytes"
+        },
+        {
+          "label": "E",
+          "text": "Markedly hypocellular marrow"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "ITP marrow shows increased megakaryocytes because platelet destruction is peripheral, not a production problem.",
+        "whyCorrect": "Because platelets are destroyed peripherally in the spleen, the marrow compensates by making more, so it shows increased megakaryocytes. A bone marrow biopsy is not required to diagnose ITP.",
+        "whyWrongByChoice": {
+          "A": "Megakaryocytes are increased, not absent; production is intact and even ramped up.",
+          "B": "Blast infiltration suggests leukemia, not ITP.",
+          "C": "Marrow fibrosis is a feature of myelofibrosis, not ITP.",
+          "E": "The marrow is not hypocellular; the megakaryocyte line is expanded."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ITP",
+        "bone marrow",
+        "megakaryocytes"
+      ],
+      "topicId": "immune-thrombocytopenia",
+      "topicName": "Immune Thrombocytopenia",
+      "tier": "core"
+    },
+    {
+      "id": "bl27-003",
+      "stem": "A 26-year-old woman with isolated thrombocytopenia is suspected of having immune thrombocytopenia. Aside from the reduced number of platelets, which of the following best describes her peripheral blood smear?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Marked leukocytosis with circulating blasts"
+        },
+        {
+          "label": "B",
+          "text": "Occasional large platelets"
+        },
+        {
+          "label": "C",
+          "text": "Prominent red blood cell anisocytosis"
+        },
+        {
+          "label": "D",
+          "text": "Schistocytes and helmet cells"
+        },
+        {
+          "label": "E",
+          "text": "Small, gray, agranular platelets"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "ITP shows isolated thrombocytopenia; platelets are normal or occasionally large, with normal red and white cells.",
+        "whyCorrect": "The smear in ITP demonstrates isolated thrombocytopenia: platelets are decreased in number while red and white blood cells look normal. The platelets themselves appear normal, though some may be larger than normal.",
+        "whyWrongByChoice": {
+          "A": "Leukocytosis with blasts suggests leukemia, not the isolated thrombocytopenia of ITP.",
+          "C": "Red cell anisocytosis points to an anemia (e.g., iron deficiency), not ITP, in which red cells are normal.",
+          "D": "Schistocytes indicate a microangiopathic process, not ITP.",
+          "E": "Gray, agranular platelets suggest gray platelet syndrome, a hereditary disorder, not ITP."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ITP",
+        "blood smear",
+        "isolated thrombocytopenia"
+      ],
+      "topicId": "immune-thrombocytopenia",
+      "topicName": "Immune Thrombocytopenia",
+      "tier": "core"
+    },
+    {
+      "id": "bl27-004",
+      "stem": "A 45-year-old woman is being evaluated for a low platelet count, and immune thrombocytopenia is being considered. Which of the following additional findings, if present, would most strongly argue against a diagnosis of ITP?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A normal prothrombin time and partial thromboplastin time"
+        },
+        {
+          "label": "B",
+          "text": "A recent viral upper respiratory infection 2 weeks earlier"
+        },
+        {
+          "label": "C",
+          "text": "Concurrent anemia and leukopenia on the complete blood count"
+        },
+        {
+          "label": "D",
+          "text": "Increased megakaryocytes on bone marrow examination with normal other lineages"
+        },
+        {
+          "label": "E",
+          "text": "Petechiae on the lower extremities and oral mucosa"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "ITP requires an isolated thrombocytopenia; involvement of other cell lines points away from ITP.",
+        "whyCorrect": "ITP is diagnosed only when the thrombocytopenia is isolated, meaning the red and white blood cells are normal in number. Coexisting anemia and leukopenia mean the thrombocytopenia is not isolated, so another cause (such as a marrow or systemic disorder) is more likely.",
+        "whyWrongByChoice": {
+          "A": "Normal PT and PTT are expected, since ITP is a platelet problem, not a coagulation factor problem.",
+          "B": "A recent viral infection is a recognized secondary trigger of ITP and does not argue against it.",
+          "D": "Increased megakaryocytes are the expected marrow finding in ITP and support, rather than exclude, the diagnosis.",
+          "E": "Petechiae are a typical presenting sign of ITP and are consistent with the diagnosis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ITP",
+        "diagnosis of exclusion",
+        "isolated thrombocytopenia"
+      ],
+      "topicId": "immune-thrombocytopenia",
+      "topicName": "Immune Thrombocytopenia",
+      "tier": "core"
+    },
+    {
+      "id": "bl27-005",
+      "stem": "A clinician evaluating a patient with suspected immune thrombocytopenia considers ordering an antiplatelet antibody test to confirm the diagnosis. Which of the following is the best reason this test is not relied upon for diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It detects only IgM antibodies, which are not involved in ITP"
+        },
+        {
+          "label": "B",
+          "text": "It has low sensitivity"
+        },
+        {
+          "label": "C",
+          "text": "It is positive in nearly all healthy people"
+        },
+        {
+          "label": "D",
+          "text": "It is prohibitively expensive and rarely available"
+        },
+        {
+          "label": "E",
+          "text": "It requires a bone marrow biopsy to perform"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Antiplatelet antibody tests are not used because their sensitivity is low.",
+        "whyCorrect": "The antibody tests have a very low sensitivity: about half of patients with ITP have a negative result. This makes the test unreliable for confirming the diagnosis, which is why ITP remains a clinical diagnosis of exclusion.",
+        "whyWrongByChoice": {
+          "A": "The antibodies in ITP are usually IgG, and the problem with the test is poor sensitivity, not the antibody class it detects.",
+          "C": "The brick cites low sensitivity (false negatives), not universal positivity in healthy people.",
+          "D": "Cost and availability are not the reasons given; the issue is the test's low sensitivity.",
+          "E": "The antibody test does not require a bone marrow biopsy; marrow biopsy is not needed for ITP at all."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ITP",
+        "diagnosis",
+        "antiplatelet antibodies"
+      ],
+      "topicId": "immune-thrombocytopenia",
+      "topicName": "Immune Thrombocytopenia",
+      "tier": "core"
+    },
+    {
+      "id": "bl27-006",
+      "stem": "A 5-year-old boy is brought to clinic with the sudden appearance of a petechial rash and bruising two weeks after a viral upper respiratory infection. He otherwise looks and feels well, and his labs show an isolated thrombocytopenia. Which of the following is the most likely course of his condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is a lifelong chronic disease requiring continuous therapy"
+        },
+        {
+          "label": "B",
+          "text": "It is self-limited"
+        },
+        {
+          "label": "C",
+          "text": "It typically progresses to acute leukemia"
+        },
+        {
+          "label": "D",
+          "text": "It usually causes fatal intracerebral hemorrhage within days"
+        },
+        {
+          "label": "E",
+          "text": "It will require urgent splenectomy to prevent death"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Acute ITP in children follows a viral illness, is self-limited, and usually resolves within months.",
+        "whyCorrect": "Acute ITP is most common in children and usually follows a viral illness. Although the onset is abrupt, the child typically looks and feels well, the disease is self-limited, generally requires no treatment, and most children recover completely within a few months.",
+        "whyWrongByChoice": {
+          "A": "A lifelong chronic course is characteristic of chronic ITP in adults, not acute childhood ITP.",
+          "C": "Acute ITP is self-limited and does not progress to leukemia.",
+          "D": "Life-threatening bleeding such as intracerebral hemorrhage is rare; the child usually looks and feels well.",
+          "E": "Splenectomy is a third-line therapy reserved for refractory chronic ITP, not a routine step in self-limited childhood ITP."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "ITP",
+        "acute ITP",
+        "children"
+      ],
+      "topicId": "immune-thrombocytopenia",
+      "topicName": "Immune Thrombocytopenia",
+      "tier": "core"
+    },
+    {
+      "id": "bl27-007",
+      "stem": "A 34-year-old woman with systemic lupus erythematosus presents with petechiae and an isolated thrombocytopenia and is diagnosed with chronic immune thrombocytopenia. Which of the following statements best characterizes chronic ITP?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is always self-limited and resolves within a few weeks"
+        },
+        {
+          "label": "B",
+          "text": "It is most common in adult females younger than 40"
+        },
+        {
+          "label": "C",
+          "text": "It nearly always presents with life-threatening bleeding"
+        },
+        {
+          "label": "D",
+          "text": "It occurs exclusively in children following a viral illness"
+        },
+        {
+          "label": "E",
+          "text": "It results from decreased production of megakaryocytes"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Chronic ITP most often affects adult women under 40 and may be primary or secondary to disorders like lupus, HIV, or CLL.",
+        "whyCorrect": "Chronic ITP presents most commonly in adult females younger than 40 years. It may be primary or secondary, occurring in the setting of conditions such as lupus, HIV infection, or chronic lymphocytic leukemia, with a gradual onset and common recurrences.",
+        "whyWrongByChoice": {
+          "A": "A brief, self-limited course is characteristic of acute childhood ITP; chronic ITP tends to recur.",
+          "C": "In most chronic ITP, bleeding is relatively minor, and life-threatening bleeding is rare.",
+          "D": "Occurring in children after a viral illness describes acute ITP, not chronic ITP.",
+          "E": "ITP is caused by peripheral antibody-mediated destruction, and megakaryocytes are actually increased."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ITP",
+        "chronic ITP",
+        "secondary causes"
+      ],
+      "topicId": "immune-thrombocytopenia",
+      "topicName": "Immune Thrombocytopenia",
+      "tier": "core"
+    },
+    {
+      "id": "bl27-008",
+      "stem": "A 29-year-old man develops isolated thrombocytopenia and petechiae. His history is notable for a chronic viral infection, and his clinician suspects secondary immune thrombocytopenia due to molecular mimicry. Which of the following is a recognized secondary cause of ITP by this mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Factor V Leiden"
+        },
+        {
+          "label": "B",
+          "text": "Hepatitis C infection"
+        },
+        {
+          "label": "C",
+          "text": "Hypothyroidism"
+        },
+        {
+          "label": "D",
+          "text": "Iron deficiency"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin B12 deficiency"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Viral infections such as hepatitis C can cause secondary ITP through molecular mimicry.",
+        "whyCorrect": "In viral illness, antibodies generated to fight the virus cross-react with the patient's platelets, a process called molecular mimicry. Cited examples include HIV, hepatitis C, CMV, varicella, and coronavirus.",
+        "whyWrongByChoice": {
+          "A": "Factor V Leiden is an inherited thrombophilia, unrelated to antiplatelet antibodies.",
+          "C": "Hypothyroidism is not listed as a secondary cause of ITP.",
+          "D": "Iron deficiency causes anemia, not antibody-mediated platelet destruction.",
+          "E": "Vitamin B12 deficiency causes megaloblastic anemia and is not a molecular-mimicry trigger for ITP."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ITP",
+        "secondary causes",
+        "molecular mimicry"
+      ],
+      "topicId": "immune-thrombocytopenia",
+      "topicName": "Immune Thrombocytopenia",
+      "tier": "core"
+    },
+    {
+      "id": "bl27-009",
+      "stem": "A 38-year-old woman with symptomatic chronic immune thrombocytopenia and a very low platelet count is started on treatment. Which of the following is the usual first-line therapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Corticosteroids"
+        },
+        {
+          "label": "B",
+          "text": "Platelet transfusion"
+        },
+        {
+          "label": "C",
+          "text": "Rituximab"
+        },
+        {
+          "label": "D",
+          "text": "Splenectomy"
+        },
+        {
+          "label": "E",
+          "text": "Thrombopoietin agonists"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Corticosteroids such as prednisone are the usual first-line therapy for ITP.",
+        "whyCorrect": "The goal of treatment is to keep the platelet count at a safe level to prevent severe bleeding. Corticosteroids (e.g., prednisone) are the usual first-line therapy.",
+        "whyWrongByChoice": {
+          "B": "Platelet transfusions are generally avoided because the transfused platelets are destroyed just as quickly.",
+          "C": "Rituximab is typically the first choice for relapse after a steroid taper, not initial therapy.",
+          "D": "Splenectomy is now a third-line option reserved for corticosteroid failure.",
+          "E": "TPO agonists are used for recurrence after a steroid taper, not as first-line treatment."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "ITP",
+        "treatment",
+        "corticosteroids"
+      ],
+      "topicId": "immune-thrombocytopenia",
+      "topicName": "Immune Thrombocytopenia",
+      "tier": "core"
+    },
+    {
+      "id": "bl27-010",
+      "stem": "A 42-year-old woman with immune thrombocytopenia has a severely low platelet count and active bleeding, and her platelet count must be raised quickly. Which of the following treatments is most appropriate to rapidly raise her platelet count?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Intravenous immunoglobulin (IVIG)"
+        },
+        {
+          "label": "B",
+          "text": "Laparoscopic splenectomy"
+        },
+        {
+          "label": "C",
+          "text": "Oral prednisone monotherapy"
+        },
+        {
+          "label": "D",
+          "text": "Rituximab infusion therapy"
+        },
+        {
+          "label": "E",
+          "text": "Thrombopoietin receptor agonists"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "IVIG rapidly raises the platelet count in ITP, though its effect is transient.",
+        "whyCorrect": "Intravenous immune globulin (IVIG) is used to rapidly raise the platelet count, although the effect is transient. It is useful in the setting of significant bleeding or as pre-operative treatment.",
+        "whyWrongByChoice": {
+          "B": "Splenectomy is a third-line surgical option, not a rapid pharmacologic measure.",
+          "C": "Corticosteroids are first-line therapy but do not raise the platelet count as rapidly as IVIG.",
+          "D": "Rituximab is used for relapse after steroid taper and does not act rapidly.",
+          "E": "TPO agonists are used for recurrence and act by stimulating production over time, not rapidly."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ITP",
+        "treatment",
+        "IVIG"
+      ],
+      "topicId": "immune-thrombocytopenia",
+      "topicName": "Immune Thrombocytopenia",
+      "tier": "core"
+    },
+    {
+      "id": "bl27-011",
+      "stem": "A 50-year-old man with refractory immune thrombocytopenia that has failed medical therapy is scheduled for splenectomy. Which of the following is most important to do before the procedure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Administer high-dose iron supplementation"
+        },
+        {
+          "label": "B",
+          "text": "Arrange a bone marrow transplant"
+        },
+        {
+          "label": "C",
+          "text": "Begin lifelong warfarin therapy"
+        },
+        {
+          "label": "D",
+          "text": "Immunize him against encapsulated bacteria"
+        },
+        {
+          "label": "E",
+          "text": "Transfuse platelets to achieve a normal count"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Patients undergoing splenectomy must be immunized against encapsulated bacteria beforehand.",
+        "whyCorrect": "Splenectomy removes the site of platelet destruction and can be effective, but because the spleen is important for defense against encapsulated organisms, patients must be immunized against encapsulated bacteria before the procedure.",
+        "whyWrongByChoice": {
+          "A": "Iron supplementation treats iron deficiency anemia and has no role in preparing for splenectomy in ITP.",
+          "B": "Bone marrow transplant is not part of ITP management; marrow production is already intact.",
+          "C": "ITP is a bleeding disorder; anticoagulation with warfarin would be harmful and is not indicated.",
+          "E": "Transfused platelets are destroyed as fast as the patient's own, so routine transfusion to a normal count is not the priority."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ITP",
+        "treatment",
+        "splenectomy"
+      ],
+      "topicId": "immune-thrombocytopenia",
+      "topicName": "Immune Thrombocytopenia",
+      "tier": "core"
+    },
+    {
+      "id": "bl27-012",
+      "stem": "A 33-year-old woman with immune thrombocytopenia and mild petechiae asks why she cannot simply receive a platelet transfusion to normalize her count. Which of the following best explains why platelet transfusions are generally avoided in ITP?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The transfused platelets are destroyed just as rapidly as the patient's own platelets"
+        },
+        {
+          "label": "B",
+          "text": "Transfused platelets cause iron overload that damages the liver and heart"
+        },
+        {
+          "label": "C",
+          "text": "Transfused platelets reliably trigger fatal anaphylaxis in patients with this disorder"
+        },
+        {
+          "label": "D",
+          "text": "Transfusion permanently increases antiplatelet antibody production by the spleen"
+        },
+        {
+          "label": "E",
+          "text": "Transfusion transmits the virus that caused the ITP to household contacts"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Platelet transfusions are avoided in ITP because the transfused platelets are destroyed as fast as the patient's own.",
+        "whyCorrect": "In ITP, the antiplatelet antibodies destroy transfused donor platelets just as fast as the patient's own platelets, so transfusion is generally avoided. It may be used only in patients with severe thrombocytopenia and significant bleeding.",
+        "whyWrongByChoice": {
+          "B": "Iron overload is a concern with chronic red cell transfusion, not the reason platelets are avoided in ITP.",
+          "C": "Anaphylaxis is not the reason transfusions are avoided in ITP; rapid destruction of the platelets is.",
+          "D": "The brick does not describe transfusion as permanently boosting antibody production.",
+          "E": "Transfusion is avoided because the platelets are quickly destroyed, not because it transmits a causative virus."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ITP",
+        "treatment",
+        "platelet transfusion"
+      ],
+      "topicId": "immune-thrombocytopenia",
+      "topicName": "Immune Thrombocytopenia",
+      "tier": "core"
+    },
+    {
+      "id": "bl28-001",
+      "stem": "A 42-year-old man who underwent a bone marrow transplant 10 days ago has thrombocytopenia. His platelet count was 120,000/mm3 on Monday and 100,000/mm3 on Wednesday, and it continues to fall. Below which of the following platelet counts is he most likely to develop spontaneous bleeding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "10,000/mm3"
+        },
+        {
+          "label": "B",
+          "text": "40,000/mm3"
+        },
+        {
+          "label": "C",
+          "text": "60,000/mm3"
+        },
+        {
+          "label": "D",
+          "text": "80,000/mm3"
+        },
+        {
+          "label": "E",
+          "text": "100,000/mm3"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Spontaneous (non-traumatic) bleeding generally does not occur until the platelet count drops below 10,000/mm3.",
+        "whyCorrect": "The brick's platelet count table shows that the risk of spontaneous bleeding appears only when counts fall below 10,000/mm3. Above that level, bleeding, if any, is usually provoked by trauma rather than occurring spontaneously.",
+        "whyWrongByChoice": {
+          "B": "At counts around 20,000-50,000/mm3 a patient may bleed more after injuries, but spontaneous bleeding is not expected.",
+          "C": "A count of 60,000/mm3 is not usually associated with significant bleeding.",
+          "D": "A count of 80,000/mm3 is above the threshold for any abnormal bleeding.",
+          "E": "A count of 100,000/mm3 is only mild thrombocytopenia and is not associated with significant bleeding."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "platelet count",
+        "thrombocytopenia",
+        "spontaneous bleeding"
+      ],
+      "topicId": "platelet-assays",
+      "topicName": "Platelet Assays",
+      "tier": "core"
+    },
+    {
+      "id": "bl28-002",
+      "stem": "A sample of platelet-rich plasma is sent to the laboratory for aggregation studies. When exposed to ADP, collagen, epinephrine, and ristocetin, the platelets aggregate normally in response to every agent. Which of the following conclusions is best supported by these results?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The patient has abnormal platelet function"
+        },
+        {
+          "label": "B",
+          "text": "The patient has Bernard-Soulier syndrome"
+        },
+        {
+          "label": "C",
+          "text": "The patient is able to form a normal fibrin clot"
+        },
+        {
+          "label": "D",
+          "text": "The platelets are functioning normally"
+        },
+        {
+          "label": "E",
+          "text": "The sample contains a sufficient quantity of platelets"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Aggregation to all agonists indicates normal platelet function; the test does not assess platelet quantity or fibrin formation.",
+        "whyCorrect": "Normal platelets respond to every aggregating agent, so aggregation with ADP, collagen, epinephrine, and ristocetin is considered normal platelet function. Abnormal responses to one or more agents would instead suggest a functional defect.",
+        "whyWrongByChoice": {
+          "A": "Abnormal function would show diminished aggregation to one or more agents, which is not the case here.",
+          "B": "Bernard-Soulier would show absent aggregation to ristocetin, so a normal ristocetin response excludes it.",
+          "C": "Platelet aggregation studies assess primary hemostasis and do not evaluate fibrin (secondary hemostasis).",
+          "E": "Aggregation studies measure how platelets respond, not how many platelets are present."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "aggregation studies",
+        "platelet function"
+      ],
+      "topicId": "platelet-assays",
+      "topicName": "Platelet Assays",
+      "tier": "core"
+    },
+    {
+      "id": "bl28-003",
+      "stem": "A 27-year-old woman is referred after continuous oozing from wisdom-tooth extraction sites. Her prothrombin time/INR, partial thromboplastin time, and platelet count are all within normal limits. Which of the following tests is the preferred next step to evaluate how well her platelets function?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hemoglobin electrophoresis"
+        },
+        {
+          "label": "B",
+          "text": "Peripheral blood smear for morphology"
+        },
+        {
+          "label": "C",
+          "text": "Platelet count"
+        },
+        {
+          "label": "D",
+          "text": "Platelet function assay (PFA-100)"
+        },
+        {
+          "label": "E",
+          "text": "Prothrombin time"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The PFA-100 is the preferred test of platelet function, assessing how well the platelet plug forms.",
+        "whyCorrect": "When counts and coagulation studies are normal but bleeding persists, a platelet function problem is suspected. The PFA-100 is the preferred assay of platelet function; blood is drawn through a standardized aperture and the machine measures plug formation, detecting abnormal adhesion and aggregation.",
+        "whyWrongByChoice": {
+          "A": "Hemoglobin electrophoresis evaluates hemoglobin types and is unrelated to platelet function.",
+          "B": "Morphology can reveal size/shape abnormalities but most diseases have normal-appearing platelets and it does not measure function.",
+          "C": "The platelet count is already normal and does not indicate how well the platelets work.",
+          "E": "The prothrombin time evaluates the coagulation cascade, not platelet function, and is already normal."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "PFA-100",
+        "platelet function",
+        "case"
+      ],
+      "topicId": "platelet-assays",
+      "topicName": "Platelet Assays",
+      "tier": "core"
+    },
+    {
+      "id": "bl28-004",
+      "stem": "During a platelet aggregation study, a patient's platelets aggregate normally in response to ADP, collagen, and epinephrine but fail to aggregate in response to ristocetin. Genetic and receptor testing shows the platelets lack the normal glycoprotein Ib (GpIb) receptor for von Willebrand factor. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bernard-Soulier syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Hemophilia A (factor VIII)"
+        },
+        {
+          "label": "C",
+          "text": "Immune thrombocytopenic purpura"
+        },
+        {
+          "label": "D",
+          "text": "Essential thrombocytosis"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin K deficiency bleeding"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Bernard-Soulier syndrome is caused by a lack of the platelet GpIb receptor for vWF, producing absent ristocetin-induced aggregation.",
+        "whyCorrect": "Ristocetin works by driving vWF (GpIb) receptors to the platelet surface so they can bind vWF. In Bernard-Soulier syndrome the platelets lack the normal GpIb receptor, so no matter how much ristocetin is added the platelets will not aggregate, while responses to other agonists remain normal.",
+        "whyWrongByChoice": {
+          "B": "Hemophilia A is a factor VIII deficiency of secondary hemostasis and does not affect platelet aggregation.",
+          "C": "Immune thrombocytopenia lowers the platelet count rather than removing the GpIb receptor.",
+          "D": "Thrombocytosis is a high platelet count and does not cause an isolated loss of ristocetin response.",
+          "E": "Vitamin K deficiency impairs the coagulation cascade, not platelet ristocetin aggregation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Bernard-Soulier",
+        "ristocetin",
+        "aggregation studies"
+      ],
+      "topicId": "platelet-assays",
+      "topicName": "Platelet Assays",
+      "tier": "core"
+    },
+    {
+      "id": "bl28-005",
+      "stem": "A 30-year-old woman with lifelong easy bruising and heavy menses undergoes aggregation testing. Her platelets aggregate normally to ADP, collagen, and epinephrine but fail to aggregate with ristocetin. Repeat testing after mixing her platelets with normal von Willebrand factor restores the ristocetin response. Which of the following best explains her original result?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Absence of GpIb, the platelet receptor for von Willebrand factor"
+        },
+        {
+          "label": "B",
+          "text": "An elevated platelet count causing sludging"
+        },
+        {
+          "label": "C",
+          "text": "Deficiency of coagulation factor VIII"
+        },
+        {
+          "label": "D",
+          "text": "Deficiency of von Willebrand factor"
+        },
+        {
+          "label": "E",
+          "text": "Lack of platelet granules"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In von Willebrand disease the platelets are normal but there is no functional vWF, so ristocetin-induced aggregation is absent.",
+        "whyCorrect": "In von Willebrand disease the platelets express normal vWF (GpIb) receptors, but there is no normal von Willebrand factor for them to bind, so they do not aggregate with ristocetin. Supplying normal vWF corrects the defect, distinguishing it from Bernard-Soulier syndrome.",
+        "whyWrongByChoice": {
+          "A": "If the GpIb receptor itself were absent (Bernard-Soulier), adding normal vWF would not restore aggregation.",
+          "B": "A high platelet count causes sludging/ischemia, not a selective loss of the ristocetin response.",
+          "C": "Factor VIII deficiency affects the coagulation cascade, not ristocetin-induced platelet aggregation.",
+          "E": "Absent granules is a different morphologic defect and would not be corrected by adding vWF."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "von Willebrand disease",
+        "ristocetin",
+        "vWF"
+      ],
+      "topicId": "platelet-assays",
+      "topicName": "Platelet Assays",
+      "tier": "core"
+    },
+    {
+      "id": "bl28-006",
+      "stem": "A hematology technician reports that an automated analyzer produced a platelet count that appears falsely low. Small clumps of platelets were noted when the specimen was checked. Which of the following is the most appropriate way to obtain an accurate platelet count?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Manually examine a blood smear"
+        },
+        {
+          "label": "B",
+          "text": "Measure the von Willebrand factor level"
+        },
+        {
+          "label": "C",
+          "text": "Order a bleeding time"
+        },
+        {
+          "label": "D",
+          "text": "Perform a platelet function assay (PFA-100)"
+        },
+        {
+          "label": "E",
+          "text": "Perform ristocetin aggregation testing"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "When platelet clumps or other small cells cause a falsely altered automated count, the count should be verified manually on a smear.",
+        "whyCorrect": "Although modern analyzers usually give reliable counts, platelet clumps or misread small cells can falsely elevate or decrease the automated result. In these instances the platelet count must be performed manually by examining a blood smear under the microscope.",
+        "whyWrongByChoice": {
+          "B": "A vWF assay measures von Willebrand factor level and does not quantify platelets.",
+          "C": "The bleeding time assesses function of primary hemostasis, not the platelet count.",
+          "D": "The PFA-100 measures platelet function, not the number of platelets.",
+          "E": "Ristocetin aggregation testing evaluates platelet response to vWF, not quantity."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "platelet count",
+        "blood smear",
+        "preanalytical"
+      ],
+      "topicId": "platelet-assays",
+      "topicName": "Platelet Assays",
+      "tier": "core"
+    },
+    {
+      "id": "bl28-007",
+      "stem": "A medical student asks why the platelet function assay (PFA-100) has largely replaced the older bleeding time test. Which of the following is the best explanation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The bleeding time cannot be performed when the platelet count is normal"
+        },
+        {
+          "label": "B",
+          "text": "The bleeding time evaluates the coagulation cascade rather than platelets"
+        },
+        {
+          "label": "C",
+          "text": "The bleeding time is difficult to standardize"
+        },
+        {
+          "label": "D",
+          "text": "The bleeding time measures fibrin formation directly"
+        },
+        {
+          "label": "E",
+          "text": "The bleeding time requires platelet-rich plasma and aggregating agents"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The bleeding time is hard to standardize, which is why the PFA-100 is replacing it.",
+        "whyCorrect": "The bleeding time involves piercing the forearm with a lancet and recording how long the cut bleeds. It is being replaced by the PFA-100 because it is difficult to standardize, with variables such as the size of the lancet, the skin depth and durability, and the technician's blotting technique.",
+        "whyWrongByChoice": {
+          "A": "The bleeding time evaluates function and can be done with a normal platelet count.",
+          "B": "Both the bleeding time and PFA-100 assess platelet-driven primary hemostasis, not the coagulation cascade.",
+          "D": "Neither the bleeding time nor the PFA-100 reflects fibrin formation.",
+          "E": "Platelet-rich plasma and aggregating agents describe aggregation studies, not the bleeding time."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "bleeding time",
+        "PFA-100",
+        "limitations"
+      ],
+      "topicId": "platelet-assays",
+      "topicName": "Platelet Assays",
+      "tier": "core"
+    },
+    {
+      "id": "bl28-008",
+      "stem": "A patient with abnormal bleeding has a PFA-100 result showing decreased platelet function and a bleeding time that is prolonged. The clinician notes that neither of these tests reveals the underlying cause of the platelet dysfunction. Which of the following tests would best help determine the specific cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mean platelet volume measurement"
+        },
+        {
+          "label": "B",
+          "text": "Platelet aggregation studies"
+        },
+        {
+          "label": "C",
+          "text": "Prothrombin time with INR"
+        },
+        {
+          "label": "D",
+          "text": "Repeat bleeding time testing"
+        },
+        {
+          "label": "E",
+          "text": "Repeat automated platelet count"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Neither the PFA-100 nor the bleeding time explains why platelets malfunction; aggregation studies with specific agents narrow the cause.",
+        "whyCorrect": "The PFA-100 and bleeding time show that platelets are working poorly but not why. Determining the cause is done using platelet aggregation studies that show the response to specific factors, since the pattern of response to different agents helps narrow the diagnosis (for example, Bernard-Soulier or von Willebrand disease).",
+        "whyWrongByChoice": {
+          "A": "Mean platelet volume reflects platelet size, which does not necessarily reflect function or its cause.",
+          "C": "The prothrombin time evaluates the coagulation cascade, not the cause of platelet dysfunction.",
+          "D": "Repeating the bleeding time would only reconfirm the functional defect without revealing its cause.",
+          "E": "A platelet count gives quantity, not the cause of dysfunction, and is often normal in these patients."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "aggregation studies",
+        "platelet dysfunction",
+        "diagnosis"
+      ],
+      "topicId": "platelet-assays",
+      "topicName": "Platelet Assays",
+      "tier": "core"
+    },
+    {
+      "id": "bl28-009",
+      "stem": "A physician wants to assess how well a patient can form a clot before major elective surgery. Which of the following statements about the platelet count is most accurate in this setting?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A normal platelet count confirms that platelet adhesion and aggregation are normal"
+        },
+        {
+          "label": "B",
+          "text": "A normal platelet count does not indicate that the platelets function normally"
+        },
+        {
+          "label": "C",
+          "text": "A normal platelet count rules out von Willebrand disease as a cause of bleeding"
+        },
+        {
+          "label": "D",
+          "text": "The platelet count directly measures platelet aggregation in response to agonists"
+        },
+        {
+          "label": "E",
+          "text": "The platelet count evaluates the coagulation cascade as the PT and PTT do"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The platelet count reflects quantity, not function; a patient can bleed abnormally with a normal count.",
+        "whyCorrect": "The brick emphasizes that the platelet count does not indicate platelet function. A patient can have a bleeding disorder and still have a normal platelet count, which is why functional tests such as the PFA-100 and aggregation studies are needed to evaluate clotting ability.",
+        "whyWrongByChoice": {
+          "A": "A normal count does not confirm normal function; function requires separate testing.",
+          "C": "Von Willebrand disease can be present despite a normal platelet count.",
+          "D": "Aggregation is measured by aggregation studies, not by the platelet count.",
+          "E": "The coagulation cascade is assessed by tests such as PT and PTT, not the platelet count."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "platelet count",
+        "preoperative",
+        "function"
+      ],
+      "topicId": "platelet-assays",
+      "topicName": "Platelet Assays",
+      "tier": "core"
+    },
+    {
+      "id": "bl28-010",
+      "stem": "A blood smear from a patient with a suspected hereditary platelet disorder shows unusually large platelets, and some platelets appear gray because they lack granules. Which of the following best describes the general clinical utility of assessing platelet morphology?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It can be reliably performed by automated analyzers alone"
+        },
+        {
+          "label": "B",
+          "text": "It directly measures the response of platelets to aggregating agents"
+        },
+        {
+          "label": "C",
+          "text": "It is the initial step in evaluating any abnormal bleeding"
+        },
+        {
+          "label": "D",
+          "text": "It is the preferred method to measure platelet function"
+        },
+        {
+          "label": "E",
+          "text": "It is used less often than the platelet count"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Morphology is used less frequently than the count because most diseases show normal-appearing platelets, though it is key in certain hereditary disorders.",
+        "whyCorrect": "Assessing morphology requires manual smear review and is used less frequently than the total platelet count because most diseases, even those involving platelets, have normal-appearing platelets. In certain conditions, however, such as hereditary platelet disorders with giant platelets or gray platelets lacking granules, morphology is an important part of the diagnosis.",
+        "whyWrongByChoice": {
+          "A": "Morphology requires manual microscopic evaluation because autoanalyzers cannot detect subtle abnormalities.",
+          "B": "Response to aggregating agents is measured by aggregation studies, not by morphology.",
+          "C": "Measuring the platelet count, not morphology, is the initial step in evaluating abnormal bleeding.",
+          "D": "The preferred measure of platelet function is the PFA-100, not morphology."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "platelet morphology",
+        "blood smear",
+        "hereditary disorders"
+      ],
+      "topicId": "platelet-assays",
+      "topicName": "Platelet Assays",
+      "tier": "core"
+    },
+    {
+      "id": "bl28-011",
+      "stem": "In a platelet aggregation study, an aggregating agent is added to a tube of platelet-rich plasma. As the reaction proceeds, the plasma becomes less cloudy (less turbid). Which of the following does this decrease in turbidity most directly indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fibrin is being formed in the tube by secondary hemostasis"
+        },
+        {
+          "label": "B",
+          "text": "The platelet count in the sample is falling as cells settle out"
+        },
+        {
+          "label": "C",
+          "text": "The platelets are aggregating in response to that agent"
+        },
+        {
+          "label": "D",
+          "text": "The platelets are failing to respond to that particular agent"
+        },
+        {
+          "label": "E",
+          "text": "Von Willebrand factor is being consumed by the platelets"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In aggregation studies, platelets clumping together clears the plasma, so decreasing turbidity indicates aggregation.",
+        "whyCorrect": "The principle of the test is that adding an aggregating agent to platelet-rich plasma causes platelets to clump together, which makes the plasma less cloudy or turbid. A decrease in turbidity therefore means the platelets are aggregating properly in response to that particular agent.",
+        "whyWrongByChoice": {
+          "A": "Aggregation studies assess platelet clumping, not fibrin formation (secondary hemostasis).",
+          "B": "The clearing reflects platelets clumping, not a change in the total number of platelets present.",
+          "D": "A failure to respond would leave the plasma cloudy, not make it clearer.",
+          "E": "The turbidity change tracks platelet aggregation, not consumption of von Willebrand factor."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "aggregation studies",
+        "turbidity",
+        "platelet function"
+      ],
+      "topicId": "platelet-assays",
+      "topicName": "Platelet Assays",
+      "tier": "core"
+    },
+    {
+      "id": "bl28-012",
+      "stem": "A patient with abnormal bleeding has normal aggregation to all agonists except ristocetin, to which the platelets do not respond. To distinguish von Willebrand disease from Bernard-Soulier syndrome, the clinician orders a von Willebrand factor assay (von Willebrand antigen). Which of the following results would best support a diagnosis of von Willebrand disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A low von Willebrand factor level"
+        },
+        {
+          "label": "B",
+          "text": "A normal von Willebrand factor level"
+        },
+        {
+          "label": "C",
+          "text": "An elevated platelet count"
+        },
+        {
+          "label": "D",
+          "text": "Decreased mean platelet volume"
+        },
+        {
+          "label": "E",
+          "text": "Increased fibrin formation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The vWF assay measures the antigen level directly, and the level is low in von Willebrand disease.",
+        "whyCorrect": "Both von Willebrand disease and Bernard-Soulier syndrome show absent ristocetin aggregation. A specialized von Willebrand factor assay (von Willebrand antigen) measures the vWF level directly, and this level will be low in von Willebrand disease, whereas in Bernard-Soulier the defect is the missing platelet receptor and vWF is present.",
+        "whyWrongByChoice": {
+          "B": "A normal vWF level would point away from von Willebrand disease and toward a platelet receptor defect such as Bernard-Soulier.",
+          "C": "The platelet count is not the distinguishing feature between these two disorders.",
+          "D": "Mean platelet volume reflects platelet size and does not establish a low vWF level.",
+          "E": "Fibrin formation is part of secondary hemostasis and is not measured by the vWF assay."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "von Willebrand disease",
+        "vWF assay",
+        "specialized tests"
+      ],
+      "topicId": "platelet-assays",
+      "topicName": "Platelet Assays",
+      "tier": "core"
+    },
+    {
+      "id": "bl29-001",
+      "stem": "A 4-year-old girl is brought to the emergency department with several days of bloody diarrhea, vomiting, and decreased urination. Her family lives in a community where romaine lettuce was recently recalled. Her complete blood count shows anemia and thrombocytopenia, and the peripheral smear shows numerous schistocytes. Which of the following is the most likely underlying cause of her condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A defect in complement regulatory factors"
+        },
+        {
+          "label": "B",
+          "text": "An autoantibody against a phospholipid-binding protein"
+        },
+        {
+          "label": "C",
+          "text": "Deficiency of the enzyme ADAMTS13"
+        },
+        {
+          "label": "D",
+          "text": "Overactivation of the coagulation cascade from sepsis"
+        },
+        {
+          "label": "E",
+          "text": "Shiga toxin from Escherichia coli O157:H7"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Diarrhea-associated HUS in a young child is most often caused by Shiga toxin from E. coli O157:H7.",
+        "whyCorrect": "The most common type of HUS is acquired and associated with an infectious diarrheal illness due to a toxin-producing gut bacterium. The most common HUS-causing toxin is Shiga toxin, usually from E. coli O157:H7, which is absorbed through the gastrointestinal mucosa and alters endothelial cells, leading to platelet activation and microthrombi.",
+        "whyWrongByChoice": {
+          "A": "A complement factor defect causes only a rare genetic form of HUS, not the common diarrhea-associated form suggested by the lettuce recall and bloody diarrhea.",
+          "B": "Antibodies against a phospholipid-binding protein describe antiphospholipid syndrome, not diarrhea-associated HUS.",
+          "C": "ADAMTS13 deficiency causes TTP, which is seen mostly in young adults and characteristically involves neurologic findings rather than a preceding diarrheal illness.",
+          "D": "Overactivation of the coagulation cascade describes DIC, which would prolong the PT and aPTT and typically occurs with systemic infection or trauma."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "HUS",
+        "Shiga toxin",
+        "causes"
+      ],
+      "topicId": "thrombotic-microangiopathies",
+      "topicName": "Thrombotic Microangiopathies",
+      "tier": "core"
+    },
+    {
+      "id": "bl29-002",
+      "stem": "A 28-year-old woman who was previously healthy presents with fever, confusion, and easy bruising. Laboratory studies show anemia, a low platelet count, schistocytes on the smear, and a mildly elevated creatinine. Which of the following features most strongly favors thrombotic thrombocytopenic purpura over hemolytic-uremic syndrome?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A preceding diarrheal illness"
+        },
+        {
+          "label": "B",
+          "text": "Microangiopathic hemolytic anemia"
+        },
+        {
+          "label": "C",
+          "text": "Neurologic abnormalities such as confusion"
+        },
+        {
+          "label": "D",
+          "text": "Schistocytes on the peripheral blood smear"
+        },
+        {
+          "label": "E",
+          "text": "Thrombocytopenia"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Neurologic involvement is characteristic of TTP and is unusual in HUS.",
+        "whyCorrect": "In TTP, but not HUS, the brain may be involved because of microthrombi leading to strokes and cerebral ischemia, producing confusion, headache, dysarthria, seizures, or coma. HUS is characterized by the same findings as TTP except that neurologic findings are unusual and fever is less common.",
+        "whyWrongByChoice": {
+          "A": "A preceding diarrheal illness points toward HUS rather than TTP.",
+          "B": "Microangiopathic hemolytic anemia is a shared feature of all thrombotic microangiopathies.",
+          "D": "Schistocytes reflect microangiopathic hemolytic anemia and are present in both TTP and HUS, so they do not distinguish the two.",
+          "E": "Thrombocytopenia occurs in both TTP and HUS from platelet consumption and is not distinguishing."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "TTP",
+        "HUS",
+        "clinical distinction"
+      ],
+      "topicId": "thrombotic-microangiopathies",
+      "topicName": "Thrombotic Microangiopathies",
+      "tier": "core"
+    },
+    {
+      "id": "bl29-003",
+      "stem": "A 35-year-old woman is diagnosed with thrombotic thrombocytopenic purpura. Her disease stems from deficiency of the enzyme ADAMTS13. Which of the following best describes the direct consequence of this enzyme deficiency?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Complement is activated in an unregulated fashion, injuring endothelium"
+        },
+        {
+          "label": "B",
+          "text": "Fibrin is deposited excessively because the coagulation cascade is overactivated"
+        },
+        {
+          "label": "C",
+          "text": "Platelet production in the bone marrow is impaired"
+        },
+        {
+          "label": "D",
+          "text": "Red blood cells are destroyed by autoantibodies directed against membrane antigens"
+        },
+        {
+          "label": "E",
+          "text": "Ultra-large von Willebrand factor multimers are not cleaved"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "ADAMTS13 normally cleaves ultra-large vWF multimers; its deficiency lets platelets adhere to these multimers and form thrombi.",
+        "whyCorrect": "ADAMTS13 normally inhibits thrombosis by cleaving ultra-large von Willebrand factor multimers into smaller multimers that are less likely to form clots. In TTP, ADAMTS13 deficiency prevents this cleavage, so circulating platelets adhere readily to the large multimers, leading to formation of thrombi in small blood vessels.",
+        "whyWrongByChoice": {
+          "A": "Unregulated complement activation describes the rare genetic form of HUS, not TTP.",
+          "B": "Excess fibrin from an overactivated coagulation cascade describes DIC; TTP thrombi are platelet-rich with minimal fibrin.",
+          "C": "Thrombocytopenia in TTP results from platelet consumption in clots, not impaired marrow production.",
+          "D": "TTP does not involve autoantibodies against red cell membrane antigens; RBC damage is mechanical, from shearing by microthrombi."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "TTP",
+        "ADAMTS13",
+        "vWF",
+        "pathophysiology"
+      ],
+      "topicId": "thrombotic-microangiopathies",
+      "topicName": "Thrombotic Microangiopathies",
+      "tier": "core"
+    },
+    {
+      "id": "bl29-004",
+      "stem": "A hematologist reviews the peripheral blood smear of a patient with suspected thrombotic microangiopathy and identifies fragmented red cells that are small, lack central pallor, and have pointy edges. Which of the following statements about these cells is most accurate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They are a normal finding when the bone marrow is healthy"
+        },
+        {
+          "label": "B",
+          "text": "They are frequently artifactual and should be disregarded"
+        },
+        {
+          "label": "C",
+          "text": "They are nuclear remnants seen in patients with asplenia"
+        },
+        {
+          "label": "D",
+          "text": "They are specific for microangiopathic hemolytic anemia"
+        },
+        {
+          "label": "E",
+          "text": "They indicate a coexisting glucose-6-phosphate dehydrogenase deficiency"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Schistocytes are specific for MAHA and never appear on a normal or artifactual smear.",
+        "whyCorrect": "When RBCs travel through small vessels, they are sheared by microthrombi, producing fragmented cells called schistocytes. They are identifiable by their small size, lack of central pallor, and pointy edges, and are specific to MAHA; schistocytes never appear on a normal blood smear and are never artifactual.",
+        "whyWrongByChoice": {
+          "A": "Schistocytes are never seen on a normal smear, regardless of marrow health.",
+          "B": "Schistocytes are never artifactual; their presence is a genuine and meaningful finding.",
+          "C": "Nuclear remnants are Howell-Jolly bodies seen with asplenia, not schistocytes.",
+          "E": "Bite cells, not schistocytes, are associated with glucose-6-phosphate dehydrogenase deficiency."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "schistocytes",
+        "MAHA",
+        "peripheral smear"
+      ],
+      "topicId": "thrombotic-microangiopathies",
+      "topicName": "Thrombotic Microangiopathies",
+      "tier": "core"
+    },
+    {
+      "id": "bl29-005",
+      "stem": "A patient with thrombotic thrombocytopenic purpura has widespread microthrombi and a very low platelet count, yet the prothrombin time (PT) and activated partial thromboplastin time (aPTT) are normal. Which of the following best explains these normal coagulation results?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antibodies inhibit the thromboplastin reagent used in the assay"
+        },
+        {
+          "label": "B",
+          "text": "The coagulation cascade is overactivated, rapidly consuming clotting factors"
+        },
+        {
+          "label": "C",
+          "text": "The liver compensates by increasing synthesis of all clotting factors"
+        },
+        {
+          "label": "D",
+          "text": "The thrombi are composed largely of platelets with minimal fibrin"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin K deficiency prevents activation of the assay"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In TTP and HUS the thrombi are platelet-rich with minimal fibrin, so coagulation factors are not consumed and the PT and aPTT stay normal.",
+        "whyCorrect": "In TTP, HUS, and most secondary causes of TM, the intravascular thrombi result from platelet aggregation rather than activation of the coagulation cascade. The thrombi are composed largely of platelets with minimal fibrin, so coagulation factors are not excessively consumed, and the PT and aPTT are not prolonged.",
+        "whyWrongByChoice": {
+          "A": "Reagent inhibition by antibodies describes the prolonged aPTT of antiphospholipid syndrome, not the normal values in TTP.",
+          "B": "Overactivation of the cascade with factor consumption occurs in DIC, where the PT and aPTT become elevated.",
+          "C": "Normal coagulation times reflect that factors are not consumed, not increased hepatic synthesis.",
+          "E": "Vitamin K deficiency would prolong, not normalize, the coagulation studies and is unrelated to TTP."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "coagulation tests",
+        "TTP",
+        "DIC"
+      ],
+      "topicId": "thrombotic-microangiopathies",
+      "topicName": "Thrombotic Microangiopathies",
+      "tier": "core"
+    },
+    {
+      "id": "bl29-006",
+      "stem": "An adult woman is admitted with fever, disorientation, petechiae, anemia, thrombocytopenia, and schistocytes on the peripheral smear. Coagulation studies are normal. Which of the following is the most appropriate treatment for her condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Broad-spectrum antibiotics"
+        },
+        {
+          "label": "B",
+          "text": "Fresh frozen plasma to replace consumed clotting factors"
+        },
+        {
+          "label": "C",
+          "text": "Platelet transfusion"
+        },
+        {
+          "label": "D",
+          "text": "Supportive care with intravenous fluids only"
+        },
+        {
+          "label": "E",
+          "text": "Urgent plasmapheresis (plasma exchange)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "TTP is a medical emergency treated with urgent plasmapheresis, often with corticosteroids.",
+        "whyCorrect": "This patient has TTP, which is a medical emergency managed with urgent plasmapheresis (plasma exchange) to clear and replace the defective ADAMTS13. Systemic corticosteroids are used alongside plasmapheresis, and drugs such as rituximab may also be used.",
+        "whyWrongByChoice": {
+          "A": "Antibiotics are not useful in most cases of thrombotic microangiopathy, including TTP.",
+          "B": "Fresh frozen plasma replaces clotting factors for bleeding from factor consumption, which is not the mechanism in TTP; plasma exchange is required.",
+          "C": "Platelet transfusion is not the treatment for TTP and does not address the underlying ADAMTS13 problem.",
+          "D": "Supportive care with fluids is the mainstay for HUS, not the definitive treatment for TTP."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "TTP",
+        "treatment",
+        "plasmapheresis"
+      ],
+      "topicId": "thrombotic-microangiopathies",
+      "topicName": "Thrombotic Microangiopathies",
+      "tier": "core"
+    },
+    {
+      "id": "bl29-007",
+      "stem": "A 3-year-old boy develops hemolytic-uremic syndrome after an episode of bloody diarrhea. He has hyperkalemia and acute kidney injury. Which of the following is the most appropriate management of his condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "High-dose antibiotics to eradicate the causative bacterium"
+        },
+        {
+          "label": "B",
+          "text": "Immediate splenectomy"
+        },
+        {
+          "label": "C",
+          "text": "Long-term warfarin anticoagulation"
+        },
+        {
+          "label": "D",
+          "text": "Supportive care with correction of electrolytes"
+        },
+        {
+          "label": "E",
+          "text": "Urgent plasmapheresis and corticosteroids"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "HUS is managed primarily with supportive care, including fluids, electrolyte correction, and renal support.",
+        "whyCorrect": "HUS treatment is primarily supportive care. Because most patients present with diarrhea, electrolyte abnormalities, and AKI, management means correcting electrolytes, supporting renal function, and providing intravenous fluids as needed. Antibiotics are not useful in most cases.",
+        "whyWrongByChoice": {
+          "A": "Antibiotics are not useful in most cases of HUS and are not the mainstay of therapy.",
+          "B": "Splenectomy has no role in the treatment of HUS.",
+          "C": "Long-term anticoagulation is not the management of HUS.",
+          "E": "Urgent plasmapheresis with corticosteroids is the treatment for TTP, not the primarily supportive approach to HUS."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HUS",
+        "treatment",
+        "supportive care"
+      ],
+      "topicId": "thrombotic-microangiopathies",
+      "topicName": "Thrombotic Microangiopathies",
+      "tier": "core"
+    },
+    {
+      "id": "bl29-008",
+      "stem": "A patient with a thrombotic microangiopathy has laboratory studies performed to characterize the hemolysis. Which of the following combinations of serum findings is most consistent with the intravascular hemolytic anemia of this disorder?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "High conjugated bilirubin, low LDH, and high haptoglobin"
+        },
+        {
+          "label": "B",
+          "text": "High haptoglobin, low bilirubin, and low reticulocyte count"
+        },
+        {
+          "label": "C",
+          "text": "High unconjugated bilirubin, high LDH, and low haptoglobin"
+        },
+        {
+          "label": "D",
+          "text": "Low LDH, low reticulocyte count, and high haptoglobin"
+        },
+        {
+          "label": "E",
+          "text": "Normal bilirubin, normal LDH, and normal haptoglobin"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Intravascular hemolysis produces high unconjugated bilirubin, increased LDH, and low haptoglobin.",
+        "whyCorrect": "Serum studies in TM are typical of intravascular hemolytic anemia, showing high unconjugated bilirubin, increased LDH, and low haptoglobin because of RBC lysis. Reticulocytes also rise as the marrow tries to make more RBCs.",
+        "whyWrongByChoice": {
+          "A": "Hemolysis raises unconjugated (indirect) bilirubin and LDH and lowers haptoglobin, the opposite of this option.",
+          "B": "High haptoglobin and low bilirubin are inconsistent with hemolysis; haptoglobin falls and bilirubin rises.",
+          "D": "Low LDH and high haptoglobin argue against hemolysis, and the reticulocyte count typically rises.",
+          "E": "Entirely normal values would not reflect the active intravascular hemolysis of a thrombotic microangiopathy."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hemolysis",
+        "laboratory",
+        "MAHA"
+      ],
+      "topicId": "thrombotic-microangiopathies",
+      "topicName": "Thrombotic Microangiopathies",
+      "tier": "core"
+    },
+    {
+      "id": "bl29-009",
+      "stem": "A 29-year-old woman at 34 weeks of gestation presents with right upper quadrant abdominal pain and hypertension. Laboratory studies show hemolysis, elevated liver enzymes, a low platelet count, and schistocytes on the smear. Which of the following secondary causes of thrombotic microangiopathy best explains her presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Calcineurin inhibitor toxicity"
+        },
+        {
+          "label": "B",
+          "text": "Disseminated intravascular coagulation"
+        },
+        {
+          "label": "C",
+          "text": "HELLP syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Hematopoietic stem cell transplantation"
+        },
+        {
+          "label": "E",
+          "text": "Malignancy with micrometastases to vessel walls"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "HELLP syndrome is a pregnancy-associated secondary TM with hemolysis, elevated liver enzymes, and low platelets.",
+        "whyCorrect": "HELLP syndrome (hemolysis, elevated liver enzymes, and low platelets) is a secondary cause of TM in which pregnant patients develop MAHA and low platelets similar to TTP, causing abdominal pain and hypertension. It can progress to placental abruption and organ failure.",
+        "whyWrongByChoice": {
+          "A": "Calcineurin inhibitors cause drug-induced TM through direct endothelial injury and are used for transplant rejection, not in this scenario.",
+          "B": "DIC would prolong the PT and aPTT and usually arises with systemic infection or trauma rather than the pregnancy-specific picture described here.",
+          "D": "Stem cell transplantation causes TM through associated radiation therapy or chemotherapy, which does not fit a pregnant patient.",
+          "E": "Malignancy-associated TM results from micrometastases to vessel walls and is not suggested by this obstetric presentation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HELLP",
+        "secondary causes",
+        "pregnancy"
+      ],
+      "topicId": "thrombotic-microangiopathies",
+      "topicName": "Thrombotic Microangiopathies",
+      "tier": "core"
+    },
+    {
+      "id": "bl29-010",
+      "stem": "A 55-year-old man presents with a blood pressure of 230/125 mm Hg. Laboratory studies reveal anemia with schistocytes, thrombocytopenia, and a rising serum creatinine. Which of the following is the most likely explanation for his hematologic and renal findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ADAMTS13 deficiency causing platelet microthrombi"
+        },
+        {
+          "label": "B",
+          "text": "An inherited complement factor defect causing HUS"
+        },
+        {
+          "label": "C",
+          "text": "Malignant hypertension causing vessel injury"
+        },
+        {
+          "label": "D",
+          "text": "March hemolysis from repetitive impact on the soles"
+        },
+        {
+          "label": "E",
+          "text": "Shiga toxin-mediated endothelial injury after diarrhea"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Malignant hypertension is a secondary TM that can cause MAHA, thrombocytopenia, and acute kidney injury.",
+        "whyCorrect": "Malignant hypertension, defined as a blood pressure above 220/100 mm Hg, is a secondary cause of TM that can cause vessel injury, often leading to MAHA, low platelets, and AKI with a rising serum creatinine. Secondary causes such as this should be considered and excluded before diagnosing HUS or TTP.",
+        "whyWrongByChoice": {
+          "A": "ADAMTS13 deficiency causes TTP, which is not defined by severe hypertension and is a primary rather than secondary TM.",
+          "B": "A complement factor defect causes a rare genetic form of HUS, which does not explain the markedly elevated blood pressure.",
+          "D": "March hemolysis is a rare cause of MAHA from RBC fragmentation in the soles of the feet and does not involve severe hypertension or AKI.",
+          "E": "Shiga toxin causes diarrhea-associated HUS in young children, not a hypertensive emergency in an older adult."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "malignant hypertension",
+        "secondary causes",
+        "MAHA"
+      ],
+      "topicId": "thrombotic-microangiopathies",
+      "topicName": "Thrombotic Microangiopathies",
+      "tier": "core"
+    },
+    {
+      "id": "bl29-011",
+      "stem": "A 40-year-old woman is diagnosed with acquired thrombotic thrombocytopenic purpura. Which of the following is the most common mechanism responsible for the ADAMTS13 deficiency in her form of the disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An autoantibody that inhibits ADAMTS13"
+        },
+        {
+          "label": "B",
+          "text": "An inactivating mutation in the ADAMTS13 gene"
+        },
+        {
+          "label": "C",
+          "text": "Consumption of ADAMTS13 by widespread fibrin thrombi"
+        },
+        {
+          "label": "D",
+          "text": "Decreased hepatic synthesis from vitamin K deficiency"
+        },
+        {
+          "label": "E",
+          "text": "Shiga toxin-mediated destruction of ADAMTS13"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Acquired TTP is most often caused by an autoantibody that inhibits ADAMTS13.",
+        "whyCorrect": "The deficiency of ADAMTS13 can be inherited or acquired. Acquired cases, which are more common, mostly result from an autoantibody directed against ADAMTS13. Some acquired cases occur late in pregnancy, when ADAMTS13 levels drop.",
+        "whyWrongByChoice": {
+          "B": "An inactivating gene mutation causes the inherited form of TTP, which is less common than the acquired autoantibody-mediated form.",
+          "C": "TTP thrombi are platelet-rich with minimal fibrin, and the enzyme deficiency is not due to consumption by fibrin thrombi.",
+          "D": "Vitamin K deficiency affects clotting factor synthesis, not ADAMTS13 levels.",
+          "E": "Shiga toxin causes HUS and has no role in the ADAMTS13 deficiency of TTP."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "TTP",
+        "acquired",
+        "ADAMTS13"
+      ],
+      "topicId": "thrombotic-microangiopathies",
+      "topicName": "Thrombotic Microangiopathies",
+      "tier": "core"
+    },
+    {
+      "id": "bl29-012",
+      "stem": "A patient with anemia, thrombocytopenia, and schistocytes has an uncertain diagnosis after routine testing, and the clinician wants to confirm immune thrombotic thrombocytopenic purpura. A special assay is ordered. Which of the following results would best confirm this diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A prolonged prothrombin time and partial thromboplastin time"
+        },
+        {
+          "label": "B",
+          "text": "ADAMTS13 activity under 10% with a detectable antibody inhibitor"
+        },
+        {
+          "label": "C",
+          "text": "An elevated D-dimer level, as seen in most thrombotic states"
+        },
+        {
+          "label": "D",
+          "text": "Increased fibrin degradation products, as in many thrombotic states"
+        },
+        {
+          "label": "E",
+          "text": "Schistocytes and a low platelet count on the peripheral smear"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Immune TTP is confirmed by ADAMTS13 activity under 10% and/or a detectable inhibitor against ADAMTS13.",
+        "whyCorrect": "When the cause of a suspected TM remains unclear, special assays can confirm TTP from ADAMTS13 deficiency. These suggest immune TTP if the ADAMTS13 activity is under 10% and/or an antibody inhibitor against ADAMTS13 is detected. Because results may take several days, treatment should not be delayed to wait for them.",
+        "whyWrongByChoice": {
+          "A": "A prolonged PT points toward DIC; in TTP the PT is characteristically normal.",
+          "C": "An elevated D-dimer is nonspecific and elevated in most forms of thrombosis, so it does not confirm TTP.",
+          "D": "Fibrin degradation products are elevated in many thrombotic states and do not confirm a diagnosis of TTP.",
+          "E": "Schistocytes and thrombocytopenia are seen in all thrombotic microangiopathies and cannot by themselves distinguish immune TTP."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "TTP",
+        "ADAMTS13 assay",
+        "diagnosis"
+      ],
+      "topicId": "thrombotic-microangiopathies",
+      "topicName": "Thrombotic Microangiopathies",
+      "tier": "core"
+    },
+    {
+      "id": "bl30-001",
+      "stem": "A researcher studying the origin of blood cancers explains that leukemias, lymphomas, and multiple myeloma all trace back to a single population of cells that also produces normal red blood cells, white blood cells, and platelets. From which of the following cells do hematopoietic neoplasms arise?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Endothelial cells lining the lymphatic vessels"
+        },
+        {
+          "label": "B",
+          "text": "Epithelial stem cells of the thymic cortex"
+        },
+        {
+          "label": "C",
+          "text": "Hematopoietic stem cells in the bone marrow"
+        },
+        {
+          "label": "D",
+          "text": "Mature plasma cells circulating in the blood"
+        },
+        {
+          "label": "E",
+          "text": "Reticuloendothelial cells of the spleen"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Hematopoietic neoplasms arise from the primordial hematopoietic stem cells (HSCs) of the bone marrow.",
+        "whyCorrect": "Hematopoietic neoplasms arise from the primordial hematopoietic stem cells (HSCs) found in the bone marrow. These same stem cells also give rise to normal blood cells such as red blood cells, white blood cells, and platelets, but under influences like genetic mutations, toxins, radiation, and medications they can develop into neoplasms.",
+        "whyWrongByChoice": {
+          "A": "Lymphatic endothelial cells are structural vessel cells and do not give rise to hematopoietic neoplasms.",
+          "B": "Thymic epithelial stem cells give rise to the thymic stroma, not to the hematopoietic neoplasms described here.",
+          "D": "Mature plasma cells are a downstream derivative of the lymphoid line; the neoplasms as a group arise from the upstream hematopoietic stem cell.",
+          "E": "Reticuloendothelial cells of the spleen are not the source of hematopoietic neoplasms, which originate from marrow stem cells."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "hematopoietic stem cell",
+        "origin",
+        "LO1"
+      ],
+      "topicId": "hematopoietic-neoplasms-foundations-and-frameworks",
+      "topicName": "Hematopoietic Neoplasms: Foundations and Frameworks",
+      "tier": "core"
+    },
+    {
+      "id": "bl30-002",
+      "stem": "A pathologist is applying the current World Health Organization (WHO) classification to a newly diagnosed hematopoietic neoplasm. According to this system, which of the following is used as the main framework for categorizing these tumors?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The cell of origin, either myeloid or lymphoid"
+        },
+        {
+          "label": "B",
+          "text": "The presence or absence of lymphadenopathy"
+        },
+        {
+          "label": "C",
+          "text": "The response of the tumor to chemotherapy"
+        },
+        {
+          "label": "D",
+          "text": "Whether the disease is acute or chronic"
+        },
+        {
+          "label": "E",
+          "text": "Whether the patient is a child or an adult"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The WHO classification uses the cell of origin (myeloid vs lymphoid) as the primary framework.",
+        "whyCorrect": "The brick emphasizes the current WHO classification, which uses the cell of origin as the main framework, dividing hematopoietic neoplasms into those derived from the myeloid cell line and those derived from the lymphoid cell line.",
+        "whyWrongByChoice": {
+          "B": "Lymphadenopathy helps distinguish lymphomas from leukemias clinically but is not the organizing principle of the WHO system.",
+          "C": "Treatment response is not the basis of the WHO classification.",
+          "D": "The acute versus chronic distinction applies within leukemias but is not the primary myeloid-versus-lymphoid framework.",
+          "E": "Age is a helpful clinical clue (myeloid neoplasms are more common in adults) but is not the main WHO framework."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "WHO classification",
+        "myeloid",
+        "lymphoid",
+        "LO2"
+      ],
+      "topicId": "hematopoietic-neoplasms-foundations-and-frameworks",
+      "topicName": "Hematopoietic Neoplasms: Foundations and Frameworks",
+      "tier": "core"
+    },
+    {
+      "id": "bl30-003",
+      "stem": "A 62-year-old man is being evaluated for a hematopoietic malignancy. His physician notes that distinguishing a leukemia from a lymphoma can be difficult but that certain features help. Which of the following findings is most characteristic of a leukemia rather than a lymphoma?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alterations in peripheral blood cell counts"
+        },
+        {
+          "label": "B",
+          "text": "Fever"
+        },
+        {
+          "label": "C",
+          "text": "Origin restricted to the lymphoid cell line"
+        },
+        {
+          "label": "D",
+          "text": "Prominent lymphadenopathy"
+        },
+        {
+          "label": "E",
+          "text": "Weight loss"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Because of their bone marrow origin, leukemias typically alter blood cell counts, whereas lymphomas typically cause lymphadenopathy.",
+        "whyCorrect": "Due to their bone marrow origin, leukemias typically have alterations in blood cell counts, which is less common in lymphomas (although it can occur in lymphomas that involve the bone). Lymphomas, by contrast, typically present with lymphadenopathy.",
+        "whyWrongByChoice": {
+          "B": "Fever is a nonspecific symptom seen in both leukemias and lymphomas.",
+          "C": "Only lymphomas are restricted to the lymphoid line; leukemias can arise from either the myeloid or lymphoid cell line.",
+          "D": "Lymphadenopathy is characteristic of lymphomas, not leukemias.",
+          "E": "Weight loss is a generalized symptom that can be seen in both leukemias and lymphomas."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "leukemia vs lymphoma",
+        "blood counts",
+        "LO2"
+      ],
+      "topicId": "hematopoietic-neoplasms-foundations-and-frameworks",
+      "topicName": "Hematopoietic Neoplasms: Foundations and Frameworks",
+      "tier": "core"
+    },
+    {
+      "id": "bl30-004",
+      "stem": "A 30-year-old woman is diagnosed with an acute leukemia. Compared with a chronic leukemia, which of the following best characterizes the cells responsible for her disease and its expected course if untreated?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cells arrested at a single intermediate stage with an indolent course"
+        },
+        {
+          "label": "B",
+          "text": "Dysplastic precursors that never enter the peripheral blood"
+        },
+        {
+          "label": "C",
+          "text": "Fully mature lymphocytes confined to peripheral lymph nodes"
+        },
+        {
+          "label": "D",
+          "text": "Mature, well-differentiated cells with survival measured in years"
+        },
+        {
+          "label": "E",
+          "text": "Very immature precursor cells with short survival of weeks to months"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Acute leukemias are caused by very immature precursor cells and, if untreated, carry short survival of weeks to months.",
+        "whyCorrect": "Acute leukemias are caused by very immature precursor hematopoietic cells and have a more abrupt, rapid presentation. Because of the rapid proliferation that takes over the bone marrow, patients exhibit short survival (weeks to months) if not treated. Chronic leukemias, by contrast, are caused by more mature cells at an advanced stage of development and have longer survival (years).",
+        "whyWrongByChoice": {
+          "A": "An indolent course reflects chronic disease; acute leukemia is rapidly progressive.",
+          "B": "Dysplastic precursors that fail to mature describe myelodysplastic neoplasms rather than the immature precursors of acute leukemia.",
+          "C": "Confinement of mature lymphocytes to lymph nodes describes a lymphoma pattern, not acute leukemia.",
+          "D": "Mature cells with survival in years describe chronic, not acute, leukemia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "acute vs chronic",
+        "leukemia",
+        "LO2"
+      ],
+      "topicId": "hematopoietic-neoplasms-foundations-and-frameworks",
+      "topicName": "Hematopoietic Neoplasms: Foundations and Frameworks",
+      "tier": "core"
+    },
+    {
+      "id": "bl30-005",
+      "stem": "A 55-year-old man is found to have a myeloproliferative neoplasm in which the marrow shows a striking overproduction of red blood cells and his hematocrit is markedly elevated. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic myeloid leukemia"
+        },
+        {
+          "label": "B",
+          "text": "Essential thrombocythemia"
+        },
+        {
+          "label": "C",
+          "text": "Myelodysplastic neoplasm"
+        },
+        {
+          "label": "D",
+          "text": "Polycythemia vera"
+        },
+        {
+          "label": "E",
+          "text": "Primary myelofibrosis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Among myeloproliferative neoplasms, red blood cell dominance defines polycythemia vera.",
+        "whyCorrect": "In myeloproliferative neoplasms, the disorders are separated based on which cell line becomes dominant. Polycythemia vera is characterized by red blood cell (RBC) dominance, matching the overproduction of red cells and elevated hematocrit described here.",
+        "whyWrongByChoice": {
+          "A": "Chronic myeloid leukemia is characterized by granulocyte dominance.",
+          "B": "Essential thrombocythemia is defined by platelet dominance, not red cell overproduction.",
+          "C": "Myelodysplastic neoplasm causes marrow failure with low blood counts, not an overproduction of red cells.",
+          "E": "Primary myelofibrosis features expansion of all precursor lines with eventual marrow fibrosis rather than isolated red cell dominance."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "myeloproliferative neoplasm",
+        "polycythemia vera",
+        "LO3"
+      ],
+      "topicId": "hematopoietic-neoplasms-foundations-and-frameworks",
+      "topicName": "Hematopoietic Neoplasms: Foundations and Frameworks",
+      "tier": "core"
+    },
+    {
+      "id": "bl30-006",
+      "stem": "A 70-year-old man has a myeloid neoplasm in which the bone marrow is replaced by abnormal, dysplastic precursor cells that have not differentiated into mature blood cells, resulting in low peripheral blood counts. Approximately what proportion of patients with this disorder progress to acute myeloid leukemia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "5%"
+        },
+        {
+          "label": "B",
+          "text": "30%"
+        },
+        {
+          "label": "C",
+          "text": "50%"
+        },
+        {
+          "label": "D",
+          "text": "75%"
+        },
+        {
+          "label": "E",
+          "text": "100%"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In myelodysplastic neoplasms, transformation to AML occurs in about 30% of patients.",
+        "whyCorrect": "In myelodysplastic neoplasms, the marrow is replaced by dysplastic cells derived from progenitor myeloid stem cells that have not differentiated into mature blood cells, causing bone marrow failure with low counts. Transformation to AML occurs in 30% of patients.",
+        "whyWrongByChoice": {
+          "A": "5% understates the risk; the brick specifies transformation in 30% of patients.",
+          "C": "50% is higher than the figure given for progression to AML.",
+          "D": "75% overstates the risk of transformation in myelodysplastic neoplasms.",
+          "E": "Not all patients progress; the stated proportion is 30%, not 100%."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "myelodysplastic neoplasm",
+        "AML transformation",
+        "LO3"
+      ],
+      "topicId": "hematopoietic-neoplasms-foundations-and-frameworks",
+      "topicName": "Hematopoietic Neoplasms: Foundations and Frameworks",
+      "tier": "core"
+    },
+    {
+      "id": "bl30-007",
+      "stem": "A 68-year-old woman presents with fatigue and recurrent infections. Her bone marrow is filled with malignant myeloid cells, and a complete blood count shows pancytopenia. This represents a true malignant transformation of myeloid cells. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute myeloid leukemia"
+        },
+        {
+          "label": "B",
+          "text": "Essential thrombocythemia"
+        },
+        {
+          "label": "C",
+          "text": "Follicular lymphoma"
+        },
+        {
+          "label": "D",
+          "text": "Multiple myeloma"
+        },
+        {
+          "label": "E",
+          "text": "Polycythemia vera"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "AML is a true malignant transformation of myeloid cells that fills the marrow, causing pancytopenia and frequent infections.",
+        "whyCorrect": "In acute myeloid leukemia (AML), there is true malignant transformation of myeloid cells. The malignant cells fill the bone marrow and can extend locally or metastasize, often causing bone marrow failure and pancytopenia. Infections are common because of the reduced number and function of circulating white blood cells.",
+        "whyWrongByChoice": {
+          "B": "Essential thrombocythemia shows platelet dominance rather than marrow-filling malignant transformation with pancytopenia.",
+          "C": "Follicular lymphoma is a mature B-cell (lymphoid) neoplasm, not a myeloid malignancy.",
+          "D": "Multiple myeloma is a plasma cell neoplasm of lymphoid origin, distinct from a malignant transformation of myeloid cells.",
+          "E": "Polycythemia vera is a myeloproliferative neoplasm with red cell overproduction, not pancytopenia from malignant transformation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "AML",
+        "pancytopenia",
+        "LO3"
+      ],
+      "topicId": "hematopoietic-neoplasms-foundations-and-frameworks",
+      "topicName": "Hematopoietic Neoplasms: Foundations and Frameworks",
+      "tier": "core"
+    },
+    {
+      "id": "bl30-008",
+      "stem": "A 6-year-old boy is diagnosed with a precursor T-cell neoplasm. His disease predominantly involves the blood and bone marrow, so it is called T-cell acute lymphoblastic leukemia (T-ALL); a closely related presentation predominantly involving tissue such as lymph nodes and thymus is called T-lymphoblastic lymphoma (T-LBL). Which of the following best describes the relationship between T-ALL and T-LBL?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "T-ALL is a myeloid neoplasm and T-LBL is a lymphoid neoplasm"
+        },
+        {
+          "label": "B",
+          "text": "T-LBL is a mature neoplasm while T-ALL is a plasma cell neoplasm"
+        },
+        {
+          "label": "C",
+          "text": "They are the same disease, distinguished mainly by the predominant site of involvement"
+        },
+        {
+          "label": "D",
+          "text": "They are unrelated diseases that share only a name"
+        },
+        {
+          "label": "E",
+          "text": "They differ because one expresses B-cell markers and the other expresses T-cell markers"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "T-ALL and T-LBL are the same precursor T-cell disease, separated by whether the blood/marrow or tissue is predominantly involved.",
+        "whyCorrect": "A precursor T-cell neoplasm that occurs predominantly in the blood and bone marrow is called T-ALL, whereas one predominantly in tissue (lymph nodes, thymus) is called T-LBL. They are the same disease, and because the overall site of involvement may not be known at presentation, the neoplasm is usually named T-lymphoblastic leukemia/lymphoma.",
+        "whyWrongByChoice": {
+          "A": "Both are precursor T-cell (lymphoid) neoplasms; neither is myeloid.",
+          "B": "Both are precursor neoplasms, and neither is a plasma cell neoplasm.",
+          "D": "They are not unrelated; the brick states explicitly that they are the same disease.",
+          "E": "Both arise from T cells; the distinction is site of involvement, not B-cell versus T-cell marker expression."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "T-ALL",
+        "T-LBL",
+        "precursor neoplasm",
+        "LO4"
+      ],
+      "topicId": "hematopoietic-neoplasms-foundations-and-frameworks",
+      "topicName": "Hematopoietic Neoplasms: Foundations and Frameworks",
+      "tier": "core"
+    },
+    {
+      "id": "bl30-009",
+      "stem": "A 60-year-old man has a years-long history of slowly progressive skin patches that have evolved into skin tumors and a near-full-body desquamating rash. Biopsy shows a mature T-cell neoplasm. He is told there is no cure but that his life expectancy is generally normal. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Burkitt lymphoma"
+        },
+        {
+          "label": "B",
+          "text": "Hodgkin lymphoma"
+        },
+        {
+          "label": "C",
+          "text": "Multiple myeloma"
+        },
+        {
+          "label": "D",
+          "text": "Mycosis fungoides/Sezary syndrome"
+        },
+        {
+          "label": "E",
+          "text": "T-cell acute lymphoblastic leukemia/lymphoma"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Mycosis fungoides/Sezary syndrome is a mature T-cell neoplasm with slow-growing skin lesions and generally normal life expectancy.",
+        "whyCorrect": "Mycosis fungoides/Sezary syndrome is the emphasized mature peripheral T-cell neoplasm. Patients have slow-growing skin lesions that can later develop into skin tumors or a near-full-body desquamating rash. There is no cure, but because it is slow-growing, patients generally have a normal life expectancy.",
+        "whyWrongByChoice": {
+          "A": "Burkitt lymphoma is a high-grade B-cell non-Hodgkin lymphoma that grows explosively, not a chronic skin disorder.",
+          "B": "Hodgkin lymphoma is defined by Reed-Sternberg cells and presents with lymphadenopathy, not desquamating skin lesions.",
+          "C": "Multiple myeloma is a plasma cell neoplasm affecting marrow, bone, and kidney, not the skin.",
+          "E": "T-ALL/LBL is a precursor T-cell neoplasm seen mostly in children, not an indolent adult skin disease."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "mycosis fungoides",
+        "Sezary syndrome",
+        "mature T-cell",
+        "LO4"
+      ],
+      "topicId": "hematopoietic-neoplasms-foundations-and-frameworks",
+      "topicName": "Hematopoietic Neoplasms: Foundations and Frameworks",
+      "tier": "core"
+    },
+    {
+      "id": "bl30-010",
+      "stem": "A 66-year-old woman presents with bone pain, anemia, recurrent infections, and acute kidney injury. Workup reveals massive proliferation of plasma cells in the bone marrow, precipitation of immunoglobulins in the kidney, and an elevated serum calcium. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute myeloid leukemia"
+        },
+        {
+          "label": "B",
+          "text": "Chronic lymphocytic leukemia"
+        },
+        {
+          "label": "C",
+          "text": "Hodgkin lymphoma"
+        },
+        {
+          "label": "D",
+          "text": "Multiple myeloma"
+        },
+        {
+          "label": "E",
+          "text": "Mycosis fungoides/Sezary syndrome"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Multiple myeloma is a plasma cell neoplasm causing marrow failure, immunoglobulin-related kidney failure, bone lesions, and hypercalcemia.",
+        "whyCorrect": "Plasma cell neoplasms derive from plasma cells, the B-cell derivative responsible for antibody secretion. The most common is multiple myeloma, with massive proliferation of plasma cells in the bone marrow. Consequences include bone marrow failure (infections, anemia), precipitation of immunoglobulins in the kidney causing kidney failure, and bone lesions with fractures and secondary hypercalcemia.",
+        "whyWrongByChoice": {
+          "A": "Acute myeloid leukemia is a myeloid malignancy filling the marrow, not a plasma cell neoplasm.",
+          "B": "Chronic lymphocytic leukemia is a mature B-cell neoplasm that does not classically cause immunoglobulin precipitation in the kidney and hypercalcemia from bone destruction.",
+          "C": "Hodgkin lymphoma is defined by Reed-Sternberg cells and lymphadenopathy, not plasma cell proliferation.",
+          "E": "Mycosis fungoides/Sezary syndrome is a mature T-cell skin neoplasm, unrelated to this plasma cell picture."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "multiple myeloma",
+        "plasma cell neoplasm",
+        "LO4"
+      ],
+      "topicId": "hematopoietic-neoplasms-foundations-and-frameworks",
+      "topicName": "Hematopoietic Neoplasms: Foundations and Frameworks",
+      "tier": "core"
+    },
+    {
+      "id": "bl30-011",
+      "stem": "A 22-year-old man presents with painless cervical lymphadenopathy, fevers, and night sweats. A lymph node biopsy shows gigantic cells with at least two large nuclei, each containing a single nucleolus, producing an \"owl's-eye\" appearance. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic myeloid leukemia"
+        },
+        {
+          "label": "B",
+          "text": "Diffuse large B-cell lymphoma"
+        },
+        {
+          "label": "C",
+          "text": "Follicular lymphoma"
+        },
+        {
+          "label": "D",
+          "text": "Hodgkin lymphoma"
+        },
+        {
+          "label": "E",
+          "text": "Multiple myeloma"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Hodgkin lymphoma is defined by neoplastic Reed-Sternberg cells, which are gigantic and have an owl's-eye appearance.",
+        "whyCorrect": "Hodgkin lymphoma usually occurs in young adults ages 15 to 34 years and is defined by the presence of neoplastic Reed-Sternberg cells. These cells have a distinct morphology: they are gigantic and often have at least two big nuclei with single nucleoli, giving the cell an owl's-eye appearance.",
+        "whyWrongByChoice": {
+          "A": "Chronic myeloid leukemia is a myeloproliferative neoplasm with granulocyte dominance, not a Reed-Sternberg cell lymphoma.",
+          "B": "Diffuse large B-cell lymphoma is a high-grade non-Hodgkin lymphoma and is not defined by Reed-Sternberg cells.",
+          "C": "Follicular lymphoma is a low-grade non-Hodgkin lymphoma without owl's-eye Reed-Sternberg cells.",
+          "E": "Multiple myeloma involves plasma cells in the marrow, not Reed-Sternberg cells in a lymph node."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Hodgkin lymphoma",
+        "Reed-Sternberg cells",
+        "LO4"
+      ],
+      "topicId": "hematopoietic-neoplasms-foundations-and-frameworks",
+      "topicName": "Hematopoietic Neoplasms: Foundations and Frameworks",
+      "tier": "core"
+    },
+    {
+      "id": "bl30-012",
+      "stem": "A young patient presents to the emergency department with fatigue and bone pain. An initial complete blood count identifies an abundance of blasts, confirming a diagnosis of acute leukemia. Which of the following laboratory methods would be most useful to confirm the lineage (cell type/origin) of the leukemia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Conventional cytogenetics (karyotype)"
+        },
+        {
+          "label": "B",
+          "text": "Flow cytometry"
+        },
+        {
+          "label": "C",
+          "text": "Fluorescence in situ hybridization (FISH)"
+        },
+        {
+          "label": "D",
+          "text": "Molecular analysis (PCR)"
+        },
+        {
+          "label": "E",
+          "text": "Routine histology"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Flow cytometry classifies leukemia lineage by reading surface antigens on the blasts, distinguishing lymphoid (ALL) from myeloid (AML).",
+        "whyCorrect": "By analyzing the antigens on the cell surface of the blasts, flow cytometry can confirm the lineage (cell type/origin) of the leukemia. The way a leukemia is identified as lymphoid (ALL) or myeloid (AML) is primarily by flow cytometry, and it works well on peripheral blood.",
+        "whyWrongByChoice": {
+          "A": "Conventional cytogenetics detects abnormalities in chromosome number and structure, not the surface-antigen lineage of the cells.",
+          "C": "FISH evaluates select chromosomes with specific probes and does not establish cell lineage.",
+          "D": "Molecular analysis detects specific mutations of the leukemia but not the lineage of the cells.",
+          "E": "Routine histology requires tissue and cannot be performed on peripheral blood, so it is not the method to confirm lineage here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "flow cytometry",
+        "lineage",
+        "diagnostics",
+        "LO5"
+      ],
+      "topicId": "hematopoietic-neoplasms-foundations-and-frameworks",
+      "topicName": "Hematopoietic Neoplasms: Foundations and Frameworks",
+      "tier": "core"
+    },
+    {
+      "id": "bl31-001",
+      "stem": "A 56-year-old man with diffuse large B-cell lymphoma completes two cycles of combination chemotherapy. Imaging shows a dramatic reduction in tumor size, but disease is still detectable. He asks why he cannot simply stop, since the chemotherapy is clearly working. Which principle best explains why several additional cycles are still required?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A single adequate dose eradicates all malignant cells if given at maximum tolerated dose"
+        },
+        {
+          "label": "B",
+          "text": "Chemotherapy only becomes effective after the immune system is fully suppressed"
+        },
+        {
+          "label": "C",
+          "text": "Each dose eliminates a fixed number of tumor cells regardless of tumor size"
+        },
+        {
+          "label": "D",
+          "text": "Each dose kills a constant proportion of the remaining tumor cells"
+        },
+        {
+          "label": "E",
+          "text": "The tumor has already developed complete resistance to the regimen"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The log-cell kill hypothesis states chemotherapy kills a constant fraction, not a constant number, of cancer cells per dose.",
+        "whyCorrect": "By the log-cell kill hypothesis, a given dose kills a constant proportion of tumor cells, reflecting first-order kinetics. Because each cycle removes only a fraction (e.g., 90-95%) of the cells that remain, a few cells persist after every dose, so multiple cycles are needed to drive the burden down to a clinically insignificant level.",
+        "whyWrongByChoice": {
+          "A": "The article emphasizes that a single treatment rarely eradicates all cells, which is why cycles are required.",
+          "B": "Cytotoxic chemotherapy does not require immunosuppression to work; that is not the mechanism described.",
+          "C": "The hypothesis specifically states a constant proportion, not a constant number, is killed per dose.",
+          "E": "Persistent detectable disease after a good response reflects fractional killing kinetics, not established resistance."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "log-cell kill",
+        "chemotherapy principles"
+      ],
+      "topicId": "principles-of-chemotherapy",
+      "topicName": "Principles of Chemotherapy",
+      "tier": "core"
+    },
+    {
+      "id": "bl31-002",
+      "stem": "A 60-year-old woman with a large but resectable breast tumor is given chemotherapy before her planned mastectomy in order to shrink the primary mass and address distant micro-metastases, making surgery easier. This treatment strategy is best described as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adjuvant therapy"
+        },
+        {
+          "label": "B",
+          "text": "Induction therapy"
+        },
+        {
+          "label": "C",
+          "text": "Maintenance therapy"
+        },
+        {
+          "label": "D",
+          "text": "Neoadjuvant therapy"
+        },
+        {
+          "label": "E",
+          "text": "Salvage therapy"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Neoadjuvant therapy is given before the primary treatment to shrink the tumor and micro-metastases.",
+        "whyCorrect": "Neoadjuvant therapy is administered before the primary treatment (such as surgery) to shrink both the primary cancer, making it easier to resect, and distant micro-metastases. This matches the timing and intent described in the vignette.",
+        "whyWrongByChoice": {
+          "A": "Adjuvant therapy is given after the primary treatment to improve outcomes.",
+          "B": "Induction therapy is the first-line treatment aimed at killing as many cancer cells as possible, not specifically pre-surgical shrinkage.",
+          "C": "Maintenance therapy is not the strategy described; the timing here is clearly before surgery.",
+          "E": "Salvage therapy is used only after preferred therapies have failed to produce remission."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "timing of chemotherapy",
+        "neoadjuvant"
+      ],
+      "topicId": "principles-of-chemotherapy",
+      "topicName": "Principles of Chemotherapy",
+      "tier": "core"
+    },
+    {
+      "id": "bl31-003",
+      "stem": "A 48-year-old man undergoes complete surgical resection of a colon cancer. To reduce the risk of recurrence from residual microscopic disease, he then receives a course of chemotherapy. This post-operative chemotherapy is best classified as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adjuvant therapy"
+        },
+        {
+          "label": "B",
+          "text": "Endocrine therapy"
+        },
+        {
+          "label": "C",
+          "text": "Induction therapy"
+        },
+        {
+          "label": "D",
+          "text": "Neoadjuvant therapy"
+        },
+        {
+          "label": "E",
+          "text": "Salvage therapy"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Adjuvant therapy is given after the primary treatment to improve outcomes.",
+        "whyCorrect": "Adjuvant therapy is defined as treatment given after the primary treatment to improve outcomes. Chemotherapy given after surgical resection to eliminate residual microscopic disease fits this definition.",
+        "whyWrongByChoice": {
+          "B": "Endocrine therapy is a mechanism-based class for hormone-responsive cancers, not a timing category.",
+          "C": "Induction therapy is the first-line treatment to kill as many cancer cells as possible, not post-operative therapy.",
+          "D": "Neoadjuvant therapy is given before, not after, the primary treatment.",
+          "E": "Salvage therapy is reserved for cases where preferred therapies have already failed."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "timing of chemotherapy",
+        "adjuvant"
+      ],
+      "topicId": "principles-of-chemotherapy",
+      "topicName": "Principles of Chemotherapy",
+      "tier": "core"
+    },
+    {
+      "id": "bl31-004",
+      "stem": "A 34-year-old man with Hodgkin lymphoma has relapsed after first-line and second-line regimens, both of which failed to produce remission. His oncologist now selects a chemotherapy regimen used specifically because all preferred therapies have been exhausted. This regimen is best described as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adjuvant therapy"
+        },
+        {
+          "label": "B",
+          "text": "Consolidation therapy"
+        },
+        {
+          "label": "C",
+          "text": "Induction therapy"
+        },
+        {
+          "label": "D",
+          "text": "Neoadjuvant therapy"
+        },
+        {
+          "label": "E",
+          "text": "Salvage therapy"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Salvage therapy is used when all preferred therapies have been tried and failed to produce remission.",
+        "whyCorrect": "Salvage therapy is defined as treatment used when all preferred therapies have been tried and have failed to produce cancer remission. The refractory, multiply-relapsed scenario matches this definition.",
+        "whyWrongByChoice": {
+          "A": "Adjuvant therapy follows a primary treatment to improve outcomes, not after multiple failures.",
+          "B": "Consolidation therapy is not the category defined by the article for this refractory setting.",
+          "C": "Induction is the initial, first-line treatment, not the option chosen after failures.",
+          "D": "Neoadjuvant therapy precedes a primary treatment such as surgery."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "timing of chemotherapy",
+        "salvage"
+      ],
+      "topicId": "principles-of-chemotherapy",
+      "topicName": "Principles of Chemotherapy",
+      "tier": "core"
+    },
+    {
+      "id": "bl31-005",
+      "stem": "A patient's tumor initially responds to chemotherapy but later progresses. Laboratory analysis of the resistant tumor cells shows that they now rapidly extrude the drug via an upregulated membrane transporter, an effect promoted by tumor-derived interleukin-6. Which of the following resistance mechanisms is most consistent with these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Altered DNA methylation of promoters reducing drug sensitivity"
+        },
+        {
+          "label": "B",
+          "text": "Decreased drug uptake from loss of an inward membrane transport protein"
+        },
+        {
+          "label": "C",
+          "text": "Increased efflux through the multiple drug-resistance transporter"
+        },
+        {
+          "label": "D",
+          "text": "Increased intracellular glutathione that chemically inactivates the drug"
+        },
+        {
+          "label": "E",
+          "text": "Upregulation of DNA-repair enzymes that reverse drug-induced breaks"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The MDR transporter pumps drug out of the cell and can be induced by cytokines such as IL-6.",
+        "whyCorrect": "Cancer cells may pump the drug out as fast as it enters using the multiple drug-resistance (MDR) protein, a membrane transporter that shuttles drugs out of the cell. This efflux can arise from a direct mutation or be induced by cytokines like interleukin-6 produced by the tumor cells, matching the findings described.",
+        "whyWrongByChoice": {
+          "A": "Altered methylation changes gene expression and sensitivity but is not a membrane efflux mechanism.",
+          "B": "Decreased uptake involves failure of the inward transport protein, not active efflux driven by IL-6.",
+          "D": "Glutathione reacts with and inactivates the drug intracellularly rather than pumping it out.",
+          "E": "DNA-repair enzyme upregulation corrects drug-induced breaks; it does not extrude the drug."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "drug resistance",
+        "MDR"
+      ],
+      "topicId": "principles-of-chemotherapy",
+      "topicName": "Principles of Chemotherapy",
+      "tier": "core"
+    },
+    {
+      "id": "bl31-006",
+      "stem": "An oncologist explains to a trainee that a single cytotoxic drug often fails because the original tumor is not a uniform population; it contains many genetic variants, and the subset that happens to resist the drug survives and proliferates. Combination chemotherapy is used to counter this problem. Which concept does this scenario best illustrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Log-cell kill kinetics"
+        },
+        {
+          "label": "B",
+          "text": "Myelosuppression"
+        },
+        {
+          "label": "C",
+          "text": "Neoadjuvant sequencing"
+        },
+        {
+          "label": "D",
+          "text": "Progression-free survival"
+        },
+        {
+          "label": "E",
+          "text": "Tumor heterogeneity"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Tumors contain many genetic variants, and pre-existing resistant subclones can survive and expand.",
+        "whyCorrect": "Cancers are not usually a uniform population but harbor many genetic variants, some of which resist a given drug and proliferate. This heterogeneity is a key reason combination chemotherapy is preferred, since a second drug may kill cells resistant to the first.",
+        "whyWrongByChoice": {
+          "A": "Log-cell kill describes the fractional killing per dose, not the genetic diversity of the tumor.",
+          "B": "Myelosuppression is an adverse effect, unrelated to why monotherapy fails.",
+          "C": "Neoadjuvant sequencing refers to timing of therapy, not tumor cell diversity.",
+          "D": "Progression-free survival is an outcome measure, not a mechanism of resistance."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "drug resistance",
+        "tumor heterogeneity"
+      ],
+      "topicId": "principles-of-chemotherapy",
+      "topicName": "Principles of Chemotherapy",
+      "tier": "core"
+    },
+    {
+      "id": "bl31-007",
+      "stem": "A 62-year-old woman receives an anthracycline as part of her chemotherapy regimen. Her care team schedules serial cardiac function monitoring because this agent is best known for which of the following characteristic adverse effects?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cardiotoxicity"
+        },
+        {
+          "label": "B",
+          "text": "Hemorrhagic cystitis"
+        },
+        {
+          "label": "C",
+          "text": "Ototoxicity"
+        },
+        {
+          "label": "D",
+          "text": "Peripheral neuropathy"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary fibrosis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Doxorubicin (an anthracycline) is classically associated with cardiotoxicity.",
+        "whyCorrect": "The ChemoMan adverse-effect map links doxorubicin (anthracyclines) with cardiotoxicity, which is why cardiac monitoring is warranted with these agents.",
+        "whyWrongByChoice": {
+          "B": "Hemorrhagic cystitis is associated with cyclophosphamide.",
+          "C": "Ototoxicity is linked to cisplatin and carboplatin.",
+          "D": "Peripheral neuropathy is associated with the vinca alkaloids.",
+          "E": "Pulmonary fibrosis is characteristic of bleomycin and busulfan, not anthracyclines."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "adverse effects",
+        "doxorubicin"
+      ],
+      "topicId": "principles-of-chemotherapy",
+      "topicName": "Principles of Chemotherapy",
+      "tier": "core"
+    },
+    {
+      "id": "bl31-008",
+      "stem": "A 27-year-old man treated for testicular cancer develops progressive dyspnea and a dry cough. Pulmonary function testing shows a restrictive pattern with reduced diffusing capacity, and imaging suggests interstitial fibrosis. Which chemotherapeutic agent in his regimen most likely caused this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bleomycin"
+        },
+        {
+          "label": "B",
+          "text": "Cyclophosphamide"
+        },
+        {
+          "label": "C",
+          "text": "Cytarabine"
+        },
+        {
+          "label": "D",
+          "text": "Doxorubicin"
+        },
+        {
+          "label": "E",
+          "text": "Vincristine"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Bleomycin characteristically causes pulmonary fibrosis.",
+        "whyCorrect": "The ChemoMan map associates bleomycin (along with busulfan) with pulmonary fibrosis, which fits the restrictive lung disease and interstitial fibrosis described.",
+        "whyWrongByChoice": {
+          "B": "Cyclophosphamide is linked to hemorrhagic cystitis.",
+          "C": "Cytarabine is associated with keratitis and conjunctivitis.",
+          "D": "Doxorubicin is associated with cardiotoxicity, not pulmonary fibrosis.",
+          "E": "Vincristine causes peripheral neuropathy."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "adverse effects",
+        "bleomycin"
+      ],
+      "topicId": "principles-of-chemotherapy",
+      "topicName": "Principles of Chemotherapy",
+      "tier": "core"
+    },
+    {
+      "id": "bl31-009",
+      "stem": "A 55-year-old man receiving cisplatin-based chemotherapy develops a rising serum creatinine along with new high-frequency hearing loss and tinnitus. These adverse effects are most characteristic of which drug class?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alkylating agents"
+        },
+        {
+          "label": "B",
+          "text": "Anthracyclines"
+        },
+        {
+          "label": "C",
+          "text": "Antimetabolites"
+        },
+        {
+          "label": "D",
+          "text": "Platinum agents"
+        },
+        {
+          "label": "E",
+          "text": "Vinca alkaloids"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Platinum agents such as cisplatin and carboplatin cause nephrotoxicity and ototoxicity.",
+        "whyCorrect": "The ChemoMan map links cisplatin/carboplatin (platinum agents) to both nephrotoxicity and ototoxicity, matching the rising creatinine and hearing loss with tinnitus described.",
+        "whyWrongByChoice": {
+          "A": "Alkylating agents such as cyclophosphamide cause hemorrhagic cystitis.",
+          "B": "Anthracyclines such as doxorubicin cause cardiotoxicity.",
+          "C": "Antimetabolites such as cytarabine cause keratitis/conjunctivitis and methotrexate causes myelosuppression.",
+          "E": "Vinca alkaloids cause peripheral neuropathy."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "adverse effects",
+        "cisplatin"
+      ],
+      "topicId": "principles-of-chemotherapy",
+      "topicName": "Principles of Chemotherapy",
+      "tier": "core"
+    },
+    {
+      "id": "bl31-010",
+      "stem": "A 40-year-old woman receiving chemotherapy develops gross hematuria and suprapubic pain, and cystoscopy shows diffuse bladder mucosal inflammation and bleeding. This adverse effect is most characteristic of which agent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bleomycin"
+        },
+        {
+          "label": "B",
+          "text": "Cyclophosphamide"
+        },
+        {
+          "label": "C",
+          "text": "Doxorubicin"
+        },
+        {
+          "label": "D",
+          "text": "Irinotecan"
+        },
+        {
+          "label": "E",
+          "text": "Methotrexate"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Cyclophosphamide is classically associated with hemorrhagic cystitis.",
+        "whyCorrect": "The ChemoMan map links cyclophosphamide to hemorrhagic cystitis, which matches the hematuria, suprapubic pain, and inflamed bleeding bladder mucosa described.",
+        "whyWrongByChoice": {
+          "A": "Bleomycin is associated with pulmonary fibrosis.",
+          "C": "Doxorubicin is associated with cardiotoxicity.",
+          "D": "Irinotecan is associated with severe acute and delayed diarrhea.",
+          "E": "Methotrexate is associated with myelosuppression."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "adverse effects",
+        "cyclophosphamide"
+      ],
+      "topicId": "principles-of-chemotherapy",
+      "topicName": "Principles of Chemotherapy",
+      "tier": "core"
+    },
+    {
+      "id": "bl31-011",
+      "stem": "A 58-year-old man being treated with a vinca alkaloid develops distal numbness, tingling, and diminished ankle reflexes. Consistent with this agent's mechanism, vinca alkaloids exert their cytotoxic effect primarily by acting on which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "DNA cross-linking at guanine independent of the cell cycle"
+        },
+        {
+          "label": "B",
+          "text": "Estrogen receptor signaling in hormone-responsive tissue"
+        },
+        {
+          "label": "C",
+          "text": "Microtubules of the mitotic spindle during M phase"
+        },
+        {
+          "label": "D",
+          "text": "Nucleotide synthesis by folate-dependent enzymes during S phase"
+        },
+        {
+          "label": "E",
+          "text": "Topoisomerase-mediated DNA unwinding during replication"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Vinca alkaloids are microtubule inhibitors that act during mitosis and cause peripheral neuropathy.",
+        "whyCorrect": "The cell-cycle diagram places vinca alkaloids (with taxanes) among microtubule inhibitors that act at mitosis (M phase), interfering with the spindle. Clinically, vinca alkaloids are also linked to peripheral neuropathy, matching the sensory symptoms described.",
+        "whyWrongByChoice": {
+          "A": "Cell cycle-independent DNA cross-linking describes alkylating and platinum agents.",
+          "B": "Estrogen receptor signaling is the target of endocrine therapy such as tamoxifen.",
+          "D": "Targeting S-phase nucleotide synthesis is the mechanism of antimetabolites such as cytarabine and methotrexate.",
+          "E": "Topoisomerase inhibition is the mechanism of irinotecan."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cell cycle",
+        "vinca alkaloids",
+        "adverse effects"
+      ],
+      "topicId": "principles-of-chemotherapy",
+      "topicName": "Principles of Chemotherapy",
+      "tier": "core"
+    },
+    {
+      "id": "bl31-012",
+      "stem": "A 61-year-old woman with an estrogen receptor-positive breast cancer is started on tamoxifen. This drug is an example of which category of cancer therapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alkylating chemotherapy"
+        },
+        {
+          "label": "B",
+          "text": "Cytotoxic chemotherapy"
+        },
+        {
+          "label": "C",
+          "text": "Endocrine therapy"
+        },
+        {
+          "label": "D",
+          "text": "Immunotherapy"
+        },
+        {
+          "label": "E",
+          "text": "Molecularly targeted therapy"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Endocrine therapy treats hormone-responsive cancers by blocking or modulating hormones; tamoxifen is the example for ER-positive breast cancer.",
+        "whyCorrect": "Endocrine therapy treats specific hormone-responsive cancers by blocking or modulating certain hormones. The article gives tamoxifen used for estrogen receptor-positive breast cancer as the prototypical example.",
+        "whyWrongByChoice": {
+          "A": "Alkylating chemotherapy is a cytotoxic subtype that cross-links DNA, not a hormone-modulating therapy.",
+          "B": "Cytotoxic chemotherapy uses cellular poisons to prevent growth and replication; methotrexate is its example.",
+          "D": "Immunotherapy helps the immune system attack cancer, exemplified by pembrolizumab.",
+          "E": "Molecularly targeted therapy hits specific receptors/pathways, exemplified by imatinib in CML."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "chemotherapy modalities",
+        "endocrine therapy"
+      ],
+      "topicId": "principles-of-chemotherapy",
+      "topicName": "Principles of Chemotherapy",
+      "tier": "core"
+    }
+  ]
+}

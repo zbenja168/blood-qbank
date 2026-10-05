@@ -1,0 +1,3386 @@
+{
+  "categoryId": "w2s2",
+  "categoryName": "Session 2",
+  "questions": [
+    {
+      "id": "bl19-001",
+      "stem": "A 6-year-old boy is brought to the emergency department for a persistent nosebleed. He is adopted and his family history is unknown. On examination he has diffuse ecchymoses. Laboratory studies show a normal platelet count, a normal PT/INR, and a prolonged PTT that corrects when normal plasma is added to the sample. A specific factor assay returns a low factor VIII activity. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hemophilia A"
+        },
+        {
+          "label": "B",
+          "text": "Hemophilia B"
+        },
+        {
+          "label": "C",
+          "text": "Hemophilia C"
+        },
+        {
+          "label": "D",
+          "text": "Immune thrombocytopenia"
+        },
+        {
+          "label": "E",
+          "text": "von Willebrand disease"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A prolonged PTT that corrects with mixing plus a low factor VIII assay identifies hemophilia A.",
+        "whyCorrect": "Hemophilia A results from a defect in factor VIII, part of the intrinsic arm of the coagulation cascade, so the PTT is prolonged while the PT is normal. Because the defect is a missing factor rather than an inhibitor, adding normal plasma restores the factor and corrects the PTT. A specific factor assay showing low factor VIII activity confirms hemophilia A and distinguishes it from hemophilia B.",
+        "whyWrongByChoice": {
+          "B": "Hemophilia B is caused by a factor IX defect; the specific factor assay here showed low factor VIII, not factor IX.",
+          "C": "Hemophilia C is an extremely rare factor XI disorder; the low factor VIII assay points to hemophilia A.",
+          "D": "Immune thrombocytopenia would produce a low platelet count, but this patient's platelet count is normal.",
+          "E": "von Willebrand disease impairs platelet plug formation and is associated with petechiae, which hemophilia patients characteristically lack."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hemophilia A",
+        "diagnosis",
+        "mixing study"
+      ],
+      "topicId": "hemophilia",
+      "topicName": "Hemophilia",
+      "tier": "core"
+    },
+    {
+      "id": "bl19-002",
+      "stem": "A researcher is studying the intrinsic arm of the coagulation cascade to understand the pathophysiology of hemophilia. In this pathway, activated factor VIII (VIIIa) exerts its primary hemostatic effect through which of the following actions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Activating the extrinsic pathway via tissue factor and factor VIIa"
+        },
+        {
+          "label": "B",
+          "text": "Anchoring platelets to collagen at damaged blood vessel walls"
+        },
+        {
+          "label": "C",
+          "text": "Converting prothrombin to thrombin independently of activated factor X"
+        },
+        {
+          "label": "D",
+          "text": "Directly cleaving fibrinogen into fibrin monomers in the clot"
+        },
+        {
+          "label": "E",
+          "text": "Serving as a cofactor for activated factor IX to activate factor X"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Factor VIIIa is a cofactor for factor IXa, and together they activate factor X to start the common pathway.",
+        "whyCorrect": "In the intrinsic arm, activated factor VIII (VIIIa) serves as a cofactor for activated factor IX (IXa). They cooperate to activate factor X to Xa at the start of the common pathway, which eventually leads to fibrin formation that stabilizes the clot. A defect in factor VIII (or factor IX) therefore impairs fibrin formation and causes excessive bleeding.",
+        "whyWrongByChoice": {
+          "A": "The extrinsic pathway is initiated by tissue factor and factor VIIa and is unaffected in hemophilia.",
+          "B": "Anchoring platelets to damaged vessels is the role of von Willebrand factor, not factor VIIIa.",
+          "C": "Prothrombin is converted to thrombin by factor Xa (with factor Va) after factor X is activated, not directly by factor VIIIa.",
+          "D": "Fibrinogen is cleaved to fibrin by thrombin downstream in the common pathway, not by factor VIIIa."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pathophysiology",
+        "coagulation cascade",
+        "factor VIII"
+      ],
+      "topicId": "hemophilia",
+      "topicName": "Hemophilia",
+      "tier": "core"
+    },
+    {
+      "id": "bl19-003",
+      "stem": "A medical student is counseling a family about the genetics of hemophilia A and B. Which of the following best describes the inheritance pattern of these two disorders?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autosomal dominant"
+        },
+        {
+          "label": "B",
+          "text": "Autosomal recessive"
+        },
+        {
+          "label": "C",
+          "text": "Mitochondrial"
+        },
+        {
+          "label": "D",
+          "text": "X-linked dominant"
+        },
+        {
+          "label": "E",
+          "text": "X-linked recessive"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Both hemophilia A and B are X-linked recessive disorders.",
+        "whyCorrect": "Both hemophilia A and hemophilia B are X-linked recessive disorders. Because males have only one X chromosome, they are affected far more often; females are usually protected by a second, normal X chromosome, though rare heterozygous females can be affected through unequal lyonization.",
+        "whyWrongByChoice": {
+          "A": "Autosomal dominant is the pattern of von Willebrand disease, not hemophilia A or B.",
+          "B": "Autosomal recessive describes hemophilia C (factor XI), not hemophilia A or B.",
+          "C": "Mitochondrial inheritance is unrelated to the factor VIII and IX genes involved in hemophilia.",
+          "D": "X-linked dominant does not describe hemophilia; the disease is recessive and predominantly affects males."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "genetics",
+        "inheritance",
+        "X-linked recessive"
+      ],
+      "topicId": "hemophilia",
+      "topicName": "Hemophilia",
+      "tier": "core"
+    },
+    {
+      "id": "bl19-004",
+      "stem": "A man with hemophilia B is planning to have children and is worried about passing on his bleeding disorder. His wife has no personal or family history of bleeding disorders. If the couple has a son, what is the chance the son will have hemophilia B?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "0%"
+        },
+        {
+          "label": "B",
+          "text": "100%"
+        },
+        {
+          "label": "C",
+          "text": "25%"
+        },
+        {
+          "label": "D",
+          "text": "50%"
+        },
+        {
+          "label": "E",
+          "text": "Cannot be determined"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A son inherits his father's Y chromosome and his mother's X, so an affected father cannot pass X-linked hemophilia to a son.",
+        "whyCorrect": "Hemophilia B is X-linked recessive. A son receives his Y chromosome from his father and his single X chromosome from his unaffected mother, so he has no chance of inheriting the disease from his affected father. (In contrast, all daughters would receive the father's affected X and their mother's normal X, making them carriers.)",
+        "whyWrongByChoice": {
+          "B": "100% describes the carrier status of daughters, not the disease risk in sons.",
+          "C": "25% would apply to certain autosomal recessive crosses, not to a son of an affected father in an X-linked disorder.",
+          "D": "50% would be the risk if the mother were a carrier, but she has no family history of bleeding disorders.",
+          "E": "The risk can be determined precisely from the X-linked recessive inheritance pattern; it is 0% for a son."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "genetics",
+        "hemophilia B",
+        "carrier risk"
+      ],
+      "topicId": "hemophilia",
+      "topicName": "Hemophilia",
+      "tier": "core"
+    },
+    {
+      "id": "bl19-005",
+      "stem": "A 4-year-old boy with a suspected bleeding disorder undergoes coagulation testing. Which of the following combinations of results is most consistent with hemophilia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Low platelet count with normal aPTT and PT"
+        },
+        {
+          "label": "B",
+          "text": "Normal aPTT and normal PT"
+        },
+        {
+          "label": "C",
+          "text": "Normal aPTT and prolonged PT"
+        },
+        {
+          "label": "D",
+          "text": "Prolonged aPTT and normal PT"
+        },
+        {
+          "label": "E",
+          "text": "Prolonged aPTT and prolonged PT"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Hemophilia impairs the intrinsic pathway, producing a prolonged aPTT with a normal PT.",
+        "whyCorrect": "The aPTT measures the intrinsic coagulation pathway, while the PT measures the extrinsic pathway. Because hemophilia causes a defect in the intrinsic arm, the aPTT is prolonged. The PT remains normal because the extrinsic arm is unaffected.",
+        "whyWrongByChoice": {
+          "A": "Hemophilia does not lower the platelet count; a low platelet count suggests a platelet disorder instead.",
+          "B": "Normal aPTT and PT would not explain the bleeding tendency of hemophilia, which prolongs the aPTT.",
+          "C": "A prolonged PT with a normal aPTT points to an extrinsic pathway defect, which is not the pattern in hemophilia.",
+          "E": "A prolonged PT and aPTT together suggest a common pathway or combined defect, not isolated hemophilia."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "diagnosis",
+        "aPTT",
+        "PT"
+      ],
+      "topicId": "hemophilia",
+      "topicName": "Hemophilia",
+      "tier": "core"
+    },
+    {
+      "id": "bl19-006",
+      "stem": "A patient presents complaining of easy bruising and bleeding that takes a long time to stop. On examination, which of the following findings would suggest that the patient has a bleeding disorder OTHER than hemophilia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Family history of bleeding disorders"
+        },
+        {
+          "label": "B",
+          "text": "Hemarthrosis"
+        },
+        {
+          "label": "C",
+          "text": "Normal PT"
+        },
+        {
+          "label": "D",
+          "text": "Petechiae"
+        },
+        {
+          "label": "E",
+          "text": "Prolonged PTT"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Petechiae reflect a platelet/vessel (primary hemostasis) problem and are characteristically absent in hemophilia.",
+        "whyCorrect": "Disorders that impair platelet plug formation, such as von Willebrand disease, can be confused with hemophilia, but hemophilia patients lack petechiae. Petechiae result from bleeding caused by minor damage in capillary blood vessels, pointing to a primary hemostasis disorder rather than hemophilia.",
+        "whyWrongByChoice": {
+          "A": "A family history of bleeding disorders is consistent with inherited hemophilia.",
+          "B": "Hemarthrosis (bleeding into joints) is more common in hemophilia, so it supports rather than argues against the diagnosis.",
+          "C": "A normal PT is a typical finding in hemophilia because the extrinsic pathway is unaffected.",
+          "E": "A prolonged PTT is expected in hemophilia due to the intrinsic pathway defect."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "differential diagnosis",
+        "petechiae",
+        "von Willebrand disease"
+      ],
+      "topicId": "hemophilia",
+      "topicName": "Hemophilia",
+      "tier": "core"
+    },
+    {
+      "id": "bl19-007",
+      "stem": "A 22-year-old man with mild hemophilia A due to reduced factor VIII production sustains a minor bleeding episode after a small laceration. Which of the following is the most appropriate initial treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Desmopressin"
+        },
+        {
+          "label": "B",
+          "text": "Fresh frozen plasma"
+        },
+        {
+          "label": "C",
+          "text": "Prothrombin complex concentrates"
+        },
+        {
+          "label": "D",
+          "text": "Recombinant factor IX"
+        },
+        {
+          "label": "E",
+          "text": "Recombinant factor VIIa"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Desmopressin raises factor VIII levels and is appropriate for mild hemophilia A with reduced factor production.",
+        "whyCorrect": "Desmopressin can be used to treat some patients with mild hemophilia A because it stimulates the release of von Willebrand factor from platelets, increasing factor VIII stability and leading to increased factor VIII levels. It is effective specifically in patients with reduced factor VIII production, as in this patient.",
+        "whyWrongByChoice": {
+          "B": "Fresh frozen plasma is considered contraindicated for hemophilia A because it contains only very low concentrations of factor VIII and is not extensively treated to prevent infection.",
+          "C": "Prothrombin complex concentrates are used to bypass an inhibitor, which this patient does not have.",
+          "D": "Recombinant factor IX is used to treat hemophilia B, not hemophilia A.",
+          "E": "Recombinant factor VIIa is reserved for patients who have developed an inhibitor, not for a simple mild bleed."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "treatment",
+        "desmopressin",
+        "mild hemophilia A"
+      ],
+      "topicId": "hemophilia",
+      "topicName": "Hemophilia",
+      "tier": "core"
+    },
+    {
+      "id": "bl19-008",
+      "stem": "A boy with severe hemophilia A has been treated with recombinant factor VIII infusions for several years. He now has worsening bleeding, and repeat testing shows a prolonged PTT that fails to correct when mixed with normal plasma. Which of the following best explains this new finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A newly acquired deficiency of factor IX"
+        },
+        {
+          "label": "B",
+          "text": "Development of an antibody against factor VIII"
+        },
+        {
+          "label": "C",
+          "text": "Development of von Willebrand disease later in life"
+        },
+        {
+          "label": "D",
+          "text": "Newly acquired severe thrombocytopenia"
+        },
+        {
+          "label": "E",
+          "text": "Newly developed vitamin K deficiency"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A prolonged PTT that no longer corrects with mixing indicates a factor VIII inhibitor.",
+        "whyCorrect": "About 15% of patients with severe hemophilia A develop antibodies to recombinant factor VIII because their bodies recognize it as a foreign protein; this antibody is called an inhibitor. In these patients the prolonged PTT is not corrected when mixed with normal plasma because the antibodies bind the free factor VIII, preventing its function.",
+        "whyWrongByChoice": {
+          "A": "A new factor IX deficiency would still correct with a mixing study, since normal plasma supplies factor IX.",
+          "C": "von Willebrand disease is inherited (autosomal dominant) and would not suddenly appear or cause failure of a mixing study in this way.",
+          "D": "Thrombocytopenia is a low platelet count and would not cause a mixing study to fail to correct the PTT.",
+          "E": "Vitamin K deficiency mainly affects the PT and the vitamin K–dependent factors and corrects with mixing."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "inhibitor",
+        "mixing study",
+        "hemophilia A"
+      ],
+      "topicId": "hemophilia",
+      "topicName": "Hemophilia",
+      "tier": "core"
+    },
+    {
+      "id": "bl19-009",
+      "stem": "A patient with hemophilia A and a high-titer inhibitor develops an acute joint bleed. The team selects an agent that controls bleeding by directly generating factor Xa and thrombin, bypassing the need for factor VIII. Which of the following was most likely used?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cryoprecipitate"
+        },
+        {
+          "label": "B",
+          "text": "Desmopressin"
+        },
+        {
+          "label": "C",
+          "text": "Recombinant factor IX"
+        },
+        {
+          "label": "D",
+          "text": "Recombinant factor VIIa"
+        },
+        {
+          "label": "E",
+          "text": "Recombinant factor VIII"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Recombinant factor VIIa bypasses an inhibitor by directly forming factor Xa and thrombin.",
+        "whyCorrect": "For moderate- or high-titer inhibitors, patients can be given recombinant factor VIIa for acute bleeding because it directly forms factor Xa and thrombin, bypassing the inhibited factor VIII. This makes it well suited to control acute bleeding when a high-titer inhibitor is present.",
+        "whyWrongByChoice": {
+          "A": "Cryoprecipitate is considered contraindicated in hemophilia A and does not bypass an inhibitor.",
+          "B": "Desmopressin only modestly raises factor VIII and is used for mild hemophilia A, not for a high-titer inhibitor.",
+          "C": "Recombinant factor IX treats hemophilia B and does not bypass a factor VIII inhibitor.",
+          "E": "Recombinant factor VIII would be bound and neutralized by the high-titer inhibitor, so it would not control bleeding."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "treatment",
+        "inhibitor",
+        "recombinant factor VIIa"
+      ],
+      "topicId": "hemophilia",
+      "topicName": "Hemophilia",
+      "tier": "core"
+    },
+    {
+      "id": "bl19-010",
+      "stem": "A newborn boy with a family history of hemophilia A is found on factor assay to have less than 1% of normal factor VIII activity. Based on this factor level, which of the following bleeding patterns is he most likely to experience?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bleeding only from mucosal surfaces with petechiae"
+        },
+        {
+          "label": "B",
+          "text": "Many bleeding episodes, often spontaneous"
+        },
+        {
+          "label": "C",
+          "text": "No bleeding tendency at all"
+        },
+        {
+          "label": "D",
+          "text": "Occasional trauma-induced bleeds that rarely cause crippling effects"
+        },
+        {
+          "label": "E",
+          "text": "Rare bleeding episodes, usually only after major trauma or surgery"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Factor activity below 1% defines severe hemophilia with frequent spontaneous bleeding.",
+        "whyCorrect": "Per the clinical classification of hemophilia, severe disease corresponds to less than 1% factor activity and is characterized by many bleeding episodes that are usually spontaneous; such patients rarely reach adulthood without treatment. This newborn's factor VIII activity below 1% places him in the severe category.",
+        "whyWrongByChoice": {
+          "A": "Mucosal bleeding with petechiae is characteristic of platelet/vWF disorders; hemophilia patients lack petechiae.",
+          "C": "Even mild hemophilia carries a bleeding risk; a level below 1% produces frequent, often spontaneous bleeding.",
+          "D": "Occasional trauma-induced bleeds without crippling effects describes moderate disease (1–5% activity).",
+          "E": "Rare bleeding only after major trauma or surgery describes mild disease (6–30% activity), not severe disease."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "severity classification",
+        "factor activity",
+        "severe hemophilia"
+      ],
+      "topicId": "hemophilia",
+      "topicName": "Hemophilia",
+      "tier": "core"
+    },
+    {
+      "id": "bl19-011",
+      "stem": "A 72-year-old woman with a history of rheumatoid arthritis and no prior bleeding problems develops large spontaneous hematomas and muscle bleeds. Laboratory studies show a prolonged PTT that does not correct with a mixing study, and an antibody against factor VIII is identified. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acquired hemophilia"
+        },
+        {
+          "label": "B",
+          "text": "Hemophilia C"
+        },
+        {
+          "label": "C",
+          "text": "Inherited hemophilia A"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin K deficiency"
+        },
+        {
+          "label": "E",
+          "text": "von Willebrand disease"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A new factor VIII autoantibody in an older non-hemophiliac patient defines acquired hemophilia.",
+        "whyCorrect": "Acquired hemophilia arises when a non-hemophiliac patient develops an autoantibody against a specific coagulation factor, most commonly factor VIII. It tends to occur in older individuals with a female predominance and is associated with malignancy, autoimmune disease such as lupus, medications, or is idiopathic. Patients present with secondary hemostasis-type bleeding such as large hematomas and muscle bleeds, and the PTT does not correct with mixing because of the inhibitor.",
+        "whyWrongByChoice": {
+          "B": "Hemophilia C is a rare inherited factor XI deficiency, not an acquired factor VIII autoantibody.",
+          "C": "Inherited hemophilia A presents in childhood and has a lifelong bleeding history, not new-onset bleeding at age 72.",
+          "D": "Vitamin K deficiency prolongs the PT and corrects with a mixing study; it does not produce a factor VIII antibody.",
+          "E": "von Willebrand disease is inherited and associated with petechiae and impaired platelet function, and its PTT would correct with mixing."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "acquired hemophilia",
+        "autoantibody",
+        "differential diagnosis"
+      ],
+      "topicId": "hemophilia",
+      "topicName": "Hemophilia",
+      "tier": "core"
+    },
+    {
+      "id": "bl19-012",
+      "stem": "A hematologist is explaining to trainees the most feared bleeding complication in patients with hemophilia. Which of the following is the most common cause of death from hemorrhage in these patients?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cutaneous ecchymoses"
+        },
+        {
+          "label": "B",
+          "text": "Gastrointestinal bleeding"
+        },
+        {
+          "label": "C",
+          "text": "Hemarthrosis"
+        },
+        {
+          "label": "D",
+          "text": "Hematuria"
+        },
+        {
+          "label": "E",
+          "text": "Intracranial bleeding"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Intracranial hemorrhage is the most common cause of death from hemorrhage in hemophilia.",
+        "whyCorrect": "Additional sources of hemorrhage in hemophiliac patients include deep tissue bleeds and intracranial bleeds, and intracranial hemorrhage is identified as the most common cause of death from hemorrhage for patients with hemophilia.",
+        "whyWrongByChoice": {
+          "A": "Cutaneous ecchymoses (easy bruising) is a common but superficial and non-fatal manifestation.",
+          "B": "Gastrointestinal bleeding causes blood in the stool but is not the leading cause of hemorrhagic death.",
+          "C": "Hemarthrosis causes joint deformity and disability but is not the most common fatal hemorrhage.",
+          "D": "Hematuria reflects genitourinary bleeding and is not typically fatal."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "complications",
+        "intracranial hemorrhage",
+        "mortality"
+      ],
+      "topicId": "hemophilia",
+      "topicName": "Hemophilia",
+      "tier": "core"
+    },
+    {
+      "id": "bl20-001",
+      "stem": "A 28-year-old woman with von Willebrand disease has severely reduced levels of von Willebrand factor (vWF). As a direct consequence of this deficiency, which of the following is most likely to undergo increased degradation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Endothelial cells"
+        },
+        {
+          "label": "B",
+          "text": "Factor IX"
+        },
+        {
+          "label": "C",
+          "text": "Factor VII"
+        },
+        {
+          "label": "D",
+          "text": "Factor VIII"
+        },
+        {
+          "label": "E",
+          "text": "Platelets"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "One of vWF's two major functions is to bind and stabilize circulating factor VIII.",
+        "whyCorrect": "Factor VIII rapidly degrades unless it is bound to vWF, which acts as its protector in the circulation. When vWF is severely deficient, factor VIII is left unprotected and its levels fall; in a small number of cases the decrease is pronounced enough to mimic hemophilia A.",
+        "whyWrongByChoice": {
+          "A": "vWF anchors platelets to the subendothelium; its loss does not cause degradation of endothelial cells.",
+          "B": "Factor IX does not interact with vWF; its deficiency causes hemophilia B, an unrelated disorder.",
+          "C": "Factor VII is not bound or stabilized by vWF, so its degradation is unaffected.",
+          "E": "Platelets are not degraded by loss of vWF; rather, they fail to adhere to the vessel wall."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pathophysiology",
+        "factor VIII",
+        "vWF function"
+      ],
+      "topicId": "von-willebrand-disease",
+      "topicName": "von Willebrand Disease",
+      "tier": "core"
+    },
+    {
+      "id": "bl20-002",
+      "stem": "A woman diagnosed with von Willebrand disease is found to be heterozygous for the gene defect. She is having a child with a man who has no personal or family history of a bleeding disorder. Assuming the disease is inherited in an autosomal dominant fashion, what is the chance that their child will also have the disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "0%"
+        },
+        {
+          "label": "B",
+          "text": "100%"
+        },
+        {
+          "label": "C",
+          "text": "25%"
+        },
+        {
+          "label": "D",
+          "text": "50%"
+        },
+        {
+          "label": "E",
+          "text": "Cannot be determined"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Most vWD is autosomal dominant, with affected people typically heterozygous for the defect.",
+        "whyCorrect": "The father, having no signs of disease, is assumed homozygous for normal vWF, while the mother is heterozygous for the defective allele. In an autosomal dominant cross of a heterozygote with an unaffected homozygote, each child has a 50% chance of inheriting the defective allele and the disease.",
+        "whyWrongByChoice": {
+          "A": "A heterozygous affected parent does transmit the dominant allele to half of offspring, so risk is not zero.",
+          "B": "100% would require the affected parent to be homozygous, which is rare in dominant vWD.",
+          "C": "25% describes an autosomal recessive cross of two carriers, not this dominant scenario.",
+          "E": "The inheritance pattern and parental genotypes are known, so the risk can be determined."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "genetics",
+        "inheritance",
+        "autosomal dominant"
+      ],
+      "topicId": "von-willebrand-disease",
+      "topicName": "von Willebrand Disease",
+      "tier": "core"
+    },
+    {
+      "id": "bl20-003",
+      "stem": "A 34-year-old man with von Willebrand disease has major bleeding, and recombinant vWF concentrate is not available at the facility. The team decides to give a blood product that provides a concentrated, bioactive source of von Willebrand factor. Which of the following treatments contains bioactive vWF?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aminocaproic acid"
+        },
+        {
+          "label": "B",
+          "text": "Cryoprecipitate"
+        },
+        {
+          "label": "C",
+          "text": "Desmopressin"
+        },
+        {
+          "label": "D",
+          "text": "Platelet transfusion"
+        },
+        {
+          "label": "E",
+          "text": "Tranexamic acid"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Cryoprecipitate is a concentrated source of clotting factors, including vWF, used when vWF concentrates are unavailable.",
+        "whyCorrect": "Cryoprecipitate is a concentrated solution of clotting factors obtained by freezing and thawing fresh frozen plasma; it contains von Willebrand factor and serves as an alternative source when vWF concentrates are not available for major bleeding.",
+        "whyWrongByChoice": {
+          "A": "Aminocaproic acid is an antifibrinolytic that prevents clot dissolution and contains no vWF.",
+          "C": "Desmopressin releases the patient's own stored vWF from endothelial cells but is not itself a source of vWF.",
+          "D": "Platelet transfusion supplies platelets to correct thrombocytopenia or aggregation defects, not vWF.",
+          "E": "Tranexamic acid is an antifibrinolytic that prevents clot breakdown and contains no vWF."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "management",
+        "cryoprecipitate",
+        "vWF replacement"
+      ],
+      "topicId": "von-willebrand-disease",
+      "topicName": "von Willebrand Disease",
+      "tier": "core"
+    },
+    {
+      "id": "bl20-004",
+      "stem": "A 17-year-old male is referred to the emergency department for refractory bleeding that began immediately after a wisdom tooth extraction and that the dentist was unable to stop. He reports lifelong weekly nosebleeds that take up to two hours to stop, and his father and sister have frequent nosebleeds. PT and PTT are normal. A CBC is normal, including a normal platelet count and normal platelet appearance on blood smear. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bernard-Soulier syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Hemophilia A"
+        },
+        {
+          "label": "C",
+          "text": "Hemophilia B"
+        },
+        {
+          "label": "D",
+          "text": "Thrombotic thrombocytopenic purpura"
+        },
+        {
+          "label": "E",
+          "text": "von Willebrand disease"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Mucocutaneous bleeding with a positive family history and normal platelet count and coagulation times points to vWD.",
+        "whyCorrect": "The picture of mucosal bleeding (nosebleeds, post-extraction bleeding), a family history suggesting autosomal dominant inheritance, and normal PT/PTT with a normal platelet count and smear is classic for von Willebrand disease. The diagnosis would be confirmed with vWF antigen and activity testing.",
+        "whyWrongByChoice": {
+          "A": "Bernard-Soulier syndrome, caused by a glycoprotein Ib mutation, presents with thrombocytopenia and abnormally large platelets, which are absent here.",
+          "B": "Hemophilia A is X-linked, typically affects males with deep tissue and joint bleeding and a prolonged PTT, not a normal PTT with only mucosal bleeding.",
+          "C": "Hemophilia B is also X-linked with deep tissue and joint bleeding and a prolonged PTT, inconsistent with the normal PTT here.",
+          "D": "Thrombotic thrombocytopenic purpura involves platelet consumption with thrombocytopenia and thrombosis, not a normal platelet count with isolated mucosal bleeding."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "diagnosis",
+        "differential",
+        "clinical vignette"
+      ],
+      "topicId": "von-willebrand-disease",
+      "topicName": "von Willebrand Disease",
+      "tier": "core"
+    },
+    {
+      "id": "bl20-005",
+      "stem": "When a blood vessel is injured, subendothelial collagen is exposed and von Willebrand factor acts as the glue that adheres platelets to this collagen. Binding of vWF to which of the following platelet receptors mediates this initial platelet adhesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Factor VIII (antihemophilic factor)"
+        },
+        {
+          "label": "B",
+          "text": "Fibrinogen (factor I)"
+        },
+        {
+          "label": "C",
+          "text": "Glycoprotein Ib (GpIb)"
+        },
+        {
+          "label": "D",
+          "text": "Glycoprotein IIb/IIIa (GpIIb/IIIa)"
+        },
+        {
+          "label": "E",
+          "text": "Thrombin receptor (PAR-1)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "vWF adheres platelets to exposed subendothelial collagen through platelet glycoprotein Ib.",
+        "whyCorrect": "In damaged vessels, vWF bridges platelets to exposed subendothelial collagen via platelet glycoprotein Ib (GpIb). This adhesion is the first step in building the platelet plug that prevents blood loss.",
+        "whyWrongByChoice": {
+          "A": "Factor VIII is a coagulation factor stabilized by vWF, not a platelet adhesion receptor.",
+          "B": "Fibrinogen bridges platelets through GpIIb/IIIa during aggregation; it is not the receptor for vWF adhesion.",
+          "D": "Glycoprotein IIb/IIIa binds fibrinogen to mediate platelet-to-platelet aggregation, not vWF-mediated adhesion to collagen.",
+          "E": "The thrombin receptor participates in platelet activation but is not the site of vWF-mediated adhesion to subendothelium."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "platelet adhesion",
+        "GpIb"
+      ],
+      "topicId": "von-willebrand-disease",
+      "topicName": "von Willebrand Disease",
+      "tier": "core"
+    },
+    {
+      "id": "bl20-006",
+      "stem": "A newborn of consanguineous parents has severe bleeding involving both mucosal surfaces and a joint. Laboratory testing shows a virtually complete absence of von Willebrand factor along with markedly decreased factor VIII. Which type of von Willebrand disease does this child most likely have?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acquired von Willebrand syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Type 1"
+        },
+        {
+          "label": "C",
+          "text": "Type 2"
+        },
+        {
+          "label": "D",
+          "text": "Type 2N (Normandy)"
+        },
+        {
+          "label": "E",
+          "text": "Type 3"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Type 3 is the most severe form: complete absence of vWF, autosomal recessive, with decreased factor VIII.",
+        "whyCorrect": "Type 3 vWD is the most severe form, characterized by complete absence of von Willebrand factor and inherited in an autosomal recessive fashion (fitting consanguinity). Because these patients also have decreased factor VIII, they experience both primary and secondary hemostasis bleeding, explaining the combined mucosal and joint bleeding.",
+        "whyWrongByChoice": {
+          "A": "The recessive inheritance, consanguinity, and neonatal onset indicate an inherited absence rather than an acquired syndrome.",
+          "B": "Type 1 is the mildest form with only a partial quantitative deficiency and intact function, not complete absence.",
+          "C": "Type 2 is a qualitative defect in which vWF is present but functionally abnormal, not absent.",
+          "D": "Type 2 subtypes are qualitative abnormalities beyond the brick's scope and do not feature complete absence of vWF."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "types",
+        "type 3",
+        "pathophysiology"
+      ],
+      "topicId": "von-willebrand-disease",
+      "topicName": "von Willebrand Disease",
+      "tier": "core"
+    },
+    {
+      "id": "bl20-007",
+      "stem": "During the workup of a patient with suspected von Willebrand disease, the laboratory adds the antibiotic ristocetin to the patient's blood in a test tube. In this assay, ristocetin is used to measure which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The amount of factor VIII in the blood"
+        },
+        {
+          "label": "B",
+          "text": "The concentration of fibrinogen"
+        },
+        {
+          "label": "C",
+          "text": "The function of von Willebrand factor"
+        },
+        {
+          "label": "D",
+          "text": "The integrity of the intrinsic coagulation cascade"
+        },
+        {
+          "label": "E",
+          "text": "The total quantity of von Willebrand factor"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The ristocetin cofactor assay measures vWF function.",
+        "whyCorrect": "Ristocetin activates von Willebrand factor so that it binds platelets, causing agglutination in the test tube. The degree of agglutination reflects how well the vWF functions, making this a test of vWF activity rather than quantity.",
+        "whyWrongByChoice": {
+          "A": "Factor VIII amount is measured by a factor VIII clotting activity assay, which is unrelated to ristocetin.",
+          "B": "Fibrinogen concentration is not measured by the ristocetin cofactor test.",
+          "D": "The intrinsic coagulation cascade is assessed by the partial thromboplastin time, not the ristocetin assay.",
+          "E": "The quantity of vWF is measured by a separate vWF antigen assay, not by ristocetin."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "diagnosis",
+        "ristocetin",
+        "vWF activity"
+      ],
+      "topicId": "von-willebrand-disease",
+      "topicName": "von Willebrand Disease",
+      "tier": "core"
+    },
+    {
+      "id": "bl20-008",
+      "stem": "A 22-year-old woman is evaluated for easy bruising and heavy menses and is found to have a partial reduction in von Willebrand factor with normal vWF function; her family history suggests autosomal dominant inheritance. Which type of von Willebrand disease is she most likely to have, and how common is it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Type 1, the most common form"
+        },
+        {
+          "label": "B",
+          "text": "Type 2, the most common form"
+        },
+        {
+          "label": "C",
+          "text": "Type 2, the most severe form"
+        },
+        {
+          "label": "D",
+          "text": "Type 3, the mildest form"
+        },
+        {
+          "label": "E",
+          "text": "Type 3, the most common form"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Type 1 is a partial quantitative deficiency with intact function, autosomal dominant, and the most common form.",
+        "whyCorrect": "Type 1 vWD is the mildest and most common form, featuring a partial (quantitative) absence of vWF while function remains intact, and it is inherited in an autosomal dominant fashion, matching this presentation.",
+        "whyWrongByChoice": {
+          "B": "Type 2 is a qualitative abnormality (functionally abnormal vWF), not a partial quantitative deficiency with intact function, and is not described as the most common.",
+          "C": "Type 2 is defined by qualitative dysfunction and is not the most severe form.",
+          "D": "Type 3 is the most severe, not the mildest, form of vWD.",
+          "E": "Type 3 is the most severe form with complete absence of vWF, not the most common or mildest."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "types",
+        "type 1",
+        "epidemiology"
+      ],
+      "topicId": "von-willebrand-disease",
+      "topicName": "von Willebrand Disease",
+      "tier": "core"
+    },
+    {
+      "id": "bl20-009",
+      "stem": "A brick describes a clotting disorder that is, in a sense, the 'opposite' of von Willebrand disease. In this disorder there is impaired cleavage of ultra-large vWF multimers, leading initially to widespread platelet aggregation and clot formation and eventually to depletion of circulating platelets. Which disorder is being described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bernard-Soulier syndrome (GpIb defect)"
+        },
+        {
+          "label": "B",
+          "text": "Hemophilia A (factor VIII deficiency)"
+        },
+        {
+          "label": "C",
+          "text": "Immune thrombocytopenic purpura"
+        },
+        {
+          "label": "D",
+          "text": "Severe type 3 von Willebrand disease"
+        },
+        {
+          "label": "E",
+          "text": "Thrombotic thrombocytopenic purpura"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "TTP is the thrombotic 'opposite' of vWD, driven by impaired cleavage of ultra-large vWF multimers.",
+        "whyCorrect": "In thrombotic thrombocytopenic purpura, ultra-large vWF multimers are not cleaved properly, producing excess vWF and widespread platelet aggregation (causing thrombosis), which eventually depletes circulating platelets and can then cause bleeding.",
+        "whyWrongByChoice": {
+          "A": "Bernard-Soulier syndrome is a platelet receptor (GpIb) defect causing bleeding, not multimer-driven thrombosis.",
+          "B": "Hemophilia A is a factor VIII deficiency causing bleeding, not a thrombotic disorder from excess vWF multimers.",
+          "C": "Immune thrombocytopenia is platelet destruction by antibodies and does not involve impaired vWF multimer cleavage.",
+          "D": "Type 3 vWD is the complete absence of vWF causing severe bleeding, the opposite of excess vWF multimers."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "clinical correlation",
+        "TTP",
+        "vWF multimers"
+      ],
+      "topicId": "von-willebrand-disease",
+      "topicName": "von Willebrand Disease",
+      "tier": "core"
+    },
+    {
+      "id": "bl20-010",
+      "stem": "A patient with mild von Willebrand disease and residual endothelial stores of vWF has minor bleeding. The physician chooses desmopressin (DDAVP). By what mechanism does desmopressin help control bleeding in vWD?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It cleaves ultra-large vWF multimers"
+        },
+        {
+          "label": "B",
+          "text": "It directly supplies recombinant vWF to the circulation"
+        },
+        {
+          "label": "C",
+          "text": "It prevents dissolution of already-formed clots"
+        },
+        {
+          "label": "D",
+          "text": "It releases vWF from cellular storage compartments"
+        },
+        {
+          "label": "E",
+          "text": "It replaces deficient platelets"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Desmopressin releases the patient's own stored vWF from endothelial compartments.",
+        "whyCorrect": "Desmopressin (DDAVP) works by releasing vWF from cellular compartments, making it useful in patients who have residual endothelial storage of vWF. Because not all patients have such stores, it does not work for everyone and is most often used in less severe bleeding.",
+        "whyWrongByChoice": {
+          "A": "Cleaving ultra-large vWF multimers is the normal process impaired in TTP, unrelated to desmopressin.",
+          "B": "Direct supplementation describes vWF replacement therapy, not desmopressin's mechanism.",
+          "C": "Preventing clot dissolution is the mechanism of antifibrinolytics such as aminocaproic and tranexamic acid.",
+          "E": "Replacing platelets describes platelet transfusion, not desmopressin."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "management",
+        "desmopressin",
+        "DDAVP"
+      ],
+      "topicId": "von-willebrand-disease",
+      "topicName": "von Willebrand Disease",
+      "tier": "core"
+    },
+    {
+      "id": "bl20-011",
+      "stem": "A 30-year-old man with blood type O is found on routine testing to have a low vWF level that falls within the range seen in type 1 von Willebrand disease. He has no history of abnormal bleeding, easy bruising, or heavy bleeding after surgery, and no family history of a bleeding disorder. Which of the following is the most appropriate conclusion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "He should be diagnosed with type 1 von Willebrand disease"
+        },
+        {
+          "label": "B",
+          "text": "He should be diagnosed with type 3 von Willebrand disease"
+        },
+        {
+          "label": "C",
+          "text": "He should be started on prophylactic desmopressin"
+        },
+        {
+          "label": "D",
+          "text": "He should immediately begin vWF replacement therapy"
+        },
+        {
+          "label": "E",
+          "text": "He should not be diagnosed with von Willebrand disease"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "People with blood type O naturally have lower vWF; without bleeding symptoms they should not be diagnosed with vWD.",
+        "whyCorrect": "People with blood type O generally have lower levels of vWF even without any vWD gene mutation. A person with type O and low vWF but no bleeding symptoms should not be diagnosed with von Willebrand disease.",
+        "whyWrongByChoice": {
+          "A": "A diagnosis of type 1 vWD is not appropriate when the low vWF is explained by blood type O and there are no bleeding symptoms.",
+          "B": "Type 3 vWD is a severe disorder with complete absence of vWF and severe bleeding, not this asymptomatic mild reduction.",
+          "C": "Desmopressin is a treatment for bleeding in diagnosed vWD, not indicated in an asymptomatic person who should not be diagnosed.",
+          "D": "vWF replacement is reserved for bleeding or surgical prophylaxis in diagnosed disease, not an asymptomatic type O individual."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "clinical correlation",
+        "blood type O",
+        "diagnosis"
+      ],
+      "topicId": "von-willebrand-disease",
+      "topicName": "von Willebrand Disease",
+      "tier": "core"
+    },
+    {
+      "id": "bl20-012",
+      "stem": "A patient has von Willebrand disease in which the measured quantity of von Willebrand factor is roughly normal, but the vWF that is present does not work properly. Based on this, how is this patient's disease best classified?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Type 1, a qualitative abnormality"
+        },
+        {
+          "label": "B",
+          "text": "Type 1, a quantitative abnormality"
+        },
+        {
+          "label": "C",
+          "text": "Type 2, a qualitative abnormality"
+        },
+        {
+          "label": "D",
+          "text": "Type 3, a qualitative abnormality"
+        },
+        {
+          "label": "E",
+          "text": "Type 3, a quantitative abnormality"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Type 2 is a qualitative abnormality: vWF amount may be normal but it is functionally abnormal.",
+        "whyCorrect": "Type 2 vWD is a qualitative abnormality in which the amount of vWF may be normal or decreased, but the vWF is functionally abnormal. In contrast, types 1 and 3 are quantitative abnormalities (partial or complete loss with normal function).",
+        "whyWrongByChoice": {
+          "A": "Type 1 is quantitative, not qualitative; this mislabels the abnormality.",
+          "B": "Type 1 is a quantitative abnormality with reduced amount but normal function, not a functional defect with normal quantity.",
+          "D": "Type 3 is quantitative (complete absence), not a qualitative abnormality.",
+          "E": "Type 3 is a quantitative abnormality with complete absence of vWF, not normal quantity with abnormal function."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "types",
+        "type 2",
+        "qualitative vs quantitative"
+      ],
+      "topicId": "von-willebrand-disease",
+      "topicName": "von Willebrand Disease",
+      "tier": "core"
+    },
+    {
+      "id": "bl21-001",
+      "stem": "A 22-year-old man is brought to the emergency department after collapsing at home. Over the past 2 days he had fever, a severe headache, and neck stiffness; he is now unresponsive. Temperature is 39.7°C (103.4°F), heart rate 126/min, and blood pressure 80/60 mm Hg. He has diffuse petechiae, and blood continues to ooze from the IV puncture site. Laboratory studies show a very low platelet count, prolonged PT and aPTT, and schistocytes on the peripheral smear. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acquired thrombotic thrombocytopenic purpura"
+        },
+        {
+          "label": "B",
+          "text": "Chronic immune thrombocytopenic purpura"
+        },
+        {
+          "label": "C",
+          "text": "Disseminated intravascular coagulation"
+        },
+        {
+          "label": "D",
+          "text": "Hemophilia A (factor VIII deficiency)"
+        },
+        {
+          "label": "E",
+          "text": "Type 1 von Willebrand disease"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Sepsis with simultaneous bleeding and clotting, thrombocytopenia, schistocytes, and prolonged PT/aPTT is classic for DIC.",
+        "whyCorrect": "DIC is a secondary thrombo-hemorrhagic disorder triggered by a severe underlying illness such as gram-negative sepsis. Rampant clotting consumes platelets and coagulation factors (causing prolonged PT and aPTT and bleeding), while fibrin strands shear red cells to produce schistocytes. The combination of petechiae, oozing lines, low platelets, prolonged coagulation times, and schistocytes in a septic patient is the signature of DIC.",
+        "whyWrongByChoice": {
+          "A": "TTP also causes schistocytes and thrombocytopenia, but its coagulation studies (PT/aPTT) are characteristically normal, unlike the prolonged times seen here.",
+          "B": "Immune thrombocytopenic purpura causes isolated thrombocytopenia with normal PT/aPTT and no schistocytes.",
+          "D": "Hemophilia A is an X-linked factor VIII deficiency that prolongs the aPTT alone, with a normal platelet count and PT and no schistocytes.",
+          "E": "von Willebrand disease produces mucocutaneous bleeding with a normal platelet count and normal PT, not this consumptive picture."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "DIC",
+        "diagnosis",
+        "sepsis"
+      ],
+      "topicId": "disseminated-intravascular-coagulation",
+      "topicName": "Disseminated Intravascular Coagulation",
+      "tier": "core"
+    },
+    {
+      "id": "bl21-002",
+      "stem": "After a complicated, full-term delivery of her first child, a 23-year-old woman has a large postpartum hemorrhage that has been difficult to control over the past 24 hours. Which set of laboratory findings would be most indicative of disseminated intravascular coagulation in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Platelets decreased, fibrinogen decreased, PT decreased, aPTT prolonged"
+        },
+        {
+          "label": "B",
+          "text": "Platelets decreased, fibrinogen decreased, PT prolonged, aPTT prolonged"
+        },
+        {
+          "label": "C",
+          "text": "Platelets decreased, fibrinogen increased, PT prolonged, aPTT decreased"
+        },
+        {
+          "label": "D",
+          "text": "Platelets increased, fibrinogen increased, PT decreased, aPTT decreased"
+        },
+        {
+          "label": "E",
+          "text": "Platelets increased, fibrinogen increased, PT prolonged, aPTT prolonged"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "DIC consumes platelets and coagulation factors, giving low platelets, low fibrinogen, and prolonged PT and aPTT.",
+        "whyCorrect": "In DIC, rampant clotting depletes platelets and clotting factors. This produces a decreased platelet count, decreased fibrinogen (fibrinogen is a coagulation factor converted into fibrin), and prolonged PT and aPTT. Obstetric complications are a classic trigger by dumping procoagulants into the blood.",
+        "whyWrongByChoice": {
+          "A": "A decreased (shortened) PT is inconsistent with DIC, where factor depletion prolongs the PT.",
+          "C": "In DIC fibrinogen is decreased and the aPTT is prolonged, not increased fibrinogen with a shortened aPTT.",
+          "D": "Increased platelets and fibrinogen with shortened coagulation times is the opposite of the consumptive coagulopathy of DIC.",
+          "E": "Platelets and fibrinogen are consumed and therefore decreased in DIC, not increased."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "DIC",
+        "laboratory",
+        "obstetric"
+      ],
+      "topicId": "disseminated-intravascular-coagulation",
+      "topicName": "Disseminated Intravascular Coagulation",
+      "tier": "core"
+    },
+    {
+      "id": "bl21-003",
+      "stem": "A critically ill patient in the intensive care unit is suspected of having disseminated intravascular coagulation. Which of the following peripheral blood smear findings would most strongly support this diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blast cells"
+        },
+        {
+          "label": "B",
+          "text": "Decreased platelets alone"
+        },
+        {
+          "label": "C",
+          "text": "Increased white blood cells"
+        },
+        {
+          "label": "D",
+          "text": "Large red blood cells with a purplish cast"
+        },
+        {
+          "label": "E",
+          "text": "Red blood cells with pointed contours"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Schistocytes, fragmented red cells with sharp angular contours, are the hallmark smear finding of the microangiopathy in DIC.",
+        "whyCorrect": "Schistocytes are red cell fragments produced when red cells are sliced by sharp fibrin strands as they squeeze through microvascular clots. They are smaller than normal red cells and angular rather than round, lacking central pallor, and are never seen in normal blood, so their presence points to a microangiopathic process such as DIC.",
+        "whyWrongByChoice": {
+          "A": "Blast cells suggest leukemia or a myeloproliferative disorder, not DIC itself.",
+          "B": "Although platelets are decreased in DIC, thrombocytopenia has many more common causes and is nonspecific without schistocytes.",
+          "C": "An elevated white blood cell count reflects infection and is not itself indicative of DIC.",
+          "D": "Large red cells with a purplish cast are reticulocytes, seen in small numbers normally and increased in hemolysis generally, not specific for DIC."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "DIC",
+        "peripheral smear",
+        "schistocytes"
+      ],
+      "topicId": "disseminated-intravascular-coagulation",
+      "topicName": "Disseminated Intravascular Coagulation",
+      "tier": "core"
+    },
+    {
+      "id": "bl21-004",
+      "stem": "In a patient with disseminated intravascular coagulation, how do fibrin degradation products directly contribute to the abnormal bleeding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They create new endothelial injury, exposing subendothelial collagen"
+        },
+        {
+          "label": "B",
+          "text": "They inhibit new clot formation"
+        },
+        {
+          "label": "C",
+          "text": "They inhibit protein C formation"
+        },
+        {
+          "label": "D",
+          "text": "They initiate widespread microvascular thrombosis"
+        },
+        {
+          "label": "E",
+          "text": "They stimulate platelet aggregation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Fibrin degradation products are not inert; they actively inhibit new clot formation and worsen bleeding.",
+        "whyCorrect": "As the body lyses the widespread clots of DIC, fibrin is broken down into fibrin degradation products. These fragments actively prevent the formation of new blood clots, aggravating the bleeding that is already occurring from consumption of platelets and coagulation factors.",
+        "whyWrongByChoice": {
+          "A": "Creating new endothelial injury would promote clotting, not the anticoagulant, bleeding-promoting effect of FDPs.",
+          "C": "FDPs do not act by inhibiting protein C; they directly interfere with clot formation.",
+          "D": "Initiating widespread thrombosis would increase clotting, the opposite of how FDPs aggravate bleeding.",
+          "E": "Stimulating platelet aggregation would favor clotting rather than the bleeding caused by FDPs."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "DIC",
+        "fibrin degradation products",
+        "pathophysiology"
+      ],
+      "topicId": "disseminated-intravascular-coagulation",
+      "topicName": "Disseminated Intravascular Coagulation",
+      "tier": "core"
+    },
+    {
+      "id": "bl21-005",
+      "stem": "A patient is admitted with sepsis and develops disseminated intravascular coagulation secondary to bacterial meningitis. Which of the following is the single most important treatment to manage the DIC?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antibiotics"
+        },
+        {
+          "label": "B",
+          "text": "Cryoprecipitate"
+        },
+        {
+          "label": "C",
+          "text": "Fresh frozen plasma"
+        },
+        {
+          "label": "D",
+          "text": "Heparin"
+        },
+        {
+          "label": "E",
+          "text": "Platelet transfusion"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Because DIC is always secondary, the first and most important step is to treat the underlying condition, here with antibiotics.",
+        "whyCorrect": "DIC is not a primary disorder; it is driven by an underlying severe illness. The first goal of management is to treat that trigger. For DIC secondary to bacterial meningitis and sepsis, antibiotics are the fundamental treatment. Blood-product transfusions are individualized and reserved for significant bleeding.",
+        "whyWrongByChoice": {
+          "B": "Cryoprecipitate is used to replace fibrinogen and factor VIII when the patient is bleeding with low fibrinogen, not as the primary therapy.",
+          "C": "Fresh frozen plasma corrects a prolonged PT and aPTT in a bleeding patient but does not address the underlying infection.",
+          "D": "Heparin is reserved for thrombosis-predominant DIC with large thrombi or tissue necrosis.",
+          "E": "Platelet transfusion is used for significant bleeding with thrombocytopenia, not to cure the underlying cause."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "DIC",
+        "treatment",
+        "sepsis"
+      ],
+      "topicId": "disseminated-intravascular-coagulation",
+      "topicName": "Disseminated Intravascular Coagulation",
+      "tier": "core"
+    },
+    {
+      "id": "bl21-006",
+      "stem": "A patient has schistocytes and thrombocytopenia on evaluation, raising concern for a thrombotic microangiopathy. Which laboratory feature best distinguishes disseminated intravascular coagulation from the other thrombotic microangiopathies?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A decreased platelet count"
+        },
+        {
+          "label": "B",
+          "text": "Elevated D-dimer level"
+        },
+        {
+          "label": "C",
+          "text": "Elevated indirect bilirubin"
+        },
+        {
+          "label": "D",
+          "text": "Presence of schistocytes on the smear"
+        },
+        {
+          "label": "E",
+          "text": "Prolonged PT and aPTT"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Prolongation of the coagulation times (PT and aPTT) sets DIC apart from other thrombotic microangiopathies.",
+        "whyCorrect": "In DIC, rampant fibrin production depletes coagulation factors, so the PT, INR, aPTT, and thrombin time are all prolonged. This distinguishes DIC from other forms of thrombotic microangiopathy, in which the coagulation times are typically normal because factors are not consumed.",
+        "whyWrongByChoice": {
+          "A": "A low platelet count is common to all thrombotic microangiopathies and is nonspecific.",
+          "B": "D-dimer is elevated whenever clots break down and is sensitive but nonspecific, so it does not separate DIC from other microangiopathies.",
+          "C": "Elevated indirect bilirubin reflects hemolysis, which occurs in any microangiopathic process, not just DIC.",
+          "D": "Schistocytes appear in any thrombotic microangiopathy, so they do not distinguish DIC."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "DIC",
+        "thrombotic microangiopathy",
+        "coagulation tests"
+      ],
+      "topicId": "disseminated-intravascular-coagulation",
+      "topicName": "Disseminated Intravascular Coagulation",
+      "tier": "core"
+    },
+    {
+      "id": "bl21-007",
+      "stem": "A patient with gram-negative sepsis develops disseminated intravascular coagulation. Which of the following best describes the mechanism that inappropriately activates the coagulation cascade in this setting?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A congenital deficiency of protein C removes an anticoagulant brake"
+        },
+        {
+          "label": "B",
+          "text": "A deficiency of ADAMTS13 allows large von Willebrand multimers to accumulate"
+        },
+        {
+          "label": "C",
+          "text": "Autoantibodies inhibit factor VIII activity"
+        },
+        {
+          "label": "D",
+          "text": "Circulating antibodies destroy platelets in the spleen"
+        },
+        {
+          "label": "E",
+          "text": "Vessel wall injury releases tumor necrosis factor"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Endothelial injury releases TNF, which drives endothelial cells to release tissue factor and activate the extrinsic pathway.",
+        "whyCorrect": "In DIC, vessel wall injury releases tumor necrosis factor, which causes endothelial cells to release tissue factor. Tissue factor is the stimulus that activates the extrinsic coagulation pathway, and the cascade becomes supercharged, generating excessive fibrin in vessels throughout the body.",
+        "whyWrongByChoice": {
+          "A": "Congenital protein C deficiency is an inherited thrombophilia, not the acquired tissue-factor-driven activation seen in DIC.",
+          "B": "ADAMTS13 deficiency with large von Willebrand multimers is the mechanism of TTP.",
+          "C": "Autoantibodies against factor VIII describe acquired hemophilia, not DIC.",
+          "D": "Splenic antibody-mediated platelet destruction describes immune thrombocytopenia, not the tissue-factor mechanism of DIC."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "DIC",
+        "pathophysiology",
+        "tissue factor"
+      ],
+      "topicId": "disseminated-intravascular-coagulation",
+      "topicName": "Disseminated Intravascular Coagulation",
+      "tier": "core"
+    },
+    {
+      "id": "bl21-008",
+      "stem": "A patient with disseminated intravascular coagulation is found to be anemic, and the smear shows numerous fragmented red cells. Which of the following best explains the origin of these red cell fragments?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antibody-mediated destruction of red cells by the spleen"
+        },
+        {
+          "label": "B",
+          "text": "Impaired erythropoietin production reducing red cell survival"
+        },
+        {
+          "label": "C",
+          "text": "Osmotic swelling and rupture of red cells in hypotonic plasma"
+        },
+        {
+          "label": "D",
+          "text": "Oxidative denaturation of hemoglobin forming Heinz bodies"
+        },
+        {
+          "label": "E",
+          "text": "Red cells being sliced by fibrin strands"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Microangiopathic hemolytic anemia in DIC results from red cells being sheared by intravascular fibrin strands.",
+        "whyCorrect": "Red cells are pliable but cannot easily flex around the sharp fibrin strands of forming microvascular clots. Some are destroyed completely, and others are sliced into fragments that reseal as schistocytes. This mechanical shearing produces microangiopathic hemolytic anemia (MAHA).",
+        "whyWrongByChoice": {
+          "A": "Antibody-mediated splenic destruction describes autoimmune hemolytic anemia, which produces spherocytes, not shear fragments.",
+          "B": "Reduced erythropoietin lowers production but does not fragment circulating red cells.",
+          "C": "Osmotic rupture in hypotonic plasma is not the mechanism; hemolysis in DIC is mechanical.",
+          "D": "Heinz bodies from oxidative injury are characteristic of G6PD deficiency, not microangiopathy."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "DIC",
+        "MAHA",
+        "schistocytes"
+      ],
+      "topicId": "disseminated-intravascular-coagulation",
+      "topicName": "Disseminated Intravascular Coagulation",
+      "tier": "core"
+    },
+    {
+      "id": "bl21-009",
+      "stem": "A patient with disseminated intravascular coagulation is actively bleeding, and laboratory studies show a markedly low fibrinogen level. Which of the following blood-derived products is most appropriate to replace the fibrinogen?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cryoprecipitate"
+        },
+        {
+          "label": "B",
+          "text": "Heparin infusion"
+        },
+        {
+          "label": "C",
+          "text": "Intravenous immunoglobulin"
+        },
+        {
+          "label": "D",
+          "text": "Packed red blood cells"
+        },
+        {
+          "label": "E",
+          "text": "Platelet concentrate"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Cryoprecipitate replaces fibrinogen (and factor VIII) in a bleeding DIC patient with a low fibrinogen level.",
+        "whyCorrect": "When bleeding in DIC is being corrected with transfusions, cryoprecipitate is given specifically to replace fibrinogen and factor VIII. It is the product of choice for correcting the hypofibrinogenemia caused by consumption of fibrinogen during widespread clotting.",
+        "whyWrongByChoice": {
+          "B": "Heparin is an anticoagulant used for thrombosis-predominant DIC and would worsen bleeding, not replace fibrinogen.",
+          "C": "Intravenous immunoglobulin has no role in replacing clotting factors in DIC.",
+          "D": "Packed red blood cells restore oxygen-carrying capacity in anemia but do not replace fibrinogen.",
+          "E": "Platelet concentrate replaces consumed platelets, not fibrinogen."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "DIC",
+        "treatment",
+        "cryoprecipitate"
+      ],
+      "topicId": "disseminated-intravascular-coagulation",
+      "topicName": "Disseminated Intravascular Coagulation",
+      "tier": "core"
+    },
+    {
+      "id": "bl21-010",
+      "stem": "A patient with disseminated intravascular coagulation develops progressive ischemia and early gangrene of several fingers and toes from large occlusive thrombi. Bleeding is minimal. Which of the following is the most appropriate treatment for this thrombosis-predominant presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cryoprecipitate"
+        },
+        {
+          "label": "B",
+          "text": "Fresh frozen plasma"
+        },
+        {
+          "label": "C",
+          "text": "Heparin"
+        },
+        {
+          "label": "D",
+          "text": "Packed red blood cells"
+        },
+        {
+          "label": "E",
+          "text": "Platelet transfusion"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "When thrombosis predominates with large thrombi or tissue necrosis, anticoagulation with heparin is used.",
+        "whyCorrect": "If thrombosis is the predominant feature of DIC, treatment must weigh the risk of bleeding against the risk of further clot formation. For large thrombi or tissue necrosis, such as digital gangrene, anticoagulation with heparin is used to limit ongoing clotting.",
+        "whyWrongByChoice": {
+          "A": "Cryoprecipitate replaces fibrinogen for bleeding, not thrombosis.",
+          "B": "Fresh frozen plasma replaces coagulation factors for bleeding and would not address the thrombotic complication.",
+          "D": "Packed red blood cells treat anemia and have no effect on the occlusive thrombi.",
+          "E": "Platelet transfusion is for bleeding with thrombocytopenia and could add fuel to thrombosis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "DIC",
+        "treatment",
+        "heparin"
+      ],
+      "topicId": "disseminated-intravascular-coagulation",
+      "topicName": "Disseminated Intravascular Coagulation",
+      "tier": "core"
+    },
+    {
+      "id": "bl21-011",
+      "stem": "A 61-year-old man with newly diagnosed pancreatic adenocarcinoma is found to have laboratory evidence of disseminated intravascular coagulation. Which of the following best describes how this malignancy triggers DIC?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It causes an inherited deficiency of antithrombin"
+        },
+        {
+          "label": "B",
+          "text": "It directly damages the vascular endothelium with bacterial toxins"
+        },
+        {
+          "label": "C",
+          "text": "It inflames blood vessel walls as a vasculitis"
+        },
+        {
+          "label": "D",
+          "text": "It produces autoantibodies against platelets"
+        },
+        {
+          "label": "E",
+          "text": "It releases procoagulant substances into the circulation"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Mucinous adenocarcinomas trigger DIC as 'dumpers' by releasing procoagulant substances into the blood.",
+        "whyCorrect": "The causes of DIC can be divided into dumpers (things that dump procoagulants into the blood) and rippers (things that damage the endothelium). Adenocarcinomas, especially very mucinous ones like pancreatic adenocarcinoma, are classic dumpers that release procoagulant material into the circulation and set off the coagulation cascade.",
+        "whyWrongByChoice": {
+          "A": "Inherited antithrombin deficiency is a congenital thrombophilia, not how adenocarcinoma triggers DIC.",
+          "B": "Toxin-mediated endothelial damage describes a ripper such as gram-negative sepsis, not a mucinous tumor.",
+          "C": "Vasculitis (e.g., in systemic lupus erythematosus) is a ripper that damages endothelium, not the procoagulant-dumping mechanism of adenocarcinoma.",
+          "D": "Antiplatelet autoantibodies describe immune thrombocytopenia, not the mechanism of malignancy-associated DIC."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "DIC",
+        "etiology",
+        "malignancy"
+      ],
+      "topicId": "disseminated-intravascular-coagulation",
+      "topicName": "Disseminated Intravascular Coagulation",
+      "tier": "core"
+    },
+    {
+      "id": "bl21-012",
+      "stem": "A patient with disseminated intravascular coagulation and a very low platelet count is examined. Which of the following is the most common skin manifestation of DIC?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Erythema nodosum"
+        },
+        {
+          "label": "B",
+          "text": "Malar rash"
+        },
+        {
+          "label": "C",
+          "text": "Palpable purpura from immune-complex vasculitis"
+        },
+        {
+          "label": "D",
+          "text": "Petechiae"
+        },
+        {
+          "label": "E",
+          "text": "Urticaria"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Petechiae are the most common skin manifestation of DIC, reflecting microvascular hemorrhage from thrombocytopenia.",
+        "whyCorrect": "The skin in DIC commonly shows petechiae, the pinpoint microvascular hemorrhages typical of any patient with a low platelet count. Because DIC consumes platelets, petechiae are the most common cutaneous finding, and patients may also bleed from intravenous and other line sites.",
+        "whyWrongByChoice": {
+          "A": "Erythema nodosum is a panniculitis associated with infections and sarcoidosis, unrelated to DIC.",
+          "B": "A malar rash is a feature of systemic lupus erythematosus, not a manifestation of DIC.",
+          "C": "Palpable purpura from immune-complex deposition characterizes a primary small-vessel vasculitis, not the platelet-poor microhemorrhages of DIC.",
+          "E": "Urticaria is an allergic or histamine-mediated reaction, not a consequence of consumptive thrombocytopenia."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "DIC",
+        "clinical presentation",
+        "petechiae"
+      ],
+      "topicId": "disseminated-intravascular-coagulation",
+      "topicName": "Disseminated Intravascular Coagulation",
+      "tier": "core"
+    },
+    {
+      "id": "bl22-001",
+      "stem": "A 25-year-old woman is diagnosed with antiphospholipid antibody syndrome after presenting with a deep vein thrombosis and two prior miscarriages. She has no personal or family history of a hereditary clotting disorder. Which of the following underlying conditions is she most likely to also have?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Heterozygous factor V Leiden"
+        },
+        {
+          "label": "B",
+          "text": "Hemophilia A carrier state"
+        },
+        {
+          "label": "C",
+          "text": "Smoldering multiple myeloma"
+        },
+        {
+          "label": "D",
+          "text": "Inherited protein C deficiency"
+        },
+        {
+          "label": "E",
+          "text": "Systemic lupus erythematosus"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Systemic lupus erythematosus is the systemic disease most commonly associated with antiphospholipid antibody syndrome.",
+        "whyCorrect": "APS is associated with other autoimmune diseases, most commonly systemic lupus erythematosus, which is present about 50% of the time. Roughly 20% to 40% of patients with SLE demonstrate antiphospholipid antibodies, and this is the most common cause of secondary APS.",
+        "whyWrongByChoice": {
+          "A": "Factor V Leiden is a hereditary thrombotic disorder, not an autoimmune disease linked to APS.",
+          "B": "Hemophilia A is an inherited bleeding disorder, the opposite of the prothrombotic state seen in APS.",
+          "C": "Multiple myeloma is a neoplastic proliferation of plasma cells producing monoclonal antibodies and is not associated with APS.",
+          "D": "Protein C deficiency is another inherited thrombophilia, unrelated to the autoimmune basis of APS."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "APS",
+        "SLE",
+        "associations"
+      ],
+      "topicId": "antiphospholipid-antibody-syndrome",
+      "topicName": "Antiphospholipid Antibody Syndrome",
+      "tier": "core"
+    },
+    {
+      "id": "bl22-002",
+      "stem": "A 31-year-old woman with a history of deep vein thrombosis and two spontaneous miscarriages, who is otherwise healthy, presents to the clinic for evaluation. Which of the following laboratory findings would be most consistent with a diagnosis of antiphospholipid antibody syndrome?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Elevated activated partial thromboplastin time"
+        },
+        {
+          "label": "B",
+          "text": "Markedly elevated international normalized ratio"
+        },
+        {
+          "label": "C",
+          "text": "Leukocytosis with neutrophil predominance"
+        },
+        {
+          "label": "D",
+          "text": "Normal activated partial thromboplastin time"
+        },
+        {
+          "label": "E",
+          "text": "Thrombocytosis with a raised platelet count"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "APS characteristically produces a paradoxically prolonged aPTT despite the hypercoagulable in vivo state.",
+        "whyCorrect": "Antiphospholipid antibodies bind and inhibit the thromboplastin reagent used in coagulation studies, prolonging the aPTT in vitro even though the antibodies act as procoagulants in vivo. A prolonged aPTT is therefore a supportive laboratory finding in APS.",
+        "whyWrongByChoice": {
+          "B": "APS is not associated with an elevated INR; the characteristic in vitro abnormality is a prolonged aPTT.",
+          "C": "Leukocytosis is not a feature of APS.",
+          "D": "The aPTT is characteristically prolonged in APS, not normal.",
+          "E": "APS is associated with thrombocytopenia from platelet consumption in clots, not thrombocytosis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "APS",
+        "laboratory",
+        "aPTT"
+      ],
+      "topicId": "antiphospholipid-antibody-syndrome",
+      "topicName": "Antiphospholipid Antibody Syndrome",
+      "tier": "core"
+    },
+    {
+      "id": "bl22-003",
+      "stem": "A 28-year-old woman with antiphospholipid antibody syndrome is examined in the clinic. Which of the following skin findings is most likely to be present?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Epistaxis"
+        },
+        {
+          "label": "B",
+          "text": "Gum bleeding"
+        },
+        {
+          "label": "C",
+          "text": "Livedo reticularis"
+        },
+        {
+          "label": "D",
+          "text": "Palmar erythema"
+        },
+        {
+          "label": "E",
+          "text": "Spider angiomas"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Livedo reticularis, a mottled net-like skin discoloration, is the characteristic cutaneous finding in APS.",
+        "whyCorrect": "Livedo reticularis is a clinical finding of APS caused by obstruction of superficial capillaries by small blood clots. It reflects the prothrombotic nature of the disease at the level of the skin microvasculature.",
+        "whyWrongByChoice": {
+          "A": "Epistaxis is associated with bleeding disorders such as clotting factor deficiencies, not the prothrombotic state of APS.",
+          "B": "Gum bleeding likewise reflects a bleeding tendency rather than the thrombosis seen in APS.",
+          "D": "Palmar erythema is associated with liver disease, not APS.",
+          "E": "Spider angiomas are also associated with liver disease rather than APS."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "APS",
+        "skin",
+        "livedo reticularis"
+      ],
+      "topicId": "antiphospholipid-antibody-syndrome",
+      "topicName": "Antiphospholipid Antibody Syndrome",
+      "tier": "core"
+    },
+    {
+      "id": "bl22-004",
+      "stem": "A medical student is reviewing the pathophysiology of antiphospholipid antibody syndrome. Which of the following statements is most accurate about the \"two-hit\" theory of APS?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antiphospholipid antibodies are the only component of APS pathophysiology."
+        },
+        {
+          "label": "B",
+          "text": "Risk factors such as smoking and surgery prevent the full manifestation of APS."
+        },
+        {
+          "label": "C",
+          "text": "The presence of antiphospholipid antibodies alone does not lead to APS."
+        },
+        {
+          "label": "D",
+          "text": "Two incidents of blunt-force trauma can lead to the development of APS."
+        },
+        {
+          "label": "E",
+          "text": "Two or more thrombosis risk factors are required to diagnose APS."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The two-hit theory holds that antiphospholipid antibodies plus an additional hypercoagulable insult are needed for clinical APS.",
+        "whyCorrect": "Because antiphospholipid antibodies alone do not lead to APS, researchers proposed a two-hit theory: the first hit is the presence of the antibodies, and the second hit is an additional risk factor for hypercoagulability. The antibodies alone do not produce the full manifestation of disease.",
+        "whyWrongByChoice": {
+          "A": "The theory specifically states the antibodies are not the only component; a second hit is required.",
+          "B": "Factors such as smoking and surgery deliver the second hit that unmasks APS; they do not prevent it.",
+          "D": "The two hits refer to antibodies plus a hypercoagulable risk factor, not blunt-force trauma.",
+          "E": "The theory does not specify a required number of additional conventional risk factors for the full development of APS."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "APS",
+        "two-hit theory",
+        "pathophysiology"
+      ],
+      "topicId": "antiphospholipid-antibody-syndrome",
+      "topicName": "Antiphospholipid Antibody Syndrome",
+      "tier": "core"
+    },
+    {
+      "id": "bl22-005",
+      "stem": "A 29-year-old man with a recent diagnosis of antiphospholipid antibody syndrome presents to the hospital with a deep venous thrombosis. Which of the following is the most appropriate treatment for his condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anticoagulation"
+        },
+        {
+          "label": "B",
+          "text": "Desmopressin (DDAVP)"
+        },
+        {
+          "label": "C",
+          "text": "Factor replacement"
+        },
+        {
+          "label": "D",
+          "text": "Fresh frozen plasma"
+        },
+        {
+          "label": "E",
+          "text": "Platelet transfusion"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "APS-associated thrombosis is treated with anticoagulation, then long-term warfarin therapy.",
+        "whyCorrect": "Patients with APS and thrombi are treated with anticoagulants, just like any patient with a thrombus, and are kept on long-term anticoagulation because of the risk of re-thrombosis. Most physicians use warfarin for ongoing prophylaxis.",
+        "whyWrongByChoice": {
+          "B": "Desmopressin is used for bleeding disorders such as von Willebrand disease and hemophilia, not for thrombosis.",
+          "C": "Factor replacement is used for bleeding disorders from factor deficiency, the opposite of the APS prothrombotic state.",
+          "D": "Fresh frozen plasma replaces clotting factors for bleeding and would not treat an APS thrombosis.",
+          "E": "Platelet transfusion treats disorders of platelet number or function causing bleeding, not APS thrombosis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "APS",
+        "treatment",
+        "anticoagulation"
+      ],
+      "topicId": "antiphospholipid-antibody-syndrome",
+      "topicName": "Antiphospholipid Antibody Syndrome",
+      "tier": "core"
+    },
+    {
+      "id": "bl22-006",
+      "stem": "A 34-year-old woman with an unexplained deep vein thrombosis has a positive lupus anticoagulant on initial testing. Her physician wants to confirm a diagnosis of antiphospholipid antibody syndrome. Which of the following is the most appropriate next step regarding laboratory confirmation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diagnose APS immediately based on the single positive result"
+        },
+        {
+          "label": "B",
+          "text": "Obtain a bone marrow biopsy"
+        },
+        {
+          "label": "C",
+          "text": "Order genetic testing for Factor V Leiden"
+        },
+        {
+          "label": "D",
+          "text": "Repeat the antibody testing after 48 hours"
+        },
+        {
+          "label": "E",
+          "text": "Repeat the antibody testing at least 12 weeks later"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "APS lab abnormalities must be confirmed on two occasions at least 12 weeks apart.",
+        "whyCorrect": "A positive antiphospholipid antibody must be confirmed on 2 occasions at least 12 weeks apart. This interval excludes transient, insignificant antibodies, such as those following a viral infection, which represent the majority of positive results and would not indicate true APS.",
+        "whyWrongByChoice": {
+          "A": "A single positive test may reflect a transient antibody; diagnosis requires confirmation on two occasions.",
+          "B": "A bone marrow biopsy is not part of the diagnostic workup for APS.",
+          "C": "Factor V Leiden is a separate hereditary thrombophilia and does not confirm APS.",
+          "D": "Retesting after 48 hours is far too soon; the confirmatory interval is at least 12 weeks."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "APS",
+        "diagnosis",
+        "criteria"
+      ],
+      "topicId": "antiphospholipid-antibody-syndrome",
+      "topicName": "Antiphospholipid Antibody Syndrome",
+      "tier": "core"
+    },
+    {
+      "id": "bl22-007",
+      "stem": "A patient with antiphospholipid antibody syndrome is noted to have a prolonged activated partial thromboplastin time, even though the patient is clinically in a hypercoagulable state with recurrent thrombosis. Which of the following best explains this paradoxical laboratory result?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The antibodies activate the fibrinolytic system in vivo"
+        },
+        {
+          "label": "B",
+          "text": "The antibodies bind and inhibit the phospholipid in the assay reagent"
+        },
+        {
+          "label": "C",
+          "text": "The antibodies cause a true deficiency of factor VIII"
+        },
+        {
+          "label": "D",
+          "text": "The antibodies deplete circulating fibrinogen in the patient"
+        },
+        {
+          "label": "E",
+          "text": "The antibodies destroy platelets, prolonging the clotting time"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Antiphospholipid antibodies inhibit the thromboplastin reagent in vitro, prolonging the aPTT even though they are procoagulant in vivo.",
+        "whyCorrect": "The prolonged aPTT occurs because antiphospholipid antibodies bind to and inhibit the reagent (thromboplastin) used in the coagulation studies. This means the antibodies inhibit coagulation in vitro, whereas they act as procoagulants in vivo, producing the apparent paradox.",
+        "whyWrongByChoice": {
+          "A": "The abnormality is an in vitro artifact of reagent inhibition, not fibrinolytic activation in vivo.",
+          "C": "There is no true factor VIII deficiency; the antibodies interfere with the test, not with factor synthesis.",
+          "D": "The prolonged aPTT reflects interference with the assay reagent, not fibrinogen depletion.",
+          "E": "Although thrombocytopenia can occur in APS, platelet destruction does not explain the prolonged aPTT."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "APS",
+        "aPTT",
+        "mechanism"
+      ],
+      "topicId": "antiphospholipid-antibody-syndrome",
+      "topicName": "Antiphospholipid Antibody Syndrome",
+      "tier": "core"
+    },
+    {
+      "id": "bl22-008",
+      "stem": "A 30-year-old woman with antiphospholipid antibody syndrome and prior pregnancy loss becomes pregnant again and is referred to a high-risk pregnancy specialist. Which of the following regimens is most appropriate to reduce her risk of recurrent pregnancy loss?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "High-dose corticosteroids alone throughout pregnancy"
+        },
+        {
+          "label": "B",
+          "text": "Desmopressin (DDAVP) at the onset of labor"
+        },
+        {
+          "label": "C",
+          "text": "Long-term warfarin therapy throughout the pregnancy"
+        },
+        {
+          "label": "D",
+          "text": "Low-molecular-weight heparin plus low-dose aspirin"
+        },
+        {
+          "label": "E",
+          "text": "No pharmacologic therapy is indicated during pregnancy"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Pregnant APS patients are managed with low-molecular-weight heparin and low-dose aspirin.",
+        "whyCorrect": "For women with APS who become pregnant, anticoagulation with low-molecular-weight heparin and low-dose aspirin is often recommended to try to avoid recurrent loss of the pregnancy. This differs from the long-term warfarin used outside of pregnancy.",
+        "whyWrongByChoice": {
+          "A": "Corticosteroids alone are not the recommended regimen for preventing recurrent APS-related pregnancy loss.",
+          "B": "Desmopressin is used for bleeding disorders and has no role in preventing APS pregnancy loss.",
+          "C": "Pregnant APS patients are not usually treated with long-term warfarin; warfarin is used for non-pregnant thrombosis prophylaxis and is generally avoided in pregnancy.",
+          "E": "Treatment is recommended; low-molecular-weight heparin and low-dose aspirin reduce the risk of recurrent loss."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "APS",
+        "pregnancy",
+        "treatment"
+      ],
+      "topicId": "antiphospholipid-antibody-syndrome",
+      "topicName": "Antiphospholipid Antibody Syndrome",
+      "tier": "core"
+    },
+    {
+      "id": "bl22-009",
+      "stem": "A physician is deciding which laboratory studies to order to confirm antiphospholipid antibody syndrome. Which of the following antibodies is one of the accepted criteria for the diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anti-beta-2-glycoprotein-I antibody"
+        },
+        {
+          "label": "B",
+          "text": "Anti-cyclic citrullinated peptide antibody"
+        },
+        {
+          "label": "C",
+          "text": "Anti-double-stranded DNA antibody"
+        },
+        {
+          "label": "D",
+          "text": "Anti-mitochondrial antibody"
+        },
+        {
+          "label": "E",
+          "text": "Anti-smooth muscle antibody"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Anti-beta-2-glycoprotein-I is one of the three antibodies whose presence supports a diagnosis of APS.",
+        "whyCorrect": "Labs indicating APS include the presence in serum of lupus anticoagulant, anticardiolipin antibodies, or anti-beta-2-glycoprotein-I antibodies. Anti-beta-2-glycoprotein-I is one of these three confirmatory criterion antibodies.",
+        "whyWrongByChoice": {
+          "B": "Anti-cyclic citrullinated peptide antibody is associated with rheumatoid arthritis.",
+          "C": "Anti-double-stranded DNA is specific for SLE, not a diagnostic criterion for APS itself.",
+          "D": "Anti-mitochondrial antibody is associated with primary biliary cholangitis.",
+          "E": "Anti-smooth muscle antibody is associated with autoimmune hepatitis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "APS",
+        "antibodies",
+        "diagnosis"
+      ],
+      "topicId": "antiphospholipid-antibody-syndrome",
+      "topicName": "Antiphospholipid Antibody Syndrome",
+      "tier": "core"
+    },
+    {
+      "id": "bl22-010",
+      "stem": "A 24-year-old woman is found to have circulating antiphospholipid antibodies but has never had a thrombosis or pregnancy loss. According to the two-hit theory, which of the following additional factors would most likely serve as a second hit that could precipitate the full manifestation of antiphospholipid antibody syndrome?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Beginning a low-sodium diet"
+        },
+        {
+          "label": "B",
+          "text": "Increasing aerobic exercise"
+        },
+        {
+          "label": "C",
+          "text": "Reducing caffeine intake"
+        },
+        {
+          "label": "D",
+          "text": "Starting an oral contraceptive"
+        },
+        {
+          "label": "E",
+          "text": "Taking a daily multivitamin"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A second hit is an additional hypercoagulable risk factor such as oral contraceptive use.",
+        "whyCorrect": "In the two-hit theory, the first hit is the presence of antiphospholipid antibodies and the second hit is any additional risk factor for hypercoagulability, such as smoking, surgery, diabetes, pregnancy, oral contraceptive intake, or malignancy. Starting an oral contraceptive is an example of such a second hit.",
+        "whyWrongByChoice": {
+          "A": "A low-sodium diet is not a recognized hypercoagulable risk factor for the APS second hit.",
+          "B": "Aerobic exercise is not among the listed prothrombotic second-hit risk factors.",
+          "C": "Reducing caffeine intake does not increase clotting risk and is not a second hit.",
+          "E": "A daily multivitamin does not promote hypercoagulability and is not a second hit."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "APS",
+        "two-hit theory",
+        "risk factors"
+      ],
+      "topicId": "antiphospholipid-antibody-syndrome",
+      "topicName": "Antiphospholipid Antibody Syndrome",
+      "tier": "core"
+    },
+    {
+      "id": "bl22-011",
+      "stem": "A 27-year-old man presents with a myocardial infarction and has no family history of heart disease and no traditional cardiac risk factors. Workup reveals antiphospholipid antibody syndrome. Which of the following best describes the epidemiologic significance of this disorder?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is a benign condition that never causes organ damage"
+        },
+        {
+          "label": "B",
+          "text": "It is most common in men over the age of 60"
+        },
+        {
+          "label": "C",
+          "text": "It is primarily a disorder of impaired platelet production"
+        },
+        {
+          "label": "D",
+          "text": "It is the most common acquired disorder of thrombosis"
+        },
+        {
+          "label": "E",
+          "text": "It is the most common inherited disorder of thrombosis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "APS is the most common acquired disorder of thrombosis and can strike young patients without other risk factors.",
+        "whyCorrect": "APS is an autoimmune disorder characterized by prothrombotic circulating autoantibodies and is the most common acquired disorder of thrombosis. Some patients present in their 20s with myocardial infarction or stroke in the absence of any family history of heart disease.",
+        "whyWrongByChoice": {
+          "A": "APS can cause serious thrombotic complications including DVT, PE, stroke, myocardial infarction, and fetal loss.",
+          "B": "APS often affects young adults, including women of reproductive age, rather than being a disorder of older men.",
+          "C": "APS is a prothrombotic disorder; any thrombocytopenia results from platelet consumption, not impaired production.",
+          "E": "APS is acquired and autoimmune, not an inherited thrombophilia like Factor V Leiden."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "APS",
+        "epidemiology",
+        "thrombosis"
+      ],
+      "topicId": "antiphospholipid-antibody-syndrome",
+      "topicName": "Antiphospholipid Antibody Syndrome",
+      "tier": "core"
+    },
+    {
+      "id": "bl22-012",
+      "stem": "A 33-year-old woman has had three spontaneous abortions before 10 weeks of gestation with no identifiable cause. Which of the following is the most appropriate next step in her evaluation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Begin empiric warfarin therapy"
+        },
+        {
+          "label": "B",
+          "text": "Order a peripheral blood smear only"
+        },
+        {
+          "label": "C",
+          "text": "Perform a splenectomy"
+        },
+        {
+          "label": "D",
+          "text": "Reassure her that testing is not warranted"
+        },
+        {
+          "label": "E",
+          "text": "Test for antiphospholipid antibodies"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Recurrent unexplained pregnancy loss is an indication to test for antiphospholipid antibody syndrome.",
+        "whyCorrect": "Testing for APS is indicated in patients with one or more unexplained episodes of pregnancy loss beyond 10 weeks, or three or more spontaneous abortions before 10 weeks. This patient's history of three early losses meets that threshold and warrants antiphospholipid antibody testing.",
+        "whyWrongByChoice": {
+          "A": "Empiric warfarin before establishing a diagnosis is inappropriate and is not the management of APS in pregnancy.",
+          "B": "A peripheral smear alone would not detect antiphospholipid antibodies or establish the diagnosis.",
+          "C": "Splenectomy has no role in the evaluation of recurrent pregnancy loss due to suspected APS.",
+          "D": "Her history of three unexplained early losses is exactly the scenario in which APS testing is recommended."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "APS",
+        "pregnancy loss",
+        "diagnosis"
+      ],
+      "topicId": "antiphospholipid-antibody-syndrome",
+      "topicName": "Antiphospholipid Antibody Syndrome",
+      "tier": "core"
+    },
+    {
+      "id": "bl23-001",
+      "stem": "A 28-year-old woman is evaluated for a second unprovoked deep vein thrombosis. Genetic testing reveals a factor V Leiden mutation. Which of the following best explains why this mutation predisposes her to thrombosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The mutant factor V cannot interact with factor X"
+        },
+        {
+          "label": "B",
+          "text": "The mutant factor V is immediately cleaved to its inactive form"
+        },
+        {
+          "label": "C",
+          "text": "The mutant factor V is present at markedly reduced levels"
+        },
+        {
+          "label": "D",
+          "text": "The mutant factor V is resistant to inactivation by activated protein C"
+        },
+        {
+          "label": "E",
+          "text": "The mutant factor V shows increased reactivity to prothrombin"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Factor V Leiden is an abnormal factor V that cannot be cleaved and inactivated by protein C, so clotting is not turned off normally.",
+        "whyCorrect": "The factor V Leiden gene carries a single-point mutation causing an arginine-to-glutamine substitution at the exact site where protein C normally cleaves and inactivates factor V. The abnormal factor V participates in coagulation like normal factor V, but when it is time to stop making fibrin, protein C cannot inactivate it, so thrombosis increases abnormally.",
+        "whyWrongByChoice": {
+          "A": "Factor V Leiden interacts with the cascade just like normal factor V; its interaction with other factors is preserved.",
+          "B": "The opposite is true: the whole problem is that factor V Leiden cannot be cleaved to its inactive form.",
+          "C": "Factor V Leiden is present at normal levels; the defect is functional resistance to protein C, not deficiency.",
+          "E": "Factor V Leiden shows no change in reactivity to prothrombin."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "factor V Leiden",
+        "protein C",
+        "thrombophilia"
+      ],
+      "topicId": "genetic-thrombotic-disorders",
+      "topicName": "Genetic Thrombotic Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bl23-002",
+      "stem": "A 23-year-old man presents to the emergency department with his third episode of unilateral lower-extremity swelling and pain. He is diagnosed with a deep vein thrombosis, and thrombophilia workup is positive for a mutation in the gene encoding factor II. Which of the following best explains how this mutation leads to hypercoagulability?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased amount of antithrombin"
+        },
+        {
+          "label": "B",
+          "text": "Increased activation of existing prothrombin"
+        },
+        {
+          "label": "C",
+          "text": "Increased intrinsic activity of thrombin"
+        },
+        {
+          "label": "D",
+          "text": "Increased production of prothrombin"
+        },
+        {
+          "label": "E",
+          "text": "Resistance of thrombin to antithrombin"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The prothrombin G20210A mutation causes overproduction of factor II, providing more substrate for thrombin generation.",
+        "whyCorrect": "The factor II (prothrombin G20210A) mutation is a point mutation substituting guanine for adenine at position 20210 of the prothrombin gene, leading to overproduction of factor II. More prothrombin means more thrombin, which converts more fibrinogen to fibrin and increases the tendency to clot.",
+        "whyWrongByChoice": {
+          "A": "Decreased antithrombin describes antithrombin deficiency, a separate disorder, not the factor II mutation.",
+          "B": "The mutation raises the quantity of prothrombin produced, not the efficiency of activating existing prothrombin.",
+          "C": "Thrombin activity itself is not intrinsically altered; there is simply more of it because there is more prothrombin.",
+          "E": "Resistance of clotting factors to antithrombin is not the mechanism of the factor II mutation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "prothrombin G20210A",
+        "factor II",
+        "thrombophilia"
+      ],
+      "topicId": "genetic-thrombotic-disorders",
+      "topicName": "Genetic Thrombotic Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bl23-003",
+      "stem": "A 44-year-old woman with several prior episodes of deep vein thrombosis is found to have a deficiency in protein C. Which of the following mechanisms most directly accounts for her recurrent thrombosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Factor Va resistance to deactivation"
+        },
+        {
+          "label": "B",
+          "text": "Increased activity of factors Va and VIIIa"
+        },
+        {
+          "label": "C",
+          "text": "Increased production of prothrombin"
+        },
+        {
+          "label": "D",
+          "text": "Increased venous blood stasis"
+        },
+        {
+          "label": "E",
+          "text": "Loss of antithrombin cofactor activity"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Protein C normally inactivates factors Va and VIIIa; with deficiency, these factors remain active and clotting continues unchecked.",
+        "whyCorrect": "Activated protein C terminates coagulation by directly inactivating factors Va and VIIIa. When protein C is deficient, factors Va and VIIIa retain increased activity, so the coagulation cascade is not turned off and thrombosis increases.",
+        "whyWrongByChoice": {
+          "A": "A factor Va that is resistant to deactivation describes factor V Leiden; protein C deficiency instead leaves normal Va and VIIIa unopposed.",
+          "C": "Increased prothrombin production is the mechanism of the factor II gene mutation.",
+          "D": "Increased blood stasis is an acquired, provoked cause of DVT (e.g., prolonged immobility), not the mechanism of protein C deficiency.",
+          "E": "Loss of cofactor activity describes protein S deficiency (protein S is the cofactor for protein C)."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "protein C deficiency",
+        "factor Va",
+        "factor VIIIa"
+      ],
+      "topicId": "genetic-thrombotic-disorders",
+      "topicName": "Genetic Thrombotic Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bl23-004",
+      "stem": "A 22-year-old man presents to the emergency department with left lower-leg swelling and pain and reports multiple prior similar episodes. He has no established risk factors for thrombosis. Which of the following underlying disorders is most likely responsible for his recurrent symptoms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antiphospholipid syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Factor V Leiden"
+        },
+        {
+          "label": "C",
+          "text": "Malignancy"
+        },
+        {
+          "label": "D",
+          "text": "Protein C deficiency"
+        },
+        {
+          "label": "E",
+          "text": "Prothrombin gene mutation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Factor V Leiden is the most common hereditary thrombotic disorder and is the most likely cause of unexplained recurrent DVT.",
+        "whyCorrect": "Recurrent unprovoked venous thrombi in a young patient without classic risk factors suggest an inherited thrombophilia. Factor V Leiden is the most common hereditary thrombotic disorder, accounting for 40-50% of unexplained thrombosis, making it the single best answer.",
+        "whyWrongByChoice": {
+          "A": "Antiphospholipid syndrome can cause DVT but is an acquired disorder classically associated with recurrent miscarriage/stillbirth and is less likely than factor V Leiden here.",
+          "C": "Malignancy causes a hypercoagulable state, but nothing suggests cancer in this young, otherwise healthy patient.",
+          "D": "Protein C deficiency causes thrombosis but is considerably less common than factor V Leiden.",
+          "E": "The prothrombin gene mutation also causes hypercoagulability but is less common than factor V Leiden."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "factor V Leiden",
+        "epidemiology",
+        "DVT"
+      ],
+      "topicId": "genetic-thrombotic-disorders",
+      "topicName": "Genetic Thrombotic Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bl23-005",
+      "stem": "A 25-year-old man presents with sudden redness and swelling of his right leg; compression Doppler ultrasound confirms a femoral vein DVT, and testing shows he is heterozygous for the factor V Leiden mutation. His family history includes a father with a pulmonary embolism and a sister with a pregnancy-associated clot. Which of the following is the most appropriate initial treatment for his DVT?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aspirin, leg elevation, and warm soaks to the calf"
+        },
+        {
+          "label": "B",
+          "text": "Immediate inferior vena cava filter placement"
+        },
+        {
+          "label": "C",
+          "text": "Low-molecular-weight heparin alone for 6 months"
+        },
+        {
+          "label": "D",
+          "text": "Low-molecular-weight heparin bridging to warfarin"
+        },
+        {
+          "label": "E",
+          "text": "Oral warfarin alone without a heparin bridge"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A femoral DVT is treated with anticoagulation; heparin bridges to warfarin, and the inherited thrombophilia does not change this initial treatment.",
+        "whyCorrect": "Standard treatment uses low-molecular-weight heparin together with warfarin, with heparin acting as a bridge until warfarin becomes therapeutic (about 2 days). The presence of an inherited thrombophilia such as factor V Leiden does not change the initial treatment of the DVT.",
+        "whyWrongByChoice": {
+          "A": "Aspirin, elevation, and warm soaks are not adequate therapy for a femoral vein DVT.",
+          "B": "An IVC filter is not first-line treatment for an uncomplicated DVT that can be anticoagulated.",
+          "C": "Heparin alone is incomplete because heparin is parenteral; since months of anticoagulation are needed, an oral agent such as warfarin is preferred for long-term therapy.",
+          "E": "Warfarin alone is inappropriate initially because it takes several days to become therapeutic and starting it without a bridge can transiently worsen thrombosis or cause skin necrosis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "treatment",
+        "heparin",
+        "warfarin",
+        "DVT"
+      ],
+      "topicId": "genetic-thrombotic-disorders",
+      "topicName": "Genetic Thrombotic Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bl23-006",
+      "stem": "A 60-year-old man with protein C deficiency is started on warfarin for a deep vein thrombosis and, days later, develops painful erythematous skin lesions that progress to necrosis. Which of the following best explains this complication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Warfarin causes immediate depletion of fibrinogen"
+        },
+        {
+          "label": "B",
+          "text": "Warfarin directly activates protein C, which destroys factors Va and VIIIa"
+        },
+        {
+          "label": "C",
+          "text": "Warfarin increases antithrombin binding to thrombin"
+        },
+        {
+          "label": "D",
+          "text": "Warfarin lowers protein C first"
+        },
+        {
+          "label": "E",
+          "text": "Warfarin triggers an immune-mediated destruction of platelets"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Warfarin-induced skin necrosis reflects an early, transient hypercoagulable state because protein C (short half-life) falls before the procoagulant factors.",
+        "whyCorrect": "Warfarin blocks vitamin K-dependent factors, which include proteins C and S as well as factors II, VII, IX, and X. Protein C and factor VII have the shortest half-lives, so protein C activity falls first; in a patient with baseline protein C deficiency this produces a transient hypercoagulable state that causes skin and subcutaneous thrombosis and necrosis.",
+        "whyWrongByChoice": {
+          "A": "Warfarin does not directly deplete fibrinogen.",
+          "B": "Warfarin does not activate protein C or any clotting factor; it blocks synthesis of the vitamin K-dependent proteins, so protein C activity falls.",
+          "C": "Increasing antithrombin binding to thrombin is the mechanism of heparin, not warfarin.",
+          "E": "Immune-mediated platelet destruction describes heparin-induced thrombocytopenia, not warfarin-induced skin necrosis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "protein C deficiency",
+        "warfarin",
+        "skin necrosis"
+      ],
+      "topicId": "genetic-thrombotic-disorders",
+      "topicName": "Genetic Thrombotic Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bl23-007",
+      "stem": "A 35-year-old woman with a known thrombophilia is admitted with a new DVT and started on standard weight-based heparin, but she fails to achieve a therapeutic level despite escalating doses. Which of the following inherited disorders best explains her heparin resistance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antithrombin deficiency"
+        },
+        {
+          "label": "B",
+          "text": "Factor V Leiden"
+        },
+        {
+          "label": "C",
+          "text": "Protein C deficiency"
+        },
+        {
+          "label": "D",
+          "text": "Protein S deficiency"
+        },
+        {
+          "label": "E",
+          "text": "Prothrombin G20210A mutation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Heparin acts through antithrombin, so antithrombin deficiency reduces heparin's effect and produces heparin resistance.",
+        "whyCorrect": "Heparin works by binding antithrombin and inducing a conformational change that increases antithrombin's affinity for thrombin and factor X, dramatically increasing its inactivating ability. In antithrombin deficiency, reduced antithrombin activity leads to a reduced effect of heparin, so patients often need higher doses, antithrombin supplementation, or an agent not dependent on antithrombin such as dabigatran.",
+        "whyWrongByChoice": {
+          "B": "Factor V Leiden causes protein C resistance, not heparin resistance.",
+          "C": "Protein C deficiency is associated with warfarin-induced skin necrosis, not heparin resistance.",
+          "D": "Protein S deficiency impairs protein C function but does not cause heparin resistance.",
+          "E": "The prothrombin mutation increases prothrombin production and does not impair heparin's action."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "antithrombin deficiency",
+        "heparin resistance",
+        "thrombophilia"
+      ],
+      "topicId": "genetic-thrombotic-disorders",
+      "topicName": "Genetic Thrombotic Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bl23-008",
+      "stem": "A researcher is describing the normal regulation of coagulation. Antithrombin limits clot formation primarily by which of the following actions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Converting fibrinogen to fibrin"
+        },
+        {
+          "label": "B",
+          "text": "Directly cleaving and inactivating factors Va and VIIIa"
+        },
+        {
+          "label": "C",
+          "text": "Inhibiting thrombin and other activated factors"
+        },
+        {
+          "label": "D",
+          "text": "Reducing hepatic synthesis of prothrombin"
+        },
+        {
+          "label": "E",
+          "text": "Serving as a cofactor that enables protein C"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Antithrombin is an enzyme inhibitor that inhibits thrombin and multiple activated coagulation factors.",
+        "whyCorrect": "Antithrombin inhibits coagulation by inhibiting thrombin (factor IIa) as well as activated factors VIIa, IXa, Xa, XIa, and XIIa. Individuals with antithrombin deficiency lose this braking action and are prone to thrombotic episodes.",
+        "whyWrongByChoice": {
+          "A": "Converting fibrinogen to fibrin is the procoagulant action of thrombin, the opposite of antithrombin's role.",
+          "B": "Directly inactivating factors Va and VIIIa is the role of activated protein C, not antithrombin.",
+          "D": "Reducing synthesis of prothrombin is not how antithrombin works; warfarin blocks synthesis of vitamin K-dependent factors.",
+          "E": "Acting as a cofactor for protein C describes protein S."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "antithrombin",
+        "coagulation cascade",
+        "recall"
+      ],
+      "topicId": "genetic-thrombotic-disorders",
+      "topicName": "Genetic Thrombotic Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bl23-009",
+      "stem": "A 30-year-old man with recurrent unprovoked venous thrombosis is undergoing a thrombophilia workup, and antithrombin deficiency is suspected. Which of the following is the most appropriate test to confirm this diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Activated protein C resistance assay"
+        },
+        {
+          "label": "B",
+          "text": "Factor II gene analysis"
+        },
+        {
+          "label": "C",
+          "text": "Genetic testing for the factor V Leiden mutation"
+        },
+        {
+          "label": "D",
+          "text": "Plasma antithrombin activity"
+        },
+        {
+          "label": "E",
+          "text": "Serum protein S level"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Antithrombin deficiency is confirmed with a functional plasma antithrombin activity (AT-heparin cofactor) assay.",
+        "whyCorrect": "Because hereditary antithrombin deficiency is not defined by a single specific mutation, a functional test is used: measuring plasma antithrombin activity with the AT-heparin cofactor assay. This detects both low levels and defective antithrombin function.",
+        "whyWrongByChoice": {
+          "A": "The activated protein C resistance assay is used to detect factor V Leiden, not antithrombin deficiency.",
+          "B": "Factor II gene analysis detects the prothrombin G20210A mutation.",
+          "C": "Factor V Leiden genetic testing evaluates factor V Leiden, not antithrombin deficiency.",
+          "E": "A serum protein S level evaluates protein S deficiency, a different disorder."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "diagnosis",
+        "antithrombin deficiency",
+        "laboratory testing"
+      ],
+      "topicId": "genetic-thrombotic-disorders",
+      "topicName": "Genetic Thrombotic Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bl23-010",
+      "stem": "A neonate with a severe inherited deficiency of protein C develops sudden-onset widespread hemorrhagic necrosis and infarction of the skin along with laboratory evidence of consumptive coagulopathy. Which of the following conditions best describes this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Deep vein thrombosis"
+        },
+        {
+          "label": "B",
+          "text": "Immune thrombocytopenic purpura"
+        },
+        {
+          "label": "C",
+          "text": "Pulmonary embolism"
+        },
+        {
+          "label": "D",
+          "text": "Purpura fulminans"
+        },
+        {
+          "label": "E",
+          "text": "Warfarin-induced skin necrosis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Severe protein C or S deficiency can cause purpura fulminans, with widespread microthrombi producing hemorrhagic skin necrosis and frequently DIC.",
+        "whyCorrect": "Patients with protein C or S deficiency can present with purpura fulminans, an acute disorder of nonstop thrombotic complications. They develop sudden-onset hemorrhagic necrosis and infarction of the skin from widespread multiple thrombi and frequently have associated disseminated intravascular coagulation, often with fatal consequences.",
+        "whyWrongByChoice": {
+          "A": "A DVT is a localized deep venous clot, not diffuse hemorrhagic skin necrosis with DIC.",
+          "B": "Immune thrombocytopenic purpura causes bleeding from low platelets, not widespread thrombotic skin infarction.",
+          "C": "Pulmonary embolism presents with dyspnea and chest pain, not widespread cutaneous necrosis.",
+          "E": "Warfarin-induced skin necrosis is triggered by starting warfarin, whereas this neonate developed spontaneous necrosis from severe inherited deficiency."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "purpura fulminans",
+        "protein C deficiency",
+        "DIC"
+      ],
+      "topicId": "genetic-thrombotic-disorders",
+      "topicName": "Genetic Thrombotic Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bl23-011",
+      "stem": "A 32-year-old woman with a genetic thrombophilia and a prior deep vein thrombosis becomes pregnant and asks how her clotting risk will be managed. Which of the following is the most appropriate approach for a high-risk patient like her?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Begin lifelong high-intensity anticoagulation for all carriers"
+        },
+        {
+          "label": "B",
+          "text": "Give anticoagulants both before and after delivery"
+        },
+        {
+          "label": "C",
+          "text": "Start warfarin at high doses during the first trimester"
+        },
+        {
+          "label": "D",
+          "text": "Use daily aspirin as the sole agent throughout pregnancy"
+        },
+        {
+          "label": "E",
+          "text": "Withhold all anticoagulation because most carriers never clot"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Pregnant patients with a history of thrombi and other high-risk features are given anticoagulants before and after delivery.",
+        "whyCorrect": "Prophylaxis decisions are individualized, but pregnant patients with a history of thrombi and some high-risk patients are given anticoagulants both before and after delivery, because pregnancy substantially raises thrombotic risk.",
+        "whyWrongByChoice": {
+          "A": "Most patients with genetic thrombophilia never develop thrombosis, so lifelong high-intensity anticoagulation for all carriers is not warranted.",
+          "C": "Warfarin is generally avoided in pregnancy, and high-dose warfarin in the first trimester would be inappropriate.",
+          "D": "Aspirin alone is not the standard prophylaxis for a high-risk pregnant patient with prior venous thrombi.",
+          "E": "Although most carriers never clot, this patient is high risk with a prior thrombus and does warrant prophylaxis during pregnancy."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "prophylaxis",
+        "pregnancy",
+        "management"
+      ],
+      "topicId": "genetic-thrombotic-disorders",
+      "topicName": "Genetic Thrombotic Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bl23-012",
+      "stem": "A 30-year-old man with no established risk factors is evaluated after an unprovoked deep vein thrombosis and is found to carry a hereditary thrombotic mutation. He asks how common such mutations are. The gene mutations associated with the genetic thrombotic disorders are present in approximately what proportion of the general population?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Less than 1%"
+        },
+        {
+          "label": "B",
+          "text": "8% to 10%"
+        },
+        {
+          "label": "C",
+          "text": "20% to 25%"
+        },
+        {
+          "label": "D",
+          "text": "40% to 50%"
+        },
+        {
+          "label": "E",
+          "text": "70% to 80%"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The mutations underlying genetic thrombotic disorders occur in 8% to 10% of the general population, although most carriers never form a thrombus.",
+        "whyCorrect": "The overall incidence of the associated gene mutations is 8% to 10% in the general population, with the highest frequency in White populations. Most of these individuals never develop thrombi, which is why testing is reserved for patients who form thrombi without other risk factors.",
+        "whyWrongByChoice": {
+          "A": "A prevalence under 1% would make these mutations rare, yet they are carried by roughly 1 in 10 people.",
+          "C": "A prevalence of 20% to 25% overstates the carrier rate of these mutations.",
+          "D": "40% to 50% is the share of unexplained thrombosis attributable to factor V Leiden, not the population carrier rate.",
+          "E": "70% to 80% would make carriage nearly universal, which is far above the stated incidence."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "epidemiology",
+        "thrombophilia",
+        "genetics"
+      ],
+      "topicId": "genetic-thrombotic-disorders",
+      "topicName": "Genetic Thrombotic Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bl24-001",
+      "stem": "A 34-year-old woman is evaluated for abdominal pain and ascites and is found to have a thrombus in her hepatic vein. She has had two prior spontaneous miscarriages, and her mother had a pulmonary embolism at age 40. Which of the following features most strongly suggests an underlying thrombotic disorder?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "She has a body mass index of 31"
+        },
+        {
+          "label": "B",
+          "text": "She is currently taking a combined oral contraceptive"
+        },
+        {
+          "label": "C",
+          "text": "She recently returned from a long-haul flight"
+        },
+        {
+          "label": "D",
+          "text": "She smokes half a pack of cigarettes daily"
+        },
+        {
+          "label": "E",
+          "text": "The thrombus is located in the hepatic vein"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A thrombus in an unusual site (not the legs or lungs) is a red flag for an inherited thrombotic disorder.",
+        "whyCorrect": "The brick lists a venous thrombus somewhere other than the legs or lungs among the signs that should raise suspicion for an underlying thrombotic disorder. A hepatic vein thrombus is an unusual location and, together with her young age, recurrent family thromboses, and history of miscarriage, points toward a hereditary disorder rather than an ordinary provoked clot.",
+        "whyWrongByChoice": {
+          "A": "Obesity increases thrombotic risk in the general population and is not a clue to an inherited disorder.",
+          "B": "Oral contraceptive use is a well-known acquired risk factor for thrombi and would not by itself point to an underlying disorder.",
+          "C": "Immobility from prolonged travel is a common provoking factor and does not suggest a hereditary disorder.",
+          "D": "Smoking is a common acquired risk factor that raises clot likelihood without indicating an underlying disorder."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "thrombotic disorders",
+        "clinical presentation"
+      ],
+      "topicId": "thrombotic-disorders-foundations-and-frameworks",
+      "topicName": "Thrombotic Disorders: Foundations and Frameworks",
+      "tier": "core"
+    },
+    {
+      "id": "bl24-002",
+      "stem": "A 28-year-old man with recurrent deep vein thromboses undergoes coagulation testing. Laboratory studies show a factor V protein that participates in the clotting cascade but cannot be turned off normally. Which of the following best explains this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A deficiency of antithrombin removes a broad inhibitor of the cascade"
+        },
+        {
+          "label": "B",
+          "text": "A deficiency of protein S impairs inactivation of factor VIIIa"
+        },
+        {
+          "label": "C",
+          "text": "A point mutation makes factor V resistant to inactivation by protein C"
+        },
+        {
+          "label": "D",
+          "text": "Antibodies to phospholipids damage the vascular endothelium"
+        },
+        {
+          "label": "E",
+          "text": "Excess prothrombin drives overproduction of thrombin"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Factor V Leiden results from a point mutation that renders factor V resistant to inactivation by protein C.",
+        "whyCorrect": "The brick states that factor V Leiden is caused by a point mutation in the factor V gene that makes the resulting factor V resistant to inactivation by protein C. The factor continues to participate in the cascade but cannot be turned off, so fibrin production continues inappropriately.",
+        "whyWrongByChoice": {
+          "A": "Antithrombin deficiency removes a general inhibitor of the cascade; it does not alter factor V's susceptibility to protein C.",
+          "B": "Protein S deficiency impairs the inhibitors, but the defect here is in factor V itself, not in a missing inhibitor.",
+          "D": "Antiphospholipid antibodies are an acquired mechanism acting on endothelium and platelets, not a mutation in factor V.",
+          "E": "Excess prothrombin describes the factor II gene mutation, which raises thrombin and fibrin rather than making factor V resistant to inactivation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "factor V Leiden",
+        "genetic thrombotic disorders"
+      ],
+      "topicId": "thrombotic-disorders-foundations-and-frameworks",
+      "topicName": "Thrombotic Disorders: Foundations and Frameworks",
+      "tier": "core"
+    },
+    {
+      "id": "bl24-003",
+      "stem": "Which of the following is the most common of all the thrombotic disorders?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antiphospholipid antibody syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Antithrombin deficiency"
+        },
+        {
+          "label": "C",
+          "text": "Factor II (prothrombin) gene mutation"
+        },
+        {
+          "label": "D",
+          "text": "Factor V Leiden"
+        },
+        {
+          "label": "E",
+          "text": "Protein C deficiency"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Factor V Leiden is the most common thrombotic disorder.",
+        "whyCorrect": "The brick explicitly identifies factor V Leiden as the most common of all the thrombotic disorders, resulting from a point mutation that makes factor V resistant to inactivation by protein C.",
+        "whyWrongByChoice": {
+          "A": "Antiphospholipid antibody syndrome is the main acquired disorder but is not the most common thrombotic disorder overall.",
+          "B": "Antithrombin deficiency is described as a rare genetic defect.",
+          "C": "The factor II (prothrombin) gene mutation is described as a rare disorder.",
+          "E": "Protein C deficiency is one of the less common inherited disorders and is not the most common overall."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "factor V Leiden",
+        "epidemiology"
+      ],
+      "topicId": "thrombotic-disorders-foundations-and-frameworks",
+      "topicName": "Thrombotic Disorders: Foundations and Frameworks",
+      "tier": "core"
+    },
+    {
+      "id": "bl24-004",
+      "stem": "Which of the following thrombotic disorders is acquired rather than hereditary?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antiphospholipid antibody syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Antithrombin deficiency (heparin cofactor)"
+        },
+        {
+          "label": "C",
+          "text": "Factor V Leiden (APC resistance)"
+        },
+        {
+          "label": "D",
+          "text": "Protein C deficiency (natural anticoagulant)"
+        },
+        {
+          "label": "E",
+          "text": "Protein S deficiency (protein C cofactor)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Antiphospholipid antibody syndrome is the main acquired thrombotic disorder; the others are hereditary.",
+        "whyCorrect": "The brick presents antiphospholipid antibody syndrome as the main acquired thrombotic disorder, in which patients make antibodies to phospholipids that damage endothelium and platelets, leading to excessive clotting. It can be primary or part of a systemic disease such as lupus.",
+        "whyWrongByChoice": {
+          "B": "Antithrombin deficiency is a hereditary genetic defect.",
+          "C": "Factor V Leiden is a hereditary disorder caused by a point mutation in the factor V gene.",
+          "D": "Protein C deficiency is a hereditary abnormality of a clotting inhibitor.",
+          "E": "Protein S deficiency is a hereditary abnormality of a clotting inhibitor."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "antiphospholipid syndrome",
+        "acquired disorders"
+      ],
+      "topicId": "thrombotic-disorders-foundations-and-frameworks",
+      "topicName": "Thrombotic Disorders: Foundations and Frameworks",
+      "tier": "core"
+    },
+    {
+      "id": "bl24-005",
+      "stem": "A patient is started on warfarin for a thrombotic disorder. By inhibiting vitamin K epoxide reductase, warfarin reduces the synthesis of which of the following groups of factors?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antithrombin III, heparin cofactor II, and plasminogen"
+        },
+        {
+          "label": "B",
+          "text": "Factors II, VII, IX, and X plus proteins C and S"
+        },
+        {
+          "label": "C",
+          "text": "Factors V and VIII plus von Willebrand factor"
+        },
+        {
+          "label": "D",
+          "text": "Factors XI and XII of the contact activation system"
+        },
+        {
+          "label": "E",
+          "text": "Fibrinogen (factor I) and fibrin-stabilizing factor XIII"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Warfarin is a vitamin K antagonist that lowers the vitamin K-dependent factors II, VII, IX, X and proteins C and S.",
+        "whyCorrect": "The brick states that warfarin interferes with the gamma-carboxylation of vitamin K-dependent clotting factors by inhibiting vitamin K epoxide reductase. The specific vitamin K-dependent factors are proteins C and S and factors II, VII, IX, and X.",
+        "whyWrongByChoice": {
+          "A": "Antithrombin and plasminogen are not vitamin K-dependent clotting factors targeted by warfarin.",
+          "C": "Factors V and VIII are cofactors that are not vitamin K-dependent and are not directly reduced by warfarin.",
+          "D": "Factors XI and XII are not among the vitamin K-dependent factors affected by warfarin.",
+          "E": "Fibrinogen (factor I) and factor XIII act in the final steps of clot formation and are not vitamin K-dependent."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "warfarin",
+        "mechanism of action"
+      ],
+      "topicId": "thrombotic-disorders-foundations-and-frameworks",
+      "topicName": "Thrombotic Disorders: Foundations and Frameworks",
+      "tier": "core"
+    },
+    {
+      "id": "bl24-006",
+      "stem": "A 60-year-old woman with known hereditary protein C deficiency is started on warfarin. Three days later she develops sharply demarcated, dusky areas of dying skin over her thighs, and biopsy shows thrombosed small vessels. Which of the following best explains this adverse effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Accumulation of protein C promotes small-vessel clotting"
+        },
+        {
+          "label": "B",
+          "text": "An early fall in proteins C and S produces a hypercoagulable state"
+        },
+        {
+          "label": "C",
+          "text": "Antibodies to platelet factor 4 activate platelets"
+        },
+        {
+          "label": "D",
+          "text": "Excessive inhibition of factor VII causes bleeding into the skin"
+        },
+        {
+          "label": "E",
+          "text": "Warfarin directly damages the vascular endothelium"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Warfarin-induced skin necrosis results from an early drop in the short-lived anticoagulant proteins C and S, causing transient hypercoagulability.",
+        "whyCorrect": "The brick explains that warfarin inhibits synthesis of the anticoagulant proteins C and S, which have short half-lives, so early warfarin therapy can cause transient hypercoagulability. This can thrombose small vessels and kill skin (warfarin-induced skin necrosis). Patients with hereditary protein C or S deficiency are particularly susceptible because their anticoagulant protein levels are already low.",
+        "whyWrongByChoice": {
+          "A": "Warfarin lowers protein C rather than causing it to accumulate, and protein C is an anticoagulant that would not thrombose small vessels.",
+          "C": "Antibodies to platelet factor 4 describe the mechanism of HITT with heparin, not warfarin-induced skin necrosis.",
+          "D": "Skin necrosis is due to clotting from hypercoagulability, not bleeding from factor VII inhibition.",
+          "E": "Warfarin does not directly damage endothelium; the necrosis is caused by transient hypercoagulability from falling proteins C and S."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "warfarin",
+        "skin necrosis",
+        "protein C deficiency"
+      ],
+      "topicId": "thrombotic-disorders-foundations-and-frameworks",
+      "topicName": "Thrombotic Disorders: Foundations and Frameworks",
+      "tier": "core"
+    },
+    {
+      "id": "bl24-007",
+      "stem": "Warfarin reduces production of clotting factors in both the intrinsic and extrinsic pathways, yet it is monitored primarily with the prothrombin time (PT) and INR. Which of the following best explains why the PT/INR is the earliest indicator of warfarin effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Factor II has the longest half-life of all the vitamin K-dependent factors"
+        },
+        {
+          "label": "B",
+          "text": "Factor VII has the shortest half-life of the vitamin K-dependent factors"
+        },
+        {
+          "label": "C",
+          "text": "The PT reflects only the intrinsic pathway and not the extrinsic one"
+        },
+        {
+          "label": "D",
+          "text": "The PTT is completely unaffected by warfarin even at high doses"
+        },
+        {
+          "label": "E",
+          "text": "Warfarin has no effect on the common pathway factors II and X"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Factor VII of the extrinsic pathway has the shortest half-life, so the PT/INR (which monitors the extrinsic pathway) rises first.",
+        "whyCorrect": "The brick notes that warfarin is mainly monitored with the PT or INR because factor VII, part of the extrinsic pathway, has the shortest half-life of all the vitamin K-dependent factors. Because the PT monitors the extrinsic pathway, warfarin prolongs the PT/INR before the PTT, making the PT/INR an earlier indication of warfarin effect.",
+        "whyWrongByChoice": {
+          "A": "The relevant point is factor VII's short half-life, not factor II having the longest half-life.",
+          "C": "The PT mainly monitors the extrinsic and common pathways, not the intrinsic pathway.",
+          "D": "Warfarin does prolong the PTT as well; it simply prolongs the PT/INR earlier.",
+          "E": "Warfarin does affect common pathway factors such as II and X, so this is incorrect."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "warfarin",
+        "monitoring",
+        "PT INR"
+      ],
+      "topicId": "thrombotic-disorders-foundations-and-frameworks",
+      "topicName": "Thrombotic Disorders: Foundations and Frameworks",
+      "tier": "core"
+    },
+    {
+      "id": "bl24-008",
+      "stem": "A 70-year-old man on warfarin presents with severe, life-threatening gastrointestinal bleeding and a markedly elevated INR. Which of the following is the most effective agent to reverse the cause of his bleeding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Idarucizumab (anti-dabigatran)"
+        },
+        {
+          "label": "B",
+          "text": "Intravenous protamine sulfate"
+        },
+        {
+          "label": "C",
+          "text": "Prothrombin complex concentrate"
+        },
+        {
+          "label": "D",
+          "text": "Tranexamic acid (antifibrinolytic)"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin K (phytonadione) alone"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Prothrombin complex concentrate replaces the factors warfarin depletes and is the most effective reversal for severe warfarin-related bleeding.",
+        "whyCorrect": "The brick states that PCC essentially replaces the clotting factors warfarin depletes (factors II, VII, IX, and X, plus proteins C and S) to reverse the cause of bleeding. It is preferred over fresh frozen plasma, which is less effective and used only when PCC is unavailable; PCC and vitamin K are often given together.",
+        "whyWrongByChoice": {
+          "A": "Idarucizumab specifically reverses dabigatran, not warfarin.",
+          "B": "Protamine sulfate is the antidote for heparin, not warfarin.",
+          "D": "Tranexamic acid is an antidote for thrombolytic drugs and does not replace warfarin-depleted factors.",
+          "E": "Vitamin K alone will not reverse severe bleeding quickly; it repletes vitamin K to prevent further bleeding but works slowly given warfarin's long half-life."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "warfarin",
+        "reversal",
+        "bleeding"
+      ],
+      "topicId": "thrombotic-disorders-foundations-and-frameworks",
+      "topicName": "Thrombotic Disorders: Foundations and Frameworks",
+      "tier": "core"
+    },
+    {
+      "id": "bl24-009",
+      "stem": "A patient stable on warfarin is started on fluconazole, an inhibitor of CYP2C9. If not adjusted, this change is most likely to produce which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A shortened PT due to faster factor synthesis"
+        },
+        {
+          "label": "B",
+          "text": "A subtherapeutic INR with increased risk of clotting"
+        },
+        {
+          "label": "C",
+          "text": "A supratherapeutic INR with increased risk of bleeding"
+        },
+        {
+          "label": "D",
+          "text": "Heparin-induced thrombocytopenia"
+        },
+        {
+          "label": "E",
+          "text": "No change in INR because warfarin is renally cleared"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "CYP2C9 inhibitors reduce warfarin metabolism, raising warfarin levels and prolonging the INR, which increases bleeding risk.",
+        "whyCorrect": "The brick states that warfarin metabolism is primarily hepatic by CYP2C9, and starting a CYP2C9 inhibitor can result in a prolonged or supratherapeutic INR, increasing the risk of bleeding. Fluconazole is named as one such inhibitor.",
+        "whyWrongByChoice": {
+          "A": "Inhibiting metabolism raises warfarin levels and prolongs, not shortens, the PT.",
+          "B": "A subtherapeutic INR would result from increased vitamin K intake or enzyme induction, not from a CYP2C9 inhibitor.",
+          "D": "Heparin-induced thrombocytopenia is a complication of heparin, not of a warfarin-CYP2C9 interaction.",
+          "E": "Warfarin is metabolized hepatically by CYP2C9, so an inhibitor does change the INR."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "warfarin",
+        "drug interactions",
+        "CYP2C9"
+      ],
+      "topicId": "thrombotic-disorders-foundations-and-frameworks",
+      "topicName": "Thrombotic Disorders: Foundations and Frameworks",
+      "tier": "core"
+    },
+    {
+      "id": "bl24-010",
+      "stem": "A patient with acute venous thromboembolism is treated with heparin. Heparin exerts its anticoagulant effect by activating antithrombin, which then directly inhibits which of the following clotting factors?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "I and XIII"
+        },
+        {
+          "label": "B",
+          "text": "IX and X"
+        },
+        {
+          "label": "C",
+          "text": "V and VIII"
+        },
+        {
+          "label": "D",
+          "text": "VII and IX"
+        },
+        {
+          "label": "E",
+          "text": "Xa and IIa"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Heparin activates antithrombin, which inhibits factors Xa and IIa (thrombin) in the common pathway.",
+        "whyCorrect": "The brick explains that the various forms of heparin act indirectly by activating the endogenous anticoagulant antithrombin, and antithrombin activation then inhibits clotting factors Xa and IIa (thrombin), both in the common pathway.",
+        "whyWrongByChoice": {
+          "A": "Factors I (fibrinogen) and XIII act in the final steps of clot formation and stabilization, not the antithrombin target step.",
+          "B": "Factors IX and X are part of the intrinsic and common pathways, but the specific antithrombin-mediated targets emphasized are Xa and IIa.",
+          "C": "Factors V and VIII are cofactors in the cascade and are not the factors directly inhibited by antithrombin here.",
+          "D": "Factors VII and IX belong to the extrinsic and intrinsic pathways and are not the common-pathway targets described."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "heparin",
+        "mechanism of action",
+        "antithrombin"
+      ],
+      "topicId": "thrombotic-disorders-foundations-and-frameworks",
+      "topicName": "Thrombotic Disorders: Foundations and Frameworks",
+      "tier": "core"
+    },
+    {
+      "id": "bl24-011",
+      "stem": "A patient receiving unfractionated heparin for deep vein thrombosis develops heavy gastrointestinal bleeding with hypotension. Which of the following would best reverse the action of heparin in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antithrombin concentrate"
+        },
+        {
+          "label": "B",
+          "text": "Fresh frozen plasma"
+        },
+        {
+          "label": "C",
+          "text": "Protamine sulfate"
+        },
+        {
+          "label": "D",
+          "text": "Tranexamic acid"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin K"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Protamine sulfate is the antidote for heparin, binding and inactivating it.",
+        "whyCorrect": "The brick states that abnormal bleeding from heparin products can be treated with the antidote protamine sulfate, a positively charged molecule that binds to negatively charged heparin and inactivates it.",
+        "whyWrongByChoice": {
+          "A": "Antithrombin is the anticoagulant that heparin activates; giving it would not reverse heparin.",
+          "B": "Fresh frozen plasma is used for warfarin-related bleeding when PCC is unavailable, not as the heparin antidote.",
+          "D": "Tranexamic acid is an antidote for thrombolytic drugs, not heparin.",
+          "E": "Vitamin K is an antidote for warfarin, not heparin."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "heparin",
+        "reversal",
+        "protamine sulfate"
+      ],
+      "topicId": "thrombotic-disorders-foundations-and-frameworks",
+      "topicName": "Thrombotic Disorders: Foundations and Frameworks",
+      "tier": "core"
+    },
+    {
+      "id": "bl24-012",
+      "stem": "A hospitalized patient on unfractionated heparin develops a falling platelet count and a new deep vein thrombosis. Testing confirms heparin-induced thrombocytopenia and thrombosis (HITT). Which of the following is the most appropriate next step in anticoagulation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Administer protamine sulfate and continue heparin"
+        },
+        {
+          "label": "B",
+          "text": "Increase the dose of unfractionated heparin"
+        },
+        {
+          "label": "C",
+          "text": "Start warfarin as monotherapy immediately"
+        },
+        {
+          "label": "D",
+          "text": "Switch to a direct thrombin inhibitor"
+        },
+        {
+          "label": "E",
+          "text": "Switch to low-molecular-weight heparin"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "When HITT is suspected, heparin must be stopped and the patient switched to a direct thrombin inhibitor.",
+        "whyCorrect": "The brick explains that HITT is an autoimmune reaction in which heparin binds platelet factor 4, and the heparin-PF4-antibody triad activates platelets, causing thrombosis and thrombocytopenia. When HITT is suspected the patient needs to be switched immediately to a direct thrombin inhibitor, which is the anticoagulant of choice; argatroban is one such agent.",
+        "whyWrongByChoice": {
+          "A": "Protamine reverses heparin bleeding but does not treat HITT, and continuing heparin is contraindicated.",
+          "B": "Increasing heparin worsens the reaction, since heparin is the trigger for HITT.",
+          "C": "Warfarin alone is not appropriate acute management for HITT; a direct thrombin inhibitor is the anticoagulant of choice.",
+          "E": "Low-molecular-weight heparin is still a heparin product and is not the appropriate choice in HITT."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "heparin",
+        "HITT",
+        "direct thrombin inhibitors"
+      ],
+      "topicId": "thrombotic-disorders-foundations-and-frameworks",
+      "topicName": "Thrombotic Disorders: Foundations and Frameworks",
+      "tier": "core"
+    }
+  ]
+}

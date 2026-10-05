@@ -1,0 +1,3391 @@
+{
+  "categoryId": "w1s3",
+  "categoryName": "Session 3",
+  "questions": [
+    {
+      "id": "bl10-001",
+      "stem": "A 32-year-old woman is referred for purplish spots on her skin. She reports 2 weeks of easy bruising, recurrent nosebleeds, and fatigue. She takes carbamazepine for a seizure disorder. On examination she is pale with diffuse ecchymoses and petechiae. A complete blood count shows low white blood cells, low hemoglobin, and low platelets with no abnormal cells. Which of the following best describes the underlying process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Immune destruction of circulating mature red blood cells"
+        },
+        {
+          "label": "B",
+          "text": "Impaired hemoglobin synthesis from iron deficiency"
+        },
+        {
+          "label": "C",
+          "text": "Infiltration of the marrow by neoplastic cells"
+        },
+        {
+          "label": "D",
+          "text": "Loss of myeloid hematopoietic stem cells in the bone marrow"
+        },
+        {
+          "label": "E",
+          "text": "Sequestration of blood cells in an enlarged spleen"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Aplastic anemia is pancytopenia caused by loss of myeloid hematopoietic stem cells.",
+        "whyCorrect": "The combination of low red cells, white cells, and platelets (pancytopenia) with no abnormal cells, in a patient on carbamazepine (a recognized idiosyncratic cause), points to aplastic anemia. The ultimate mechanism regardless of etiology is loss of myeloid HSCs in the bone marrow, reducing all myeloid-derived lines.",
+        "whyWrongByChoice": {
+          "A": "Immune destruction of mature RBCs (hemolysis) causes anemia with reticulocytosis, not pancytopenia.",
+          "B": "Iron deficiency limits hemoglobin production causing microcytic anemia confined to red cells, not pancytopenia.",
+          "C": "Marrow infiltration by leukemia or metastatic carcinoma can cause pancytopenia, but abnormal cells would typically be seen; here none are present.",
+          "E": "Hypersplenism causes pancytopenia through sequestration but would present with splenomegaly, not drug-triggered marrow failure, and is not suggested here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "aplastic anemia",
+        "pancytopenia",
+        "pathophysiology"
+      ],
+      "topicId": "aplastic-anemia",
+      "topicName": "Aplastic Anemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl10-002",
+      "stem": "A 40-year-old man with newly diagnosed aplastic anemia has pancytopenia on his complete blood count. Which of the following cell types is most likely to remain within the normal range?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Erythrocytes"
+        },
+        {
+          "label": "B",
+          "text": "Lymphocytes"
+        },
+        {
+          "label": "C",
+          "text": "Monocytes"
+        },
+        {
+          "label": "D",
+          "text": "Neutrophils"
+        },
+        {
+          "label": "E",
+          "text": "Platelets"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Lymphocytes derive from lymphoid, not myeloid, progenitors and are relatively spared in aplastic anemia.",
+        "whyCorrect": "Aplastic anemia primarily destroys myeloid stem cells. Lymphocytes arise from the lymphoid line, so a CBC with differential shows low levels of all blood cells except lymphocytes, which remain near normal.",
+        "whyWrongByChoice": {
+          "A": "Erythrocytes come from erythroblasts (myeloid line) and are decreased, causing normocytic anemia.",
+          "C": "Monocytes come from monoblasts (myeloid line) and are decreased in aplastic anemia.",
+          "D": "Neutrophils come from myeloblasts (myeloid line) and are decreased, raising infection risk.",
+          "E": "Platelets come from megakaryoblasts (myeloid line) and are decreased, causing bleeding."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "aplastic anemia",
+        "hematopoiesis",
+        "laboratory findings"
+      ],
+      "topicId": "aplastic-anemia",
+      "topicName": "Aplastic Anemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl10-003",
+      "stem": "A 78-year-old man with suspected aplastic anemia undergoes a bone marrow biopsy. Which of the following findings would most strongly support the diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Extensive fibrous replacement of the marrow space"
+        },
+        {
+          "label": "B",
+          "text": "Large lymphoid aggregates scattered through the marrow"
+        },
+        {
+          "label": "C",
+          "text": "Marked proliferation of erythroid precursor cells"
+        },
+        {
+          "label": "D",
+          "text": "Near-complete replacement of marrow by adipose tissue"
+        },
+        {
+          "label": "E",
+          "text": "Sheets of blast cells replacing normal marrow"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Aplastic anemia shows a hypocellular marrow in which stem cells are replaced by fat.",
+        "whyCorrect": "In aplastic anemia the number of hematopoietic stem cells is markedly decreased, so the marrow becomes hypocellular and the empty spaces fill with abundant adipocytes. A biopsy confirming near-complete replacement of HSCs with adipose tissue supports the diagnosis.",
+        "whyWrongByChoice": {
+          "A": "Extensive fibrosis suggests primary myelofibrosis, a different cause of marrow failure that must be ruled out.",
+          "B": "Lymphoid aggregates are not characteristic of aplastic anemia.",
+          "C": "Proliferation of erythroid precursors indicates active production, the opposite of the hypocellular marrow of aplastic anemia.",
+          "E": "Sheets of blasts indicate acute leukemia infiltrating the marrow, not aplasia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "aplastic anemia",
+        "bone marrow biopsy",
+        "diagnosis"
+      ],
+      "topicId": "aplastic-anemia",
+      "topicName": "Aplastic Anemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl10-004",
+      "stem": "A researcher studies how ionizing radiation used in radiotherapy damages the bone marrow. Which of the following best describes the mechanism by which radiation injures hematopoietic stem cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Binding to stem cell antigens as a hapten"
+        },
+        {
+          "label": "B",
+          "text": "Direct activation of cytotoxic T cells"
+        },
+        {
+          "label": "C",
+          "text": "Generation of free radicals"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of ribosomal protein synthesis"
+        },
+        {
+          "label": "E",
+          "text": "Sequestration of stem cells in the spleen"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Radiation causes dose-dependent marrow toxicity by generating free radicals.",
+        "whyCorrect": "Ionizing radiation used for radiotherapy causes dose-dependent toxicity on the bone marrow by generating free radicals, which damage hematopoietic stem cells. The larger the initial and cumulative dose, the greater the risk.",
+        "whyWrongByChoice": {
+          "A": "Hapten binding to stem cell antigens is the mechanism of idiosyncratic drug reactions, not radiation.",
+          "B": "Drugs and viruses lead to T-cell mediated cytotoxicity indirectly by altering antigens; radiation acts through free radicals.",
+          "D": "Ribosomal protein dysfunction underlies Diamond-Blackfan syndrome, not radiation injury.",
+          "E": "Splenic sequestration is a mechanism of hypersplenism, unrelated to radiation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "aplastic anemia",
+        "etiology",
+        "radiation"
+      ],
+      "topicId": "aplastic-anemia",
+      "topicName": "Aplastic Anemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl10-005",
+      "stem": "A 19-year-old woman returns from a camping trip and develops fever, myalgia, headache, and a rash on her wrists and ankles. She is diagnosed with Rocky Mountain spotted fever and treated with chloramphenicol because of a tetracycline allergy. One week later she develops worsening fatigue and mucosal bleeding, and a complete blood count shows marked decreases in red cells, white cells, and platelets. Which of the following is the best next step in management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Administer granulocyte colony-stimulating factor"
+        },
+        {
+          "label": "B",
+          "text": "Administer N-acetylcysteine"
+        },
+        {
+          "label": "C",
+          "text": "Decrease the dose of chloramphenicol"
+        },
+        {
+          "label": "D",
+          "text": "Discontinue chloramphenicol"
+        },
+        {
+          "label": "E",
+          "text": "Perform allogeneic stem cell transplantation"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "When a causative drug is identified in aplastic anemia, the first step is to withdraw it.",
+        "whyCorrect": "The patient developed pancytopenia after starting chloramphenicol, a known cause of aplastic anemia. Management of aplastic anemia is initially aimed at eliminating potential secondary causes, so the causative drug should be discontinued immediately.",
+        "whyWrongByChoice": {
+          "A": "Granulocyte colony-stimulating factor is typically used for neutropenic fever after chemotherapy, not as first-line here; withdrawing the drug comes first.",
+          "B": "N-acetylcysteine is the antidote for acetaminophen overdose, not aplastic anemia.",
+          "C": "Merely decreasing the dose is insufficient given the life-threatening nature of aplastic anemia; the drug must be stopped.",
+          "E": "Allogeneic transplantation carries high mortality and is reserved for severe idiopathic disease after conservative measures fail."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "aplastic anemia",
+        "management",
+        "drug-induced"
+      ],
+      "topicId": "aplastic-anemia",
+      "topicName": "Aplastic Anemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl10-006",
+      "stem": "A 5-year-old boy presents with easy bruising, and his parents are concerned about poor growth. Examination shows short stature, petechiae, and several cafe-au-lait spots, and one thumb has three phalanges. Laboratory testing reveals pancytopenia. Which of the following is the most appropriate next diagnostic step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bone marrow biopsy and aspirate"
+        },
+        {
+          "label": "B",
+          "text": "Chromosomal breakage test"
+        },
+        {
+          "label": "C",
+          "text": "Hepatitis B and C serology"
+        },
+        {
+          "label": "D",
+          "text": "HIV antibody and RNA testing"
+        },
+        {
+          "label": "E",
+          "text": "Parvovirus B19 IgM serology"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Fanconi anemia is diagnosed by demonstrating increased chromosomal breaks with DNA cross-linking agents.",
+        "whyCorrect": "The childhood onset, short stature, cafe-au-lait spots, thumb/radial abnormality (triphalangeal thumb), and pancytopenia strongly suggest Fanconi anemia. Diagnostic testing demonstrates increased chromosomal breaks in lymphocyte culture with agents that cause DNA cross-links, such as diepoxybutane (DEB) or mitomycin C.",
+        "whyWrongByChoice": {
+          "A": "A bone marrow biopsy would show aplasia but would not specifically establish Fanconi anemia as the cause.",
+          "C": "Hepatitis testing is useful when evaluating acquired aplastic anemia, but the constitutional features here point to Fanconi anemia.",
+          "D": "HIV testing is part of the workup for acquired aplastic anemia, but does not confirm the suspected hereditary syndrome.",
+          "E": "Parvovirus B19 serology is useful in pure red cell aplasia, which causes isolated anemia rather than pancytopenia."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Fanconi anemia",
+        "diagnosis",
+        "hereditary"
+      ],
+      "topicId": "aplastic-anemia",
+      "topicName": "Aplastic Anemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl10-007",
+      "stem": "A hematologist starts a patient with idiopathic aplastic anemia on eltrombopag. Which of the following best describes how this medication improves the patient's blood counts?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It acts as a thrombopoietin receptor agonist"
+        },
+        {
+          "label": "B",
+          "text": "It increases only the platelet count"
+        },
+        {
+          "label": "C",
+          "text": "It removes iron accumulated from transfusions"
+        },
+        {
+          "label": "D",
+          "text": "It replaces the patient's stem cells with donor cells"
+        },
+        {
+          "label": "E",
+          "text": "It suppresses cytotoxic T cells attacking stem cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Eltrombopag is a thrombopoietin receptor agonist that boosts all cell lines in aplastic anemia.",
+        "whyCorrect": "Eltrombopag (EPAG) is a thrombopoietin receptor agonist acting on stem cells that increases production of all cell lines, not just platelets, making it useful in aplastic anemia.",
+        "whyWrongByChoice": {
+          "B": "Although it is a thrombopoietin receptor agonist, eltrombopag stimulates all cell lines rather than platelets alone.",
+          "C": "Chelation removes excess transfusional iron and is unrelated to eltrombopag's mechanism.",
+          "D": "Replacing stem cells with donor cells describes allogeneic stem cell transplantation.",
+          "E": "Immunosuppression of T cells describes cyclosporine or antithymocyte globulin, not eltrombopag."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "aplastic anemia",
+        "management",
+        "eltrombopag"
+      ],
+      "topicId": "aplastic-anemia",
+      "topicName": "Aplastic Anemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl10-008",
+      "stem": "A 60-year-old man with severe idiopathic aplastic anemia has failed medical therapy and undergoes allogeneic stem cell transplantation. Which of the following is a recognized complication of this procedure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Graft-versus-host disease"
+        },
+        {
+          "label": "B",
+          "text": "Iron deficiency anemia"
+        },
+        {
+          "label": "C",
+          "text": "Isolated reticulocytosis"
+        },
+        {
+          "label": "D",
+          "text": "Microcytic red blood cells"
+        },
+        {
+          "label": "E",
+          "text": "Reversal of cancer predisposition"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Allogeneic transplantation risks graft-versus-host disease, where donor cells attack the recipient.",
+        "whyCorrect": "Allogeneic stem cell transplantation can be curative but carries a high mortality rate, so it is only considered after other treatments fail. Complications include increased infections and graft-versus-host disease, in which the transplanted cells attack the recipient.",
+        "whyWrongByChoice": {
+          "B": "Iron deficiency is not a characteristic complication of transplantation for aplastic anemia.",
+          "C": "Reticulocytosis reflects active red cell production and is not a complication of transplantation.",
+          "D": "Aplastic anemia is normocytic; microcytosis points to other anemias and is not a transplant complication.",
+          "E": "In Fanconi anemia, transplant reverses the hematologic abnormalities but not the predisposition to malignancy; it does not reverse cancer risk."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "aplastic anemia",
+        "stem cell transplant",
+        "complications"
+      ],
+      "topicId": "aplastic-anemia",
+      "topicName": "Aplastic Anemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl10-009",
+      "stem": "A 25-year-old woman is being evaluated for isolated anemia. Her complete blood count shows low hemoglobin and a low reticulocyte count, but normal platelet and white blood cell counts. Bone marrow shows decreased erythroid precursors with normal granulocytes and megakaryocytes. Which of the following infections is most likely associated with this condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Epstein-Barr virus"
+        },
+        {
+          "label": "B",
+          "text": "Hepatitis B"
+        },
+        {
+          "label": "C",
+          "text": "Herpes simplex virus"
+        },
+        {
+          "label": "D",
+          "text": "HIV"
+        },
+        {
+          "label": "E",
+          "text": "Parvovirus B19"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Pure red cell aplasia selectively affects erythroid precursors and is associated with parvovirus B19.",
+        "whyCorrect": "Pure red cell aplasia (PRCA) is anemia with decreased erythroid precursors, while granulocytes and megakaryocytes/platelets are unaffected. Acquired causes include infection with parvovirus B19, along with thymoma, chronic lymphocytic leukemia, autoimmune disorders, medications, or idiopathic cases.",
+        "whyWrongByChoice": {
+          "A": "Epstein-Barr virus is associated with aplastic anemia (pancytopenia), not isolated pure red cell aplasia.",
+          "B": "Hepatitis B is listed among viral causes of aplastic anemia affecting all myeloid lines.",
+          "C": "Herpes is associated with aplastic anemia, which would show pancytopenia, not selective erythroid loss.",
+          "D": "HIV is a cause of aplastic anemia, which produces pancytopenia rather than isolated anemia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pure red cell aplasia",
+        "parvovirus B19",
+        "diagnosis"
+      ],
+      "topicId": "aplastic-anemia",
+      "topicName": "Aplastic Anemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl10-010",
+      "stem": "A pediatrician evaluates a 6-month-old infant with pallor and fatigue during feeding. Workup reveals macrocytic anemia with reticulocytopenia, and genetic testing identifies a mutation in a gene encoding a ribosomal protein. Which of the following conditions is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diamond-Blackfan syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Fanconi anemia"
+        },
+        {
+          "label": "C",
+          "text": "Idiopathic aplastic anemia"
+        },
+        {
+          "label": "D",
+          "text": "Iron deficiency anemia"
+        },
+        {
+          "label": "E",
+          "text": "Paroxysmal nocturnal hemoglobinuria"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Diamond-Blackfan syndrome is a congenital pure red cell aplasia caused by ribosomal protein gene mutations.",
+        "whyCorrect": "Diamond-Blackfan syndrome is the most important congenital form of pure red cell aplasia. It is a rare inherited bone marrow failure syndrome associated with mutations in genes that encode ribosomal proteins, characterized by macrocytic anemia, reticulocytopenia, and cancer predisposition, usually presenting before the first birthday.",
+        "whyWrongByChoice": {
+          "B": "Fanconi anemia causes pancytopenia from defective DNA repair, not isolated macrocytic anemia from ribosomal protein mutations.",
+          "C": "Idiopathic aplastic anemia produces pancytopenia and is normocytic, not an isolated congenital red cell disorder.",
+          "D": "Iron deficiency causes microcytic anemia, not macrocytic anemia with ribosomal protein mutations.",
+          "E": "Paroxysmal nocturnal hemoglobinuria is an acquired clonal disorder causing hemolysis and thrombosis, not congenital pure red cell aplasia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Diamond-Blackfan syndrome",
+        "pure red cell aplasia",
+        "congenital"
+      ],
+      "topicId": "aplastic-anemia",
+      "topicName": "Aplastic Anemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl10-011",
+      "stem": "A student is asked which patient group has the worst prognosis when aplastic anemia is left untreated. Which of the following patients is at greatest risk of death within one year?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A middle-aged patient after successful treatment"
+        },
+        {
+          "label": "B",
+          "text": "A young patient after stem cell transplantation"
+        },
+        {
+          "label": "C",
+          "text": "A young patient with mild disease"
+        },
+        {
+          "label": "D",
+          "text": "A young patient with moderate disease"
+        },
+        {
+          "label": "E",
+          "text": "An elderly patient with severe disease"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Untreated aplastic anemia has high one-year mortality, concentrated in elderly patients with severe disease.",
+        "whyCorrect": "As high as 7 out of 10 untreated patients will die within 1 year, with the majority being elderly patients and those with severe disease. Treated patients, by contrast, have a 5- to 10-year survival rate greater than 80%, especially the young with mild-to-moderate disease.",
+        "whyWrongByChoice": {
+          "A": "Successful treatment yields a survival rate above 80%, so this patient is not at greatest risk.",
+          "B": "A young transplanted patient has been treated and does not carry the highest untreated-mortality risk.",
+          "C": "Young patients with mild disease have the best prognosis, especially when treated.",
+          "D": "Young patients with moderate disease fare relatively well, particularly with treatment."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "aplastic anemia",
+        "prognosis"
+      ],
+      "topicId": "aplastic-anemia",
+      "topicName": "Aplastic Anemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl10-012",
+      "stem": "A 45-year-old woman with aplastic anemia is counseled about her expected complications. Which of the following is the least likely complication of her disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dyspnea"
+        },
+        {
+          "label": "B",
+          "text": "Menorrhagia"
+        },
+        {
+          "label": "C",
+          "text": "Pharyngitis"
+        },
+        {
+          "label": "D",
+          "text": "Syncope"
+        },
+        {
+          "label": "E",
+          "text": "Thrombosis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Aplastic anemia causes cytopenias, so bleeding and infection dominate; thrombosis is not expected.",
+        "whyCorrect": "Increased clot formation occurs in hypercoagulable states or malignancy. Patients with aplastic anemia have low platelets and are therefore less likely to form clots, making thrombosis the least likely complication.",
+        "whyWrongByChoice": {
+          "A": "Dyspnea is a manifestation of severe anemia or pulmonary infection.",
+          "B": "Menorrhagia reflects the low platelet count causing bleeding.",
+          "C": "Pharyngitis and other infections may increase due to neutropenia.",
+          "D": "Syncope results from low cerebral oxygen delivery seen in severe anemia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "aplastic anemia",
+        "complications"
+      ],
+      "topicId": "aplastic-anemia",
+      "topicName": "Aplastic Anemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl11-001",
+      "stem": "A 24-year-old man of northern European descent presents with intermittent jaundice, fatigue, and left upper quadrant discomfort. His father was diagnosed with a hemolytic anemia. On examination he is icteric with splenomegaly. A peripheral smear shows round red blood cells lacking central pallor, and an eosin-5-maleimide (EMA) binding test is reduced. Which of the following defects most likely underlies this patient's condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autoimmune destruction of red blood cells"
+        },
+        {
+          "label": "B",
+          "text": "Defect in ankyrin"
+        },
+        {
+          "label": "C",
+          "text": "Defect in CD55 and CD59"
+        },
+        {
+          "label": "D",
+          "text": "Defect in glucose-6-phosphate dehydrogenase"
+        },
+        {
+          "label": "E",
+          "text": "Defect in the beta-chain of hemoglobin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Hereditary spherocytosis results from defects in RBC membrane/cytoskeletal proteins, most commonly ankyrin.",
+        "whyCorrect": "The family history, spherocytes on smear, splenomegaly, and reduced EMA binding are classic for hereditary spherocytosis. HS is caused by mutations in cytoskeletal proteins such as spectrin and ankyrin, or anchoring proteins (band 3, 4.1, 4.2), and a defect in ankyrin is the most common.",
+        "whyWrongByChoice": {
+          "A": "Autoimmune destruction can produce spherocytes, but it would give a positive direct antiglobulin test rather than reduced EMA binding, and the strong family history points to an inherited defect.",
+          "C": "A defect in CD55 and CD59 causes paroxysmal nocturnal hemoglobinuria, which does not produce spherocytes.",
+          "D": "A glucose-6-phosphate dehydrogenase defect causes oxidative hemolysis, not spherocytes or reduced EMA binding.",
+          "E": "A defect in the beta-chain of hemoglobin causes sickle cell disease, characterized by sickled cells, not spherocytes."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hereditary spherocytosis",
+        "ankyrin",
+        "EMA binding"
+      ],
+      "topicId": "hereditary-spherocytosis",
+      "topicName": "Hereditary Spherocytosis",
+      "tier": "core"
+    },
+    {
+      "id": "bl11-002",
+      "stem": "Which of the following laboratory values is most characteristic of and helps distinguish hereditary spherocytosis from other anemias?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased serum lactate dehydrogenase (LDH) activity"
+        },
+        {
+          "label": "B",
+          "text": "Increased conjugated (direct) bilirubin concentration"
+        },
+        {
+          "label": "C",
+          "text": "Increased mean corpuscular hemoglobin concentration (MCHC)"
+        },
+        {
+          "label": "D",
+          "text": "Increased mean corpuscular volume (MCV) with frank macrocytosis"
+        },
+        {
+          "label": "E",
+          "text": "Normal red blood cell distribution width (RDW) value"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "An increased MCHC, from mild intracellular dehydration, is the distinctive lab feature of hereditary spherocytosis.",
+        "whyCorrect": "HS is the only type of anemia in which the MCHC is routinely increased, reflecting the smaller, more concentrated red cells that result from membrane loss and mild intracellular dehydration.",
+        "whyWrongByChoice": {
+          "A": "LDH is increased, not decreased, because it leaks out of destroyed red blood cells during hemolysis.",
+          "B": "Hemolysis raises unconjugated (indirect) bilirubin, since the pigment has not yet been conjugated by the liver.",
+          "D": "MCV is normal in HS, which is a normocytic anemia; the cells do not become larger.",
+          "E": "RDW is increased, because some cells become smaller while others remain larger."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "MCHC",
+        "laboratory findings",
+        "hereditary spherocytosis"
+      ],
+      "topicId": "hereditary-spherocytosis",
+      "topicName": "Hereditary Spherocytosis",
+      "tier": "core"
+    },
+    {
+      "id": "bl11-003",
+      "stem": "A hematologist wants a test that would be abnormal in a patient with hereditary spherocytosis but normal in a patient with anemia of chronic disease. Which of the following tests best meets this criterion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blood hemoglobin"
+        },
+        {
+          "label": "B",
+          "text": "Mean corpuscular volume (MCV)"
+        },
+        {
+          "label": "C",
+          "text": "Osmotic fragility test"
+        },
+        {
+          "label": "D",
+          "text": "Serum folate"
+        },
+        {
+          "label": "E",
+          "text": "Serum iron"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The osmotic fragility test is abnormal in spherocytosis but normal in anemia of chronic disease.",
+        "whyCorrect": "In HS and other forms of spherocytosis, red cells lack excess membrane and cannot accommodate the water that enters in a hypotonic solution, so they lyse readily (increased fragility). Anemia of chronic disease does not cause spherocytes, so osmotic fragility remains normal.",
+        "whyWrongByChoice": {
+          "A": "Hemoglobin is low in both hereditary spherocytosis and anemia of chronic disease.",
+          "B": "MCV is normal in both conditions and would not distinguish them.",
+          "D": "Serum folate is usually normal in both conditions.",
+          "E": "Serum iron is usually normal in HS and would not reliably separate it from anemia of chronic disease in this framing."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "osmotic fragility",
+        "diagnosis",
+        "differential"
+      ],
+      "topicId": "hereditary-spherocytosis",
+      "topicName": "Hereditary Spherocytosis",
+      "tier": "core"
+    },
+    {
+      "id": "bl11-004",
+      "stem": "A newborn is found to have moderate-to-severe hemolytic anemia. The peripheral smear shows red blood cells with marked variation in size and shape that resemble the cells seen in patients with extensive burns. Genetic testing reveals two spectrin gene mutations. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autoimmune hemolytic anemia"
+        },
+        {
+          "label": "B",
+          "text": "Hereditary elliptocytosis"
+        },
+        {
+          "label": "C",
+          "text": "Hereditary pyropoikilocytosis"
+        },
+        {
+          "label": "D",
+          "text": "Hereditary spherocytosis"
+        },
+        {
+          "label": "E",
+          "text": "Sickle cell anemia"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Hereditary pyropoikilocytosis is an autosomal recessive disorder with two spectrin mutations and burn-like RBC morphology.",
+        "whyCorrect": "HPP is a rare autosomal recessive condition in which two hereditary elliptocytosis mutations (spectrin gene mutations) are inherited, producing moderate-to-severe hemolysis and red cells that resemble those seen after extensive burns.",
+        "whyWrongByChoice": {
+          "A": "Autoimmune hemolytic anemia produces round spherocytes and a positive direct antiglobulin test, not burn-like poikilocytes.",
+          "B": "Hereditary elliptocytosis is due to a single spectrin defect and shows elliptocytes with little hemolysis at baseline.",
+          "D": "Hereditary spherocytosis produces round spherocytes from an ankyrin (or related protein) defect, not burn-like cells.",
+          "E": "Sickle cell anemia is caused by a beta-globin chain defect and shows sickled cells, not burn-like poikilocytes."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hereditary pyropoikilocytosis",
+        "spectrin",
+        "membrane defects"
+      ],
+      "topicId": "hereditary-spherocytosis",
+      "topicName": "Hereditary Spherocytosis",
+      "tier": "core"
+    },
+    {
+      "id": "bl11-005",
+      "stem": "A 30-year-old woman with hereditary spherocytosis has a mild normocytic anemia and is otherwise asymptomatic. Which of the following is the most appropriate initial management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Folic acid"
+        },
+        {
+          "label": "B",
+          "text": "No treatment"
+        },
+        {
+          "label": "C",
+          "text": "Oral prednisone"
+        },
+        {
+          "label": "D",
+          "text": "Red blood cell transfusion"
+        },
+        {
+          "label": "E",
+          "text": "Splenectomy"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Most adults with mild, asymptomatic hereditary spherocytosis require no treatment.",
+        "whyCorrect": "Mild HS in an asymptomatic adult does not require therapy; observation is appropriate. Interventions are reserved for more severe or symptomatic disease.",
+        "whyWrongByChoice": {
+          "A": "Folic acid is used in moderate-to-severe HS and in pregnancy, where metabolic demand for making red cells is high.",
+          "C": "Oral prednisone is used for autoimmune hemolytic anemia, not hereditary spherocytosis.",
+          "D": "Transfusion is not needed here because the anemia is mild and the patient is asymptomatic.",
+          "E": "Splenectomy is reserved for patients with chronic, severe, symptomatic anemia."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "management",
+        "hereditary spherocytosis",
+        "observation"
+      ],
+      "topicId": "hereditary-spherocytosis",
+      "topicName": "Hereditary Spherocytosis",
+      "tier": "core"
+    },
+    {
+      "id": "bl11-006",
+      "stem": "A 19-year-old man has mild anemia, splenomegaly, and spherocytes on a blood smear, but the diagnosis remains uncertain. Which of the following is the best confirmatory test for hereditary spherocytosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bone marrow biopsy"
+        },
+        {
+          "label": "B",
+          "text": "Direct antiglobulin (Coombs) test"
+        },
+        {
+          "label": "C",
+          "text": "Eosin-5-maleimide (EMA) binding"
+        },
+        {
+          "label": "D",
+          "text": "Peripheral blood smear"
+        },
+        {
+          "label": "E",
+          "text": "Serum haptoglobin level"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "EMA binding measured by flow cytometry is the main confirmatory test for hereditary spherocytosis.",
+        "whyCorrect": "EMA is a fluorescent dye that binds band 3 and Rh-related proteins in the RBC membrane; reduced binding measured by flow cytometry indicates deficiency of band 3 or other proteins such as ankyrin or spectrin, confirming HS.",
+        "whyWrongByChoice": {
+          "A": "Bone marrow biopsy is not required to diagnose HS and does not confirm the membrane protein defect.",
+          "B": "A direct antiglobulin test is used to exclude immune-mediated hemolysis and is negative in HS, but it does not confirm HS.",
+          "D": "The smear may already show spherocytes but is nonspecific; it does not confirm HS when the diagnosis is uncertain.",
+          "E": "A low haptoglobin only reflects that hemolysis is occurring and is not specific for HS."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "EMA binding",
+        "flow cytometry",
+        "confirmatory test"
+      ],
+      "topicId": "hereditary-spherocytosis",
+      "topicName": "Hereditary Spherocytosis",
+      "tier": "core"
+    },
+    {
+      "id": "bl11-007",
+      "stem": "A patient with hereditary spherocytosis has chronic anemia and an enlarged spleen. Which of the following best describes the primary mechanism of red blood cell destruction in this disorder?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Complement-mediated intravascular lysis in the circulation"
+        },
+        {
+          "label": "B",
+          "text": "Extravascular hemolysis by macrophages in the spleen"
+        },
+        {
+          "label": "C",
+          "text": "Ineffective erythropoiesis within the bone marrow"
+        },
+        {
+          "label": "D",
+          "text": "Mechanical shearing of cells passing through damaged vessels"
+        },
+        {
+          "label": "E",
+          "text": "Oxidative destruction of red blood cells in the bloodstream"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Anemia in HS results primarily from extravascular hemolysis, meaning splenic macrophages destroy trapped spherocytes.",
+        "whyCorrect": "Spherocytes lack the excess membrane needed to squeeze through the splenic sinusoids, so they are damaged by the tight fit and destroyed by splenic macrophages at a much higher rate than normal, causing extravascular hemolysis and splenomegaly.",
+        "whyWrongByChoice": {
+          "A": "Complement-mediated intravascular lysis in the circulation characterizes paroxysmal nocturnal hemoglobinuria, not HS.",
+          "C": "The defect in HS is a membrane protein problem, not ineffective erythropoiesis in the marrow.",
+          "D": "Mechanical shearing in damaged vasculature causes microangiopathic (fragmentation) hemolysis, not the splenic destruction of HS.",
+          "E": "Oxidative destruction in the bloodstream describes G6PD deficiency, not hereditary spherocytosis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "extravascular hemolysis",
+        "spleen",
+        "pathophysiology"
+      ],
+      "topicId": "hereditary-spherocytosis",
+      "topicName": "Hereditary Spherocytosis",
+      "tier": "core"
+    },
+    {
+      "id": "bl11-008",
+      "stem": "A 27-year-old woman has anemia, jaundice, and spherocytes on her peripheral smear. To distinguish hereditary spherocytosis from autoimmune hemolytic anemia, which of the following results would be expected in hereditary spherocytosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased mean corpuscular hemoglobin concentration"
+        },
+        {
+          "label": "B",
+          "text": "Decreased reticulocyte count"
+        },
+        {
+          "label": "C",
+          "text": "Elevated serum haptoglobin"
+        },
+        {
+          "label": "D",
+          "text": "Negative direct antiglobulin (Coombs) test"
+        },
+        {
+          "label": "E",
+          "text": "Positive direct antiglobulin (Coombs) test"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The direct antiglobulin test is negative in hereditary spherocytosis, distinguishing it from immune hemolysis.",
+        "whyCorrect": "Because HS is caused by an inherited membrane protein defect rather than antibodies coating the red cells, the direct antiglobulin (Coombs) test is negative, whereas it is positive in autoimmune hemolytic anemia, which can also show spherocytes.",
+        "whyWrongByChoice": {
+          "A": "MCHC is increased in HS, not decreased.",
+          "B": "The reticulocyte count is increased as the marrow compensates for hemolysis, not decreased.",
+          "C": "Haptoglobin is low, not elevated, because it is consumed while binding free hemoglobin released during hemolysis.",
+          "E": "A positive direct antiglobulin test is expected in autoimmune hemolytic anemia, not in HS."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "direct antiglobulin test",
+        "differential",
+        "autoimmune hemolytic anemia"
+      ],
+      "topicId": "hereditary-spherocytosis",
+      "topicName": "Hereditary Spherocytosis",
+      "tier": "core"
+    },
+    {
+      "id": "bl11-009",
+      "stem": "A 7-year-old boy with known hereditary spherocytosis develops a viral illness and becomes markedly more pale and fatigued. Laboratory studies show a sharp drop in hemoglobin with an inappropriately low reticulocyte count. Which of the following complications and causative agents best explains this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aplastic crisis caused by iron deficiency"
+        },
+        {
+          "label": "B",
+          "text": "Aplastic crisis caused by parvovirus B19"
+        },
+        {
+          "label": "C",
+          "text": "Hemolytic crisis caused by G6PD deficiency"
+        },
+        {
+          "label": "D",
+          "text": "Splenic sequestration caused by Bartonella"
+        },
+        {
+          "label": "E",
+          "text": "Vaso-occlusive crisis caused by dehydration"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Parvovirus B19 can trigger an aplastic crisis in patients with chronic hemolytic anemia such as HS.",
+        "whyCorrect": "Aplastic crisis is a temporary shutdown of red blood cell formation in the bone marrow, most often during infection with parvovirus B19. In a chronic hemolytic anemia like HS, where RBC lifespan is already reduced, this marrow suppression produces a sharp fall in hemoglobin with a low reticulocyte count.",
+        "whyWrongByChoice": {
+          "A": "Iron deficiency causes a gradual microcytic anemia, not an abrupt aplastic crisis with low reticulocytes during a viral illness.",
+          "C": "G6PD deficiency causes oxidative hemolysis and is not the underlying disorder in this patient with HS.",
+          "D": "Bartonella is listed as a cause of spherocytosis on a smear, not of splenic sequestration, and would not explain a low reticulocyte count.",
+          "E": "Vaso-occlusive crisis is a feature of sickle cell disease, not hereditary spherocytosis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "aplastic crisis",
+        "parvovirus B19",
+        "complications"
+      ],
+      "topicId": "hereditary-spherocytosis",
+      "topicName": "Hereditary Spherocytosis",
+      "tier": "core"
+    },
+    {
+      "id": "bl11-010",
+      "stem": "A pregnant woman with moderate hereditary spherocytosis is started on folic acid supplementation. Which of the following best explains the rationale for this therapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Folate directly stabilizes the defective red blood cell membrane"
+        },
+        {
+          "label": "B",
+          "text": "Folate reduces the elevated mean corpuscular hemoglobin concentration"
+        },
+        {
+          "label": "C",
+          "text": "Folate suppresses the autoantibodies responsible for the hemolysis"
+        },
+        {
+          "label": "D",
+          "text": "Ongoing hemolysis increases demand for producing new red blood cells"
+        },
+        {
+          "label": "E",
+          "text": "She has a documented dietary folate deficiency on testing"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Folic acid supports the increased red cell production required by the constant low-grade hemolysis of HS.",
+        "whyCorrect": "Folate is a necessary ingredient for making red blood cells. Because patients with HS undergo constant low-grade hemolysis and must produce many new RBCs, supplementation is helpful, especially with the added metabolic demands of pregnancy.",
+        "whyWrongByChoice": {
+          "A": "Folate does not repair or stabilize the defective membrane cytoskeleton in HS.",
+          "B": "Folate does not lower the MCHC, which remains increased in HS.",
+          "C": "HS is not antibody-mediated, so there are no autoantibodies for folate to suppress.",
+          "E": "Serum folate levels are usually normal in HS; supplementation is given for the high production demand, not a documented deficiency."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "folic acid",
+        "management",
+        "pregnancy"
+      ],
+      "topicId": "hereditary-spherocytosis",
+      "topicName": "Hereditary Spherocytosis",
+      "tier": "core"
+    },
+    {
+      "id": "bl11-011",
+      "stem": "A 22-year-old man of African descent is noted to have a mild anemia. His peripheral smear shows a large number of elliptical (cigar-shaped) red blood cells with little hemolysis at baseline. The disorder is inherited in an autosomal dominant fashion and is caused by a defect in a cytoskeletal protein. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hereditary elliptocytosis"
+        },
+        {
+          "label": "B",
+          "text": "Hereditary pyropoikilocytosis"
+        },
+        {
+          "label": "C",
+          "text": "Hereditary spherocytosis"
+        },
+        {
+          "label": "D",
+          "text": "Iron deficiency anemia"
+        },
+        {
+          "label": "E",
+          "text": "Sickle cell disease"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Hereditary elliptocytosis is an autosomal dominant spectrin defect causing elliptocytes with usually mild disease.",
+        "whyCorrect": "HE is the most common congenital RBC membrane abnormality, especially in patients of African descent. It is autosomal dominant, caused by a spectrin defect, and most patients are asymptomatic or have mild anemia with numerous elliptocytes on smear.",
+        "whyWrongByChoice": {
+          "B": "Hereditary pyropoikilocytosis has two spectrin mutations, is autosomal recessive, and causes moderate-to-severe hemolysis with burn-like cells.",
+          "C": "Hereditary spherocytosis produces round spherocytes, not elliptocytes, and is usually seen in people of northern European descent.",
+          "D": "Iron deficiency anemia is microcytic and hypochromic and does not produce elliptocytes from a spectrin defect.",
+          "E": "Sickle cell disease is caused by a beta-globin defect and shows sickled cells, not elliptocytes."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hereditary elliptocytosis",
+        "spectrin",
+        "membrane defects"
+      ],
+      "topicId": "hereditary-spherocytosis",
+      "topicName": "Hereditary Spherocytosis",
+      "tier": "core"
+    },
+    {
+      "id": "bl11-012",
+      "stem": "A blood smear from a patient with hereditary spherocytosis is reviewed. Which of the following morphologic descriptions best characterizes the abnormal red blood cells in this disorder?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cells with a central dense area surrounded by a pale ring (target cells)"
+        },
+        {
+          "label": "B",
+          "text": "Cells with basophilic stippling and normal shape"
+        },
+        {
+          "label": "C",
+          "text": "Elliptical cells with pointed ends"
+        },
+        {
+          "label": "D",
+          "text": "Fragmented cells (schistocytes)"
+        },
+        {
+          "label": "E",
+          "text": "Overly round cells lacking central pallor with smaller diameter"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Spherocytes appear overly round, lack central pallor, and have a smaller diameter with less surface area.",
+        "whyCorrect": "On microscopy, spherocytes are seen as overly round cells lacking the normal central pallor, with a smaller diameter and less surface area than normal biconcave red blood cells.",
+        "whyWrongByChoice": {
+          "A": "Target cells are a different morphology and are not characteristic of hereditary spherocytosis.",
+          "B": "Basophilic stippling with normal shape is not the defining feature of spherocytes, which are distinctly round and lack central pallor.",
+          "C": "Elliptical cells with pointed ends describe sickled cells, not spherocytes.",
+          "D": "Fragmented schistocytes are seen in microangiopathic hemolysis, not HS."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "spherocytes",
+        "peripheral smear",
+        "morphology"
+      ],
+      "topicId": "hereditary-spherocytosis",
+      "topicName": "Hereditary Spherocytosis",
+      "tier": "core"
+    },
+    {
+      "id": "bl12-001",
+      "stem": "A 9-month-old boy of West African descent develops painful swelling of his hands and feet. Hemoglobin electrophoresis confirms homozygous HbSS. His disease results from which of the following types of mutation in the beta-globin gene?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Frameshift mutation"
+        },
+        {
+          "label": "B",
+          "text": "Nonsense mutation"
+        },
+        {
+          "label": "C",
+          "text": "Point mutation"
+        },
+        {
+          "label": "D",
+          "text": "Splice-site mutation"
+        },
+        {
+          "label": "E",
+          "text": "Trinucleotide repeat expansion"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Sickle cell disease is caused by a single point mutation in the beta-globin gene.",
+        "whyCorrect": "SCD results from a single point mutation at the sixth codon of the beta-globin gene, in which the GAG codon is changed to GTG. This single-nucleotide substitution changes one amino acid and is the defining lesion of this hemoglobinopathy.",
+        "whyWrongByChoice": {
+          "A": "Frameshift mutations shift the reading frame and are not the mechanism in sickle cell disease.",
+          "B": "A nonsense mutation creates a premature stop codon and is not seen in SCD.",
+          "D": "Splice-site mutations occur in several diseases but not in the hemoglobinopathies such as SCD.",
+          "E": "Trinucleotide repeat expansions cause diseases such as Huntington disease, not sickle cell disease."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "genetics",
+        "molecular basis"
+      ],
+      "topicId": "sickle-cell-disease",
+      "topicName": "Sickle Cell Disease",
+      "tier": "core"
+    },
+    {
+      "id": "bl12-002",
+      "stem": "Sequencing of the beta-globin gene in a patient with sickle cell disease reveals a single nucleotide change (GAG to GTG) at the sixth codon. Which of the following amino acid substitutions does this produce?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Glutamate replaced by lysine"
+        },
+        {
+          "label": "B",
+          "text": "Glutamate replaced by valine"
+        },
+        {
+          "label": "C",
+          "text": "Glutamine replaced by valine"
+        },
+        {
+          "label": "D",
+          "text": "Lysine replaced by glutamate"
+        },
+        {
+          "label": "E",
+          "text": "Valine replaced by glutamate"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The sickle mutation swaps hydrophilic glutamate for hydrophobic valine at position 6 of the beta chain.",
+        "whyCorrect": "At the sixth codon of the beta-globin gene, the GAG codon that normally codes for glutamate (a hydrophilic amino acid) is mutated to GTG, which codes for valine (a hydrophobic amino acid). The exposed hydrophobic valine drives HbS polymerization when deoxygenated.",
+        "whyWrongByChoice": {
+          "A": "Glutamate replaced by lysine at position 6 defines hemoglobin C disease, not sickle cell disease.",
+          "C": "The normal residue at position 6 is glutamate, not glutamine.",
+          "D": "This is neither the sickle nor the Hb C substitution.",
+          "E": "This reverses the direction of the change; the normal residue is glutamate and it is replaced by valine."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "molecular basis",
+        "hemoglobin"
+      ],
+      "topicId": "sickle-cell-disease",
+      "topicName": "Sickle Cell Disease",
+      "tier": "core"
+    },
+    {
+      "id": "bl12-003",
+      "stem": "A 22-year-old man with sickle cell disease is being counseled about triggers of painful crises. Which of the following conditions most promotes red blood cell sickling?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acidosis"
+        },
+        {
+          "label": "B",
+          "text": "Alkalosis"
+        },
+        {
+          "label": "C",
+          "text": "Decreased 2,3-bisphosphoglycerate"
+        },
+        {
+          "label": "D",
+          "text": "Decreased body temperature"
+        },
+        {
+          "label": "E",
+          "text": "High fetal hemoglobin levels"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Conditions that shift the oxygen dissociation curve to the right favor deoxygenated HbS and promote sickling.",
+        "whyCorrect": "Acidosis decreases hemoglobin affinity for oxygen and shifts the oxygen dissociation curve to the right, favoring the deoxygenated (taut) state of HbS in which the valine residue is exposed. Fever, hypoxia, hypercapnia, and increased 2,3-BPG act similarly to promote sickling.",
+        "whyWrongByChoice": {
+          "B": "Alkalosis shifts the curve to the left, increasing oxygen affinity and reducing sickling.",
+          "C": "Decreased 2,3-BPG shifts the curve to the left and decreases sickling.",
+          "D": "Lower temperature shifts the curve to the left; it is elevated temperature (fever) that promotes sickling.",
+          "E": "Fetal hemoglobin resists sickling and inhibits HbS polymerization, decreasing crises."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pathophysiology",
+        "oxygen dissociation curve"
+      ],
+      "topicId": "sickle-cell-disease",
+      "topicName": "Sickle Cell Disease",
+      "tier": "core"
+    },
+    {
+      "id": "bl12-004",
+      "stem": "A researcher studies why sickle hemoglobin (HbS) forms rigid intracellular strands under low-oxygen conditions. Which of the following best explains the polymerization of HbS in the deoxygenated state?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A hydrophobic valine residue is exposed"
+        },
+        {
+          "label": "B",
+          "text": "Disulfide bridges form between adjacent beta chains"
+        },
+        {
+          "label": "C",
+          "text": "Heme iron is oxidized from the ferrous to the ferric state"
+        },
+        {
+          "label": "D",
+          "text": "The alpha-globin chains misfold and aggregate"
+        },
+        {
+          "label": "E",
+          "text": "The mutated glutamate residue becomes phosphorylated"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In the taut deoxygenated state, exposed hydrophobic valine causes HbS molecules to polymerize.",
+        "whyCorrect": "When HbS is deoxygenated (taut state), the valine at position 6 of the beta chain is exposed. Because valine is hydrophobic, the HbS molecules line up (polymerize) with the valine residues facing inward to shield them from the polar environment, forming long inflexible strands that distort the red cell into a sickle shape.",
+        "whyWrongByChoice": {
+          "B": "Sickling reflects hydrophobic polymerization, not covalent disulfide bond formation between beta chains.",
+          "C": "Ferric iron (methemoglobin) formation is a separate process and is not what drives HbS polymerization.",
+          "D": "The defect is in the beta chain, not misfolding of the alpha chains.",
+          "E": "Phosphorylation of glutamate is not the mechanism; the mutation replaces glutamate with valine."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "pathophysiology",
+        "hemoglobin polymerization"
+      ],
+      "topicId": "sickle-cell-disease",
+      "topicName": "Sickle Cell Disease",
+      "tier": "core"
+    },
+    {
+      "id": "bl12-005",
+      "stem": "A couple, both of whom have sickle cell trait, seek genetic counseling before starting a family. What is the probability that any given child of theirs will have sickle cell disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "0%"
+        },
+        {
+          "label": "B",
+          "text": "25%"
+        },
+        {
+          "label": "C",
+          "text": "50%"
+        },
+        {
+          "label": "D",
+          "text": "75%"
+        },
+        {
+          "label": "E",
+          "text": "100%"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Sickle cell disease is autosomal recessive, so two carrier parents have a 25% chance of an affected child.",
+        "whyCorrect": "SCD is inherited in an autosomal recessive pattern, requiring two mutated beta-globin genes. When both parents carry one sickle gene (sickle cell trait), each child has a 25% chance of inheriting both sickle genes and having disease, a 50% chance of being a carrier, and a 25% chance of being unaffected.",
+        "whyWrongByChoice": {
+          "A": "Two carriers can have an affected child, so the risk is not zero.",
+          "C": "50% represents the chance of an unaffected carrier child, not an affected child.",
+          "D": "75% is the chance of a child having at least one normal gene, not the chance of disease.",
+          "E": "100% would apply only if both parents had disease (HbSS), not trait."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "genetics",
+        "inheritance"
+      ],
+      "topicId": "sickle-cell-disease",
+      "topicName": "Sickle Cell Disease",
+      "tier": "core"
+    },
+    {
+      "id": "bl12-006",
+      "stem": "A 3-year-old girl with sickle cell disease has repeated splenic infarctions resulting in functional asplenia. She is at greatest risk of overwhelming, life-threatening infection from which of the following organisms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Disseminated Candida albicans"
+        },
+        {
+          "label": "B",
+          "text": "Enteric Escherichia coli"
+        },
+        {
+          "label": "C",
+          "text": "Pseudomonas aeruginosa"
+        },
+        {
+          "label": "D",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "E",
+          "text": "Streptococcus pneumoniae"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Functional asplenia in SCD predisposes to sepsis from encapsulated bacteria such as pneumococcus.",
+        "whyCorrect": "Vaso-occlusion in the spleen causes ischemia, infarction, fibrosis, and eventual functional asplenia. Without splenic macrophages to clear encapsulated organisms, patients are at high risk of bacteremia and sepsis from Streptococcus pneumoniae, Haemophilus influenzae, and Neisseria meningitidis, which is why these children receive vaccines and prophylactic penicillin.",
+        "whyWrongByChoice": {
+          "A": "Candida is a fungus and is not the encapsulated bacterial threat posed by asplenia.",
+          "B": "E coli infections are not the hallmark risk from functional asplenia in SCD.",
+          "C": "Pseudomonas is not the encapsulated organism typically associated with asplenic sepsis in these patients.",
+          "D": "Staphylococcus aureus is not an encapsulated organism cleared preferentially by the spleen and is not the classic asplenia risk."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "complications",
+        "functional asplenia",
+        "infection"
+      ],
+      "topicId": "sickle-cell-disease",
+      "topicName": "Sickle Cell Disease",
+      "tier": "core"
+    },
+    {
+      "id": "bl12-007",
+      "stem": "A 27-year-old man presents with shortness of breath, mild fever, and chest pain he rates as 10/10. There is no cough. His oxygen saturation is 88%. His chart shows one to two admissions per year for infection or bone pain, and a blood smear shows sickled red blood cells. The chest x-ray is normal. Which of the following treatments would most quickly correct his low oxygen saturation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Daily oral folic acid"
+        },
+        {
+          "label": "B",
+          "text": "Daily oral hydroxyurea"
+        },
+        {
+          "label": "C",
+          "text": "Exchange transfusion"
+        },
+        {
+          "label": "D",
+          "text": "Intravenous antibiotics"
+        },
+        {
+          "label": "E",
+          "text": "Scheduled oral ibuprofen"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Acute chest syndrome with hypoxemia is treated with exchange transfusion to remove sickled cells.",
+        "whyCorrect": "This patient with sickle cell disease is having acute chest syndrome, marked by chest pain, fever, shortness of breath, and hypoxemia. Exchange transfusion removes sickled cells and replaces them with normal donor RBCs, most rapidly correcting the hypoxia in this severe acute complication.",
+        "whyWrongByChoice": {
+          "A": "Folate supports chronic red cell production and does not correct acute hypoxia.",
+          "B": "Hydroxyurea reduces the frequency of future episodes but is not an acute treatment for hypoxemia.",
+          "D": "Antibiotics are needed only with concurrent infection; the normal chest x-ray and absent cough argue against pneumonia here.",
+          "E": "Ibuprofen treats pain but does not correct the low oxygen saturation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "complications",
+        "acute chest syndrome",
+        "management"
+      ],
+      "topicId": "sickle-cell-disease",
+      "topicName": "Sickle Cell Disease",
+      "tier": "core"
+    },
+    {
+      "id": "bl12-008",
+      "stem": "A 19-year-old woman with sickle cell disease has frequent painful crises and two prior episodes of acute chest syndrome. Her hematologist starts hydroxyurea to reduce these events. This drug decreases episodes primarily through which of the following mechanisms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blocking splenic clearance of sickled cells"
+        },
+        {
+          "label": "B",
+          "text": "Chelating excess iron from transfusions"
+        },
+        {
+          "label": "C",
+          "text": "Directly dissolving existing HbS polymers"
+        },
+        {
+          "label": "D",
+          "text": "Increasing fetal hemoglobin (HbF) levels"
+        },
+        {
+          "label": "E",
+          "text": "Increasing production of adult hemoglobin (HbA)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Hydroxyurea reduces sickle crises by raising fetal hemoglobin, which resists sickling.",
+        "whyCorrect": "Hydroxyurea increases the amount of fetal hemoglobin (HbF), which has two gamma subunits instead of beta subunits and is therefore not subject to the sickle mutation. This raises the number of normally shaped red cells, and high HbF also inhibits the polymerization of HbS, decreasing pain and acute chest syndrome episodes.",
+        "whyWrongByChoice": {
+          "A": "Hydroxyurea does not work by blocking splenic clearance of cells.",
+          "B": "Iron chelation is used to manage transfusional iron overload and is not the mechanism of hydroxyurea.",
+          "C": "Hydroxyurea prevents polymerization by raising HbF rather than dissolving polymers that already exist.",
+          "E": "The benefit comes from increasing HbF, not adult HbA, which still carries the mutated beta chain in these patients."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "management",
+        "hydroxyurea",
+        "fetal hemoglobin"
+      ],
+      "topicId": "sickle-cell-disease",
+      "topicName": "Sickle Cell Disease",
+      "tier": "core"
+    },
+    {
+      "id": "bl12-009",
+      "stem": "A 6-year-old boy with sickle cell disease develops sudden severe fatigue and pallor after several days of a viral illness with a facial rash. His hemoglobin has fallen sharply and, unlike his usual baseline, his reticulocyte count is now very low. Which of the following is the most likely cause of his profound anemia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cytomegalovirus infection"
+        },
+        {
+          "label": "B",
+          "text": "Epstein-Barr virus infection"
+        },
+        {
+          "label": "C",
+          "text": "Glucose-6-phosphate dehydrogenase deficiency"
+        },
+        {
+          "label": "D",
+          "text": "Iron deficiency"
+        },
+        {
+          "label": "E",
+          "text": "Parvovirus B19 infection"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Parvovirus B19 causes an aplastic crisis by transiently halting marrow red cell production.",
+        "whyCorrect": "In SCD, RBCs have a shortened lifespan, so the marrow must make many more cells daily, reflected by a high baseline reticulocyte count. Parvovirus B19 infects erythroid precursors and causes the bone marrow to temporarily stop making red cells for a few days, producing a profound anemia with a drop in reticulocytes, an acute aplastic crisis.",
+        "whyWrongByChoice": {
+          "A": "CMV does not typically cause the transient red cell aplasia seen with parvovirus B19.",
+          "B": "EBV is not the classic cause of aplastic crisis in patients with hemolytic anemia.",
+          "C": "G6PD deficiency causes episodic hemolysis, which would raise reticulocytes rather than suppress them.",
+          "D": "Iron deficiency causes a gradual microcytic anemia, not a sudden aplastic crisis with low reticulocytes."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "complications",
+        "aplastic crisis",
+        "parvovirus B19"
+      ],
+      "topicId": "sickle-cell-disease",
+      "topicName": "Sickle Cell Disease",
+      "tier": "core"
+    },
+    {
+      "id": "bl12-010",
+      "stem": "A peripheral blood smear from a 15-year-old with sickle cell disease shows several red blood cells containing small, deeply basophilic, spherical nuclear remnants. The presence of these inclusions most directly indicates which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Active intravascular hemolysis"
+        },
+        {
+          "label": "B",
+          "text": "Iron overload from transfusions"
+        },
+        {
+          "label": "C",
+          "text": "Lead poisoning"
+        },
+        {
+          "label": "D",
+          "text": "Loss of normal splenic function"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin B12 deficiency"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Howell-Jolly bodies persist when the spleen cannot remove nuclear remnants, indicating functional asplenia.",
+        "whyCorrect": "Howell-Jolly bodies are small remnants of DNA that are normally removed by the spleen. In the absence of splenic function (functional asplenia, common in SCD due to repeated splenic infarction), they remain in red cells and appear as deeply basophilic spherical inclusions.",
+        "whyWrongByChoice": {
+          "A": "Hemolysis raises bilirubin and reticulocytes; Howell-Jolly bodies specifically reflect absent splenic filtering.",
+          "B": "Iron overload is assessed with ferritin and does not produce Howell-Jolly bodies.",
+          "C": "Lead poisoning classically causes basophilic stippling, a different finding, not Howell-Jolly bodies.",
+          "E": "B12 deficiency causes macrocytosis and hypersegmented neutrophils, not these inclusions specifically."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pathology",
+        "Howell-Jolly bodies",
+        "asplenia"
+      ],
+      "topicId": "sickle-cell-disease",
+      "topicName": "Sickle Cell Disease",
+      "tier": "core"
+    },
+    {
+      "id": "bl12-011",
+      "stem": "A 24-year-old woman of African descent has a lifelong mild hemolytic anemia with splenomegaly and jaundice. Her peripheral smear shows numerous target cells. Hemoglobin electrophoresis confirms homozygous hemoglobin C disease. Which of the following smear findings is the hallmark of this condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hb C crystals"
+        },
+        {
+          "label": "B",
+          "text": "Sickle cells"
+        },
+        {
+          "label": "C",
+          "text": "Spherocytes"
+        },
+        {
+          "label": "D",
+          "text": "Target cells"
+        },
+        {
+          "label": "E",
+          "text": "Teardrop cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Intracellular Hb C crystals are the hallmark peripheral smear finding of hemoglobin C disease.",
+        "whyCorrect": "Homozygous hemoglobin C disease (arising from substitution of lysine for glutamate at the sixth position of the beta chain) presents with mild hemolytic anemia, splenomegaly, and jaundice. Its hallmark peripheral smear finding is the presence of Hb C crystals, along with target cells.",
+        "whyWrongByChoice": {
+          "B": "Sickle cells are the hallmark of sickle cell disease, not hemoglobin C disease.",
+          "C": "Spherocytes are seen in hereditary spherocytosis and autoimmune hemolytic anemia.",
+          "D": "Target cells are seen in Hb C disease but are not specific, also appearing in iron deficiency, thalassemia, and liver disease.",
+          "E": "Teardrop cells are seen with myelofibrosis or other marrow space-occupying lesions."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hemoglobin C disease",
+        "pathology"
+      ],
+      "topicId": "sickle-cell-disease",
+      "topicName": "Sickle Cell Disease",
+      "tier": "core"
+    },
+    {
+      "id": "bl12-012",
+      "stem": "A 16-year-old boy with sickle cell disease is admitted with a severe vaso-occlusive crisis causing 9/10 pain in his back and extremities. Which of the following is the most useful to manage the symptoms of his acute pain episode?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Analgesic drugs"
+        },
+        {
+          "label": "B",
+          "text": "Folic acid"
+        },
+        {
+          "label": "C",
+          "text": "Hydroxyurea"
+        },
+        {
+          "label": "D",
+          "text": "Stem cell transplantation"
+        },
+        {
+          "label": "E",
+          "text": "Transfusion with whole blood"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Prompt analgesia is the first-line treatment of an acute vaso-occlusive pain crisis.",
+        "whyCorrect": "Vaso-occlusive crises are extremely painful, and the first line of treatment is analgesia, with prompt appropriate dosing of pain medication such as morphine. Hydration is a secondary treatment. Effective pain control directly manages the symptoms of the acute episode.",
+        "whyWrongByChoice": {
+          "B": "Folic acid supports baseline red cell production but does not act fast enough to help an acute crisis.",
+          "C": "Hydroxyurea reduces the frequency of future episodes but is not particularly helpful during an ongoing pain crisis.",
+          "D": "Stem cell transplantation is a carefully planned, long-term option for severe complications, not acute pain.",
+          "E": "Whole blood transfusion is reserved for acute bleeding, not routine management of a pain crisis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "management",
+        "vaso-occlusive crisis",
+        "analgesia"
+      ],
+      "topicId": "sickle-cell-disease",
+      "topicName": "Sickle Cell Disease",
+      "tier": "core"
+    },
+    {
+      "id": "bl13-001",
+      "stem": "A 24-year-old man develops lower back pain and dark urine one day after eating a meal of fava beans. He recalls that his grandfather avoided fava beans because they made him \"feel ill.\" On examination he is jaundiced with icteric sclerae. A complete blood count shows anemia with normal leukocytes and platelets, and the mean corpuscular volume is normal. Which of the following is the most likely type of anemia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aplastic anemia"
+        },
+        {
+          "label": "B",
+          "text": "Macrocytic anemia"
+        },
+        {
+          "label": "C",
+          "text": "Megaloblastic anemia"
+        },
+        {
+          "label": "D",
+          "text": "Microcytic hypochromic anemia"
+        },
+        {
+          "label": "E",
+          "text": "Normocytic anemia"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Hemolysis after an oxidant exposure in G6PD deficiency produces a normocytic anemia.",
+        "whyCorrect": "The oxidant exposure (fava beans), family history, jaundice, and back pain point to a G6PD-deficiency hemolytic crisis. Hemolytic anemias characteristically have a normal mean corpuscular volume (normocytic), with normal leukocytes and platelets.",
+        "whyWrongByChoice": {
+          "A": "Aplastic anemia decreases all cell lineages from marrow failure; the normal leukocyte and platelet counts make this unlikely.",
+          "B": "The mean corpuscular volume is not increased in G6PD hemolysis, so it is not macrocytic.",
+          "C": "Megaloblastic anemia is caused by vitamin B12 or folate deficiency, not consistent with this acute oxidant-triggered picture.",
+          "D": "Microcytic hypochromic anemia is seen in iron deficiency, which does not fit this presentation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "G6PD deficiency",
+        "hemolytic anemia",
+        "normocytic anemia"
+      ],
+      "topicId": "g6pd-and-pyruvate-kinase-deficiencies",
+      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+      "tier": "core"
+    },
+    {
+      "id": "bl13-002",
+      "stem": "A 7-year-old boy is found to have G6PD deficiency on genetic testing. He is otherwise healthy with no anemia. Which of the following is the most appropriate long-term management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Allogeneic bone marrow transplant"
+        },
+        {
+          "label": "B",
+          "text": "Avoidance of oxidant triggers"
+        },
+        {
+          "label": "C",
+          "text": "Daily oral corticosteroids"
+        },
+        {
+          "label": "D",
+          "text": "Daily vitamin E supplementation"
+        },
+        {
+          "label": "E",
+          "text": "Scheduled weekly blood transfusions"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The easiest, most practical treatment for G6PD deficiency is avoiding oxidant triggers.",
+        "whyCorrect": "A healthy patient with G6PD deficiency stays asymptomatic as long as oxidizing agents such as fava beans and certain drugs are avoided. Trigger avoidance prevents hemolytic episodes and is the mainstay of management.",
+        "whyWrongByChoice": {
+          "A": "Bone marrow transplant is a last resort for very severe anemias and is unnecessary in G6PD deficiency.",
+          "C": "Corticosteroids help autoimmune hemolytic anemia but are not effective in G6PD deficiency.",
+          "D": "Vitamin E is not involved in the mechanism of G6PD deficiency and does not relieve it.",
+          "E": "Transfusions are unnecessary because the patient will not be anemic unless exposed to an oxidant."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "G6PD deficiency",
+        "management",
+        "trigger avoidance"
+      ],
+      "topicId": "g6pd-and-pyruvate-kinase-deficiencies",
+      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+      "tier": "core"
+    },
+    {
+      "id": "bl13-003",
+      "stem": "Which of the following substances is most likely to be decreased in the red blood cells of a patient with glucose-6-phosphate dehydrogenase deficiency?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Glucokinase"
+        },
+        {
+          "label": "B",
+          "text": "Glucose-6-phosphatase"
+        },
+        {
+          "label": "C",
+          "text": "Oxidized glutathione (GS-SG)"
+        },
+        {
+          "label": "D",
+          "text": "Pyruvate kinase"
+        },
+        {
+          "label": "E",
+          "text": "Reduced glutathione"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "G6PD deficiency reduces NADPH and therefore the level of reduced glutathione.",
+        "whyCorrect": "G6PD generates NADPH, which is needed to keep glutathione in its reduced state. Without adequate G6PD, the cell cannot replenish reduced glutathione, lowering its level and leaving red cells vulnerable to free-radical damage.",
+        "whyWrongByChoice": {
+          "A": "Glucokinase is a glycolytic enzyme unrelated to G6PD deficiency.",
+          "B": "Glucose-6-phosphatase deficiency causes von Gierke disease, a glycogen storage disorder, not G6PD deficiency.",
+          "C": "Oxidized glutathione (GS-SG) increases, not decreases, because reduced glutathione cannot be regenerated.",
+          "D": "Pyruvate kinase is not affected in G6PD deficiency; it is a separate enzyme deficiency."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "G6PD deficiency",
+        "glutathione",
+        "NADPH"
+      ],
+      "topicId": "g6pd-and-pyruvate-kinase-deficiencies",
+      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+      "tier": "core"
+    },
+    {
+      "id": "bl13-004",
+      "stem": "A 1-month-old boy presents with fatigue, irritability, jaundice, and elevated bilirubin. His CBC shows a marked normocytic anemia (hemoglobin 6.0 g/dL) with an increased reticulocyte count. The team suspects pyruvate kinase deficiency. Which of the following treatments is most appropriate at this time?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "High-dose corticosteroids"
+        },
+        {
+          "label": "B",
+          "text": "Observation without treatment"
+        },
+        {
+          "label": "C",
+          "text": "Oral iron supplementation"
+        },
+        {
+          "label": "D",
+          "text": "Red blood cell transfusion"
+        },
+        {
+          "label": "E",
+          "text": "Urgent total splenectomy"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Severe symptomatic anemia in pyruvate kinase deficiency is corrected with red cell transfusion.",
+        "whyCorrect": "In this infant with pyruvate kinase deficiency and severe anemia, correcting the anemia with red blood cell transfusion is the priority in this initial phase, and he may require chronic transfusions.",
+        "whyWrongByChoice": {
+          "A": "Corticosteroids are not a documented treatment for pyruvate kinase deficiency.",
+          "B": "Withholding treatment would not address his severe symptomatic anemia.",
+          "C": "Iron supplementation is not needed because the patient does not have iron deficiency.",
+          "E": "Splenectomy can help severe cases but is generally not recommended until after age 3."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pyruvate kinase deficiency",
+        "transfusion",
+        "neonatal anemia"
+      ],
+      "topicId": "g6pd-and-pyruvate-kinase-deficiencies",
+      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+      "tier": "core"
+    },
+    {
+      "id": "bl13-005",
+      "stem": "A 20-year-old man of Mediterranean descent is admitted during a hemolytic crisis. A vital (supravital) stain of his peripheral blood reveals red cell inclusions composed of denatured, clumped globin attached to the inner cell membrane. Which of the following best describes these inclusions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Basophilic stippling"
+        },
+        {
+          "label": "B",
+          "text": "Heinz bodies"
+        },
+        {
+          "label": "C",
+          "text": "Howell-Jolly bodies"
+        },
+        {
+          "label": "D",
+          "text": "Pappenheimer bodies"
+        },
+        {
+          "label": "E",
+          "text": "Target cells"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Denatured globin clumped on the RBC membrane, seen with vital stains, defines Heinz bodies.",
+        "whyCorrect": "In G6PD deficiency, oxidation causes hemoglobin to dissociate into heme and globin; the denatured globin forms a clump that attaches to the inner red cell membrane. These inclusions are Heinz bodies, visualized with vital stains.",
+        "whyWrongByChoice": {
+          "A": "Basophilic stippling is aggregated ribosomal material, not clumped globin on the membrane.",
+          "C": "Howell-Jolly bodies are nuclear DNA remnants, not denatured globin, and are typical after splenectomy.",
+          "D": "Pappenheimer bodies are iron-containing granules, not denatured globin.",
+          "E": "Target cells are a red cell shape abnormality, not an intracellular globin inclusion."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "G6PD deficiency",
+        "Heinz bodies",
+        "peripheral smear"
+      ],
+      "topicId": "g6pd-and-pyruvate-kinase-deficiencies",
+      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+      "tier": "core"
+    },
+    {
+      "id": "bl13-006",
+      "stem": "A hematologist explains that the characteristic \"bite cells\" seen in G6PD deficiency form through a specific process. Which of the following best describes how bite cells are produced?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antibodies coat the red cell membrane and fix complement along its surface"
+        },
+        {
+          "label": "B",
+          "text": "Mechanical shearing by fibrin strands within small blood vessels"
+        },
+        {
+          "label": "C",
+          "text": "Osmotic swelling produced by an inherited membrane skeleton defect"
+        },
+        {
+          "label": "D",
+          "text": "Precipitation of excess iron granules within the cell cytoplasm"
+        },
+        {
+          "label": "E",
+          "text": "Splenic macrophages remove the membrane to which a Heinz body is attached"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Bite cells form when splenic macrophages remove the Heinz-body-laden membrane.",
+        "whyCorrect": "As red cells with Heinz bodies pass through the spleen, macrophages recognize them as abnormal and, rather than destroying the whole cell, engulf and remove the portion of membrane holding the Heinz body. This produces the characteristic bite cell.",
+        "whyWrongByChoice": {
+          "A": "Antibody and complement coating describes autoimmune hemolysis, not the mechanism of bite cell formation.",
+          "B": "Fibrin-strand shearing produces schistocytes in microangiopathic hemolysis, not bite cells.",
+          "C": "Osmotic swelling from a membrane protein defect describes hereditary spherocytosis, not bite cell formation.",
+          "D": "Intracellular iron precipitation forms Pappenheimer bodies, not bite cells."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "G6PD deficiency",
+        "bite cells",
+        "spleen"
+      ],
+      "topicId": "g6pd-and-pyruvate-kinase-deficiencies",
+      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+      "tier": "core"
+    },
+    {
+      "id": "bl13-007",
+      "stem": "A 30-year-old man recovers from a G6PD-related hemolytic crisis. His physician wants to confirm the diagnosis with an enzyme activity assay. Which of the following is the most appropriate timing for this test?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "At least 3 months after the crisis"
+        },
+        {
+          "label": "B",
+          "text": "During the acute hemolytic crisis"
+        },
+        {
+          "label": "C",
+          "text": "Enzyme assays cannot diagnose G6PD deficiency"
+        },
+        {
+          "label": "D",
+          "text": "Immediately after the crisis resolves"
+        },
+        {
+          "label": "E",
+          "text": "Only when the patient is re-exposed to an oxidant"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Confirmatory G6PD enzyme assays should wait at least 3 months after a hemolytic crisis.",
+        "whyCorrect": "Newly made red cells and reticulocytes have relatively higher G6PD activity, which can mask the reduced activity of the disorder. Because the red cell lifespan is about 120 days, waiting at least 3 months allows a new batch of red cells so the assay reflects the true deficiency.",
+        "whyWrongByChoice": {
+          "B": "During a crisis, the surviving and newly produced cells give falsely higher enzyme readings.",
+          "C": "The diagnosis is in fact confirmed by an enzymatic study measuring G6PD activity.",
+          "D": "Immediately after a crisis, young reticulocytes still mask the reduced enzyme activity.",
+          "E": "Re-exposing the patient to an oxidant would provoke another dangerous crisis and is not how the assay is timed."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "G6PD deficiency",
+        "diagnosis",
+        "enzyme assay"
+      ],
+      "topicId": "g6pd-and-pyruvate-kinase-deficiencies",
+      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+      "tier": "core"
+    },
+    {
+      "id": "bl13-008",
+      "stem": "A 5-year-old boy is diagnosed with G6PD deficiency. His mother is an asymptomatic carrier. Which of the following best describes the inheritance pattern of this disorder?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autosomal dominant"
+        },
+        {
+          "label": "B",
+          "text": "Autosomal recessive"
+        },
+        {
+          "label": "C",
+          "text": "Mitochondrial"
+        },
+        {
+          "label": "D",
+          "text": "Multifactorial with no clear pattern"
+        },
+        {
+          "label": "E",
+          "text": "X-linked"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "G6PD deficiency is inherited in an X-linked pattern.",
+        "whyCorrect": "G6PD deficiency is passed in an X-linked pattern, so males with a single affected X chromosome usually manifest the disorder while females are typically heterozygous carriers. Females may be symptomatic only if homozygous or if their normal X is inactivated.",
+        "whyWrongByChoice": {
+          "A": "The disorder is not autosomal dominant; carrier females are usually asymptomatic rather than affected.",
+          "B": "Autosomal recessive describes pyruvate kinase deficiency, not G6PD deficiency.",
+          "C": "It is not mitochondrial; inheritance is tied to the X chromosome, not maternal cytoplasmic DNA.",
+          "D": "The disorder follows a clear X-linked pattern, not a vague multifactorial one."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "G6PD deficiency",
+        "genetics",
+        "X-linked"
+      ],
+      "topicId": "g6pd-and-pyruvate-kinase-deficiencies",
+      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+      "tier": "core"
+    },
+    {
+      "id": "bl13-009",
+      "stem": "A 19-year-old woman is treated for a urinary tract infection with trimethoprim-sulfamethoxazole. Four days later she becomes jaundiced and fatigued, with dark urine and back pain. Which of the following mechanisms best explains her presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An inherited defect in the red cell membrane skeleton protein spectrin"
+        },
+        {
+          "label": "B",
+          "text": "Crowding of the marrow space by infiltrating malignant cells"
+        },
+        {
+          "label": "C",
+          "text": "Impaired heme synthesis from lead inhibition of ferrochelatase"
+        },
+        {
+          "label": "D",
+          "text": "Oxidative damage overwhelming a G6PD-deficient antioxidant defense"
+        },
+        {
+          "label": "E",
+          "text": "Warm-reactive IgG autoantibodies directed against red cell surface antigens"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A sulfonamide antibiotic triggered oxidative hemolysis in G6PD deficiency.",
+        "whyCorrect": "Sulfonamides such as trimethoprim-sulfamethoxazole are oxidizing agents. In a G6PD-deficient patient, the reduced-glutathione defense is inadequate, so oxidative membrane damage causes intravascular hemolysis hours to days later, producing hemoglobinuria (dark urine), jaundice, and back pain.",
+        "whyWrongByChoice": {
+          "A": "A spectrin membrane defect describes hereditary spherocytosis, not an oxidant-triggered crisis.",
+          "B": "Marrow infiltration causes cytopenias from crowding, not an acute drug-triggered hemolytic episode.",
+          "C": "Lead poisoning impairs heme synthesis and causes basophilic stippling, not acute oxidant hemolysis.",
+          "E": "IgG autoantibodies cause autoimmune hemolytic anemia, which is not triggered by an oxidant drug in this way."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "G6PD deficiency",
+        "sulfonamide",
+        "oxidative hemolysis"
+      ],
+      "topicId": "g6pd-and-pyruvate-kinase-deficiencies",
+      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+      "tier": "core"
+    },
+    {
+      "id": "bl13-010",
+      "stem": "During a G6PD hemolytic crisis, a patient develops rising serum creatinine and flank pain. Which of the following best explains the acute kidney injury?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct autoimmune attack on renal glomeruli"
+        },
+        {
+          "label": "B",
+          "text": "Iron deposition from chronic transfusion"
+        },
+        {
+          "label": "C",
+          "text": "Obstruction of ureters by gallstones"
+        },
+        {
+          "label": "D",
+          "text": "Prerenal azotemia from dehydration alone"
+        },
+        {
+          "label": "E",
+          "text": "Toxic effect of filtered hemoglobin"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Filtered free hemoglobin is toxic to renal tubular cells, causing acute kidney injury.",
+        "whyCorrect": "Intravascular hemolysis releases free hemoglobin that is filtered into the urine. This filtered hemoglobin has a toxic effect on the renal tubular cells, elevating serum creatinine (acute kidney injury) and causing back or flank pain.",
+        "whyWrongByChoice": {
+          "A": "The kidney injury is from filtered hemoglobin toxicity, not autoimmune glomerular attack.",
+          "B": "Iron deposition from chronic transfusion is a long-term issue, not the cause of acute injury during a first crisis.",
+          "C": "Gallstones are a complication of chronic hemolysis and do not obstruct the ureters.",
+          "D": "The brick attributes the injury specifically to the toxic effect of hemoglobin, not dehydration alone."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "G6PD deficiency",
+        "acute kidney injury",
+        "hemoglobinuria"
+      ],
+      "topicId": "g6pd-and-pyruvate-kinase-deficiencies",
+      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+      "tier": "core"
+    },
+    {
+      "id": "bl13-011",
+      "stem": "A 3-year-old child of Northern European descent has had chronic anemia since birth. Pyruvate kinase deficiency is diagnosed. Which of the following best explains why the red cells hemolyze in this disorder?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Abnormal spectrin in the membrane skeleton"
+        },
+        {
+          "label": "B",
+          "text": "Antibody-mediated red cell destruction"
+        },
+        {
+          "label": "C",
+          "text": "Inability to generate NADPH for glutathione"
+        },
+        {
+          "label": "D",
+          "text": "Oxidation of hemoglobin by ingested oxidants"
+        },
+        {
+          "label": "E",
+          "text": "Reduced ATP production making red cells rigid"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Pyruvate kinase deficiency lowers ATP, making red cells rigid and prone to hemolysis.",
+        "whyCorrect": "Pyruvate kinase catalyzes the final step of glycolysis, transferring phosphate to ADP to make ATP. Its deficiency lowers ATP, making red cells more rigid and more likely to hemolyze, mainly extravascularly as macrophages in the spleen phagocytize them.",
+        "whyWrongByChoice": {
+          "A": "Abnormal spectrin describes hereditary spherocytosis, a membrane skeleton disorder.",
+          "B": "Antibody-mediated destruction describes autoimmune hemolytic anemia, not an enzyme deficiency.",
+          "C": "Inability to generate NADPH describes G6PD deficiency, not pyruvate kinase deficiency.",
+          "D": "Oxidant-triggered hemoglobin oxidation is the mechanism of G6PD deficiency, not pyruvate kinase deficiency."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pyruvate kinase deficiency",
+        "ATP",
+        "glycolysis"
+      ],
+      "topicId": "g6pd-and-pyruvate-kinase-deficiencies",
+      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+      "tier": "core"
+    },
+    {
+      "id": "bl13-012",
+      "stem": "A student notes that G6PD deficiency and pyruvate kinase deficiency differ in where red cell destruction predominantly occurs. Which of the following correctly pairs each disorder with its main site of hemolysis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Both predominantly extravascular"
+        },
+        {
+          "label": "B",
+          "text": "Both predominantly intravascular"
+        },
+        {
+          "label": "C",
+          "text": "G6PD extravascular; pyruvate kinase intravascular"
+        },
+        {
+          "label": "D",
+          "text": "G6PD in bone marrow; pyruvate kinase in liver"
+        },
+        {
+          "label": "E",
+          "text": "G6PD intravascular; pyruvate kinase extravascular"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "G6PD hemolysis is mainly intravascular, whereas pyruvate kinase hemolysis is mainly extravascular.",
+        "whyCorrect": "In G6PD deficiency, oxidative membrane damage can be severe enough that red cells burst within blood vessels, so hemolysis is mainly intravascular. In pyruvate kinase deficiency, rigid ATP-depleted cells are phagocytized by splenic macrophages, so hemolysis is mainly extravascular.",
+        "whyWrongByChoice": {
+          "A": "Only pyruvate kinase deficiency is predominantly extravascular; G6PD is not.",
+          "B": "Only G6PD deficiency is predominantly intravascular; pyruvate kinase is not.",
+          "C": "This reverses the two disorders; G6PD is intravascular and pyruvate kinase is extravascular.",
+          "D": "Neither disorder localizes its hemolysis primarily to the bone marrow or liver as described."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "G6PD deficiency",
+        "pyruvate kinase deficiency",
+        "hemolysis"
+      ],
+      "topicId": "g6pd-and-pyruvate-kinase-deficiencies",
+      "topicName": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+      "tier": "core"
+    },
+    {
+      "id": "bl14-001",
+      "stem": "A 45-year-old woman develops fatigue, shortness of breath, and yellowing of the eyes. Laboratory studies show a low hemoglobin, a normal mean corpuscular volume, an elevated reticulocyte count, and an elevated indirect bilirubin. A peripheral blood smear shows numerous spherocytes, and a direct antiglobulin test is positive. Binding of which of the following antibodies to her red blood cells is the most likely cause of her anemia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anti-CD20 antibodies against B lymphocytes"
+        },
+        {
+          "label": "B",
+          "text": "Antibodies against the C5 complement component"
+        },
+        {
+          "label": "C",
+          "text": "Biphasic IgG antibodies directed against the P antigen"
+        },
+        {
+          "label": "D",
+          "text": "IgG antibodies that bind most avidly at 37 C"
+        },
+        {
+          "label": "E",
+          "text": "IgM antibodies that bind most avidly below 30 C"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Warm autoimmune hemolytic anemia is caused by IgG autoantibodies most active at body temperature.",
+        "whyCorrect": "In warm AHA, IgG autoantibodies bind red blood cells most avidly at normal body temperature (37 C). IgG-coated RBCs are partially phagocytosed by splenic macrophages, losing membrane and rounding into fragile spherocytes, which explains the spherocytes on the smear and the positive direct antiglobulin test.",
+        "whyWrongByChoice": {
+          "A": "Anti-CD20 describes rituximab, a treatment for AHA, not an autoantibody that causes the disease.",
+          "B": "Anti-C5 antibody describes eculizumab, a drug used for PNH, not a cause of warm AHA.",
+          "C": "Biphasic anti-P (Donath-Landsteiner) IgG causes paroxysmal cold hemoglobinuria, a self-limited disorder of children after viral infection.",
+          "E": "IgM cold agglutinins active below 30 C cause cold AHA, which produces RBC agglutinates rather than the spherocytes seen here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "warm AHA",
+        "IgG",
+        "spherocytes"
+      ],
+      "topicId": "autoimmune-hemolytic-anemias",
+      "topicName": "Autoimmune Hemolytic Anemias",
+      "tier": "core"
+    },
+    {
+      "id": "bl14-002",
+      "stem": "A 60-year-old man develops fatigue and jaundice one week after starting a cephalosporin antibiotic for pneumonia. A complete blood count reveals a low hemoglobin with a normal mean corpuscular volume, and a peripheral blood smear shows spherocytes. Which of the following test results would most specifically distinguish an autoimmune hemolytic anemia from other causes of hemolysis in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Elevated indirect bilirubin"
+        },
+        {
+          "label": "B",
+          "text": "Low blood hemoglobin"
+        },
+        {
+          "label": "C",
+          "text": "Normal mean corpuscular volume"
+        },
+        {
+          "label": "D",
+          "text": "Positive direct antiglobulin test"
+        },
+        {
+          "label": "E",
+          "text": "Spherocytes on the blood smear"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The direct antiglobulin (Coombs) test is what specifically identifies an autoimmune hemolytic anemia.",
+        "whyCorrect": "The direct antiglobulin test detects antibody or complement coating the patient's red blood cells. It is positive in autoimmune hemolytic anemia but negative in nonimmune hemolytic anemias, so it specifically separates AHA from other causes of hemolysis.",
+        "whyWrongByChoice": {
+          "A": "Elevated indirect bilirubin reflects any hemolysis and does not indicate an immune mechanism.",
+          "B": "A low hemoglobin is present in essentially every anemia and is not specific for an immune cause.",
+          "C": "A normal MCV occurs in many anemias, including numerous hemolytic anemias, so it is not specific.",
+          "E": "Spherocytes are also seen in hereditary spherocytosis and some infections, so they are not specific for AHA."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "direct antiglobulin test",
+        "Coombs",
+        "diagnosis"
+      ],
+      "topicId": "autoimmune-hemolytic-anemias",
+      "topicName": "Autoimmune Hemolytic Anemias",
+      "tier": "core"
+    },
+    {
+      "id": "bl14-003",
+      "stem": "A 24-year-old man recovering from Mycoplasma pneumoniae infection develops painful bluish discoloration of his fingers when outdoors in cold weather, along with fatigue. Laboratory studies show anemia with an elevated reticulocyte count, and a blood smear performed on cold blood shows clumping of red blood cells. Which of the following best describes the antibody responsible for his hemolysis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autoantibody against the GPI-anchored protein CD55"
+        },
+        {
+          "label": "B",
+          "text": "IgG monomer that binds most avidly at 37 C"
+        },
+        {
+          "label": "C",
+          "text": "IgM pentamer that agglutinates RBCs in the cold"
+        },
+        {
+          "label": "D",
+          "text": "Monoclonal antibody against complement component C5"
+        },
+        {
+          "label": "E",
+          "text": "Secretory IgA dimer released onto mucosal surfaces"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Cold AHA is caused by IgM cold agglutinins that clump RBCs at cool temperatures.",
+        "whyCorrect": "The autoantibodies in cold AHA are IgM 'cold agglutinins,' secreted as pentamers. A single IgM pentamer can bind up to 10 antigens, so it agglutinates several RBCs at once in cooler body regions, producing the clumping seen on a cold smear and the acrocyanosis. Cold AHA is classically triggered by Mycoplasma or EBV infection.",
+        "whyWrongByChoice": {
+          "A": "Loss of the CD55 GPI anchor is the defect in PNH, not an autoantibody causing cold AHA.",
+          "B": "IgG active at 37 C causes warm AHA, which produces spherocytes rather than cold-dependent agglutination.",
+          "D": "Anti-C5 describes eculizumab, a PNH therapy, not the cold agglutinin responsible here.",
+          "E": "IgA is not the mediator of autoimmune hemolytic anemia described in this brick."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cold AHA",
+        "IgM",
+        "cold agglutinin",
+        "Mycoplasma"
+      ],
+      "topicId": "autoimmune-hemolytic-anemias",
+      "topicName": "Autoimmune Hemolytic Anemias",
+      "tier": "core"
+    },
+    {
+      "id": "bl14-004",
+      "stem": "A 52-year-old woman is diagnosed with primary (idiopathic) warm autoimmune hemolytic anemia. Which of the following is the most appropriate first-line pharmacologic therapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Eculizumab"
+        },
+        {
+          "label": "B",
+          "text": "Glucocorticoids such as prednisone"
+        },
+        {
+          "label": "C",
+          "text": "Hydroxyurea"
+        },
+        {
+          "label": "D",
+          "text": "Immediate splenectomy"
+        },
+        {
+          "label": "E",
+          "text": "Strict avoidance of cold temperatures"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Glucocorticoids are first-line therapy for warm AHA.",
+        "whyCorrect": "For primary warm AHA, anti-inflammatory glucocorticoids such as prednisone are effective and are the first-line therapy. Rituximab is another option that reduces autoantibody production by depleting B cells.",
+        "whyWrongByChoice": {
+          "A": "Eculizumab, an anti-C5 antibody, is used for paroxysmal nocturnal hemoglobinuria, not warm AHA.",
+          "C": "Hydroxyurea is a treatment for sickle cell disease and has no role in warm AHA.",
+          "D": "Splenectomy is reserved for warm AHA that is refractory to other therapies because of its infection risk, not as first-line treatment.",
+          "E": "Avoiding cold is a management strategy for cold AHA, not warm AHA."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "warm AHA",
+        "treatment",
+        "glucocorticoids"
+      ],
+      "topicId": "autoimmune-hemolytic-anemias",
+      "topicName": "Autoimmune Hemolytic Anemias",
+      "tier": "core"
+    },
+    {
+      "id": "bl14-005",
+      "stem": "A patient is evaluated for cold autoimmune hemolytic anemia. Which of the following laboratory findings would be LEAST likely in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased haptoglobin"
+        },
+        {
+          "label": "B",
+          "text": "Decreased mean corpuscular volume"
+        },
+        {
+          "label": "C",
+          "text": "Increased reticulocyte count"
+        },
+        {
+          "label": "D",
+          "text": "Positive direct antiglobulin test"
+        },
+        {
+          "label": "E",
+          "text": "Red blood cell agglutination on the smear"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "AHA is a normocytic anemia, so a decreased MCV is not expected.",
+        "whyCorrect": "Autoimmune hemolytic anemia (warm and cold) is normocytic, meaning the mean corpuscular volume is normal, not decreased. A decreased MCV would therefore be the least likely finding.",
+        "whyWrongByChoice": {
+          "A": "Haptoglobin is decreased because it is consumed clearing free hemoglobin released by hemolysis.",
+          "C": "Reticulocytes are increased as the bone marrow compensates for destroyed RBCs.",
+          "D": "A positive direct antiglobulin test is expected and is diagnostic of AHA.",
+          "E": "RBC agglutination may be seen on the peripheral smear in cold AHA."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cold AHA",
+        "normocytic",
+        "lab findings"
+      ],
+      "topicId": "autoimmune-hemolytic-anemias",
+      "topicName": "Autoimmune Hemolytic Anemias",
+      "tier": "core"
+    },
+    {
+      "id": "bl14-006",
+      "stem": "A 30-year-old woman with no significant past history presents with fatigue. Laboratory studies show a hemoglobin of 6.4 g/dL, an MCV of 101 fL, mildly decreased white blood cell and platelet counts, and no morphologic abnormalities on the smear. Flow cytometry reveals a red blood cell population lacking CD55 and CD59 surface proteins. Which of the following is the most appropriate treatment for her condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Avoidance of cold temperatures"
+        },
+        {
+          "label": "B",
+          "text": "Corticosteroids"
+        },
+        {
+          "label": "C",
+          "text": "Eculizumab"
+        },
+        {
+          "label": "D",
+          "text": "Hydroxyurea"
+        },
+        {
+          "label": "E",
+          "text": "Splenectomy"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Absent CD55/CD59 by flow cytometry identifies PNH, treated with eculizumab.",
+        "whyCorrect": "The absence of the GPI-anchored complement inhibitors CD55 and CD59, combined with pancytopenia and hemolysis, indicates paroxysmal nocturnal hemoglobinuria. Eculizumab, a recombinant antibody against complement C5, decreases hemolysis and thrombosis risk and is the appropriate treatment.",
+        "whyWrongByChoice": {
+          "A": "Avoiding cold treats cold AHA, not the complement-mediated intravascular hemolysis of PNH.",
+          "B": "Corticosteroids are used for warm AHA and are not the treatment for PNH.",
+          "D": "Hydroxyurea is used for sickle cell disease, not PNH.",
+          "E": "Splenectomy targets extravascular splenic hemolysis; PNH hemolysis is intravascular, so it would not help."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "PNH",
+        "CD55",
+        "CD59",
+        "eculizumab",
+        "flow cytometry"
+      ],
+      "topicId": "autoimmune-hemolytic-anemias",
+      "topicName": "Autoimmune Hemolytic Anemias",
+      "tier": "core"
+    },
+    {
+      "id": "bl14-007",
+      "stem": "In warm autoimmune hemolytic anemia, spherocytes appear on the peripheral blood smear. Which of the following best explains how these spherocytes are formed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A splenic macrophage removes a portion of the antibody-coated RBC membrane"
+        },
+        {
+          "label": "B",
+          "text": "An inherited mutation in the RBC membrane cytoskeleton produces the spheres from birth"
+        },
+        {
+          "label": "C",
+          "text": "IgM pentamers cross-link and physically clump red blood cells together"
+        },
+        {
+          "label": "D",
+          "text": "Loss of CD55 and CD59 anchors makes cells prone to complement lysis"
+        },
+        {
+          "label": "E",
+          "text": "The membrane attack complex lyses cells directly within the vasculature"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Spherocytes form when a splenic macrophage removes part of the antibody-coated RBC membrane.",
+        "whyCorrect": "In warm AHA, a splenic macrophage sometimes removes only a chunk of the IgG-coated RBC membrane rather than the whole cell. The remaining RBC seals the hole and, having lost membrane, loses its biconcave shape and rounds up into a fragile spherocyte that continues to circulate.",
+        "whyWrongByChoice": {
+          "B": "An inherited cytoskeletal defect describes hereditary spherocytosis, not the acquired spherocytes of warm AHA.",
+          "C": "IgM cross-linking causes RBC agglutination in cold AHA, not the individual spherocytes of warm AHA.",
+          "D": "Loss of CD55/CD59 is the mechanism of PNH, unrelated to spherocyte formation in warm AHA.",
+          "E": "Membrane attack complex lysis is intravascular hemolysis and does not create surviving spherocytes."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "warm AHA",
+        "spherocytes",
+        "extravascular hemolysis"
+      ],
+      "topicId": "autoimmune-hemolytic-anemias",
+      "topicName": "Autoimmune Hemolytic Anemias",
+      "tier": "core"
+    },
+    {
+      "id": "bl14-008",
+      "stem": "A 48-year-old man with warm autoimmune hemolytic anemia has persistent severe hemolysis despite glucocorticoids and rituximab. Splenectomy is being considered. Which feature of warm AHA best explains why removing the spleen would be expected to reduce his hemolysis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Most hemolysis in warm AHA occurs extravascularly in the spleen"
+        },
+        {
+          "label": "B",
+          "text": "The spleen is the primary source of the IgM cold agglutinins"
+        },
+        {
+          "label": "C",
+          "text": "The spleen manufactures haptoglobin that drives hemolysis"
+        },
+        {
+          "label": "D",
+          "text": "The spleen produces the CD55 and CD59 complement inhibitors"
+        },
+        {
+          "label": "E",
+          "text": "The spleen synthesizes the C5b-9 membrane attack complex"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Warm AHA hemolysis is predominantly extravascular in the spleen, so splenectomy can reduce it.",
+        "whyCorrect": "The bulk of hemolysis in warm AHA is extravascular, occurring when splenic macrophages phagocytose IgG-coated RBCs. Removing the spleen eliminates this main site of destruction and mostly cures the hemolysis, though it is reserved for refractory cases because of infection risk.",
+        "whyWrongByChoice": {
+          "B": "Warm AHA is mediated by IgG, not IgM cold agglutinins, and the spleen is not their source.",
+          "C": "Haptoglobin is a plasma protein that binds free hemoglobin and does not drive hemolysis.",
+          "D": "CD55 and CD59 are GPI-anchored proteins on blood cells; their loss defines PNH and is unrelated to the spleen.",
+          "E": "The membrane attack complex is a complement product, not something synthesized by the spleen."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "warm AHA",
+        "splenectomy",
+        "extravascular hemolysis"
+      ],
+      "topicId": "autoimmune-hemolytic-anemias",
+      "topicName": "Autoimmune Hemolytic Anemias",
+      "tier": "core"
+    },
+    {
+      "id": "bl14-009",
+      "stem": "A patient with cold autoimmune hemolytic anemia has symptoms that persist despite avoiding cold exposure. Which of the following treatments is most appropriate if therapy is needed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic RBC transfusion alone"
+        },
+        {
+          "label": "B",
+          "text": "Hydrocortisone"
+        },
+        {
+          "label": "C",
+          "text": "Prednisone"
+        },
+        {
+          "label": "D",
+          "text": "Rituximab"
+        },
+        {
+          "label": "E",
+          "text": "Splenectomy"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Rituximab may be useful in cold AHA, whereas glucocorticoids and splenectomy are not.",
+        "whyCorrect": "Cold AHA is harder to treat than warm AHA, but rituximab may be useful. Glucocorticoids and splenectomy have not been found to be clinically useful in cold AHA, so rituximab is the best listed option when pharmacologic therapy is required.",
+        "whyWrongByChoice": {
+          "A": "Transfusion offers only temporary support and does not remove the autoantibodies; it is not definitive therapy.",
+          "B": "Hydrocortisone is also a glucocorticoid, which is not effective in cold AHA.",
+          "C": "Prednisone, a glucocorticoid, has not been found clinically useful in cold AHA.",
+          "E": "Splenectomy is not useful in cold AHA because its hemolysis is not predominantly splenic extravascular destruction."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cold AHA",
+        "treatment",
+        "rituximab"
+      ],
+      "topicId": "autoimmune-hemolytic-anemias",
+      "topicName": "Autoimmune Hemolytic Anemias",
+      "tier": "core"
+    },
+    {
+      "id": "bl14-010",
+      "stem": "A 6-year-old boy develops sudden fatigue and passes dark red urine two weeks after a viral upper respiratory infection. Testing reveals a peculiar antibody that binds red blood cells at cold temperatures and fixes complement, then causes intravascular hemolysis as the blood rewarms. The disorder is self-limited. Which of the following antibodies is most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anti-CD20 antibody against B cells"
+        },
+        {
+          "label": "B",
+          "text": "Antibody against the C5 complement component"
+        },
+        {
+          "label": "C",
+          "text": "Biphasic IgG anti-P antibody"
+        },
+        {
+          "label": "D",
+          "text": "IgM cold agglutinin against the I antigen"
+        },
+        {
+          "label": "E",
+          "text": "Warm-reactive IgG against Rh antigens"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Paroxysmal cold hemoglobinuria is caused by the biphasic Donath-Landsteiner IgG anti-P antibody.",
+        "whyCorrect": "Paroxysmal cold hemoglobinuria commonly occurs in children after a viral infection or vaccination. It is caused by a biphasic IgG antibody against the P antigen (the Donath-Landsteiner antibody) that fixes complement at cool temperatures and completes hemolysis at warmer temperatures, causing intravascular hemolysis. It is usually self-limited.",
+        "whyWrongByChoice": {
+          "A": "Anti-CD20 describes rituximab, a therapy, not an autoantibody causing this disorder.",
+          "B": "Anti-C5 describes eculizumab, used in PNH, not the antibody responsible for PCH.",
+          "D": "IgM cold agglutinins cause cold AHA with agglutination, not the biphasic IgG mechanism of PCH.",
+          "E": "Warm-reactive IgG causes warm AHA, which is extravascular and not the biphasic, cold-triggered process described."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "paroxysmal cold hemoglobinuria",
+        "Donath-Landsteiner",
+        "P antigen"
+      ],
+      "topicId": "autoimmune-hemolytic-anemias",
+      "topicName": "Autoimmune Hemolytic Anemias",
+      "tier": "core"
+    },
+    {
+      "id": "bl14-011",
+      "stem": "A 34-year-old man has chronic intravascular hemolysis, mild pancytopenia, and a recent portal vein thrombosis. Hemolytic workup shows elevated LDH and reticulocytes with low haptoglobin, and the direct antiglobulin test is negative. Which of the following is the key diagnostic test for his suspected condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct antiglobulin (Coombs) test"
+        },
+        {
+          "label": "B",
+          "text": "Flow cytometry for CD55 and CD59"
+        },
+        {
+          "label": "C",
+          "text": "Hemoglobin electrophoresis"
+        },
+        {
+          "label": "D",
+          "text": "Indirect antiglobulin test"
+        },
+        {
+          "label": "E",
+          "text": "Osmotic fragility test"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The PNH triad with a negative DAT points to PNH, diagnosed by flow cytometry for CD55/CD59.",
+        "whyCorrect": "The triad of DAT-negative hemolytic anemia, pancytopenia, and venous thrombosis (here, portal vein) is characteristic of paroxysmal nocturnal hemoglobinuria. The key diagnostic test is flow cytometry on peripheral blood demonstrating the absence of the CD55 and CD59 GPI anchors.",
+        "whyWrongByChoice": {
+          "A": "The direct antiglobulin test is negative in PNH and is used to diagnose autoimmune hemolytic anemia instead.",
+          "C": "Hemoglobin electrophoresis detects hemoglobinopathies such as sickle cell disease, not PNH.",
+          "D": "The indirect antiglobulin test detects circulating antibodies (pretransfusion/pregnancy screening) and does not diagnose PNH.",
+          "E": "Osmotic fragility testing evaluates hereditary spherocytosis, not PNH."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "PNH",
+        "triad",
+        "flow cytometry",
+        "thrombosis"
+      ],
+      "topicId": "autoimmune-hemolytic-anemias",
+      "topicName": "Autoimmune Hemolytic Anemias",
+      "tier": "core"
+    },
+    {
+      "id": "bl14-012",
+      "stem": "In the direct antiglobulin test used to diagnose autoimmune hemolytic anemia, the patient's red blood cells are mixed with antihuman immunoglobulin (Coombs reagent). Which of the following best explains why this test can detect both warm and cold AHA?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The reagent binds the GPI-anchored proteins CD55 and CD59 on RBCs"
+        },
+        {
+          "label": "B",
+          "text": "The reagent contains both anti-IgG and anticomplement antibodies"
+        },
+        {
+          "label": "C",
+          "text": "The reagent detects the P blood group antigen on the RBC surface"
+        },
+        {
+          "label": "D",
+          "text": "The reagent directly lyses only spherocytes already coated with IgG"
+        },
+        {
+          "label": "E",
+          "text": "The reagent measures the level of free haptoglobin in the serum"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Antihuman immunoglobulin (AHG) combines anti-IgG and anticomplement, detecting both AHA types.",
+        "whyCorrect": "AHG (Coombs reagent) is a combination of anti-IgG and anticomplement antibodies. It agglutinates RBCs coated with IgG (warm AHA) or with complement and IgM (cold AHA), so a positive DAT detects both types while remaining negative in nonimmune hemolytic anemias.",
+        "whyWrongByChoice": {
+          "A": "CD55 and CD59 are tested by flow cytometry for PNH, not by the Coombs reagent.",
+          "C": "The P antigen relates to the Donath-Landsteiner antibody in PCH and is not what AHG detects.",
+          "D": "The DAT works by agglutination of coated RBCs, not by lysing spherocytes, and it is not limited to IgG.",
+          "E": "Haptoglobin is measured by a separate serum study, not by antihuman immunoglobulin."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "direct antiglobulin test",
+        "AHG",
+        "Coombs reagent"
+      ],
+      "topicId": "autoimmune-hemolytic-anemias",
+      "topicName": "Autoimmune Hemolytic Anemias",
+      "tier": "core"
+    },
+    {
+      "id": "bl15-001",
+      "stem": "A 72-year-old woman is evaluated for fatigue and a burning sensation in her upper abdomen. Laboratory studies show a hemoglobin of 9.8 g/dL and an MCV of 112 fL. Serum vitamin B12 is low. Endoscopy reveals chronic atrophic gastritis, and serum antibodies against gastric parietal cells and intrinsic factor are detected. Which of the following best explains the impaired vitamin B12 absorption in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A tapeworm competes for B12 in the terminal ileum"
+        },
+        {
+          "label": "B",
+          "text": "Autoantibodies destroy parietal cells"
+        },
+        {
+          "label": "C",
+          "text": "Dietary intake of B12 is inadequate"
+        },
+        {
+          "label": "D",
+          "text": "Methotrexate blocks conversion of B12 to its active form"
+        },
+        {
+          "label": "E",
+          "text": "Pancreatic enzymes fail to free B12 from transcobalamin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Pernicious anemia is caused by autoimmune destruction of gastric parietal cells and loss of intrinsic factor.",
+        "whyCorrect": "In pernicious anemia, autoantibodies against parietal cells or intrinsic factor destroy the gastric parietal cells. This leads to decreased gastric acidity and loss of the intrinsic factor needed for intestinal absorption of vitamin B12, and it is typically seen in patients with chronic gastritis.",
+        "whyWrongByChoice": {
+          "A": "The fish tapeworm Diphyllobothrium latum competes for B12 in the terminal ileum, but this patient has autoantibodies and gastritis.",
+          "C": "Dietary deficiency of B12 (e.g., strict vegan diet) is not associated with antiparietal cell or anti-intrinsic factor antibodies.",
+          "D": "Methotrexate impairs folate, not B12, and it inhibits conversion of folate to its active form rather than causing gastritis.",
+          "E": "Failure to free B12 from its transcobalamin protector describes pancreatic insufficiency, not the autoimmune gastritis seen here."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "pernicious anemia",
+        "vitamin B12",
+        "intrinsic factor"
+      ],
+      "topicId": "megaloblastic-anemia",
+      "topicName": "Megaloblastic Anemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl15-002",
+      "stem": "A 68-year-old man reports 3 months of progressive numbness and unsteady gait. Neurologic examination shows decreased vibration and position sense in the lower extremities with hyperreflexia. Hemoglobin is 9.4 g/dL and MCV is 108 fL. Which of the following serum metabolites is most likely to be elevated as a direct result of this patient's deficiency?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Methionine"
+        },
+        {
+          "label": "B",
+          "text": "Methylmalonic acid"
+        },
+        {
+          "label": "C",
+          "text": "Succinyl-CoA"
+        },
+        {
+          "label": "D",
+          "text": "Tetrahydrofolate"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin B12"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In vitamin B12 deficiency, impaired methylmalonyl-CoA mutase activity causes methylmalonic acid to accumulate.",
+        "whyCorrect": "Vitamin B12 is required for the conversion of methylmalonyl-CoA to succinyl-CoA by methylmalonyl-CoA mutase, a step toward myelin synthesis. When B12 is deficient, this step is blocked, methylmalonyl-CoA accumulates, and methylmalonic acid rises. This explains both the neurologic findings (subacute combined degeneration) and the elevated MMA.",
+        "whyWrongByChoice": {
+          "A": "Methionine is produced by the B12-dependent methionine synthase reaction, so it falls, not rises, in B12 deficiency.",
+          "C": "Succinyl-CoA is the product downstream of the blocked mutase reaction, so it would decrease.",
+          "D": "Tetrahydrofolate levels drop in B12 deficiency because folate is trapped as methyl-THF.",
+          "E": "Vitamin B12 itself is low, since deficiency is the underlying problem."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "vitamin B12",
+        "methylmalonic acid",
+        "subacute combined degeneration"
+      ],
+      "topicId": "megaloblastic-anemia",
+      "topicName": "Megaloblastic Anemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl15-003",
+      "stem": "A 55-year-old man with alcohol use disorder is found to have a hemoglobin of 9.0 g/dL, an MCV of 110 fL, glossitis, and decreased vibration sense with an unsteady gait. Two weeks ago he was empirically started on oral folic acid. If his true underlying deficiency is vitamin B12, which of the following outcomes is most likely at follow-up?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Improvement of both the anemia and neurologic symptoms"
+        },
+        {
+          "label": "B",
+          "text": "Improvement of the anemia but unchanged neurologic symptoms"
+        },
+        {
+          "label": "C",
+          "text": "No change in the anemia or neurologic symptoms"
+        },
+        {
+          "label": "D",
+          "text": "Worsening anemia with improvement of neurologic symptoms"
+        },
+        {
+          "label": "E",
+          "text": "Worsening of both the anemia and neurologic symptoms"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Folic acid can reverse the hematologic abnormalities of B12 deficiency but not the neurologic ones.",
+        "whyCorrect": "The brick states that folic acid supplementation alone may reverse the hematologic abnormalities of vitamin B12 deficiency, but it will often not reverse the neurologic symptoms. Therefore the anemia improves while the neurologic deficits persist.",
+        "whyWrongByChoice": {
+          "A": "Improvement of both would be expected only if the patient received vitamin B12, which corrects the neurologic pathway.",
+          "C": "The anemia responds to folate, so at least the hematologic picture improves.",
+          "D": "Folate improves rather than worsens the anemia, and it does not fix the neurologic deficits.",
+          "E": "Folate does not worsen the anemia; it improves it."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "folate",
+        "vitamin B12",
+        "treatment",
+        "neurologic symptoms"
+      ],
+      "topicId": "megaloblastic-anemia",
+      "topicName": "Megaloblastic Anemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl15-004",
+      "stem": "A 60-year-old woman with fatigue has a hemoglobin of 8.8 g/dL and an MCV of 114 fL. Which of the following peripheral blood smear findings is most specific for megaloblastic anemia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Macro-ovalocytes and hypersegmented neutrophils"
+        },
+        {
+          "label": "B",
+          "text": "Microcytic, hypochromic red cells with central pallor"
+        },
+        {
+          "label": "C",
+          "text": "Schistocytes (red cell fragments) with thrombocytopenia"
+        },
+        {
+          "label": "D",
+          "text": "Spherocytes with an increased reticulocyte count"
+        },
+        {
+          "label": "E",
+          "text": "Teardrop cells and nucleated red blood cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Macro-ovalocytes and hypersegmented neutrophils (>5 lobes) are the smear hallmarks of megaloblastic anemia.",
+        "whyCorrect": "While simple macrocytes can be seen in other anemias (e.g., heavy alcohol use), oval macrocytes (macro-ovalocytes) and hypersegmented neutrophils with more than five lobes are characteristic of megaloblastic anemia and are not seen in other causes of macrocytosis.",
+        "whyWrongByChoice": {
+          "B": "Microcytic, hypochromic cells point to iron deficiency, the opposite of macrocytosis.",
+          "C": "Schistocytes indicate microangiopathic hemolytic anemia.",
+          "D": "Spherocytes with reticulocytosis suggest hereditary spherocytosis or hemolysis.",
+          "E": "Teardrop cells are seen in myelofibrosis and marrow-infiltrating processes."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "peripheral smear",
+        "hypersegmented neutrophils",
+        "macro-ovalocytes"
+      ],
+      "topicId": "megaloblastic-anemia",
+      "topicName": "Megaloblastic Anemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl15-005",
+      "stem": "A patient with severe vitamin B12 deficiency has a low tetrahydrofolate (THF) level despite adequate dietary folate intake. Which of the following best explains why folate becomes functionally deficient in this setting?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Excess methionine synthase converts all folate to purines"
+        },
+        {
+          "label": "B",
+          "text": "Folate absorption in the duodenum is blocked by antiparietal cell antibodies"
+        },
+        {
+          "label": "C",
+          "text": "Folate is destroyed by increased gastric acid production"
+        },
+        {
+          "label": "D",
+          "text": "Folate is trapped as methyl-THF because B12 cannot accept its methyl group"
+        },
+        {
+          "label": "E",
+          "text": "Folate stores are depleted within days of B12 deficiency"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The methylfolate trap: without B12, folate is stuck as methyl-THF and cannot be regenerated to usable forms.",
+        "whyCorrect": "Methyl-THF normally donates its methyl group to vitamin B12, which reactivates the folate. If B12 is deficient, folate is trapped as methyl-THF, so levels of THF and methylene-THF drop and DNA synthesis is impaired even when dietary folate is sufficient.",
+        "whyWrongByChoice": {
+          "A": "Methionine synthase is impaired, not overactive, when B12 is low.",
+          "B": "Antiparietal cell antibodies impair B12 (via intrinsic factor), not folate absorption.",
+          "C": "B12 deficiency from gastritis decreases gastric acidity; acid does not destroy folate here.",
+          "E": "Folate stores deplete over 4 to 5 months, not days, and dietary intake here is adequate."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "methylfolate trap",
+        "folate",
+        "vitamin B12",
+        "DNA synthesis"
+      ],
+      "topicId": "megaloblastic-anemia",
+      "topicName": "Megaloblastic Anemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl15-006",
+      "stem": "A 45-year-old man who frequently eats undercooked freshwater fish develops fatigue and paresthesias. Laboratory studies show a macrocytic anemia and a low serum vitamin B12 level. Which of the following organisms is the most likely cause of his deficiency?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ancylostoma duodenale"
+        },
+        {
+          "label": "B",
+          "text": "Diphyllobothrium latum"
+        },
+        {
+          "label": "C",
+          "text": "Enterobius vermicularis"
+        },
+        {
+          "label": "D",
+          "text": "Giardia lamblia"
+        },
+        {
+          "label": "E",
+          "text": "Helicobacter pylori"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The fish tapeworm Diphyllobothrium latum competes for vitamin B12 in the terminal ileum.",
+        "whyCorrect": "The brick specifically lists infection with the fish tapeworm Diphyllobothrium latum, which colonizes the terminal ileum and competes for vitamin B12 uptake, as a cause of B12 deficiency. It is acquired from undercooked fish.",
+        "whyWrongByChoice": {
+          "A": "Ancylostoma duodenale (hookworm) classically causes iron deficiency from blood loss.",
+          "C": "Enterobius vermicularis (pinworm) causes perianal itching, not B12 deficiency.",
+          "D": "Giardia lamblia causes malabsorptive diarrhea, not competitive B12 uptake by a tapeworm.",
+          "E": "Helicobacter pylori is linked to gastritis and peptic ulcers but is not the B12-competing organism named here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Diphyllobothrium latum",
+        "vitamin B12",
+        "parasite"
+      ],
+      "topicId": "megaloblastic-anemia",
+      "topicName": "Megaloblastic Anemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl15-007",
+      "stem": "A 28-year-old woman who is 8 weeks pregnant is counseled about vitamin supplementation. Adequate intake of which vitamin is most important to reduce the risk of neural tube defects in her infant?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Folate"
+        },
+        {
+          "label": "B",
+          "text": "Iron"
+        },
+        {
+          "label": "C",
+          "text": "Vitamin B12"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin C"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin D"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Folate deficiency in early pregnancy raises the risk of neural tube defects, so folate supplementation is essential.",
+        "whyCorrect": "The brick notes that folate deficiency in women in early pregnancy is associated with a higher risk of neural tube defects, prompting FDA-mandated folate fortification of grain products and prenatal vitamins rich in folate. Pregnancy also increases folate demand due to high cell proliferation.",
+        "whyWrongByChoice": {
+          "B": "Iron prevents iron deficiency anemia but does not prevent neural tube defects.",
+          "C": "Vitamin B12 deficiency causes neurologic disease and macrocytic anemia but is not the vitamin tied to neural tube defect prevention here.",
+          "D": "Vitamin C is not implicated in neural tube defects in this brick.",
+          "E": "Vitamin D relates to bone metabolism, not neural tube defects."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "folate",
+        "pregnancy",
+        "neural tube defects"
+      ],
+      "topicId": "megaloblastic-anemia",
+      "topicName": "Megaloblastic Anemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl15-008",
+      "stem": "A patient with folate deficiency has a bone marrow biopsy showing large erythroid progenitor cells with immature nuclear chromatin despite a mature-appearing cytoplasm. Which of the following best describes the mechanism producing these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Clonal proliferation of a single malignant precursor"
+        },
+        {
+          "label": "B",
+          "text": "Defective hemoglobin synthesis with normal nuclear maturation"
+        },
+        {
+          "label": "C",
+          "text": "Impaired DNA synthesis with preserved RNA and protein synthesis"
+        },
+        {
+          "label": "D",
+          "text": "Iron sequestration limiting heme production"
+        },
+        {
+          "label": "E",
+          "text": "Membrane skeletal protein defect causing premature cell lysis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Megaloblastic changes result from impaired DNA synthesis while RNA/protein synthesis continues, causing nuclear-cytoplasmic asynchrony and ineffective erythropoiesis.",
+        "whyCorrect": "Deficiency of B12 or folate disrupts DNA synthesis and impedes cell division, but the cytoplasm keeps growing because RNA and protein (hemoglobin) synthesis remain normal. This nuclear-cytoplasmic asynchrony leads to ineffective erythropoiesis and the large precursors with immature chromatin seen on marrow.",
+        "whyWrongByChoice": {
+          "A": "Clonal malignant proliferation describes leukemia, not vitamin-deficiency megaloblastosis.",
+          "B": "Megaloblastic anemia is a defect of DNA synthesis (nucleus), not primarily of hemoglobin synthesis; cytoplasmic hemoglobin synthesis is actually preserved.",
+          "D": "Iron sequestration describes anemia of chronic disease, not megaloblastic changes.",
+          "E": "A membrane protein defect describes hereditary spherocytosis, not megaloblastic anemia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ineffective erythropoiesis",
+        "nuclear-cytoplasmic asynchrony",
+        "bone marrow"
+      ],
+      "topicId": "megaloblastic-anemia",
+      "topicName": "Megaloblastic Anemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl15-009",
+      "stem": "A 63-year-old woman has a macrocytic anemia. Serum studies show an elevated homocysteine level but a normal methylmalonic acid (MMA) level. Which of the following deficiencies best explains this pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Combined B12 and folate deficiency with neurologic disease"
+        },
+        {
+          "label": "B",
+          "text": "Copper deficiency"
+        },
+        {
+          "label": "C",
+          "text": "Folate deficiency"
+        },
+        {
+          "label": "D",
+          "text": "Iron deficiency"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin B12 deficiency"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Folate deficiency elevates homocysteine but leaves methylmalonic acid normal; B12 deficiency raises both.",
+        "whyCorrect": "Both homocysteine and MMA are high in vitamin B12 deficiency because B12 is needed for both the methionine synthase reaction and the methylmalonyl-CoA mutase reaction. Folate participates only in the homocysteine-to-methionine pathway, so folate deficiency raises homocysteine while MMA stays normal.",
+        "whyWrongByChoice": {
+          "A": "Combined deficiency with neurologic disease implies B12 involvement, which would raise MMA.",
+          "B": "Copper deficiency can cause macrocytosis but is not characterized by isolated homocysteine elevation with normal MMA.",
+          "D": "Iron deficiency causes a microcytic anemia and does not elevate homocysteine or MMA.",
+          "E": "Vitamin B12 deficiency would elevate both homocysteine and MMA, but this patient has a normal MMA."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "homocysteine",
+        "methylmalonic acid",
+        "folate",
+        "vitamin B12"
+      ],
+      "topicId": "megaloblastic-anemia",
+      "topicName": "Megaloblastic Anemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl15-010",
+      "stem": "A 66-year-old man with type 2 diabetes treated with metformin and a proton pump inhibitor is found to have a hemoglobin of 10.2 g/dL and an MCV of 104 fL. Serum vitamin B12 is low. Which of the following best explains how his medications contributed to the deficiency?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They destroy gastric parietal cells through autoantibodies"
+        },
+        {
+          "label": "B",
+          "text": "They increase renal excretion of vitamin B12"
+        },
+        {
+          "label": "C",
+          "text": "They inhibit conversion of folate to its active form"
+        },
+        {
+          "label": "D",
+          "text": "They inhibit folate absorption in the duodenum"
+        },
+        {
+          "label": "E",
+          "text": "They interfere with intestinal absorption of vitamin B12"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Metformin, H2 blockers, and proton pump inhibitors interfere with intestinal absorption of vitamin B12.",
+        "whyCorrect": "The brick lists metformin, H2 blockers, and proton pump inhibitors as drugs that interfere with vitamin B12 absorption, which can lead to deficiency over time.",
+        "whyWrongByChoice": {
+          "A": "Autoantibody destruction of parietal cells is the mechanism of pernicious anemia, not of these drugs.",
+          "B": "These drugs impair absorption rather than increase renal excretion.",
+          "C": "Inhibiting conversion of folate to its active form describes methotrexate and trimethoprim, which affect folate, not B12.",
+          "D": "Inhibiting duodenal folate absorption describes phenytoin and affects folate, not B12."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "metformin",
+        "proton pump inhibitor",
+        "vitamin B12",
+        "drug-induced"
+      ],
+      "topicId": "megaloblastic-anemia",
+      "topicName": "Megaloblastic Anemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl15-011",
+      "stem": "A 58-year-old man with heavy alcohol use has an MCV of 104 fL but normal serum vitamin B12 and folate levels, a normal MMA, and no hypersegmented neutrophils on smear. Which of the following best characterizes his macrocytosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hemolytic anemia with schistocytes"
+        },
+        {
+          "label": "B",
+          "text": "Macrocytic anemia that is not megaloblastic"
+        },
+        {
+          "label": "C",
+          "text": "Megaloblastic anemia due to occult B12 deficiency"
+        },
+        {
+          "label": "D",
+          "text": "Microcytic anemia from chronic blood loss"
+        },
+        {
+          "label": "E",
+          "text": "Pure red cell aplasia"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A high MCV is not diagnostic alone; macrocytic anemia can occur without megaloblastic changes, as with heavy alcohol use.",
+        "whyCorrect": "The brick emphasizes that a high MCV is not diagnostic by itself because macrocytic anemia can occur without megaloblastic anemia, with causes including heavy alcohol use, copper deficiency, hypothyroidism, and myelodysplastic neoplasms. Normal B12, folate, and MMA plus absence of hypersegmented neutrophils argue against a megaloblastic process. Note that severe macrocytosis (MCV >115 fL) is what is commonly seen only in megaloblastic anemia.",
+        "whyWrongByChoice": {
+          "A": "There are no schistocytes or hemolytic features described.",
+          "C": "Occult B12 deficiency would typically show a low B12 or elevated MMA and hypersegmented neutrophils, none of which are present.",
+          "D": "Chronic blood loss causes microcytosis, not the macrocytosis seen here.",
+          "E": "Pure red cell aplasia (e.g., Diamond-Blackfan) is a congenital erythroid aplasia, not alcohol-related macrocytosis in an adult."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "macrocytosis",
+        "alcohol",
+        "MCV",
+        "differential"
+      ],
+      "topicId": "megaloblastic-anemia",
+      "topicName": "Megaloblastic Anemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl15-012",
+      "stem": "A 70-year-old woman with pernicious anemia is started on vitamin B12 replacement. Which of the following is the most appropriate route and duration of therapy given the cause of her deficiency?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A single high-dose oral course of folic acid"
+        },
+        {
+          "label": "B",
+          "text": "Intramuscular folic acid until the MCV returns to normal"
+        },
+        {
+          "label": "C",
+          "text": "Intramuscular vitamin B12, often required for life"
+        },
+        {
+          "label": "D",
+          "text": "Oral ferrous sulfate supplementation for 3 months"
+        },
+        {
+          "label": "E",
+          "text": "Oral vitamin B12 for 2 weeks, then discontinuation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "When B12 deficiency is due to impaired GI absorption such as pernicious anemia, the intramuscular route is required, often lifelong.",
+        "whyCorrect": "The brick states that B12 replacement can be oral or intramuscular, but if the deficiency is due to impaired GI absorption (e.g., pernicious anemia), the intramuscular route is required and patients may need supplemental B12 for life because they cannot absorb it enterally.",
+        "whyWrongByChoice": {
+          "A": "Folic acid does not correct B12 deficiency and can mask it while neurologic disease progresses.",
+          "B": "Folic acid, by any route, does not replace vitamin B12 in pernicious anemia.",
+          "D": "Iron does not treat a B12 deficiency.",
+          "E": "Oral B12 is ineffective when GI absorption is impaired, and short-term therapy would not maintain levels."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pernicious anemia",
+        "treatment",
+        "intramuscular B12"
+      ],
+      "topicId": "megaloblastic-anemia",
+      "topicName": "Megaloblastic Anemia",
+      "tier": "core"
+    }
+  ]
+}

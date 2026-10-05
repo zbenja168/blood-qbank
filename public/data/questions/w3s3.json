@@ -1,0 +1,3372 @@
+{
+  "categoryId": "w3s3",
+  "categoryName": "Session 3",
+  "questions": [
+    {
+      "id": "bl40-001",
+      "stem": "A 56-year-old woman being evaluated as a living kidney donor is found on a routine complete blood count to have a white blood cell count of 21.6 x 10^9/L with 60% lymphocytes; her hemoglobin and platelet counts are low-normal. She is asymptomatic with no palpable lymphadenopathy. A peripheral smear shows numerous mature-appearing small lymphocytes with condensed chromatin and scattered smudge cells. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic lymphocytic leukemia"
+        },
+        {
+          "label": "B",
+          "text": "Diffuse large B-cell lymphoma"
+        },
+        {
+          "label": "C",
+          "text": "Follicular lymphoma"
+        },
+        {
+          "label": "D",
+          "text": "Gastric MALT lymphoma"
+        },
+        {
+          "label": "E",
+          "text": "Hairy cell leukemia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "An incidental absolute lymphocytosis of mature B cells with smudge cells on smear is the classic presentation of CLL/SLL.",
+        "whyCorrect": "CLL/SLL is the most common low-grade non-Hodgkin lymphoma and the most common leukemia in Western adults. It is usually discovered incidentally when a blood count reveals high numbers of mature-appearing lymphocytes (lymphocytosis), and smudge cells are a frequent smear finding.",
+        "whyWrongByChoice": {
+          "B": "Diffuse large B-cell lymphoma is an aggressive lymphoma with a rapidly enlarging mass and B-symptoms, not an asymptomatic incidental lymphocytosis.",
+          "C": "Follicular lymphoma presents with slowly progressive lymphadenopathy and the t(14;18) translocation, not an isolated incidental blood lymphocytosis with smudge cells.",
+          "D": "MALT lymphoma is an extranodal disease that presents with gastric symptoms such as reflux and GI bleeding, not a peripheral lymphocytosis.",
+          "E": "Hairy cell leukemia causes pancytopenia and splenomegaly rather than lymphocytosis, and its cells show hairy projections, not smudging."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "CLL/SLL",
+        "lymphocytosis",
+        "diagnosis"
+      ],
+      "topicId": "b-cell-non-hodgkin-lymphomas",
+      "topicName": "B-Cell Non-Hodgkin Lymphomas (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bl40-002",
+      "stem": "A peripheral blood smear from a 68-year-old man with newly diagnosed chronic lymphocytic leukemia shows numerous mature lymphocytes plus several ruptured, smeared cellular remnants. Which of the following best explains these smudge cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Apoptotic neutrophils undergoing programmed cell death"
+        },
+        {
+          "label": "B",
+          "text": "Artifacts from fragile leukemic cells"
+        },
+        {
+          "label": "C",
+          "text": "Fragments of megakaryocytes in the peripheral blood"
+        },
+        {
+          "label": "D",
+          "text": "Nucleated red blood cell precursors released from marrow"
+        },
+        {
+          "label": "E",
+          "text": "Reactive plasma cells responding to infection"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Smudge cells are preparation artifacts formed when fragile CLL lymphocytes are crushed during smear creation.",
+        "whyCorrect": "The brick describes smudge cells as a frequent histologic feature of CLL that arise as artifacts from fragile lymphocytes being crushed during slide preparation. They are not specific for CLL and can be seen in other lymphoproliferative disorders with leukocytes in the blood.",
+        "whyWrongByChoice": {
+          "A": "Smudge cells derive from the fragile malignant lymphocytes of CLL, not from apoptotic neutrophils.",
+          "C": "They are not megakaryocyte fragments (which would relate to platelets), but crushed lymphocytes.",
+          "D": "They are not nucleated red cell precursors; they represent disrupted lymphocytes.",
+          "E": "They are not reactive plasma cells; they are a mechanical artifact of smear preparation."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "CLL/SLL",
+        "smudge cells",
+        "peripheral smear"
+      ],
+      "topicId": "b-cell-non-hodgkin-lymphomas",
+      "topicName": "B-Cell Non-Hodgkin Lymphomas (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bl40-003",
+      "stem": "Flow cytometry on the malignant cells of a patient with chronic lymphocytic leukemia demonstrates expression of CD19, CD20, and CD22 with dim light chain restriction, along with CD23 and CD200. Which additional marker, typically considered a T-cell antigen, is characteristically expressed by these cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CD3"
+        },
+        {
+          "label": "B",
+          "text": "CD5"
+        },
+        {
+          "label": "C",
+          "text": "CD10"
+        },
+        {
+          "label": "D",
+          "text": "CD30"
+        },
+        {
+          "label": "E",
+          "text": "CD103"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "CLL cells aberrantly express CD5, a marker normally associated with T cells.",
+        "whyCorrect": "The brick states that CLL cells express B-cell markers (CD19, CD20, CD22) with light chain restriction and also express CD5, which is typically a T-cell marker, along with CD23 and CD200.",
+        "whyWrongByChoice": {
+          "A": "CD3 is a pan-T-cell marker and is not expressed on the malignant B cells of CLL.",
+          "C": "CD10 marks germinal-center cells and is characteristic of follicular lymphoma, not CLL.",
+          "D": "CD30 is associated with Hodgkin and anaplastic lymphomas, not CLL.",
+          "E": "CD103 is among the markers used to identify hairy cell leukemia, not CLL."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "CLL/SLL",
+        "immunophenotype",
+        "flow cytometry"
+      ],
+      "topicId": "b-cell-non-hodgkin-lymphomas",
+      "topicName": "B-Cell Non-Hodgkin Lymphomas (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bl40-004",
+      "stem": "A patient with a several-year history of chronic lymphocytic leukemia/small lymphocytic lymphoma suddenly develops weakness, fevers, and widespread bulky lymphadenopathy. A lymph node biopsy shows sheets of transformed cells several times the size of a normal lymphocyte. This transformation is most consistent with which of the following, and what is the approximate prognosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Burkitt lymphoma; highly curable with intensive multi-agent chemotherapy"
+        },
+        {
+          "label": "B",
+          "text": "Diffuse large B-cell lymphoma; average life expectancy about 8 months"
+        },
+        {
+          "label": "C",
+          "text": "Follicular lymphoma; indolent with median survival beyond 10 years"
+        },
+        {
+          "label": "D",
+          "text": "Hodgkin lymphoma; usually cured, with average survival about 10 years"
+        },
+        {
+          "label": "E",
+          "text": "MALT lymphoma; cured with antibiotic eradication of Helicobacter pylori"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Richter transformation is the feared conversion of CLL into aggressive diffuse large B-cell lymphoma, with a poor prognosis.",
+        "whyCorrect": "The brick describes Richter transformation, in which CLL transforms into the high-grade aggressive NHL diffuse large B-cell lymphoma. It occurs in about 2% to 9% of cases, presents with sudden deterioration and B-symptoms, and carries an average life expectancy of only 8 months.",
+        "whyWrongByChoice": {
+          "A": "The transformation is to diffuse large B-cell lymphoma, not Burkitt lymphoma.",
+          "C": "Follicular lymphoma is not the product of Richter transformation, and the sudden aggressive course described is not indolent.",
+          "D": "CLL does not transform into Hodgkin lymphoma in this scenario; the transformed disease is diffuse large B-cell lymphoma with a much shorter survival.",
+          "E": "MALT lymphoma is unrelated to Richter transformation and is treated by H. pylori eradication, not relevant here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "CLL/SLL",
+        "Richter transformation",
+        "prognosis"
+      ],
+      "topicId": "b-cell-non-hodgkin-lymphomas",
+      "topicName": "B-Cell Non-Hodgkin Lymphomas (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bl40-005",
+      "stem": "A 45-year-old asymptomatic man has flow cytometry performed after a mildly elevated lymphocyte count is noted. It reveals a small clonal B-cell population with an immunophenotype similar to CLL, quantified at 3,000 clonal lymphocytes/microliter. Which of the following is the most appropriate diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic lymphocytic leukemia, Rai stage 0"
+        },
+        {
+          "label": "B",
+          "text": "Monoclonal B-cell lymphocytosis"
+        },
+        {
+          "label": "C",
+          "text": "Reactive lymphocytosis from infection"
+        },
+        {
+          "label": "D",
+          "text": "Richter transformation of CLL"
+        },
+        {
+          "label": "E",
+          "text": "Small lymphocytic lymphoma with adenopathy"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A CLL-like monoclonal B-cell population below 5,000/microliter defines monoclonal B-cell lymphocytosis, a precursor state.",
+        "whyCorrect": "The brick defines monoclonal B-cell lymphocytosis (MBL) as a small monoclonal B-cell population with a phenotype similar to CLL but in lower quantities (<5,000 clonal lymphocytes/microliter; >5,000 is CLL). It is considered a precursor state to CLL that may never transform and usually requires no treatment.",
+        "whyWrongByChoice": {
+          "A": "A diagnosis of CLL requires >5,000 clonal lymphocytes/microliter, which this patient does not meet.",
+          "C": "Reactive lymphocytosis is polyclonal, whereas this population is monoclonal.",
+          "D": "Richter transformation is an aggressive conversion of established CLL, not an asymptomatic low-level clone.",
+          "E": "SLL presents predominantly with lymphadenopathy rather than a small circulating monoclonal population."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "CLL/SLL",
+        "monoclonal B-cell lymphocytosis",
+        "precursor"
+      ],
+      "topicId": "b-cell-non-hodgkin-lymphomas",
+      "topicName": "B-Cell Non-Hodgkin Lymphomas (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bl40-006",
+      "stem": "A 65-year-old woman has slowly progressive painless cervical and axillary lymphadenopathy. A lymph node biopsy shows a nodular pattern of CD10-positive cells, and cytogenetics reveal a t(14;18) translocation. Which of the following best explains the pathogenesis of this lymphoma?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A BCR-ABL fusion producing a constitutively active tyrosine kinase"
+        },
+        {
+          "label": "B",
+          "text": "A BRAF mutation activating a serine/threonine kinase"
+        },
+        {
+          "label": "C",
+          "text": "Isolated loss of TP53 as the sole driver mutation"
+        },
+        {
+          "label": "D",
+          "text": "Overexpression of MYC driving uncontrolled cellular proliferation"
+        },
+        {
+          "label": "E",
+          "text": "Placement of BCL-2 under the IGH regulatory region"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Follicular lymphoma is driven by t(14;18), which places BCL-2 under IGH control so it is constitutively expressed and blocks apoptosis.",
+        "whyCorrect": "In the t(14;18) translocation the BCL-2 gene on chromosome 18 ends up within the regulatory region of the IGH gene on chromosome 14, so BCL-2 becomes constantly expressed. Because BCL-2 normally blocks apoptosis, the cells become immortal and develop into lymphoma.",
+        "whyWrongByChoice": {
+          "A": "The BCR-ABL fusion is the driver of chronic myeloid leukemia, not follicular lymphoma.",
+          "B": "BRAF mutation is the characteristic lesion of hairy cell leukemia, not follicular lymphoma.",
+          "C": "The described disease is defined by the t(14;18)/BCL-2 mechanism, not by isolated TP53 loss.",
+          "D": "MYC overexpression is characteristic of Burkitt lymphoma, not follicular lymphoma."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "follicular lymphoma",
+        "t(14;18)",
+        "BCL-2"
+      ],
+      "topicId": "b-cell-non-hodgkin-lymphomas",
+      "topicName": "B-Cell Non-Hodgkin Lymphomas (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bl40-007",
+      "stem": "A pathologist must distinguish the neoplastic follicles of follicular lymphoma from the reactive follicular hyperplasia of a benign lymph node responding to infection. Which of the following histologic features favors follicular lymphoma?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Follicles that lack mantle zones"
+        },
+        {
+          "label": "B",
+          "text": "Polytypic (mixed kappa and lambda) light chain expression"
+        },
+        {
+          "label": "C",
+          "text": "Preserved nodal architecture with open patent sinuses"
+        },
+        {
+          "label": "D",
+          "text": "Prominent mantle zones with numerous tingible-body macrophages"
+        },
+        {
+          "label": "E",
+          "text": "Scattered sheets of binucleate Reed-Sternberg cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Follicular lymphoma follicles lack the mantle zones seen in reactive nodes and are more uniform and crowded together.",
+        "whyCorrect": "The brick teaches that the follicles in follicular lymphoma lack the mantle zones (dark blue collars of small mature lymphocytes) that normally surround germinal centers in nonneoplastic lymph nodes, and that FL follicles are more uniform in shape and closer together.",
+        "whyWrongByChoice": {
+          "B": "Polytypic light chain expression indicates a reactive polyclonal population; lymphoma shows light chain restriction.",
+          "C": "Preserved nodal architecture points to a benign process; lymphoma tends to efface architecture.",
+          "D": "Prominent mantle zones and tingible-body macrophages are features of a reactive/benign follicle, not follicular lymphoma.",
+          "E": "Reed-Sternberg cells are a feature of Hodgkin lymphoma, not follicular lymphoma."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "follicular lymphoma",
+        "histology",
+        "mantle zone"
+      ],
+      "topicId": "b-cell-non-hodgkin-lymphomas",
+      "topicName": "B-Cell Non-Hodgkin Lymphomas (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bl40-008",
+      "stem": "A patient with stage III follicular lymphoma is started on the R-CVP regimen. The monoclonal antibody component of this regimen exerts its effect by targeting which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bruton tyrosine kinase (BTK)"
+        },
+        {
+          "label": "B",
+          "text": "CD20 antigen on B cells"
+        },
+        {
+          "label": "C",
+          "text": "CD5 antigen on lymphocytes"
+        },
+        {
+          "label": "D",
+          "text": "Microtubule assembly"
+        },
+        {
+          "label": "E",
+          "text": "The BCL-2 protein"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Rituximab, the R in R-CVP, is a monoclonal antibody directed against the CD20 antigen.",
+        "whyCorrect": "The brick states that rituximab is a monoclonal antibody against the CD20 antigen that activates B-cell cytotoxicity; common reactions include fever, upper respiratory tract infections, infusion reactions, and asthenia.",
+        "whyWrongByChoice": {
+          "A": "BTK is inhibited by ibrutinib, which is used in CLL, not by rituximab.",
+          "C": "CD5 is a marker used to identify CLL cells but is not the target of rituximab.",
+          "D": "Microtubule function is inhibited by vincristine, another component of R-CVP, not by the antibody.",
+          "E": "BCL-2 is the target of venetoclax, a BH3 mimetic, not of rituximab."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "follicular lymphoma",
+        "rituximab",
+        "R-CVP",
+        "CD20"
+      ],
+      "topicId": "b-cell-non-hodgkin-lymphomas",
+      "topicName": "B-Cell Non-Hodgkin Lymphomas (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bl40-009",
+      "stem": "A patient receiving the R-CVP regimen for follicular lymphoma is counseled about a risk of hemorrhagic cystitis, which is mitigated by co-administration of Mesna. Which component of the regimen carries this risk?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cladribine"
+        },
+        {
+          "label": "B",
+          "text": "Cyclophosphamide"
+        },
+        {
+          "label": "C",
+          "text": "Prednisolone"
+        },
+        {
+          "label": "D",
+          "text": "Rituximab"
+        },
+        {
+          "label": "E",
+          "text": "Vincristine"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Cyclophosphamide, an alkylating agent, can cause hemorrhagic cystitis, whose risk is reduced with Mesna.",
+        "whyCorrect": "The brick lists cyclophosphamide as an alkylating agent that interferes with DNA/RNA replication, with myelosuppression, SIADH, and hemorrhagic cystitis (risk reduced with Mesna) as common adverse effects.",
+        "whyWrongByChoice": {
+          "A": "Cladribine is a purine analog used for hairy cell leukemia and is not part of the R-CVP regimen.",
+          "C": "Prednisolone causes steroid effects such as fractures, osteonecrosis, and mood changes.",
+          "D": "Rituximab characteristically causes fever, infusion reactions, and asthenia, not hemorrhagic cystitis.",
+          "E": "Vincristine causes dose-related peripheral neuropathy, not hemorrhagic cystitis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "follicular lymphoma",
+        "cyclophosphamide",
+        "adverse effects"
+      ],
+      "topicId": "b-cell-non-hodgkin-lymphomas",
+      "topicName": "B-Cell Non-Hodgkin Lymphomas (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bl40-010",
+      "stem": "A 58-year-old man has epigastric pain, reflux, and intermittent GI bleeding. Upper endoscopy with biopsy reveals a low-grade B-cell lymphoma with lymphoepithelial lesions that is CD5-negative and CD10-negative; Helicobacter pylori is identified on biopsy. Which of the following is the most appropriate first-line treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antibiotic eradication therapy"
+        },
+        {
+          "label": "B",
+          "text": "Cladribine"
+        },
+        {
+          "label": "C",
+          "text": "Ibrutinib"
+        },
+        {
+          "label": "D",
+          "text": "R-CVP combination chemotherapy"
+        },
+        {
+          "label": "E",
+          "text": "Splenectomy"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Gastric MALT lymphoma is tied to H. pylori, so first-line therapy is antibiotic eradication of the organism.",
+        "whyCorrect": "The brick explains that gastric MALT lymphoma's main association is with H. pylori, so first-line treatment is eradication of H. pylori with antibiotics; the regimen includes a proton pump inhibitor, tetracycline, metronidazole, and bismuth subsalicylate, and can cure the disease if caught early.",
+        "whyWrongByChoice": {
+          "B": "Cladribine is the purine analog used for hairy cell leukemia, not MALT lymphoma.",
+          "C": "Ibrutinib is a BTK inhibitor used in CLL, not first-line for gastric MALT lymphoma.",
+          "D": "Chemotherapy (along with radiation and surgery) is reserved for cases where eradication therapy fails, not as first-line.",
+          "E": "Splenectomy is not a treatment for gastric MALT lymphoma."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "MALT lymphoma",
+        "Helicobacter pylori",
+        "treatment"
+      ],
+      "topicId": "b-cell-non-hodgkin-lymphomas",
+      "topicName": "B-Cell Non-Hodgkin Lymphomas (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bl40-011",
+      "stem": "A 55-year-old man presents with fatigue and abdominal fullness. Examination shows marked splenomegaly but no lymphadenopathy. Laboratory studies reveal pancytopenia, and the peripheral smear shows rare mononuclear cells with abundant fluffy cytoplasm and fine, indistinct cytoplasmic projections; molecular testing detects a BRAF mutation. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic lymphocytic leukemia/small lymphocytic lymphoma"
+        },
+        {
+          "label": "B",
+          "text": "Diffuse large B-cell lymphoma"
+        },
+        {
+          "label": "C",
+          "text": "Follicular lymphoma"
+        },
+        {
+          "label": "D",
+          "text": "Hairy cell leukemia"
+        },
+        {
+          "label": "E",
+          "text": "MALT lymphoma"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Pancytopenia and splenomegaly without lymphadenopathy, plus hairy cells and a BRAF mutation, define hairy cell leukemia.",
+        "whyCorrect": "The brick describes HCL as an NHL that, unlike others, does not present with enlarged lymph nodes; marrow invasion causes pancytopenia and splenomegaly. It arises from memory B cells with a BRAF mutation (seen in >90% of cases), and the smear shows hairy cells with fluffy cytoplasm and characteristic projections.",
+        "whyWrongByChoice": {
+          "A": "CLL/SLL produces lymphocytosis and lymphadenopathy with CD5-positive cells, not pancytopenia with hairy cells.",
+          "B": "Diffuse large B-cell lymphoma is an aggressive nodal/mass lesion, not this indolent hairy-cell presentation.",
+          "C": "Follicular lymphoma presents with lymphadenopathy and a t(14;18) translocation, not this marrow-failure picture.",
+          "E": "MALT lymphoma is an extranodal gastric disease, not a cause of pancytopenia with splenomegaly."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hairy cell leukemia",
+        "BRAF",
+        "pancytopenia"
+      ],
+      "topicId": "b-cell-non-hodgkin-lymphomas",
+      "topicName": "B-Cell Non-Hodgkin Lymphomas (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bl40-012",
+      "stem": "A 57-year-old man with hairy cell leukemia now has symptomatic pancytopenia and splenomegaly. Which of the following is the preferred first-line treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antibiotic eradication of H. pylori"
+        },
+        {
+          "label": "B",
+          "text": "Cladribine"
+        },
+        {
+          "label": "C",
+          "text": "Continued observation only"
+        },
+        {
+          "label": "D",
+          "text": "Ibrutinib"
+        },
+        {
+          "label": "E",
+          "text": "R-CVP chemotherapy"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Symptomatic hairy cell leukemia is treated first-line with a purine analog such as cladribine or pentostatin.",
+        "whyCorrect": "The brick states that in symptomatic HCL, purine analogs like cladribine or pentostatin are the preferred initial treatment. These are adenosine analogs that are incorporated into DNA, causing strand breaks and inhibition of DNA synthesis.",
+        "whyWrongByChoice": {
+          "A": "Antibiotic H. pylori eradication is first-line for gastric MALT lymphoma, not hairy cell leukemia.",
+          "C": "Observation is appropriate only for asymptomatic HCL; this patient is symptomatic and warrants treatment.",
+          "D": "Ibrutinib is a BTK inhibitor used for CLL, not first-line for hairy cell leukemia.",
+          "E": "R-CVP is used for follicular lymphoma, not hairy cell leukemia."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "hairy cell leukemia",
+        "cladribine",
+        "treatment"
+      ],
+      "topicId": "b-cell-non-hodgkin-lymphomas",
+      "topicName": "B-Cell Non-Hodgkin Lymphomas (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bl41-001",
+      "stem": "A 63-year-old man with a 4-year history of stable, asymptomatic chronic lymphocytic leukemia/small lymphocytic lymphoma (CLL/SLL) develops the sudden onset of fevers, abdominal pain, and rapidly progressive lymphadenopathy over several weeks. Examination shows new hepatosplenomegaly, and a lymph node biopsy reveals sheets of neoplastic B cells several times the size of a small lymphocyte. Which of the following best explains this patient's new diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Development of mantle cell lymphoma from the mantle zone"
+        },
+        {
+          "label": "B",
+          "text": "Evolution of CLL/SLL into Burkitt lymphoma"
+        },
+        {
+          "label": "C",
+          "text": "Progression of CLL/SLL into acute lymphoblastic leukemia"
+        },
+        {
+          "label": "D",
+          "text": "Transformation into chronic myeloid leukemia"
+        },
+        {
+          "label": "E",
+          "text": "Transformation of CLL/SLL into diffuse large B-cell lymphoma"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A subset of CLL/SLL patients transform into aggressive DLBCL, known as Richter transformation.",
+        "whyCorrect": "Around 2% to 9% of patients with CLL/SLL develop diffuse large B-cell lymphoma in what is termed Richter transformation. A previously chronic, smoldering lymphoma suddenly becomes much more symptomatic, with fevers, abdominal pain, and progressive lymphadenopathy and hepatosplenomegaly, and biopsy shows a diffuse proliferation of large neoplastic B cells.",
+        "whyWrongByChoice": {
+          "A": "Mantle cell lymphoma is a distinct entity defined by t(11;14); it does not arise as a transformation of CLL/SLL.",
+          "B": "Burkitt lymphoma is a separate MYC-driven lymphoma of medium-sized cells and is not the transformation product of CLL/SLL.",
+          "C": "CLL/SLL is not described as transforming into acute lymphoblastic leukemia; the biopsy shows large mature-appearing neoplastic B cells, not lymphoblasts.",
+          "D": "Chronic myeloid leukemia is a myeloid neoplasm with the t(9;22) Philadelphia chromosome and is unrelated to CLL/SLL transformation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "DLBCL",
+        "Richter transformation",
+        "CLL/SLL"
+      ],
+      "topicId": "b-cell-non-hodgkin-lymphomas-part-2",
+      "topicName": "B-Cell Non-Hodgkin Lymphomas (Part 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bl41-002",
+      "stem": "A 70-year-old woman presents with a rapidly enlarging neck mass and drenching night sweats. Excisional biopsy of a cervical lymph node shows sheets of neoplastic cells that are at least twice the size of normal lymphocytes, with vesicular nuclei and a single prominent nucleolus. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Burkitt lymphoma with a starry-sky pattern"
+        },
+        {
+          "label": "B",
+          "text": "Diffuse large B-cell lymphoma"
+        },
+        {
+          "label": "C",
+          "text": "Follicular lymphoma with a nodular pattern"
+        },
+        {
+          "label": "D",
+          "text": "Mantle cell lymphoma of small cells"
+        },
+        {
+          "label": "E",
+          "text": "Small lymphocytic lymphoma of mature cells"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "DLBCL is composed of large neoplastic B cells at least twice the size of normal lymphocytes.",
+        "whyCorrect": "DLBCL is composed of a diffuse proliferation of large neoplastic B cells that are typically at least twice the size of normal lymphocytes. These cells have large nuclei, often with a single prominent nucleolus (or multiple small nucleoli), matching this biopsy in an older adult with a rapidly enlarging mass and B symptoms.",
+        "whyWrongByChoice": {
+          "A": "Burkitt lymphoma is a diffuse proliferation of uniform medium-sized cells with a starry-sky pattern, not large cells twice the size of normal lymphocytes.",
+          "C": "Follicular lymphoma has a nodular (follicular) growth pattern rather than a diffuse sheet of large cells.",
+          "D": "Mantle cell lymphoma shows small-to-intermediate sized cells, not large cells with prominent nucleoli.",
+          "E": "Small lymphocytic lymphoma is composed of small mature lymphocytes, the opposite of large neoplastic cells."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "DLBCL",
+        "pathology",
+        "diagnosis"
+      ],
+      "topicId": "b-cell-non-hodgkin-lymphomas-part-2",
+      "topicName": "B-Cell Non-Hodgkin Lymphomas (Part 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bl41-003",
+      "stem": "A pathologist is working up a case of diffuse large B-cell lymphoma and orders fluorescence in situ hybridization (FISH) for three genes. Rearrangements in two or three of these genes would indicate a so-called double-hit or triple-hit lymphoma with a more aggressive clinical course. Which set of genes is routinely tested in this panel?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "BCR, ABL1, and JAK2"
+        },
+        {
+          "label": "B",
+          "text": "CCND1, IGH, and CD5"
+        },
+        {
+          "label": "C",
+          "text": "RB1, TP53, and MDM2"
+        },
+        {
+          "label": "D",
+          "text": "MYC, BCL2, and BCL6"
+        },
+        {
+          "label": "E",
+          "text": "FLT3, NPM1, and CEBPA"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "DLBCL is routinely evaluated by FISH for MYC, BCL2, and BCL6.",
+        "whyCorrect": "In diagnosing DLBCL, it is routine to run a panel for MYC, BCL2, and BCL6 expression using fluorescence in situ hybridization. Mutations in two (double hit) or three (triple hit) of these genes typically suggest a more aggressive clinical course.",
+        "whyWrongByChoice": {
+          "A": "BCR-ABL1 and JAK2 are markers of myeloproliferative neoplasms and leukemias, not the DLBCL FISH panel.",
+          "B": "CCND1-IGH defines mantle cell lymphoma and CD5 is an immunophenotype marker, not the DLBCL double-hit panel.",
+          "C": "RB1, TP53, and MDM2 are cell-cycle and tumor-suppressor genes not used as the routine DLBCL panel.",
+          "E": "FLT3, NPM1, and CEBPA are prognostic mutations in acute myeloid leukemia, not DLBCL."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "DLBCL",
+        "genetics",
+        "FISH"
+      ],
+      "topicId": "b-cell-non-hodgkin-lymphomas-part-2",
+      "topicName": "B-Cell Non-Hodgkin Lymphomas (Part 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bl41-004",
+      "stem": "A 68-year-old man is diagnosed with diffuse large B-cell lymphoma and is scheduled to begin systemic therapy. Which of the following is the typical first-line chemoimmunotherapy regimen for this disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CODOX-M"
+        },
+        {
+          "label": "B",
+          "text": "High-dose cytarabine"
+        },
+        {
+          "label": "C",
+          "text": "R-CHOP"
+        },
+        {
+          "label": "D",
+          "text": "Rituximab plus bendamustine"
+        },
+        {
+          "label": "E",
+          "text": "Single-agent methotrexate"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "R-CHOP is the standard combination regimen for DLBCL.",
+        "whyCorrect": "For patients with DLBCL, systemic therapy uses a combination of chemotherapy agents; a typical regimen is R-CHOP (rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone). Usually 3-5 cycles are given, followed by response assessment.",
+        "whyWrongByChoice": {
+          "A": "CODOX-M (cyclophosphamide, doxorubicin, methotrexate) is used to treat Burkitt lymphoma, not DLBCL.",
+          "B": "High-dose cytarabine is used with rituximab for mantle cell lymphoma, not as first-line DLBCL therapy.",
+          "D": "Rituximab plus bendamustine (R-B) is a preferred regimen for mantle cell lymphoma.",
+          "E": "Single-agent methotrexate is not the standard treatment for DLBCL, which requires multidrug chemoimmunotherapy."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "DLBCL",
+        "treatment",
+        "R-CHOP"
+      ],
+      "topicId": "b-cell-non-hodgkin-lymphomas-part-2",
+      "topicName": "B-Cell Non-Hodgkin Lymphomas (Part 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bl41-005",
+      "stem": "A 72-year-old man with stage IV diffuse large B-cell lymphoma is started on R-pola-CHP, which includes polatuzumab vedotin. This agent is an antibody-drug conjugate whose monoclonal antibody component binds a specific B-cell surface protein, triggering internalization and release of an anti-mitotic agent. Which surface protein does polatuzumab vedotin target?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cyclin D1"
+        },
+        {
+          "label": "B",
+          "text": "CD5"
+        },
+        {
+          "label": "C",
+          "text": "CD10"
+        },
+        {
+          "label": "D",
+          "text": "CD20"
+        },
+        {
+          "label": "E",
+          "text": "CD79b"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Polatuzumab vedotin is a CD79b-directed antibody-drug conjugate used in advanced DLBCL.",
+        "whyCorrect": "Polatuzumab vedotin is a CD79b-directed antibody-drug conjugate consisting of a humanized IgG1 monoclonal antibody specific for CD79b, a small-molecule anti-mitotic agent, and a protease linker. Binding to CD79b-expressing B cells causes internalization of the complex and release of the anti-mitotic agent, inhibiting cell division and inducing apoptosis. It is added in advanced DLBCL as R-pola-CHP.",
+        "whyWrongByChoice": {
+          "A": "Cyclin D1 is an intracellular protein overexpressed in mantle cell lymphoma and cannot be targeted by a surface-binding antibody conjugate.",
+          "B": "CD5 is a marker of mantle cell lymphoma and CLL/SLL, not the target of polatuzumab vedotin.",
+          "C": "CD10 is a B-cell marker that may be expressed by DLBCL and Burkitt lymphoma but is not the polatuzumab target.",
+          "D": "CD20 is the target of rituximab, not the antibody component of polatuzumab vedotin."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "DLBCL",
+        "polatuzumab vedotin",
+        "CD79b"
+      ],
+      "topicId": "b-cell-non-hodgkin-lymphomas-part-2",
+      "topicName": "B-Cell Non-Hodgkin Lymphomas (Part 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bl41-006",
+      "stem": "A 7-year-old boy who recently emigrated from equatorial Africa presents with rapidly enlarging firm masses of the jaw and facial bones. Biopsy confirms a high-grade B-cell lymphoma. Infection with which of the following organisms is most strongly associated with this form of the disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Epstein-Barr virus"
+        },
+        {
+          "label": "B",
+          "text": "Helicobacter pylori"
+        },
+        {
+          "label": "C",
+          "text": "Human herpesvirus 8"
+        },
+        {
+          "label": "D",
+          "text": "Human papillomavirus"
+        },
+        {
+          "label": "E",
+          "text": "Human T-lymphotropic virus 1"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Endemic Burkitt lymphoma of the jaw in African children is strongly linked to Epstein-Barr virus.",
+        "whyCorrect": "Endemic Burkitt lymphoma occurs primarily in children in equatorial Africa and has a strong association with Epstein-Barr virus infection. In more than half of patients it presents with rapidly growing tumors of the jaw and facial bones; there may also be a co-factor link with malaria.",
+        "whyWrongByChoice": {
+          "B": "Helicobacter pylori is linked to MALT lymphoma and gastric ulcers, not Burkitt lymphoma.",
+          "C": "Human herpesvirus 8 causes Kaposi sarcoma in HIV-positive patients, not Burkitt lymphoma.",
+          "D": "Human papillomavirus (especially HPV16/18) is linked to cervical and oropharyngeal cancers, not Burkitt lymphoma.",
+          "E": "Human T-lymphotropic virus 1 is associated with adult T-cell leukemia/lymphoma, not B-cell Burkitt lymphoma."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Burkitt lymphoma",
+        "endemic",
+        "Epstein-Barr virus"
+      ],
+      "topicId": "b-cell-non-hodgkin-lymphomas-part-2",
+      "topicName": "B-Cell Non-Hodgkin Lymphomas (Part 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bl41-007",
+      "stem": "A 12-year-old boy presents with rapidly growing mandibular masses. A lymph node biopsy shows a diffuse proliferation of uniform medium-sized lymphocytes with numerous pale macrophages scattered against a background of darker malignant cells, producing a \"starry-sky\" appearance. These pale macrophages are best described as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lipid-laden macrophages (foam cells)"
+        },
+        {
+          "label": "B",
+          "text": "Multinucleated Langhans macrophages of granulomas"
+        },
+        {
+          "label": "C",
+          "text": "Reed-Sternberg cells with owl-eye nuclei"
+        },
+        {
+          "label": "D",
+          "text": "Sezary cells with cerebriform nuclei"
+        },
+        {
+          "label": "E",
+          "text": "Tingible-body macrophages"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The starry-sky pattern of Burkitt lymphoma is produced by tingible-body macrophages.",
+        "whyCorrect": "With its short doubling time and high turnover, Burkitt lymphoma creates abundant tumor cell debris, which macrophages come in to clean up. These are called tingible-body macrophages because they contain visible, stainable (tingible) debris; they appear as pale spots against a background of darker malignant lymphoma cells, the characteristic starry-sky pattern.",
+        "whyWrongByChoice": {
+          "A": "Foam cells are lipid-laden macrophages seen in atherosclerosis and storage disorders, not the starry-sky pattern.",
+          "B": "Langhans giant cells are multinucleated macrophages found in granulomas, such as in tuberculosis.",
+          "C": "Reed-Sternberg cells are the hallmark of Hodgkin lymphoma, not the pale macrophages of Burkitt lymphoma.",
+          "D": "Sezary cells are malignant T cells seen in cutaneous T-cell lymphoma, not benign macrophages."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Burkitt lymphoma",
+        "pathology",
+        "starry-sky"
+      ],
+      "topicId": "b-cell-non-hodgkin-lymphomas-part-2",
+      "topicName": "B-Cell Non-Hodgkin Lymphomas (Part 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bl41-008",
+      "stem": "A 10-year-old boy is diagnosed with Burkitt lymphoma. Genetic testing reveals a translocation that repositions the MYC gene next to the immunoglobulin heavy chain locus, causing marked MYC overexpression. Which of the following translocations is most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "t(8;14)"
+        },
+        {
+          "label": "B",
+          "text": "t(9;22)"
+        },
+        {
+          "label": "C",
+          "text": "t(11;14)"
+        },
+        {
+          "label": "D",
+          "text": "t(11;22)"
+        },
+        {
+          "label": "E",
+          "text": "t(14;18)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Burkitt lymphoma is defined by t(8;14), which drives MYC overexpression.",
+        "whyCorrect": "In Burkitt lymphoma, a t(8;14) translocation repositions the MYC gene from chromosome 8 next to the immunoglobulin heavy chain genes on chromosome 14, causing marked overexpression of MYC and excessive MYC protein that drives uncontrolled proliferation.",
+        "whyWrongByChoice": {
+          "B": "t(9;22) is the Philadelphia chromosome of chronic myeloid leukemia and some acute lymphoblastic leukemia.",
+          "C": "t(11;14) fuses CCND1 with IGH and characterizes mantle cell lymphoma, not Burkitt lymphoma.",
+          "D": "t(11;22) is associated with Ewing sarcoma, not Burkitt lymphoma.",
+          "E": "t(14;18) drives BCL2 overexpression and is classically associated with follicular lymphoma and some DLBCL."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Burkitt lymphoma",
+        "genetics",
+        "translocation"
+      ],
+      "topicId": "b-cell-non-hodgkin-lymphomas-part-2",
+      "topicName": "B-Cell Non-Hodgkin Lymphomas (Part 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bl41-009",
+      "stem": "A 15-year-old boy in the United States presents with several weeks of abdominal pain, distension, and ascites. Imaging reveals a large mass centered on the ileocecal region causing partial intestinal obstruction, and the initial concern was appendicitis. Biopsy shows a high-grade B-cell lymphoma with a starry-sky pattern. Which of the following best describes this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diffuse large B-cell lymphoma"
+        },
+        {
+          "label": "B",
+          "text": "Endemic Burkitt lymphoma"
+        },
+        {
+          "label": "C",
+          "text": "Follicular lymphoma"
+        },
+        {
+          "label": "D",
+          "text": "Mantle cell lymphoma"
+        },
+        {
+          "label": "E",
+          "text": "Sporadic Burkitt lymphoma"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Sporadic Burkitt lymphoma is the most common form in the US and presents with an ileocecal abdominal mass.",
+        "whyCorrect": "Sporadic Burkitt lymphoma is the most common form of BL in the United States and usually presents with abdominal symptoms. The tumor often involves the ileocecum (leading to intestinal obstruction), mesentery, kidneys, and ovaries, can mimic appendicitis, and is commonly associated with ascites and abdominal pain. The starry-sky pattern confirms Burkitt lymphoma.",
+        "whyWrongByChoice": {
+          "A": "DLBCL presents with large cells and rapidly enlarging lymphadenopathy or an extranodal mass, not the medium-sized starry-sky pattern described.",
+          "B": "Endemic Burkitt lymphoma occurs in African children and classically presents with jaw and facial bone tumors, not an ileocecal mass in a US patient.",
+          "C": "Follicular lymphoma is an indolent nodular lymphoma and would not present as a rapidly growing starry-sky abdominal mass.",
+          "D": "Mantle cell lymphoma affects older adults with lymphadenopathy and hepatosplenomegaly, not a teenage ileocecal Burkitt presentation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Burkitt lymphoma",
+        "sporadic",
+        "presentation"
+      ],
+      "topicId": "b-cell-non-hodgkin-lymphomas-part-2",
+      "topicName": "B-Cell Non-Hodgkin Lymphomas (Part 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bl41-010",
+      "stem": "A 61-year-old man presents with generalized lymphadenopathy, hepatosplenomegaly, and bone marrow involvement. A lymph node biopsy shows a proliferation of small-to-intermediate sized lymphocytes, and immunohistochemistry demonstrates strong nuclear cyclin D1 positivity. Which translocation underlies this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "t(8;14) involving MYC and IGH"
+        },
+        {
+          "label": "B",
+          "text": "t(9;22) involving BCR and ABL1"
+        },
+        {
+          "label": "C",
+          "text": "t(11;14) involving CCND1 and IGH"
+        },
+        {
+          "label": "D",
+          "text": "t(14;18) involving BCL2 and IGH"
+        },
+        {
+          "label": "E",
+          "text": "t(15;17) involving PML and RARA"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Mantle cell lymphoma is defined by t(11;14), which overexpresses cyclin D1.",
+        "whyCorrect": "Mantle cell lymphoma is characterized by the prototypical translocation t(11;14) between CCND1 (cyclin D1) on chromosome 11 and the IGH gene on chromosome 14. This causes increased expression of cyclin D1 and increased cell cycle progression; cyclin D1 immunohistochemistry serves as a surrogate for the translocation.",
+        "whyWrongByChoice": {
+          "A": "t(8;14) drives MYC overexpression in Burkitt lymphoma, not cyclin D1 positivity.",
+          "B": "t(9;22) is the Philadelphia chromosome of chronic myeloid leukemia, unrelated to cyclin D1.",
+          "D": "t(14;18) causes BCL2 overexpression in follicular lymphoma and some DLBCL, not cyclin D1.",
+          "E": "t(15;17) defines acute promyelocytic leukemia, a myeloid neoplasm, not mantle cell lymphoma."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "mantle cell lymphoma",
+        "genetics",
+        "cyclin D1"
+      ],
+      "topicId": "b-cell-non-hodgkin-lymphomas-part-2",
+      "topicName": "B-Cell Non-Hodgkin Lymphomas (Part 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bl41-011",
+      "stem": "A 64-year-old man presents with lymphadenopathy and an axillary lymph node biopsy showing a diffuse proliferation of small-to-intermediate sized lymphocytes. Flow cytometry reveals kappa light chain-restricted B cells expressing CD19, CD20, and CD5. Which additional immunophenotype finding would best distinguish mantle cell lymphoma from CLL/SLL?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CD19 negative"
+        },
+        {
+          "label": "B",
+          "text": "CD20 negative"
+        },
+        {
+          "label": "C",
+          "text": "CD23 negative"
+        },
+        {
+          "label": "D",
+          "text": "CD23 positive"
+        },
+        {
+          "label": "E",
+          "text": "Loss of light chain restriction"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Mantle cell lymphoma is CD5 positive but, unlike CLL/SLL, is usually CD23 negative.",
+        "whyCorrect": "The immunophenotype of mantle cell lymphoma demonstrates light chain restriction, expression of B-cell markers (CD19, CD20, CD22, CD79a), and expression of CD5. In contrast to CLL/SLL, CD23 is usually negative in mantle cell lymphoma, which helps distinguish the two CD5-positive B-cell neoplasms.",
+        "whyWrongByChoice": {
+          "A": "CD19 is a B-cell marker expressed by mantle cell lymphoma and is already positive in this case.",
+          "B": "CD20 is a pan-B-cell marker expressed by mantle cell lymphoma, so it is not absent.",
+          "D": "CD23 positivity is characteristic of CLL/SLL, so it would not distinguish mantle cell lymphoma; MCL is typically CD23 negative.",
+          "E": "Mantle cell lymphoma shows light chain restriction; its loss is not a feature and would not distinguish it from CLL/SLL."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "mantle cell lymphoma",
+        "immunophenotype",
+        "CD23"
+      ],
+      "topicId": "b-cell-non-hodgkin-lymphomas-part-2",
+      "topicName": "B-Cell Non-Hodgkin Lymphomas (Part 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bl41-012",
+      "stem": "A 66-year-old woman receiving R-CHOP for diffuse large B-cell lymphoma is monitored with serial echocardiograms during treatment. Which component of the regimen most directly accounts for the need for this cardiac monitoring?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cyclophosphamide"
+        },
+        {
+          "label": "B",
+          "text": "Doxorubicin"
+        },
+        {
+          "label": "C",
+          "text": "Prednisone"
+        },
+        {
+          "label": "D",
+          "text": "Rituximab"
+        },
+        {
+          "label": "E",
+          "text": "Vincristine"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Doxorubicin causes cumulative dose-related cardiomyopathy, prompting cardiac monitoring.",
+        "whyCorrect": "Doxorubicin inhibits DNA/RNA synthesis and can cause cumulative dose-related cardiomyopathy, which can progress to heart failure. Because cardiotoxicity is dose-dependent, cardiac function is monitored during doxorubicin-containing regimens such as R-CHOP.",
+        "whyWrongByChoice": {
+          "A": "Cyclophosphamide is an alkylating agent whose characteristic toxicities are hemorrhagic cystitis and SIADH, not cardiotoxicity.",
+          "C": "Prednisone is a corticosteroid and is not the component responsible for the cardiac monitoring in this regimen.",
+          "D": "Rituximab is an anti-CD20 monoclonal antibody associated with infusion reactions, not cumulative cardiomyopathy.",
+          "E": "Vincristine causes dose-related peripheral neuropathy and autonomic (including vocal cord) paralysis, not cardiomyopathy."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "DLBCL",
+        "chemotherapy",
+        "doxorubicin"
+      ],
+      "topicId": "b-cell-non-hodgkin-lymphomas-part-2",
+      "topicName": "B-Cell Non-Hodgkin Lymphomas (Part 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bl42-001",
+      "stem": "A 58-year-old man is evaluated for scaly, itchy skin patches on his trunk and limbs that have slowly enlarged over several years despite treatment for presumed eczema. A skin biopsy reveals a neoplastic infiltrate of lymphocytes with markedly convoluted nuclei. Immunophenotyping shows the malignant cells are derived from helper T cells. Which of the following surface markers is most characteristic of the cell of origin in this disorder?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CD4"
+        },
+        {
+          "label": "B",
+          "text": "CD8"
+        },
+        {
+          "label": "C",
+          "text": "CD15"
+        },
+        {
+          "label": "D",
+          "text": "CD19"
+        },
+        {
+          "label": "E",
+          "text": "CD20"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The neoplastic cells of mycosis fungoides derive from CD4+ (helper) T cells.",
+        "whyCorrect": "The brick states that the neoplastic lymphoma cells in mycosis fungoides are thought to derive from CD4+ (helper) T cells, and cytokine production from these cells likely drives tumor development. CD4 positivity therefore identifies the cell of origin.",
+        "whyWrongByChoice": {
+          "B": "CD8 marks cytotoxic T cells, not the helper T cells from which mycosis fungoides arises.",
+          "C": "CD15 is associated with Reed-Sternberg cells of Hodgkin lymphoma, not mycosis fungoides.",
+          "D": "CD19 is a B-cell marker; mycosis fungoides is a T-cell neoplasm.",
+          "E": "CD20 is a B-cell marker and is not expressed by these malignant T cells."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "mycosis fungoides",
+        "immunophenotype"
+      ],
+      "topicId": "t-cell-non-hodgkin-lymphomas",
+      "topicName": "T-cell Non-Hodgkin Lymphomas",
+      "tier": "core"
+    },
+    {
+      "id": "bl42-002",
+      "stem": "A dermatopathologist examines a skin biopsy from a patient with suspected cutaneous T-cell lymphoma and notes malignant lymphocytes whose nuclei are extremely convoluted, with indentations resembling the sulci and gyri of the brain. This nuclear morphology is described by which of the following terms, which is used almost exclusively for this lymphoma?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cerebriform nuclei"
+        },
+        {
+          "label": "B",
+          "text": "Fried-egg appearance"
+        },
+        {
+          "label": "C",
+          "text": "Notched (buttock) nuclei"
+        },
+        {
+          "label": "D",
+          "text": "Owl-eye inclusions"
+        },
+        {
+          "label": "E",
+          "text": "Smudge nuclei"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The convoluted nuclei of mycosis fungoides cells are termed cerebriform nuclei.",
+        "whyCorrect": "The brick explains that the unique feature of mycosis fungoides lymphoma cells is their extremely convoluted nuclear contours, which resemble the sulci and gyri of the brain, giving rise to the term cerebriform nuclei used almost exclusively with this lymphoma.",
+        "whyWrongByChoice": {
+          "B": "A fried-egg appearance describes oligodendroglioma cells, unrelated to this disorder.",
+          "C": "Notched or buttock-shaped nuclei describe Burkitt or follicular lymphoma cells, not the cerebriform contour described.",
+          "D": "Owl-eye inclusions describe cytomegalovirus-infected cells, not this lymphoma.",
+          "E": "Smudge cells are seen in chronic lymphocytic leukemia, not mycosis fungoides."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "mycosis fungoides",
+        "histopathology"
+      ],
+      "topicId": "t-cell-non-hodgkin-lymphomas",
+      "topicName": "T-cell Non-Hodgkin Lymphomas",
+      "tier": "core"
+    },
+    {
+      "id": "bl42-003",
+      "stem": "A skin biopsy from a patient with advancing mycosis fungoides shows small clusters of atypical lymphocytes collected within the epidermis. The pathologist notes that the historical name for these collections is misleading. Which of the following best describes these clusters?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aggregates of binucleate Reed-Sternberg cells in the dermis"
+        },
+        {
+          "label": "B",
+          "text": "Clusters of malignant lymphoma cells within the epidermis"
+        },
+        {
+          "label": "C",
+          "text": "Collections of neutrophils within the epidermis responding to a bacterial infection"
+        },
+        {
+          "label": "D",
+          "text": "Deposits of degranulating eosinophils in the dermis"
+        },
+        {
+          "label": "E",
+          "text": "Granulomas of epithelioid macrophages with lymphocytes"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Pautrier microabscesses are intraepidermal clusters of lymphoma cells, not neutrophils.",
+        "whyCorrect": "The brick describes these clusters, poorly named Pautrier microabscesses, as a unique feature of mycosis fungoides. The name is misleading because true abscesses are collections of neutrophils, whereas these clusters are instead made up of lymphoma cells.",
+        "whyWrongByChoice": {
+          "A": "Reed-Sternberg cells are the hallmark of Hodgkin lymphoma, not these epidermal clusters.",
+          "C": "This is precisely why the name is misleading; the clusters are lymphoma cells, not neutrophils.",
+          "D": "The clusters are malignant lymphocytes, not eosinophil deposits.",
+          "E": "Granulomas of epithelioid macrophages are seen in granulomatous disease, not mycosis fungoides."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "mycosis fungoides",
+        "Pautrier microabscess"
+      ],
+      "topicId": "t-cell-non-hodgkin-lymphomas",
+      "topicName": "T-cell Non-Hodgkin Lymphomas",
+      "tier": "core"
+    },
+    {
+      "id": "bl42-004",
+      "stem": "A 63-year-old man with a long history of mycosis fungoides now presents with a red, itchy, peeling rash covering more than 80% of his body surface, along with diffuse lymphadenopathy. A peripheral blood smear reveals circulating malignant T cells with cerebriform nuclei. Which of the following terms best describes this advanced clinical presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adult T-cell leukemia/lymphoma"
+        },
+        {
+          "label": "B",
+          "text": "Hodgkin lymphoma"
+        },
+        {
+          "label": "C",
+          "text": "Patch-stage mycosis fungoides"
+        },
+        {
+          "label": "D",
+          "text": "Peripheral T-cell lymphoma, NOS"
+        },
+        {
+          "label": "E",
+          "text": "Sezary syndrome"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Sezary syndrome is the erythrodermic, leukemic-phase evolution of mycosis fungoides.",
+        "whyCorrect": "The brick defines Sezary syndrome as the triad of erythroderma, generalized lymphadenopathy, and clonally related T cells with cerebriform nuclei in the skin, lymph nodes, and peripheral blood. Erythroderma over 80% of the body with circulating Sezary cells matches this advanced form of the disease.",
+        "whyWrongByChoice": {
+          "A": "Adult T-cell leukemia/lymphoma is HTLV-1 associated with flower-shaped nuclei and hypercalcemia, not this evolution of mycosis fungoides.",
+          "B": "Hodgkin lymphoma is a B-cell-derived lymphoma with Reed-Sternberg cells, not cerebriform T cells.",
+          "C": "Patch-stage disease is the early, localized form and lacks erythroderma and circulating malignant cells.",
+          "D": "Peripheral T-cell lymphoma, NOS is a separate mature T-cell subtype and does not describe this cutaneous erythrodermic picture."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Sezary syndrome",
+        "erythroderma"
+      ],
+      "topicId": "t-cell-non-hodgkin-lymphomas",
+      "topicName": "T-cell Non-Hodgkin Lymphomas",
+      "tier": "core"
+    },
+    {
+      "id": "bl42-005",
+      "stem": "A 54-year-old woman is newly diagnosed with mycosis fungoides limited to a few scaly cutaneous plaques, without lymphadenopathy or systemic symptoms. She asks about her long-term outlook. Which of the following is the most accurate statement about her prognosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Although incurable, she is likely to have a normal life expectancy"
+        },
+        {
+          "label": "B",
+          "text": "Median survival is less than one year regardless of treatment"
+        },
+        {
+          "label": "C",
+          "text": "Rapid progression to acute leukemia is expected within weeks"
+        },
+        {
+          "label": "D",
+          "text": "The condition invariably transforms into Hodgkin lymphoma"
+        },
+        {
+          "label": "E",
+          "text": "The disease is readily curable with a single course of systemic chemotherapy"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Mycosis fungoides is incurable but indolent; limited cutaneous disease carries a normal life expectancy.",
+        "whyCorrect": "The brick states that although mycosis fungoides is incurable, most patients can keep the disease under control for years, and most people with limited cutaneous involvement have a normal life expectancy.",
+        "whyWrongByChoice": {
+          "B": "Limited cutaneous disease carries a normal life expectancy, not survival under one year.",
+          "C": "Progression is slow and measured in years; rapid leukemic transformation within weeks is not typical of limited disease.",
+          "D": "Mycosis fungoides may evolve to a leukemic (Sezary) phase but does not transform into Hodgkin lymphoma.",
+          "E": "The brick specifically describes the disease as incurable, though controllable, not cured by a single chemotherapy course."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "mycosis fungoides",
+        "prognosis"
+      ],
+      "topicId": "t-cell-non-hodgkin-lymphomas",
+      "topicName": "T-cell Non-Hodgkin Lymphomas",
+      "tier": "core"
+    },
+    {
+      "id": "bl42-006",
+      "stem": "A 50-year-old man is diagnosed with early-stage (Stage I) mycosis fungoides consisting of a few scaly patches. His dermatologist plans skin-directed therapy. Which of the following is the most appropriate first-line treatment for his early-stage disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Allogeneic bone marrow transplant"
+        },
+        {
+          "label": "B",
+          "text": "Systemic combination chemotherapy"
+        },
+        {
+          "label": "C",
+          "text": "Topical corticosteroids"
+        },
+        {
+          "label": "D",
+          "text": "Total-body radiation therapy"
+        },
+        {
+          "label": "E",
+          "text": "Wide surgical excision of all lesions"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Early-stage mycosis fungoides is treated first with skin-directed therapy such as topical corticosteroids.",
+        "whyCorrect": "The brick lists several skin-directed options for Stage I/II disease, beginning with topical corticosteroids such as betamethasone and clobetasol, which are used for their anti-inflammatory properties in early-stage MF.",
+        "whyWrongByChoice": {
+          "A": "Bone marrow transplant is not the described first-line therapy for early cutaneous disease.",
+          "B": "Systemic chemotherapy is reserved for advanced disease, given along with topical therapy, not for a few early patches.",
+          "D": "Radiation is used for localized disease or combined with systemic therapy in advanced disease, not as the first-line skin-directed choice here.",
+          "E": "Surgical excision is not described as a primary treatment for mycosis fungoides."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "mycosis fungoides",
+        "treatment"
+      ],
+      "topicId": "t-cell-non-hodgkin-lymphomas",
+      "topicName": "T-cell Non-Hodgkin Lymphomas",
+      "tier": "core"
+    },
+    {
+      "id": "bl42-007",
+      "stem": "A patient with mycosis fungoides is prescribed a topical alkylating agent as skin-directed therapy. The pharmacist explains that this drug forms inter- and intra-strand DNA cross-links, resulting in inhibition of DNA synthesis. Which of the following agents is being described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Betamethasone"
+        },
+        {
+          "label": "B",
+          "text": "Bexarotene"
+        },
+        {
+          "label": "C",
+          "text": "Brentuximab"
+        },
+        {
+          "label": "D",
+          "text": "Interferon alpha"
+        },
+        {
+          "label": "E",
+          "text": "Mechlorethamine"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Topical mechlorethamine is an alkylating agent that cross-links DNA and inhibits DNA synthesis.",
+        "whyCorrect": "The brick states that topical mechlorethamine is an alkylating agent used as a topical formulation that forms inter- and intra-strand DNA cross-links, resulting in inhibition of DNA synthesis, exactly matching the description.",
+        "whyWrongByChoice": {
+          "A": "Betamethasone is a topical corticosteroid that works by anti-inflammatory action, not DNA cross-linking.",
+          "B": "Bexarotene is a retinoid used in early cutaneous disease, not a DNA-cross-linking alkylating agent.",
+          "C": "Brentuximab is a systemic agent used in advanced disease and does not act by DNA cross-linking.",
+          "D": "Interferon alpha is a systemic immune therapy, not a topical alkylating agent."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "treatment",
+        "mechlorethamine"
+      ],
+      "topicId": "t-cell-non-hodgkin-lymphomas",
+      "topicName": "T-cell Non-Hodgkin Lymphomas",
+      "tier": "core"
+    },
+    {
+      "id": "bl42-008",
+      "stem": "A 45-year-old man who emigrated from southwestern Japan presents with markedly elevated white blood cell count, a rash, generalized lymphadenopathy, and hypercalcemia with lytic bone lesions. A peripheral blood smear shows malignant T cells with multi-lobated, flower-shaped nuclei. Infection with which of the following organisms is most strongly associated with his condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cytomegalovirus (human herpesvirus 5)"
+        },
+        {
+          "label": "B",
+          "text": "Epstein-Barr virus (human herpesvirus 4)"
+        },
+        {
+          "label": "C",
+          "text": "Human herpesvirus 8 (Kaposi sarcoma virus)"
+        },
+        {
+          "label": "D",
+          "text": "Human immunodeficiency virus type 1"
+        },
+        {
+          "label": "E",
+          "text": "Human T-cell lymphotropic virus type 1"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Adult T-cell leukemia/lymphoma is pathogenetically linked to HTLV-1.",
+        "whyCorrect": "The brick states that ATLL is a mature T-cell neoplasm pathogenetically linked to HTLV-1 and is more common in endemic regions including southwestern Japan, the Caribbean, parts of central Africa, and Iran. The acute presentation with high WBC, hypercalcemia, and flower-shaped nuclei is classic.",
+        "whyWrongByChoice": {
+          "A": "Cytomegalovirus is related to systemic infections, not ATLL.",
+          "B": "Epstein-Barr virus is associated with certain B-cell lymphomas, not ATLL.",
+          "C": "Human herpesvirus 8 is associated with Kaposi sarcoma and primary effusion lymphoma, not ATLL.",
+          "D": "HIV can cause immunosuppression but is not directly linked to ATLL."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ATLL",
+        "HTLV-1"
+      ],
+      "topicId": "t-cell-non-hodgkin-lymphomas",
+      "topicName": "T-cell Non-Hodgkin Lymphomas",
+      "tier": "core"
+    },
+    {
+      "id": "bl42-009",
+      "stem": "A 47-year-old woman from the Caribbean presents with hypercalcemia, lymphadenopathy, and hepatosplenomegaly. Adult T-cell leukemia/lymphoma is suspected, and tissue is sampled to verify the immunophenotype and clonality of the atypical cells. Which of the following immunophenotypes is most characteristic of the malignant cells in this disorder?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CD3+, CD4+, CD25+, CD7-"
+        },
+        {
+          "label": "B",
+          "text": "CD3+, CD8+, CD25-, CD7+"
+        },
+        {
+          "label": "C",
+          "text": "CD3-, CD19+, CD20+, CD5-"
+        },
+        {
+          "label": "D",
+          "text": "CD15+, CD30+, CD45-"
+        },
+        {
+          "label": "E",
+          "text": "CD34+, TdT+, CD19+"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "ATLL cells are characteristically CD3+, CD4+, CD25+, and CD7-.",
+        "whyCorrect": "The brick states that ATLL malignant T cells have a relatively specific immunophenotype that aids in diagnosis: the T cells are CD3+, CD4+, CD25+, and CD7-.",
+        "whyWrongByChoice": {
+          "B": "ATLL cells are CD4+, CD25+, and CD7-, not CD8+/CD25-/CD7+.",
+          "C": "This is a B-cell profile; ATLL is a mature T-cell neoplasm.",
+          "D": "CD15+/CD30+ describes Reed-Sternberg cells of Hodgkin lymphoma, not ATLL.",
+          "E": "CD34+/TdT+ marks immature precursor (lymphoblastic) cells, whereas ATLL is a mature T-cell neoplasm."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ATLL",
+        "immunophenotype"
+      ],
+      "topicId": "t-cell-non-hodgkin-lymphomas",
+      "topicName": "T-cell Non-Hodgkin Lymphomas",
+      "tier": "core"
+    },
+    {
+      "id": "bl42-010",
+      "stem": "A patient is diagnosed with the most common clinical form of adult T-cell leukemia/lymphoma, characterized by a leukemic phase. Beyond the markedly elevated white blood cell count and lymphadenopathy, which of the following metabolic abnormalities is most characteristically associated with this acute form?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hypercalcemia"
+        },
+        {
+          "label": "B",
+          "text": "Hyperkalemia from tumor lysis alone"
+        },
+        {
+          "label": "C",
+          "text": "Hypernatremia"
+        },
+        {
+          "label": "D",
+          "text": "Hypocalcemia"
+        },
+        {
+          "label": "E",
+          "text": "Hypoglycemia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The acute form of ATLL is characteristically associated with hypercalcemia.",
+        "whyCorrect": "The brick states that the acute form is the most common, characterized by a leukemic phase with markedly elevated WBC, rash, and generalized lymphadenopathy, and that hypercalcemia, with or without lytic bone lesions, is common.",
+        "whyWrongByChoice": {
+          "B": "Hyperkalemia from tumor lysis is not the metabolic hallmark the brick emphasizes for this form.",
+          "C": "Hypernatremia is not an associated finding described for acute ATLL.",
+          "D": "The brick describes hypercalcemia, not hypocalcemia, as characteristic of acute ATLL.",
+          "E": "Hypoglycemia is not described as a feature of acute ATLL."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ATLL",
+        "hypercalcemia"
+      ],
+      "topicId": "t-cell-non-hodgkin-lymphomas",
+      "topicName": "T-cell Non-Hodgkin Lymphomas",
+      "tier": "core"
+    },
+    {
+      "id": "bl42-011",
+      "stem": "A 52-year-old man with adult T-cell leukemia/lymphoma is started on a regimen that adds a recombinant humanized monoclonal antibody to chemotherapy. The antibody targets a chemokine receptor expressed on normal and malignant T cells; binding increases antibody-dependent cytotoxicity and reduces the number of these T cells. Which receptor does this antibody target?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "PD-1"
+        },
+        {
+          "label": "B",
+          "text": "CCR4"
+        },
+        {
+          "label": "C",
+          "text": "CD20"
+        },
+        {
+          "label": "D",
+          "text": "CD30"
+        },
+        {
+          "label": "E",
+          "text": "CD52"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Mogamulizumab is an anti-CCR4 monoclonal antibody used in ATLL.",
+        "whyCorrect": "The brick states that mogamulizumab is a recombinant humanized anti-CCR4 monoclonal antibody, that CCR4 is a chemokine receptor expressed on normal and malignant T cells including ATLL, and that binding increases antibody-dependent cytotoxicity, decreasing CCR4-expressing T cells.",
+        "whyWrongByChoice": {
+          "A": "PD-1 is targeted by checkpoint inhibitors such as pembrolizumab, not the agent described.",
+          "C": "CD20 is targeted by rituximab in B-cell lymphomas, not by the anti-CCR4 antibody described.",
+          "D": "CD30 is targeted by brentuximab; mogamulizumab targets CCR4.",
+          "E": "CD52 is targeted by alemtuzumab, not by mogamulizumab."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ATLL",
+        "mogamulizumab",
+        "treatment"
+      ],
+      "topicId": "t-cell-non-hodgkin-lymphomas",
+      "topicName": "T-cell Non-Hodgkin Lymphomas",
+      "tier": "core"
+    },
+    {
+      "id": "bl42-012",
+      "stem": "A 60-year-old man reports that scaly patches first appeared years ago in his groin and on his buttocks, areas usually covered by clothing, and were repeatedly treated as eczema and psoriasis before a biopsy confirmed a cutaneous T-cell lymphoma. Which of the following best explains why mycosis fungoides is frequently misdiagnosed in its early stages?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Early lesions closely resemble common skin diseases"
+        },
+        {
+          "label": "B",
+          "text": "It always produces erythroderma before any patches appear"
+        },
+        {
+          "label": "C",
+          "text": "It causes a diagnostic peripheral blood leukocytosis from the outset"
+        },
+        {
+          "label": "D",
+          "text": "It is defined by pathognomonic Reed-Sternberg cells on first biopsy"
+        },
+        {
+          "label": "E",
+          "text": "It presents abruptly with high fever and rapidly enlarging nodes"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Early mycosis fungoides mimics benign skin conditions like eczema and psoriasis, delaying diagnosis.",
+        "whyCorrect": "The brick states that mycosis fungoides usually presents as a slow-growing skin lesion that goes through multiple phases and may take years to diagnose, with the first stage looking very much like common skin diseases such as eczema and psoriasis, so patients may be misdiagnosed until further symptoms arise.",
+        "whyWrongByChoice": {
+          "B": "Erythroderma is a late (Sezary) finding, not an early presentation preceding patches.",
+          "C": "Blood studies are usually not helpful and the WBC count is typically normal early on, since malignant T cells are confined to the skin.",
+          "D": "Reed-Sternberg cells define Hodgkin lymphoma; mycosis fungoides shows cerebriform T cells.",
+          "E": "Mycosis fungoides is slow-growing rather than abrupt with high fever and rapidly enlarging nodes."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "mycosis fungoides",
+        "diagnosis"
+      ],
+      "topicId": "t-cell-non-hodgkin-lymphomas",
+      "topicName": "T-cell Non-Hodgkin Lymphomas",
+      "tier": "core"
+    },
+    {
+      "id": "bl43-001",
+      "stem": "A 32-year-old man presents with 3 months of intermittent fever, drenching night sweats, and a 7-kg (15-lb) unintentional weight loss. On examination he has several firm, nontender, enlarged cervical lymph nodes. There is no history of infection or inflammatory disease. Which of the following is the most appropriate next step to establish a definitive diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chest x-ray"
+        },
+        {
+          "label": "B",
+          "text": "Complete blood count"
+        },
+        {
+          "label": "C",
+          "text": "Excisional lymph node biopsy"
+        },
+        {
+          "label": "D",
+          "text": "Measurement of erythrocyte sedimentation rate"
+        },
+        {
+          "label": "E",
+          "text": "PET/CT scan of the chest, abdomen, and pelvis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A lymph node biopsy provides the definitive tissue diagnosis of Hodgkin lymphoma.",
+        "whyCorrect": "In a patient with lymphadenopathy but no underlying infection or inflammatory disorder, the brick teaches that a lymph node biopsy is the next step and provides a definitive diagnosis of HL using its characteristic histologic features, such as Reed-Sternberg cells. Staging tests follow only after tissue diagnosis is made.",
+        "whyWrongByChoice": {
+          "A": "A chest x-ray may reveal a mediastinal mass but cannot provide a definitive diagnosis of HL.",
+          "B": "A complete blood count may suggest marrow infiltration but does not establish the diagnosis.",
+          "D": "An elevated ESR is used during staging to reflect cell turnover but is not diagnostic.",
+          "E": "PET/CT is used to stage the lymphoma after diagnosis, not to make the initial tissue diagnosis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "diagnosis",
+        "lymph node biopsy"
+      ],
+      "topicId": "hodgkin-lymphoma",
+      "topicName": "Hodgkin Lymphoma",
+      "tier": "core"
+    },
+    {
+      "id": "bl43-002",
+      "stem": "Infection with which of the following organisms has been identified in as many as 40% of Hodgkin lymphoma cases, with its DNA isolated from some malignant cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Epstein-Barr virus"
+        },
+        {
+          "label": "B",
+          "text": "Helicobacter pylori"
+        },
+        {
+          "label": "C",
+          "text": "Human herpesvirus-8"
+        },
+        {
+          "label": "D",
+          "text": "Human papillomavirus"
+        },
+        {
+          "label": "E",
+          "text": "Human T-lymphotropic virus type 1"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Epstein-Barr virus is the infection most strongly associated with Hodgkin lymphoma.",
+        "whyCorrect": "The brick states that Epstein-Barr virus infection has been identified in as many as 40% of HL cases and that Epstein-Barr DNA has been isolated from some malignant cells. HIV infection is also associated with HL, and most of those patients are also EBV-positive.",
+        "whyWrongByChoice": {
+          "B": "Helicobacter pylori is linked to MALT lymphoma and gastric ulcers, not Hodgkin lymphoma.",
+          "C": "Human herpesvirus-8 is associated with Kaposi sarcoma, not Hodgkin lymphoma.",
+          "D": "Human papillomavirus is linked to cervical and oropharyngeal cancers, not HL.",
+          "E": "HTLV-1 is associated with adult T-cell leukemia/lymphoma, not Hodgkin lymphoma."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "risk factors",
+        "EBV"
+      ],
+      "topicId": "hodgkin-lymphoma",
+      "topicName": "Hodgkin Lymphoma",
+      "tier": "core"
+    },
+    {
+      "id": "bl43-003",
+      "stem": "A lymph node biopsy from a patient with classic Hodgkin lymphoma is sent for immunophenotyping of the large, binucleated malignant cells. Which of the following marker patterns is most characteristic of these Reed-Sternberg cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Positive for CD15 and CD30; negative for CD45 and CD20"
+        },
+        {
+          "label": "B",
+          "text": "Positive for CD19 and CD20; negative for CD30"
+        },
+        {
+          "label": "C",
+          "text": "Positive for CD3 and CD4; negative for CD15"
+        },
+        {
+          "label": "D",
+          "text": "Positive for CD45 and CD20; negative for CD15 and CD30"
+        },
+        {
+          "label": "E",
+          "text": "Positive for CD45 and CD30; negative for CD15 and CD20"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Classic Reed-Sternberg cells are CD15- and CD30-positive but CD45- and CD20-negative.",
+        "whyCorrect": "The brick explains that Reed-Sternberg cells arise from germinal or post-germinal B cells with defective immunoglobulin genes and have therefore lost many B-cell markers. They are negative for CD45 and CD20 but positive for CD15 and CD30.",
+        "whyWrongByChoice": {
+          "B": "RS cells have lost B-cell markers such as CD20 and are not CD19/CD20 positive.",
+          "C": "RS cells derive from B cells, not T cells, so a CD3/CD4 T-cell pattern is incorrect.",
+          "D": "This is the pattern of 'popcorn' cells in nodular lymphocyte-predominant disease, not classic RS cells.",
+          "E": "RS cells are negative, not positive, for CD45, and are positive for CD15."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Reed-Sternberg cell",
+        "immunophenotype"
+      ],
+      "topicId": "hodgkin-lymphoma",
+      "topicName": "Hodgkin Lymphoma",
+      "tier": "core"
+    },
+    {
+      "id": "bl43-004",
+      "stem": "A pathologist describes the malignant cells in a Hodgkin lymphoma specimen as large and binucleated, with centrally located nucleoli that give the cells an 'owl's eye' appearance. This description refers to which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lacunar cell"
+        },
+        {
+          "label": "B",
+          "text": "Popcorn cell"
+        },
+        {
+          "label": "C",
+          "text": "Reed-Sternberg cell"
+        },
+        {
+          "label": "D",
+          "text": "Sezary cell"
+        },
+        {
+          "label": "E",
+          "text": "Smudge cell"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The binucleated 'owl's eye' cell is the classic Reed-Sternberg cell.",
+        "whyCorrect": "The brick describes classic Reed-Sternberg cells as binucleated with centrally located nucleoli, giving them an 'owl's eye' appearance. The RS cell is the most distinct morphologic feature of Hodgkin lymphoma.",
+        "whyWrongByChoice": {
+          "A": "Lacunar cells are RS variants surrounded by clear space seen in nodular sclerosis, not defined by an owl's eye appearance.",
+          "B": "Popcorn cells are large cells with convoluted nuclei seen in nodular lymphocyte-predominant disease, not the owl's eye morphology.",
+          "D": "Sezary cells are circulating cerebriform T cells of cutaneous T-cell lymphoma, unrelated to RS cells.",
+          "E": "Smudge cells are fragile lymphocytes seen in chronic lymphocytic leukemia, not Hodgkin lymphoma."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Reed-Sternberg cell",
+        "morphology"
+      ],
+      "topicId": "hodgkin-lymphoma",
+      "topicName": "Hodgkin Lymphoma",
+      "tier": "core"
+    },
+    {
+      "id": "bl43-005",
+      "stem": "A 24-year-old woman is diagnosed with the most common type of Hodgkin lymphoma in the United States. Her biopsy shows fibrous bands dividing the lymph node into nodules, along with giant cell variants surrounded by clear space. Which of the following subtypes does she most likely have?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lymphocyte-depleted"
+        },
+        {
+          "label": "B",
+          "text": "Lymphocyte-rich"
+        },
+        {
+          "label": "C",
+          "text": "Mixed cellularity"
+        },
+        {
+          "label": "D",
+          "text": "Nodular lymphocyte-predominant"
+        },
+        {
+          "label": "E",
+          "text": "Nodular sclerosis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Nodular sclerosis is the most common HL subtype and features fibrous bands and lacunar cells.",
+        "whyCorrect": "The brick states nodular sclerosis is the most common type of HL in the US (about 70-75% of cases), with fibrous bands dividing the lymph nodes into nodules and lacunar cell variants (giant cells surrounded by clear space). It most commonly occurs in young adults and has an excellent prognosis.",
+        "whyWrongByChoice": {
+          "A": "Lymphocyte-depleted HL shows abundant classic RS cells with few reactive lymphocytes, not fibrous nodules.",
+          "B": "Lymphocyte-rich HL has abundant reactive lymphocytes with few classic RS cells and no fibrous banding.",
+          "C": "Mixed cellularity is the second most common subtype and lacks the defining fibrous bands.",
+          "D": "Nodular lymphocyte-predominant disease is characterized by popcorn cells, not lacunar cells or fibrous bands."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "subtypes",
+        "nodular sclerosis"
+      ],
+      "topicId": "hodgkin-lymphoma",
+      "topicName": "Hodgkin Lymphoma",
+      "tier": "core"
+    },
+    {
+      "id": "bl43-006",
+      "stem": "A 28-year-old man has localized cervical lymphadenopathy. Biopsy shows a nodular growth pattern with a background of small lymphocytes and occasional large cells with convoluted nuclei ('popcorn' cells). Immunostaining shows these large cells are positive for CD45 and CD20 and negative for CD15 and CD30. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lymphocyte-depleted Hodgkin lymphoma"
+        },
+        {
+          "label": "B",
+          "text": "Lymphocyte-rich Hodgkin lymphoma"
+        },
+        {
+          "label": "C",
+          "text": "Mixed cellularity Hodgkin lymphoma"
+        },
+        {
+          "label": "D",
+          "text": "Nodular lymphocyte-predominant disease"
+        },
+        {
+          "label": "E",
+          "text": "Nodular sclerosis Hodgkin lymphoma"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Popcorn cells that are CD45/CD20 positive and CD15/CD30 negative define nodular lymphocyte-predominant disease.",
+        "whyCorrect": "The brick describes this uncommon tumor as occurring in young males with localized disease and showing popcorn cells that, in contrast to Reed-Sternberg cells, are positive for CD45 and CD20 and negative for CD15 and CD30. Because of its opposite immunophenotype and different genetics, it is now labeled nodular lymphocyte-predominant B-cell lymphoma.",
+        "whyWrongByChoice": {
+          "A": "Lymphocyte-depleted disease has abundant classic RS cells, which are CD15/CD30 positive.",
+          "B": "Lymphocyte-rich HL still contains classic RS cells that are CD15/CD30 positive, not CD20 positive popcorn cells.",
+          "C": "Mixed cellularity contains classic CD15/CD30-positive RS cells with a reactive inflammatory infiltrate.",
+          "E": "Nodular sclerosis is defined by fibrous bands and lacunar cells, with classic CD15/CD30-positive RS cells."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "subtypes",
+        "popcorn cells",
+        "immunophenotype"
+      ],
+      "topicId": "hodgkin-lymphoma",
+      "topicName": "Hodgkin Lymphoma",
+      "tier": "core"
+    },
+    {
+      "id": "bl43-007",
+      "stem": "A 30-year-old woman with Hodgkin lymphoma is treated with the ABVD regimen. Several months into therapy she develops progressive dyspnea, a dry cough, and imaging consistent with severe pulmonary fibrosis. Which component of ABVD is most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bleomycin"
+        },
+        {
+          "label": "B",
+          "text": "Brentuximab"
+        },
+        {
+          "label": "C",
+          "text": "Dacarbazine"
+        },
+        {
+          "label": "D",
+          "text": "Doxorubicin"
+        },
+        {
+          "label": "E",
+          "text": "Vinblastine"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Bleomycin is the ABVD agent most associated with severe pulmonary fibrosis.",
+        "whyCorrect": "The brick states that bleomycin is a metal-chelating chemotherapy antibiotic whose adverse effects include fever, hypersensitivity reactions, skin changes, and severe pulmonary fibrosis.",
+        "whyWrongByChoice": {
+          "B": "Brentuximab is a salvage anti-CD30 antibody and is not part of the ABVD regimen described.",
+          "C": "Dacarbazine causes nausea, vomiting, and bone marrow suppression, not pulmonary fibrosis.",
+          "D": "Doxorubicin causes cumulative dose-related cardiomyopathy and heart failure, not pulmonary fibrosis.",
+          "E": "Vinblastine causes peripheral neuropathy, not pulmonary fibrosis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "treatment",
+        "bleomycin",
+        "adverse effects"
+      ],
+      "topicId": "hodgkin-lymphoma",
+      "topicName": "Hodgkin Lymphoma",
+      "tier": "core"
+    },
+    {
+      "id": "bl43-008",
+      "stem": "A 45-year-old man receiving chemotherapy for Hodgkin lymphoma develops a decline in cardiac function with new heart failure. His oncologist attributes this to the cumulative dose of one of his agents, which acts by inhibiting DNA and RNA synthesis. Which drug is most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bleomycin"
+        },
+        {
+          "label": "B",
+          "text": "Dacarbazine"
+        },
+        {
+          "label": "C",
+          "text": "Doxorubicin"
+        },
+        {
+          "label": "D",
+          "text": "Pembrolizumab"
+        },
+        {
+          "label": "E",
+          "text": "Vinblastine"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Doxorubicin causes cumulative dose-related cardiomyopathy and inhibits DNA/RNA synthesis.",
+        "whyCorrect": "The brick states that doxorubicin (Adriamycin, the 'A' in ABVD) acts by inhibition of DNA/RNA synthesis and that cumulative dose-related cardiomyopathy can occur, which can also cause heart failure.",
+        "whyWrongByChoice": {
+          "A": "Bleomycin fragments DNA chains and causes pulmonary fibrosis, not cardiomyopathy.",
+          "B": "Dacarbazine inhibits DNA polymerase and causes nausea and marrow suppression, not cardiomyopathy.",
+          "D": "Pembrolizumab is a PD-1 checkpoint inhibitor used as salvage therapy, not the cardiotoxic ABVD agent.",
+          "E": "Vinblastine inhibits microtubule function and causes peripheral neuropathy, not heart failure."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "treatment",
+        "doxorubicin",
+        "adverse effects"
+      ],
+      "topicId": "hodgkin-lymphoma",
+      "topicName": "Hodgkin Lymphoma",
+      "tier": "core"
+    },
+    {
+      "id": "bl43-009",
+      "stem": "During staging of a patient with Hodgkin lymphoma, PET/CT reveals involved lymph node chains in the neck and in the para-aortic region below the diaphragm, without organ involvement. Which of the following stages best describes this distribution?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Stage I"
+        },
+        {
+          "label": "B",
+          "text": "Stage II"
+        },
+        {
+          "label": "C",
+          "text": "Stage IIB"
+        },
+        {
+          "label": "D",
+          "text": "Stage III"
+        },
+        {
+          "label": "E",
+          "text": "Stage IV"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Nodal disease on both sides of the diaphragm defines stage III.",
+        "whyCorrect": "The brick teaches that staging considers the number and location of affected nodes. Stage III is the stage in which lymph node involvement is first seen on both sides of the diaphragm, matching this patient's cervical and para-aortic disease.",
+        "whyWrongByChoice": {
+          "A": "Stage I is localized disease confined to a single lymph node region on one side of the diaphragm.",
+          "B": "Stage II involves two or more nodal regions but all on the same side of the diaphragm.",
+          "C": "Stage IIB would require all nodes on one side of the diaphragm plus B symptoms, not disease on both sides.",
+          "E": "Stage IV is widespread disease involving multiple organs, which this patient does not have."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "staging",
+        "diaphragm"
+      ],
+      "topicId": "hodgkin-lymphoma",
+      "topicName": "Hodgkin Lymphoma",
+      "tier": "core"
+    },
+    {
+      "id": "bl43-010",
+      "stem": "A 35-year-old man with a large mediastinal mass from Hodgkin lymphoma develops facial swelling and erythema, distended veins over the face and upper chest, and headache. Which of the following best explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Airway compression causing stridor"
+        },
+        {
+          "label": "B",
+          "text": "Bone marrow infiltration causing pancytopenia"
+        },
+        {
+          "label": "C",
+          "text": "Extranodal spread to the liver"
+        },
+        {
+          "label": "D",
+          "text": "Hypercalcemia from increased cell turnover"
+        },
+        {
+          "label": "E",
+          "text": "Superior vena cava compression"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A mediastinal mass compressing the superior vena cava produces SVC syndrome.",
+        "whyCorrect": "The brick teaches that massive mediastinal lymphadenopathy may cause superior vena cava (SVC) syndrome, in which SVC compression leads to facial erythema, distended veins in the face, upper chest, and upper limbs, and headache.",
+        "whyWrongByChoice": {
+          "A": "Airway compression causes respiratory distress and stridor, not facial swelling and distended neck veins.",
+          "B": "Marrow infiltration causes pancytopenia on CBC, not facial plethora and distended veins.",
+          "C": "Hodgkin lymphoma rarely spreads extranodally, and liver involvement would not cause SVC-type findings.",
+          "D": "The brick links increased cell turnover to elevated potassium, LDH, and ESR, not to this venous congestion syndrome."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "presentation",
+        "SVC syndrome"
+      ],
+      "topicId": "hodgkin-lymphoma",
+      "topicName": "Hodgkin Lymphoma",
+      "tier": "core"
+    },
+    {
+      "id": "bl43-011",
+      "stem": "A patient with relapsed classic Hodgkin lymphoma is started on a targeted salvage agent that is a monoclonal antibody directed against a cell-surface receptor highly expressed on classic Reed-Sternberg cells. Which of the following is this agent's target?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "PD-1"
+        },
+        {
+          "label": "B",
+          "text": "CD15"
+        },
+        {
+          "label": "C",
+          "text": "CD20"
+        },
+        {
+          "label": "D",
+          "text": "CD30"
+        },
+        {
+          "label": "E",
+          "text": "CD45"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Brentuximab is a monoclonal antibody directed against CD30 on classic Reed-Sternberg cells.",
+        "whyCorrect": "The brick states that brentuximab is a monoclonal antibody directed against CD30 cell-surface receptors that are highly expressed on classic Hodgkin lymphoma Reed-Sternberg cells, and it is used as salvage therapy in refractory or relapsed disease.",
+        "whyWrongByChoice": {
+          "A": "PD-1 is the target of pembrolizumab, a checkpoint inhibitor, not the anti-CD30 antibody described.",
+          "B": "Although RS cells are CD15 positive, the brick identifies the antibody's target as CD30.",
+          "C": "Classic Reed-Sternberg cells are negative for CD20, so it is not the target of this agent.",
+          "E": "Reed-Sternberg cells are negative for CD45, so it cannot be the target of this therapy."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "treatment",
+        "brentuximab",
+        "CD30"
+      ],
+      "topicId": "hodgkin-lymphoma",
+      "topicName": "Hodgkin Lymphoma",
+      "tier": "core"
+    },
+    {
+      "id": "bl43-012",
+      "stem": "A hematology instructor contrasts Hodgkin lymphoma with non-Hodgkin lymphoma. Which of the following features is most characteristic of Hodgkin lymphoma?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A single peak of incidence limited to adults older than 65 years"
+        },
+        {
+          "label": "B",
+          "text": "Common extranodal presentation in the liver and marrow at diagnosis"
+        },
+        {
+          "label": "C",
+          "text": "Frequent involvement of mesenteric nodes and Waldeyer's ring at onset"
+        },
+        {
+          "label": "D",
+          "text": "Noncontiguous spread to distant, unrelated nodal groups early on"
+        },
+        {
+          "label": "E",
+          "text": "Orderly, contiguous spread involving central and axial lymph nodes"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Hodgkin lymphoma typically spreads in an orderly, contiguous fashion through central and axial nodes.",
+        "whyCorrect": "The brick teaches that, in contrast to non-Hodgkin lymphoma, HL typically demonstrates orderly, contiguous lymph node spread, involves more central and axial lymph nodes, seldom involves mesenteric nodes and Waldeyer's ring, and rarely has an extranodal presentation.",
+        "whyWrongByChoice": {
+          "A": "HL has a bimodal age distribution, peaking in young adults and again after age 65, not a single older-adult peak.",
+          "B": "HL rarely has an extranodal presentation, unlike many non-Hodgkin lymphomas.",
+          "C": "The brick specifies that HL seldom involves mesenteric nodes and Waldeyer's ring.",
+          "D": "HL spreads contiguously, not by noncontiguous jumps to unrelated nodal groups."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pathophysiology",
+        "spread pattern"
+      ],
+      "topicId": "hodgkin-lymphoma",
+      "topicName": "Hodgkin Lymphoma",
+      "tier": "core"
+    },
+    {
+      "id": "bl44-001",
+      "stem": "A 69-year-old man presents with fatigue, bone pain, and constipation. Laboratory studies reveal normocytic anemia, hypercalcemia, and an elevated creatinine. Serum protein electrophoresis shows a monoclonal spike in the gamma region. A bone marrow biopsy is planned. Malignant proliferation of which of the following cell types is most likely responsible for this patient's disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Erythroid precursors"
+        },
+        {
+          "label": "B",
+          "text": "Megakaryocytes"
+        },
+        {
+          "label": "C",
+          "text": "Neutrophils"
+        },
+        {
+          "label": "D",
+          "text": "Plasma cells"
+        },
+        {
+          "label": "E",
+          "text": "T lymphocytes"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Multiple myeloma is a B-cell neoplasm characterized by malignant proliferation of plasma cells in the bone marrow.",
+        "whyCorrect": "Multiple myeloma is a hematopoietic B-cell neoplasm defined by malignant proliferation of plasma cells in the bone marrow. Plasma cells are activated B-lymphocytes whose major function is antibody (immunoglobulin) production, which explains the monoclonal spike on serum protein electrophoresis.",
+        "whyWrongByChoice": {
+          "A": "Erythroid precursors are reduced, not proliferating, in myeloma because plasma cell infiltration crowds them out, causing anemia.",
+          "B": "Megakaryocytes are the precursors of platelets and are not the neoplastic cell in myeloma.",
+          "C": "Neutrophils are mature granulocytes and are not the malignant clone in myeloma; their precursors may be suppressed.",
+          "E": "T lymphocytes are not the neoplastic cell in myeloma, which arises from the B-cell (plasma cell) lineage."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "multiple myeloma",
+        "plasma cells",
+        "pathophysiology"
+      ],
+      "topicId": "multiple-myeloma-and-other-plasma-cell-disorders",
+      "topicName": "Multiple Myeloma and Other Plasma Cell Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bl44-002",
+      "stem": "A 64-year-old woman with newly diagnosed multiple myeloma has a peripheral blood smear that shows red blood cells stacked on one another like a roll of coins. Which of the following best explains this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An intrinsic red cell membrane skeleton defect of ankyrin and spectrin proteins"
+        },
+        {
+          "label": "B",
+          "text": "Elevated serum immunoglobulin prevents red cells from repelling one another"
+        },
+        {
+          "label": "C",
+          "text": "IgM cold agglutinins binding and clumping red cells at low temperature"
+        },
+        {
+          "label": "D",
+          "text": "Iron deficiency causing microcytic red cells with a low ferritin level"
+        },
+        {
+          "label": "E",
+          "text": "Low serum albumin reducing plasma oncotic pressure and cell spacing"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Rouleaux formation in myeloma results from elevated serum immunoglobulin that reduces the normal repulsion between red blood cells.",
+        "whyCorrect": "Peripheral blood smears in multiple myeloma often reveal rouleaux, stacks of red blood cells. The rouleaux arise because the elevated serum immunoglobulin prevents red blood cells from repelling each other, allowing them to aggregate into coin-like stacks.",
+        "whyWrongByChoice": {
+          "A": "A membrane skeleton defect describes hereditary spherocytosis, not the immunoglobulin-driven rouleaux of myeloma.",
+          "C": "Cold agglutinins cause red cell clumping (agglutination) rather than the ordered stacking of rouleaux, and are not the mechanism described here.",
+          "D": "Iron deficiency produces microcytic, hypochromic cells rather than rouleaux stacking.",
+          "E": "Low albumin does not cause rouleaux; it is the excess immunoglobulin that reduces intercellular repulsion."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "multiple myeloma",
+        "rouleaux",
+        "peripheral smear"
+      ],
+      "topicId": "multiple-myeloma-and-other-plasma-cell-disorders",
+      "topicName": "Multiple Myeloma and Other Plasma Cell Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bl44-003",
+      "stem": "A 71-year-old man with multiple myeloma develops a rising serum creatinine. Urinalysis shows proteinaceous casts. Which of the following best describes the principal mechanism of his kidney injury?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ascending bacterial pyelonephritis"
+        },
+        {
+          "label": "B",
+          "text": "Filtered light-chain proteins damage the renal tubules"
+        },
+        {
+          "label": "C",
+          "text": "Immune complex deposition activating glomerular complement"
+        },
+        {
+          "label": "D",
+          "text": "Polycystic replacement of the renal parenchyma"
+        },
+        {
+          "label": "E",
+          "text": "Renal infarction from red blood cell clumping"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Myeloma kidney injury is caused mostly by glomerular filtration of monoclonal light chains that damage and obstruct the tubules.",
+        "whyCorrect": "Most kidney damage in myeloma is due to glomerular filtration of abnormal serum light-chain proteins (Bence-Jones protein), termed light-chain nephropathy. The filtered light chains inflame renal tubular cells when reabsorbed and obstruct tubules when they combine with glycoproteins to form casts.",
+        "whyWrongByChoice": {
+          "A": "Although myeloma patients are prone to infections including pyelonephritis, infection is not the principal cause of the kidney failure.",
+          "C": "The glomerular damage in myeloma results from light-chain (amyloid) deposition, not complement activation by immune complexes.",
+          "D": "Polycystic kidney disease is a separate hereditary disorder unrelated to myeloma.",
+          "E": "Renal infarction from red cell clumping is not a recognized mechanism of myeloma kidney disease."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "multiple myeloma",
+        "kidney disease",
+        "light chains"
+      ],
+      "topicId": "multiple-myeloma-and-other-plasma-cell-disorders",
+      "topicName": "Multiple Myeloma and Other Plasma Cell Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bl44-004",
+      "stem": "A 66-year-old woman is being evaluated for suspected multiple myeloma. A serum protein electrophoresis is performed. In which of the following fractions of the electrophoresis would the abnormal monoclonal (M) spike most likely appear?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Albumin"
+        },
+        {
+          "label": "B",
+          "text": "Alpha-1"
+        },
+        {
+          "label": "C",
+          "text": "Alpha-2"
+        },
+        {
+          "label": "D",
+          "text": "Beta"
+        },
+        {
+          "label": "E",
+          "text": "Gamma"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Immunoglobulins migrate to the gamma fraction, so the monoclonal M spike of myeloma appears there.",
+        "whyCorrect": "Immunoglobulins migrate to the gamma fraction on serum protein electrophoresis. Because myeloma plasma cells are clonal, their identical monoclonal immunoglobulin molecules all migrate to the same spot, producing a tall, narrow M spike in the gamma region.",
+        "whyWrongByChoice": {
+          "A": "The albumin fraction contains albumin, the most abundant serum protein, not immunoglobulins.",
+          "B": "The alpha-1 fraction contains proteins such as alpha-1-antitrypsin and thyroid-binding globulin.",
+          "C": "The alpha-2 fraction contains proteins such as ceruloplasmin, alpha-2-macroglobulin, and haptoglobin.",
+          "D": "The beta fraction contains proteins such as transferrin and beta-lipoprotein, not the monoclonal immunoglobulin."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "multiple myeloma",
+        "SPEP",
+        "M spike"
+      ],
+      "topicId": "multiple-myeloma-and-other-plasma-cell-disorders",
+      "topicName": "Multiple Myeloma and Other Plasma Cell Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bl44-005",
+      "stem": "A 73-year-old man with multiple myeloma presents with confusion and severe bone pain. Serum calcium is markedly elevated, and skeletal x-rays show punched-out lytic lesions. Which of the following best explains the elevated serum calcium?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autonomous parathyroid adenoma secreting parathyroid hormone"
+        },
+        {
+          "label": "B",
+          "text": "Calcium released into the blood as bone is demineralized"
+        },
+        {
+          "label": "C",
+          "text": "Decreased renal excretion from obstructing kidney stones"
+        },
+        {
+          "label": "D",
+          "text": "Granulomatous conversion of vitamin D to its active form"
+        },
+        {
+          "label": "E",
+          "text": "Increased dietary calcium absorption from excess vitamin D"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Hypercalcemia in myeloma results from calcium released into the blood as lytic lesions and demineralization destroy bone.",
+        "whyCorrect": "Myeloma causes lytic bone lesions and bone demineralization due to invading plasma cells and changes in the bone metabolic environment. As bone is broken down, calcium is released from the bone into the blood, producing hypercalcemia that, if severe, can cause confusion.",
+        "whyWrongByChoice": {
+          "A": "A parathyroid adenoma causes hyperparathyroidism, a separate cause of hypercalcemia that is not associated with lytic lesions and increased plasma cells like myeloma.",
+          "C": "Obstructing kidney stones are not the mechanism of hypercalcemia in myeloma; the source is bone breakdown.",
+          "D": "Granulomatous activation of vitamin D causes hypercalcemia in conditions such as sarcoidosis, not myeloma.",
+          "E": "Vitamin D excess is not the cause; myeloma hypercalcemia arises from bone resorption by myeloma cells."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "multiple myeloma",
+        "hypercalcemia",
+        "bone disease"
+      ],
+      "topicId": "multiple-myeloma-and-other-plasma-cell-disorders",
+      "topicName": "Multiple Myeloma and Other Plasma Cell Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bl44-006",
+      "stem": "A 68-year-old man with multiple myeloma is started on bortezomib. Which of the following best describes the mechanism by which this drug kills myeloma cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Binding CD38 on the surface of myeloma cells"
+        },
+        {
+          "label": "B",
+          "text": "Cross-linking DNA strands to prevent replication"
+        },
+        {
+          "label": "C",
+          "text": "Inhibiting proteasomes so misfolded proteins accumulate"
+        },
+        {
+          "label": "D",
+          "text": "Inhibiting thromboxane A2 to reduce platelet aggregation"
+        },
+        {
+          "label": "E",
+          "text": "Lowering TNF-alpha and stimulating T cells"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Bortezomib is a proteasome inhibitor that causes toxic accumulation of misfolded proteins, inducing myeloma cell apoptosis.",
+        "whyCorrect": "In myeloma the high level of immunoglobulin synthesis leads to misfolded heavy and light chains, which must be degraded by proteasomes or the cell undergoes apoptosis. Bortezomib inhibits the proteasome, preventing degradation of these misfolded proteins and thereby inducing death of the myeloma cells.",
+        "whyWrongByChoice": {
+          "A": "Binding CD38 is the mechanism of the monoclonal antibodies daratumumab and isatuximab, not bortezomib.",
+          "B": "DNA cross-linking describes alkylating agents, not the proteasome inhibitor bortezomib.",
+          "D": "Inhibiting thromboxane A2 describes antiplatelet drugs such as aspirin and is unrelated to bortezomib.",
+          "E": "Lowering TNF-alpha and stimulating T cells describes the immune modulator lenalidomide."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "multiple myeloma",
+        "bortezomib",
+        "treatment"
+      ],
+      "topicId": "multiple-myeloma-and-other-plasma-cell-disorders",
+      "topicName": "Multiple Myeloma and Other Plasma Cell Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bl44-007",
+      "stem": "A 70-year-old woman with multiple myeloma begins therapy with daratumumab. This monoclonal antibody exerts its antimyeloma effect by binding to which of the following targets?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The glucocorticoid receptor"
+        },
+        {
+          "label": "B",
+          "text": "The glycoprotein CD38"
+        },
+        {
+          "label": "C",
+          "text": "The IGH locus on chromosome 14"
+        },
+        {
+          "label": "D",
+          "text": "The proteasome"
+        },
+        {
+          "label": "E",
+          "text": "TNF-alpha"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Daratumumab is a monoclonal antibody that targets the glycoprotein CD38, which is highly expressed on myeloma cells.",
+        "whyCorrect": "Daratumumab is a monoclonal antibody that inhibits the glycoprotein CD38. By binding CD38, it inhibits the growth of CD38-expressing tumor cells through Fc-mediated cross-linking and immune-mediated lysis. CD38 is highly expressed on myeloma cells but only in low amounts on normal cells, making it a good drug target.",
+        "whyWrongByChoice": {
+          "A": "The glucocorticoid receptor is engaged by corticosteroids such as dexamethasone.",
+          "C": "The IGH locus on chromosome 14 is involved in myeloma genetic translocations but is not a drug target for daratumumab.",
+          "D": "The proteasome is the target of bortezomib, not the antibody daratumumab.",
+          "E": "TNF-alpha is lowered by the immune modulator lenalidomide, not by daratumumab."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "multiple myeloma",
+        "daratumumab",
+        "CD38"
+      ],
+      "topicId": "multiple-myeloma-and-other-plasma-cell-disorders",
+      "topicName": "Multiple Myeloma and Other Plasma Cell Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bl44-008",
+      "stem": "A 65-year-old man has an M spike on serum protein electrophoresis and elevated serum free light chains. To firmly establish a diagnosis of multiple myeloma, a bone marrow biopsy is performed. Which of the following biopsy findings is diagnostic of multiple myeloma?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "2% to 3% plasma cells"
+        },
+        {
+          "label": "B",
+          "text": "Absence of any plasma cells"
+        },
+        {
+          "label": "C",
+          "text": "Greater than 10% clonal plasma cells"
+        },
+        {
+          "label": "D",
+          "text": "Increased ring sideroblasts"
+        },
+        {
+          "label": "E",
+          "text": "Predominance of clonal T lymphocytes"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A firm diagnosis of myeloma requires greater than 10% clonal plasma cells in the bone marrow.",
+        "whyCorrect": "A patient is considered to have multiple myeloma when the bone marrow contains at least 10% plasma cells; the normal proportion is only 2% to 3%. A bone marrow biopsy is diagnostic for myeloma if it shows greater than 10% clonal plasma cells, and the percentage can sometimes be much higher (60% to 80%) in advanced disease.",
+        "whyWrongByChoice": {
+          "A": "2% to 3% plasma cells is the normal proportion and would not indicate myeloma.",
+          "B": "The absence of plasma cells argues against myeloma, which is defined by their proliferation.",
+          "D": "Ring sideroblasts are a feature of sideroblastic anemia and certain myelodysplastic syndromes, not myeloma.",
+          "E": "Myeloma is a plasma cell (B-cell) neoplasm; a clonal T-lymphocyte predominance points to a different disorder."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "multiple myeloma",
+        "bone marrow biopsy",
+        "diagnosis"
+      ],
+      "topicId": "multiple-myeloma-and-other-plasma-cell-disorders",
+      "topicName": "Multiple Myeloma and Other Plasma Cell Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bl44-009",
+      "stem": "A previously healthy 62-year-old man is found to have an elevated total serum protein on routine labs. Serum electrophoresis shows a small M spike. He is asymptomatic with a normal physical exam, and a bone marrow biopsy shows 6% plasma cells with no evidence of anemia, renal failure, hypercalcemia, or bone lesions. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Monoclonal gammopathy of undetermined significance"
+        },
+        {
+          "label": "B",
+          "text": "Multiple myeloma with CRAB end-organ damage"
+        },
+        {
+          "label": "C",
+          "text": "Primary amyloidosis with cardiac and renal deposits"
+        },
+        {
+          "label": "D",
+          "text": "Smoldering myeloma with over 10% plasma cells"
+        },
+        {
+          "label": "E",
+          "text": "Waldenstrom macroglobulinemia with an IgM spike"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "An asymptomatic monoclonal spike with fewer than 10% marrow plasma cells and no organ damage defines MGUS.",
+        "whyCorrect": "Monoclonal gammopathy of undetermined significance (MGUS) is asymptomatic and characterized by a monoclonal immunoglobulin spike with fewer than 10% plasma cells in the bone marrow and no signs of organ failure. This patient's small spike, 6% plasma cells, and absence of CRAB features fit MGUS, which carries a small but increased risk of progression to myeloma.",
+        "whyWrongByChoice": {
+          "B": "Multiple myeloma requires greater than 10% plasma cells plus end-organ (CRAB) damage, which this patient lacks.",
+          "C": "Primary amyloidosis involves deposition of misfolded immunoglobulin in organs, causing organ dysfunction not seen in this asymptomatic patient.",
+          "D": "Smoldering myeloma is asymptomatic but requires greater than 10% plasma cells in the marrow.",
+          "E": "Waldenstrom macroglobulinemia produces an IgM spike with hyperviscosity and lymphoplasmacytic lymphoma, not this asymptomatic low-level picture."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "MGUS",
+        "plasma cell disorders",
+        "diagnosis"
+      ],
+      "topicId": "multiple-myeloma-and-other-plasma-cell-disorders",
+      "topicName": "Multiple Myeloma and Other Plasma Cell Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bl44-010",
+      "stem": "A 70-year-old man presents with fatigue, blurred vision, mucosal bleeding, and headaches. Serum protein electrophoresis reveals an IgM monoclonal spike, and bone marrow shows a lymphoplasmacytic lymphoma. Which of the following best explains his visual and neurologic symptoms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autoimmune destruction of platelets"
+        },
+        {
+          "label": "B",
+          "text": "Filtered light chains obstructing the renal tubules"
+        },
+        {
+          "label": "C",
+          "text": "Lytic bone lesions compressing the optic nerve"
+        },
+        {
+          "label": "D",
+          "text": "Severe hypercalcemia from bone demineralization"
+        },
+        {
+          "label": "E",
+          "text": "The large IgM pentamer increases blood viscosity"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Waldenstrom macroglobulinemia causes hyperviscosity because the large IgM pentamer thickens blood and clumps red cells.",
+        "whyCorrect": "Waldenstrom macroglobulinemia is characterized by an IgM spike and hyperviscosity syndrome. Because IgM is a heavy pentamer, it clumps red blood cells together and raises blood viscosity. The resulting sluggish flow and organ ischemia can cause visual loss, and there may also be abnormal bleeding and peripheral neuropathy.",
+        "whyWrongByChoice": {
+          "A": "Autoimmune platelet destruction is not the mechanism; the symptoms stem from the viscous IgM pentamer.",
+          "B": "Light-chain tubular obstruction causes kidney injury, not the visual and neurologic symptoms of hyperviscosity.",
+          "C": "Lytic bone lesions and the CRAB picture are features of multiple myeloma, not the hyperviscosity of Waldenstrom.",
+          "D": "Hypercalcemia from bone demineralization is a myeloma complication and does not explain this IgM-driven hyperviscosity."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Waldenstrom macroglobulinemia",
+        "hyperviscosity",
+        "IgM"
+      ],
+      "topicId": "multiple-myeloma-and-other-plasma-cell-disorders",
+      "topicName": "Multiple Myeloma and Other Plasma Cell Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bl44-011",
+      "stem": "A 67-year-old woman with multiple myeloma has no monoclonal spike on serum protein electrophoresis, but urine protein electrophoresis reveals a monoclonal protein. This urinary monoclonal protein is composed only of light chains. Which of the following best explains why only light chains, and not intact immunoglobulins, appear in the urine?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Intact immunoglobulins are completely reabsorbed in the proximal tubule"
+        },
+        {
+          "label": "B",
+          "text": "Intact immunoglobulins are degraded by urinary proteases"
+        },
+        {
+          "label": "C",
+          "text": "Intact immunoglobulins are too large to be filtered into the urine"
+        },
+        {
+          "label": "D",
+          "text": "Light chains are actively secreted by renal tubular cells"
+        },
+        {
+          "label": "E",
+          "text": "Only light chains carry a negative charge that promotes filtration"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The urinary monoclonal protein in myeloma is always light chains because intact immunoglobulins are too large to be filtered.",
+        "whyCorrect": "In some cases of myeloma there is no monoclonal spike on serum electrophoresis, but urine protein electrophoresis reveals a monoclonal protein. This urinary protein will always be light chains (Bence-Jones proteins), because the full immunoglobulins are too big to be filtered into the urine, whereas the smaller free light chains can pass into the tubule.",
+        "whyWrongByChoice": {
+          "A": "Intact immunoglobulins do not appear in urine because their size prevents filtration, not because they are fully reabsorbed.",
+          "B": "Intact immunoglobulins are excluded by size at the glomerulus rather than being degraded by urinary proteases.",
+          "D": "Light chains are filtered because of their small size, not actively secreted by tubular cells.",
+          "E": "The determining factor is molecular size, not a unique negative charge on light chains."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "multiple myeloma",
+        "Bence-Jones protein",
+        "UPEP"
+      ],
+      "topicId": "multiple-myeloma-and-other-plasma-cell-disorders",
+      "topicName": "Multiple Myeloma and Other Plasma Cell Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bl44-012",
+      "stem": "A 68-year-old man with multiple myeloma develops an enlarged tongue, bilateral carpal tunnel syndrome, and worsening heart failure. Biopsy of affected tissue shows deposits of a pinkish proteinaceous material. Which of the following best explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic granulomatous inflammation of the tongue and heart"
+        },
+        {
+          "label": "B",
+          "text": "Excess monoclonal immunoglobulin misfolds into amyloid fibrils"
+        },
+        {
+          "label": "C",
+          "text": "Hypercalcemia calcifies soft tissues throughout the body"
+        },
+        {
+          "label": "D",
+          "text": "Iron overload deposits hemosiderin in the affected organs"
+        },
+        {
+          "label": "E",
+          "text": "Plasma cells directly metastasize to the tongue and heart muscle"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In myeloma, excess immunoglobulin can misfold into amyloid fibrils that deposit in organs, causing primary amyloidosis.",
+        "whyCorrect": "Excess immunoglobulins in myeloma can become misfolded into amyloid fibrils, a pinkish proteinaceous substance that causes primary amyloidosis when deposited in the heart, liver, kidneys, muscles, tongue, and other locations. This can produce heart failure, an enlarged tongue, and secondary carpal tunnel syndrome, matching this patient's presentation.",
+        "whyWrongByChoice": {
+          "A": "Granulomatous inflammation is a different process and does not explain the amyloid deposits seen on biopsy.",
+          "C": "Hypercalcemia causes confusion and other effects but does not deposit pinkish proteinaceous amyloid in these tissues.",
+          "D": "Iron overload deposits hemosiderin, which is distinct from the amyloid fibrils described here.",
+          "E": "Myeloma cells are largely confined to the bone marrow; the organ findings are due to amyloid deposition, not metastatic plasma cells."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "multiple myeloma",
+        "amyloidosis",
+        "complications"
+      ],
+      "topicId": "multiple-myeloma-and-other-plasma-cell-disorders",
+      "topicName": "Multiple Myeloma and Other Plasma Cell Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bl45-001",
+      "stem": "A 45-year-old man presents with fatigue and a markedly elevated white blood cell count. Cytogenetic testing reveals a reciprocal translocation between chromosomes 9 and 22 that produces a fusion gene encoding a constitutively active protein kinase. He is started on the first tyrosine kinase inhibitor approved by the FDA, which competitively inhibits ATP binding to this fusion kinase. Which of the following drugs was he most likely given?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bortezomib"
+        },
+        {
+          "label": "B",
+          "text": "Cyclophosphamide"
+        },
+        {
+          "label": "C",
+          "text": "Imatinib"
+        },
+        {
+          "label": "D",
+          "text": "Rituximab"
+        },
+        {
+          "label": "E",
+          "text": "Trastuzumab"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Imatinib is the first FDA-approved TKI and targets the BCR-ABL fusion kinase of the Philadelphia chromosome.",
+        "whyCorrect": "The brick states that the Philadelphia chromosome results from a translocation between chromosomes 9 and 22, creating the BCR-ABL fusion gene, a constitutively active protein kinase that drives chronic myeloid leukemia. Imatinib, the first TKI approved by the FDA, binds the kinase site of BCR-ABL and competitively inhibits ATP binding, blocking downstream phosphorylation.",
+        "whyWrongByChoice": {
+          "A": "Bortezomib is a proteasome inhibitor (modulator of protein degradation), not a BCR-ABL inhibitor.",
+          "B": "Cyclophosphamide is an alkylating chemotherapeutic agent and does not target the BCR-ABL kinase.",
+          "D": "Rituximab is a monoclonal antibody against CD20, not a TKI targeting BCR-ABL.",
+          "E": "Trastuzumab is a monoclonal antibody directed against a tumor cell-surface receptor, not the intracellular BCR-ABL kinase."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "imatinib",
+        "BCR-ABL",
+        "tyrosine kinase inhibitor"
+      ],
+      "topicId": "targeted-inhibitors-used-in-cancer-therapy",
+      "topicName": "Targeted Inhibitors Used in Cancer Therapy",
+      "tier": "core"
+    },
+    {
+      "id": "bl45-002",
+      "stem": "A pharmacology instructor explains that tyrosine kinase inhibitors and monoclonal antibodies block receptor tyrosine kinase signaling by two different mechanisms. Which of the following best describes how a tyrosine kinase inhibitor works?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It alkylates DNA to prevent replication"
+        },
+        {
+          "label": "B",
+          "text": "It cross-links surface receptors to trigger complement-mediated lysis"
+        },
+        {
+          "label": "C",
+          "text": "It inhibits the 26S proteasome to prevent protein degradation"
+        },
+        {
+          "label": "D",
+          "text": "It is a small molecule that competitively inhibits ATP binding"
+        },
+        {
+          "label": "E",
+          "text": "It is an antibody that binds the extracellular ligand-binding domain of the receptor"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "TKIs are small molecules that competitively inhibit ATP binding at the intracellular kinase domain, preventing receptor phosphorylation.",
+        "whyCorrect": "The brick teaches that TKIs are not antibodies but small molecules that chemically block receptor function at its intracellular domain. They competitively inhibit ATP binding, preventing phosphorylation of the receptor and interrupting the signaling pathway. The mnemonic notes that tyrosine kinase inhibitors attach on the inside domain of the receptor.",
+        "whyWrongByChoice": {
+          "A": "Alkylating DNA describes classic cytotoxic chemotherapy, not targeted TKI action.",
+          "B": "Complement-mediated lysis from cross-linking surface receptors is an antibody-mediated effect, not the mechanism of a small-molecule TKI.",
+          "C": "Inhibiting the 26S proteasome is the mechanism of bortezomib, not a TKI.",
+          "E": "Binding the extracellular ligand-binding domain describes monoclonal antibodies, which act on the outside of the receptor."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "tyrosine kinase inhibitor",
+        "mechanism",
+        "ATP"
+      ],
+      "topicId": "targeted-inhibitors-used-in-cancer-therapy",
+      "topicName": "Targeted Inhibitors Used in Cancer Therapy",
+      "tier": "core"
+    },
+    {
+      "id": "bl45-003",
+      "stem": "A student compares small-molecule inhibitors with monoclonal antibodies used in cancer therapy. Compared with small molecules, which of the following is a characteristic feature of monoclonal antibodies?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They act on multiple targets with a broad spectrum of effects"
+        },
+        {
+          "label": "B",
+          "text": "They are taken orally and undergo cytochrome P450 metabolism"
+        },
+        {
+          "label": "C",
+          "text": "They have half-lives of 12 to 24 hours requiring frequent dosing"
+        },
+        {
+          "label": "D",
+          "text": "They readily enter the cell to inhibit intracellular kinase pathways"
+        },
+        {
+          "label": "E",
+          "text": "They target proteins on the cell surface"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Monoclonal antibodies target cell-surface proteins, are highly specific for a single antigen, and are given parenterally with long half-lives.",
+        "whyCorrect": "The brick's comparison table states that monoclonal antibodies target proteins on the cell surface, are generally specific for a single antigen, are more selective with specific effects, are given parenterally, and have half-lives of days to weeks. Small molecules, by contrast, target mostly intracellular proteins.",
+        "whyWrongByChoice": {
+          "A": "Multiple targets and a broad spectrum of effects characterize small molecules, whereas antibodies have specific effects.",
+          "B": "Oral administration with CYP metabolism is a property of small molecules, not monoclonal antibodies.",
+          "C": "Half-lives of 12 to 24 hours describe small molecules; antibodies have half-lives of days to weeks.",
+          "D": "Entering the cell to inhibit intracellular pathways describes small molecules; antibodies act on cell-surface targets."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "monoclonal antibody",
+        "small molecule",
+        "comparison"
+      ],
+      "topicId": "targeted-inhibitors-used-in-cancer-therapy",
+      "topicName": "Targeted Inhibitors Used in Cancer Therapy",
+      "tier": "core"
+    },
+    {
+      "id": "bl45-004",
+      "stem": "A medical student is taught that the syllables in a monoclonal antibody's name reveal its target and its source. Based on the components of its name, the antibody trastuzumab targets which of the following, and from what source is it derived?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A tumor; humanized"
+        },
+        {
+          "label": "B",
+          "text": "A virus; chimeric"
+        },
+        {
+          "label": "C",
+          "text": "An interleukin; rat"
+        },
+        {
+          "label": "D",
+          "text": "Bone; humanized"
+        },
+        {
+          "label": "E",
+          "text": "The cardiovascular system; human"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In trastuzumab, -tu- denotes a tumor target and -zu- denotes a humanized source.",
+        "whyCorrect": "The brick's nomenclature table shows that the syllable -t- or -tu- indicates a tumor target and the syllable -zu- indicates a humanized source. Trastuzumab contains both -tu- and -zu-, so by its name it targets a tumor and is a humanized antibody.",
+        "whyWrongByChoice": {
+          "B": "A virus target is denoted by -v- or -vi- and a chimeric source by -xi-, neither of which matches trastuzumab.",
+          "C": "An interleukin target is -k- or -ki- and a rat source is -a-, which do not appear in trastuzumab.",
+          "D": "A bone target is -o- or -os-, which is not present in trastuzumab even though it is humanized.",
+          "E": "A cardiovascular target is -c- or -ci- and a human source is -u-, not the syllables in trastuzumab."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "trastuzumab",
+        "nomenclature",
+        "monoclonal antibody"
+      ],
+      "topicId": "targeted-inhibitors-used-in-cancer-therapy",
+      "topicName": "Targeted Inhibitors Used in Cancer Therapy",
+      "tier": "core"
+    },
+    {
+      "id": "bl45-005",
+      "stem": "A 62-year-old woman with diffuse large B-cell lymphoma is treated with a monoclonal antibody directed against a glycosylated tetra-transmembrane phosphoprotein widely expressed on developing B-cells and B-cell malignancies. The drug reduces B-cell proliferation and induces complement activation, macrophage phagocytosis, and natural killer cell attack. Which of the following is the target of this antibody?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "BCR-ABL"
+        },
+        {
+          "label": "B",
+          "text": "CD20"
+        },
+        {
+          "label": "C",
+          "text": "Epidermal growth factor receptor (EGFR)"
+        },
+        {
+          "label": "D",
+          "text": "NF-kB"
+        },
+        {
+          "label": "E",
+          "text": "The 26S proteasome"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Rituximab is a monoclonal antibody against the B-cell surface protein CD20.",
+        "whyCorrect": "The brick describes rituximab as a monoclonal antibody against cell-surface protein CD20, a glycosylated tetra-transmembrane phosphoprotein expressed on developing B-cells and many B-cell malignancies. Binding CD20 reduces B-cell proliferation, promotes apoptosis, and induces complement activation, phagocytosis by macrophages, and cytotoxic attack by natural killer cells.",
+        "whyWrongByChoice": {
+          "A": "BCR-ABL is an intracellular fusion kinase targeted by TKIs such as imatinib, not by an anti-B-cell antibody.",
+          "C": "EGFR is a receptor tyrosine kinase overactive in many cancers but is not the B-cell protein described here.",
+          "D": "NF-kB is an intracellular transcription factor affected by bortezomib, not a cell-surface antibody target.",
+          "E": "The 26S proteasome is the target of bortezomib, a small molecule, not a monoclonal antibody."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "rituximab",
+        "CD20",
+        "monoclonal antibody"
+      ],
+      "topicId": "targeted-inhibitors-used-in-cancer-therapy",
+      "topicName": "Targeted Inhibitors Used in Cancer Therapy",
+      "tier": "core"
+    },
+    {
+      "id": "bl45-006",
+      "stem": "A 62-year-old woman received rituximab as part of treatment for B-cell lymphoma. Two years later, routine blood tests show newly elevated liver enzymes, and her HBsAg, previously negative, is now positive. Which of the following adverse effects of rituximab best explains this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct alkylation of hepatocyte DNA"
+        },
+        {
+          "label": "B",
+          "text": "Fluid retention with hepatic congestion"
+        },
+        {
+          "label": "C",
+          "text": "QT prolongation and pleural effusion"
+        },
+        {
+          "label": "D",
+          "text": "Reactivation of hepatitis B infection"
+        },
+        {
+          "label": "E",
+          "text": "Thrombocytopenia from proteasome inhibition"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Rituximab can reactivate hepatitis B, sometimes up to 24 months after therapy, requiring pre-treatment screening and monitoring.",
+        "whyCorrect": "The brick states that rituximab may reactivate hepatitis B virus and other viral infections, potentially leading to fulminant hepatitis. Patients should be screened for prior hepatitis B before starting therapy and monitored for reactivation for up to 24 months after completing treatment, which fits this delayed conversion to a positive hepatitis B surface antigen with rising liver enzymes.",
+        "whyWrongByChoice": {
+          "A": "Rituximab is a monoclonal antibody and does not alkylate hepatocyte DNA.",
+          "B": "Fluid retention is an adverse effect of imatinib, not the cause of hepatitis B reactivation.",
+          "C": "QT prolongation and pleural effusion are adverse effects of dasatinib, not rituximab.",
+          "E": "Thrombocytopenia from proteasome inhibition is an effect of bortezomib and does not explain a positive hepatitis B antigen."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "rituximab",
+        "hepatitis B reactivation",
+        "adverse effect"
+      ],
+      "topicId": "targeted-inhibitors-used-in-cancer-therapy",
+      "topicName": "Targeted Inhibitors Used in Cancer Therapy",
+      "tier": "core"
+    },
+    {
+      "id": "bl45-007",
+      "stem": "A 68-year-old man with multiple myeloma is treated with bortezomib. The drug binds the 26S proteasome and prevents the degradation of IkB. Which of the following best explains how this action produces an anticancer effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blockade of the extracellular ligand-binding domain of a surface receptor"
+        },
+        {
+          "label": "B",
+          "text": "Competitive inhibition of ATP binding at the BCR-ABL kinase"
+        },
+        {
+          "label": "C",
+          "text": "Cross-linking of CD20 to recruit natural killer cells"
+        },
+        {
+          "label": "D",
+          "text": "Increased NF-kB entry into the nucleus enhances transcription of survival genes"
+        },
+        {
+          "label": "E",
+          "text": "Retained IkB sequesters NF-kB in the cytoplasm"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "By inhibiting the proteasome, bortezomib prevents IkB degradation, so NF-kB stays sequestered in the cytoplasm and less enters the nucleus.",
+        "whyCorrect": "The brick explains that NF-kB is normally sequestered in the cytoplasm by IkB. The proteasome degrades IkB, freeing NF-kB to enter the nucleus and transcribe factors that keep the cell alive. Bortezomib inhibits the proteasome and prevents IkB degradation, so less NF-kB reaches the nucleus, decreasing survival signaling and favoring apoptosis.",
+        "whyWrongByChoice": {
+          "A": "Blocking the extracellular ligand-binding domain describes monoclonal antibodies, not a proteasome inhibitor.",
+          "B": "Competitive inhibition of ATP binding at BCR-ABL describes imatinib, not bortezomib.",
+          "C": "Cross-linking CD20 to recruit natural killer cells describes rituximab, not bortezomib.",
+          "D": "Bortezomib decreases, rather than increases, NF-kB entry into the nucleus."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "bortezomib",
+        "proteasome",
+        "NF-kB"
+      ],
+      "topicId": "targeted-inhibitors-used-in-cancer-therapy",
+      "topicName": "Targeted Inhibitors Used in Cancer Therapy",
+      "tier": "core"
+    },
+    {
+      "id": "bl45-008",
+      "stem": "A 70-year-old man with multiple myeloma has been receiving bortezomib. He now reports numbness and tingling in his feet, and laboratory studies show a low platelet count. These are the two most common adverse effects of this agent, occurring in about 28% and 12% of patients. Which of the following pairs of adverse effects is he most likely experiencing?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fluid retention and muscle cramps"
+        },
+        {
+          "label": "B",
+          "text": "Infusion reactions and hepatitis B reactivation"
+        },
+        {
+          "label": "C",
+          "text": "Pleural effusion and QT prolongation"
+        },
+        {
+          "label": "D",
+          "text": "Polycythemia and hyperviscosity"
+        },
+        {
+          "label": "E",
+          "text": "Thrombocytopenia and peripheral neuropathy"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Thrombocytopenia and peripheral neuropathy are the most common adverse effects of bortezomib.",
+        "whyCorrect": "The brick states that thrombocytopenia and neuropathy are the most common adverse effects of bortezomib, occurring in about 28% and 12% of patients respectively. Dose reduction or discontinuation decreases the neuropathic symptoms.",
+        "whyWrongByChoice": {
+          "A": "Fluid retention and muscle cramps are adverse effects of imatinib, not bortezomib.",
+          "B": "Infusion reactions and hepatitis B reactivation are adverse effects of rituximab.",
+          "C": "Pleural effusion and QT prolongation are adverse effects of dasatinib.",
+          "D": "Polycythemia and hyperviscosity are not adverse effects of bortezomib described in the brick."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "bortezomib",
+        "thrombocytopenia",
+        "peripheral neuropathy"
+      ],
+      "topicId": "targeted-inhibitors-used-in-cancer-therapy",
+      "topicName": "Targeted Inhibitors Used in Cancer Therapy",
+      "tier": "core"
+    },
+    {
+      "id": "bl45-009",
+      "stem": "A student is learning drug-name suffixes to predict a targeted agent's class. A drug whose name ends in -zomib belongs to which of the following classes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alkylating agent"
+        },
+        {
+          "label": "B",
+          "text": "Antimetabolite"
+        },
+        {
+          "label": "C",
+          "text": "Monoclonal antibody"
+        },
+        {
+          "label": "D",
+          "text": "Proteasome inhibitor"
+        },
+        {
+          "label": "E",
+          "text": "Tyrosine kinase inhibitor"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The -zomib suffix identifies drugs that inhibit proteasomal degradation, such as bortezomib.",
+        "whyCorrect": "The brick states that the -zomib suffix is used for drugs that inhibit proteasome degradation. Bortezomib is the example given, a modulator of protein degradation that inhibits the 26S proteasome.",
+        "whyWrongByChoice": {
+          "A": "Alkylating agents such as cyclophosphamide are cytotoxic chemotherapies without the -zomib suffix.",
+          "B": "Antimetabolites are a class of cytotoxic drugs and are not designated by the -zomib suffix.",
+          "C": "Monoclonal antibodies carry the suffix -mab, not -zomib.",
+          "E": "Tyrosine kinase inhibitors carry the suffix -tinib, not -zomib."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "bortezomib",
+        "drug suffix",
+        "nomenclature"
+      ],
+      "topicId": "targeted-inhibitors-used-in-cancer-therapy",
+      "topicName": "Targeted Inhibitors Used in Cancer Therapy",
+      "tier": "core"
+    },
+    {
+      "id": "bl45-010",
+      "stem": "A 54-year-old man with chronic myeloid leukemia initially responded to imatinib but has relapsed because of a mutation in the BCR-ABL kinase. He is switched to a second tyrosine kinase inhibitor that binds both the active and inactive conformations of the Abl kinase domain and can overcome imatinib resistance. Which of the following adverse effects is most characteristic of this second agent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antibody infusion reactions with fever and rigors"
+        },
+        {
+          "label": "B",
+          "text": "Aquagenic pruritus after warm showers or bathing"
+        },
+        {
+          "label": "C",
+          "text": "Hepatitis B reactivation with rising transaminases"
+        },
+        {
+          "label": "D",
+          "text": "Pleural effusion and QT-interval prolongation"
+        },
+        {
+          "label": "E",
+          "text": "Thrombocytopenia in about 28% of treated patients"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Dasatinib binds both active and inactive Abl conformations to overcome imatinib resistance and can cause QT prolongation and pleural effusion.",
+        "whyCorrect": "The brick describes dasatinib as a TKI that inhibits BCR-ABL and, unlike imatinib, binds both the active and inactive conformations of the Abl kinase domain, allowing it to overcome imatinib resistance from BCR-ABL kinase mutations. Its characteristic adverse effects are QT-interval prolongation and pleural effusion.",
+        "whyWrongByChoice": {
+          "A": "Infusion reactions are typical of monoclonal antibodies such as rituximab, not of a small-molecule TKI.",
+          "B": "Aquagenic pruritus is a feature of polycythemia vera, not an adverse effect of dasatinib.",
+          "C": "Hepatitis B reactivation is characteristic of rituximab, not dasatinib.",
+          "E": "Thrombocytopenia in about 28% of patients describes bortezomib."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "dasatinib",
+        "imatinib resistance",
+        "adverse effect"
+      ],
+      "topicId": "targeted-inhibitors-used-in-cancer-therapy",
+      "topicName": "Targeted Inhibitors Used in Cancer Therapy",
+      "tier": "core"
+    },
+    {
+      "id": "bl45-011",
+      "stem": "A researcher studies a receptor tyrosine kinase that is overactive in most cancers. After the ligand binds and the receptor dimerizes, its tyrosines are autophosphorylated, creating docking sites that activate the PI3K-AKT and Ras-ERK pathways. Which of the following pairs of effects best describes the downstream consequence of this signaling in cancer cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased apoptosis and decreased proliferation"
+        },
+        {
+          "label": "B",
+          "text": "Decreased apoptosis and increased proliferation"
+        },
+        {
+          "label": "C",
+          "text": "Increased apoptosis and decreased proliferation"
+        },
+        {
+          "label": "D",
+          "text": "Increased complement activation and phagocytosis"
+        },
+        {
+          "label": "E",
+          "text": "Increased proteasomal degradation of IkB"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "RTK signaling through PI3K-AKT decreases apoptosis and through Ras-ERK increases proliferation.",
+        "whyCorrect": "The brick explains that once the phosphorylated receptor initiates its two main pathways, the PI3K-AKT pathway leads to decreased apoptosis and the Ras-ERK pathway leads to increased proliferation. These pathways are overactive in most cancers, producing the increased proliferation and decreased apoptosis characteristic of cancer cells.",
+        "whyWrongByChoice": {
+          "A": "Decreased apoptosis is correct, but RTK signaling increases, not decreases, proliferation.",
+          "C": "Increased apoptosis and decreased proliferation is the opposite of what overactive RTK signaling produces.",
+          "D": "Complement activation and phagocytosis are effects of monoclonal antibody binding, not RTK downstream signaling.",
+          "E": "Increased proteasomal degradation of IkB relates to NF-kB signaling and bortezomib, not the RTK pathways described."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "receptor tyrosine kinase",
+        "PI3K-AKT",
+        "Ras-ERK"
+      ],
+      "topicId": "targeted-inhibitors-used-in-cancer-therapy",
+      "topicName": "Targeted Inhibitors Used in Cancer Therapy",
+      "tier": "core"
+    },
+    {
+      "id": "bl45-012",
+      "stem": "A 50-year-old woman with chronic myeloid leukemia is started on imatinib. At follow-up she reports new swelling of both legs and some shortness of breath. Which of the following is the most common adverse effect of imatinib responsible for these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fluid retention"
+        },
+        {
+          "label": "B",
+          "text": "Hepatitis B reactivation"
+        },
+        {
+          "label": "C",
+          "text": "Infusion reaction"
+        },
+        {
+          "label": "D",
+          "text": "Peripheral neuropathy"
+        },
+        {
+          "label": "E",
+          "text": "Pleural effusion"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Fluid retention is a common adverse effect of imatinib and can cause leg swelling and shortness of breath.",
+        "whyCorrect": "The brick states that fluid retention is a common side effect of imatinib that can cause leg swelling and shortness of breath. Elevated liver function enzymes, GI distress, muscle cramps, and rash (which can progress to Stevens-Johnson syndrome) may also occur.",
+        "whyWrongByChoice": {
+          "B": "Hepatitis B reactivation is an adverse effect of rituximab, not imatinib.",
+          "C": "Infusion reactions occur with monoclonal antibodies such as rituximab, not with the oral small molecule imatinib.",
+          "D": "Peripheral neuropathy is a characteristic adverse effect of bortezomib, not the most common effect of imatinib.",
+          "E": "Pleural effusion is associated with dasatinib rather than imatinib."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "imatinib",
+        "fluid retention",
+        "adverse effect"
+      ],
+      "topicId": "targeted-inhibitors-used-in-cancer-therapy",
+      "topicName": "Targeted Inhibitors Used in Cancer Therapy",
+      "tier": "core"
+    }
+  ]
+}

@@ -1,0 +1,3961 @@
+{
+  "categoryId": "w3s4",
+  "categoryName": "Session 4",
+  "questions": [
+    {
+      "id": "bl46-001",
+      "stem": "A 56-year-old man is found to have a white blood cell count of 92,000/mm3 on a routine complete blood count. He feels well but has mild left upper quadrant fullness, and a spleen tip is palpable. The differential shows neutrophils with a left shift and rare myelocytes. Which of the following additional peripheral blood or serum findings is most likely in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Basophilia"
+        },
+        {
+          "label": "B",
+          "text": "Blasts greater than 20%"
+        },
+        {
+          "label": "C",
+          "text": "Elevated leukocyte alkaline phosphatase"
+        },
+        {
+          "label": "D",
+          "text": "Leukopenia"
+        },
+        {
+          "label": "E",
+          "text": "Thrombocytopenia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Chronic-phase CML characteristically produces a basophilia, a clue that is otherwise rare on the CBC.",
+        "whyCorrect": "In CML all myeloid lines proliferate, so eosinophils and basophils rise along with neutrophils. Because it is unusual to see a basophil on a routine CBC, the basophilia is a notable pointer toward CML.",
+        "whyWrongByChoice": {
+          "B": "Blasts greater than 20% define the blast crisis phase; in chronic phase the blast count is low, usually 2%-3% and not more than 10%.",
+          "C": "Leukocyte alkaline phosphatase is decreased in CML; an elevated LAP points toward a benign leukocytosis such as a leukemoid reaction.",
+          "D": "CML produces a leukocytosis rather than a leukopenia, with a mean WBC around 100,000/mm3.",
+          "E": "Platelets are typically normal or increased in chronic-phase CML; thrombocytopenia appears only as the disease advances."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "CML",
+        "chronic phase",
+        "basophilia",
+        "CBC"
+      ],
+      "topicId": "chronic-myeloid-leukemia",
+      "topicName": "Chronic Myeloid Leukemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl46-002",
+      "stem": "A 50-year-old woman is diagnosed with chronic myeloid leukemia after molecular testing shows the t(9;22) translocation. This translocation joins the ABL gene from chromosome 9 to the BCR gene on chromosome 22. Production of which of the following aberrant proteins most directly drives her disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Constitutively active tyrosine kinase"
+        },
+        {
+          "label": "B",
+          "text": "JAK2 protein with a V617F mutation"
+        },
+        {
+          "label": "C",
+          "text": "p53 protein, a tumor suppressor"
+        },
+        {
+          "label": "D",
+          "text": "RAS protein, a signal transducer"
+        },
+        {
+          "label": "E",
+          "text": "Retinoblastoma protein, a tumor suppressor"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The t(9;22) creates the BCR::ABL fusion gene, which encodes an overactive (constitutively active) tyrosine kinase.",
+        "whyCorrect": "Fusing the ABL oncogene next to BCR produces the BCR::ABL fusion gene on the Philadelphia chromosome. Its product is an always-on tyrosine kinase that drives increased cell proliferation and defective DNA repair.",
+        "whyWrongByChoice": {
+          "B": "JAK2 mutations are found in several other myeloproliferative neoplasms, not in CML.",
+          "C": "p53 is a tumor suppressor mutated across a wide variety of cancers, not the fusion protein of CML.",
+          "D": "RAS is mutated in many cancers but is not the product of the t(9;22) translocation.",
+          "E": "Retinoblastoma protein is a tumor suppressor altered in diverse cancers, not the BCR::ABL kinase."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "CML",
+        "BCR-ABL",
+        "t(9;22)",
+        "tyrosine kinase"
+      ],
+      "topicId": "chronic-myeloid-leukemia",
+      "topicName": "Chronic Myeloid Leukemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl46-003",
+      "stem": "A 61-year-old man with chronic myeloid leukemia has been switched from imatinib to a different tyrosine kinase inhibitor after developing resistance. Several months later he develops dyspnea, and imaging shows a pleural effusion. Which tyrosine kinase inhibitor is most specifically associated with this adverse effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dasatinib"
+        },
+        {
+          "label": "B",
+          "text": "Hydroxyurea"
+        },
+        {
+          "label": "C",
+          "text": "Imatinib"
+        },
+        {
+          "label": "D",
+          "text": "Interferon alpha"
+        },
+        {
+          "label": "E",
+          "text": "Ponatinib"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Dasatinib is characteristically associated with pleural effusion (and prolonged QTc).",
+        "whyCorrect": "Among the TKIs used after imatinib, dasatinib is specifically known for causing pleural effusions and can also prolong the QTc interval.",
+        "whyWrongByChoice": {
+          "B": "Hydroxyurea is a less-specific chemotherapy used in later stages, not the TKI linked to pleural effusion.",
+          "C": "Imatinib is most associated with GI side effects such as nausea, vomiting, and diarrhea, not pleural effusion.",
+          "D": "Interferon alpha is a later-stage option and is not the agent classically tied to pleural effusion.",
+          "E": "Ponatinib is specifically associated with thrombosis and liver toxicity rather than pleural effusion."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "CML",
+        "dasatinib",
+        "TKI",
+        "adverse effects"
+      ],
+      "topicId": "chronic-myeloid-leukemia",
+      "topicName": "Chronic Myeloid Leukemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl46-004",
+      "stem": "A 60-year-old woman is evaluated after routine studies reveal a white blood cell count of 120,000/uL. She reports mild fatigue but denies fever, weight loss, or night sweats. Examination shows a palpable spleen tip and no lymphadenopathy. A peripheral smear shows numerous mature and immature granulocytes, and molecular testing reveals the BCR::ABL1 fusion gene. Which of the following best explains the natural course of this disease if left untreated?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Development of pancytopenia due to severe marrow fibrosis within months"
+        },
+        {
+          "label": "B",
+          "text": "Immediate need for bone marrow transplantation from a matched donor"
+        },
+        {
+          "label": "C",
+          "text": "Rapid progression to marrow failure and blast crisis within weeks"
+        },
+        {
+          "label": "D",
+          "text": "Spontaneous remission in most patients without any treatment"
+        },
+        {
+          "label": "E",
+          "text": "Stable disease for several years followed by possible transformation"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Untreated chronic-phase CML is relatively stable for years before transforming toward a blast phase.",
+        "whyCorrect": "This patient has chronic-phase CML, often found incidentally with only mild symptoms. Untreated, the chronic phase typically lasts about 3 to 4 years before potentially transforming into a blast phase that resembles acute leukemia.",
+        "whyWrongByChoice": {
+          "A": "Patients can develop some marrow fibrosis, but severe fibrosis causing pancytopenia is not the typical natural course.",
+          "B": "Immediate transplantation is not required initially; TKIs are generally started first because they have fewer side effects and often control the disease.",
+          "C": "Rapid progression to marrow failure within weeks is characteristic of the blast phase, not chronic-phase CML.",
+          "D": "CML does not spontaneously remit; it does not resolve without treatment."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "CML",
+        "chronic phase",
+        "natural history",
+        "vignette"
+      ],
+      "topicId": "chronic-myeloid-leukemia",
+      "topicName": "Chronic Myeloid Leukemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl46-005",
+      "stem": "A 54-year-old man with newly diagnosed chronic-phase chronic myeloid leukemia is started on imatinib. Which of the following best describes how this drug works?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It alkylates DNA to prevent replication of dividing cells"
+        },
+        {
+          "label": "B",
+          "text": "It competitively binds the kinase site of BCR::ABL"
+        },
+        {
+          "label": "C",
+          "text": "It corrects the t(9;22) translocation at the DNA level"
+        },
+        {
+          "label": "D",
+          "text": "It inhibits the proteasome, causing accumulation of misfolded proteins"
+        },
+        {
+          "label": "E",
+          "text": "It is a monoclonal antibody that blocks ligand binding to a surface receptor"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Imatinib is a tyrosine kinase inhibitor that competitively binds the BCR::ABL kinase site.",
+        "whyCorrect": "Imatinib binds the kinase site of the BCR::ABL protein and competitively inhibits it, so the phosphorylation of downstream signaling driven by the receptor tyrosine kinase is blocked.",
+        "whyWrongByChoice": {
+          "A": "Imatinib is a targeted kinase inhibitor, not an alkylating chemotherapy agent.",
+          "C": "TKIs inhibit the fusion protein's activity; they do not repair or reverse the underlying translocation.",
+          "D": "Proteasome inhibition is the mechanism of other drug classes, not of imatinib.",
+          "E": "Monoclonal antibodies block ligand binding at the cell surface; imatinib acts intracellularly on the kinase domain."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "CML",
+        "imatinib",
+        "mechanism",
+        "TKI"
+      ],
+      "topicId": "chronic-myeloid-leukemia",
+      "topicName": "Chronic Myeloid Leukemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl46-006",
+      "stem": "A hematology resident notes that a patient's karyotype shows the Philadelphia chromosome. Why is the presence of the Philadelphia chromosome, by itself, not diagnostic of chronic myeloid leukemia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It disappears once treatment with a TKI begins"
+        },
+        {
+          "label": "B",
+          "text": "It is also seen in acute lymphoblastic leukemia"
+        },
+        {
+          "label": "C",
+          "text": "It is an inherited finding rather than an acquired one"
+        },
+        {
+          "label": "D",
+          "text": "It is present in a small fraction of healthy adults"
+        },
+        {
+          "label": "E",
+          "text": "It only appears during the blast crisis phase of CML"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The Philadelphia chromosome is characteristic of CML but is also less commonly seen in ALL and AML.",
+        "whyCorrect": "Although the Philadelphia chromosome is characteristic of CML, it is also seen less commonly in acute lymphoblastic leukemia and acute myeloid leukemia, so its presence alone is not diagnostic of CML.",
+        "whyWrongByChoice": {
+          "A": "The molecular abnormality is monitored during therapy and does not simply vanish at the start of treatment.",
+          "C": "CML has no recognized familial inheritance; the translocation is an acquired, spontaneous event.",
+          "D": "It is not a normal finding in healthy adults; it arises from an acquired translocation.",
+          "E": "It defines the disease throughout its course, including the chronic phase, not only blast crisis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "CML",
+        "Philadelphia chromosome",
+        "diagnosis"
+      ],
+      "topicId": "chronic-myeloid-leukemia",
+      "topicName": "Chronic Myeloid Leukemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl46-007",
+      "stem": "A 48-year-old man has a neutrophilic leukocytosis with a left shift discovered during a severe pneumonia. His physician is trying to distinguish a leukemoid reaction from chronic myeloid leukemia. Which of the following findings would most strongly favor CML over a leukemoid reaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Absence of splenomegaly"
+        },
+        {
+          "label": "B",
+          "text": "Decreased leukocyte alkaline phosphatase"
+        },
+        {
+          "label": "C",
+          "text": "Elevated leukocyte alkaline phosphatase"
+        },
+        {
+          "label": "D",
+          "text": "Neutrophilia without any basophilia"
+        },
+        {
+          "label": "E",
+          "text": "WBC count that normalizes after the infection is treated"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A low leukocyte alkaline phosphatase favors CML, whereas secondary leukocytosis raises the LAP.",
+        "whyCorrect": "In CML the neoplastic neutrophils lack leukocyte alkaline phosphatase, so the LAP level is low. In secondary causes such as infection or a leukemoid reaction, the LAP is normal or increased.",
+        "whyWrongByChoice": {
+          "A": "Absence of splenomegaly does not favor CML, which is often associated with an enlarged spleen.",
+          "C": "An elevated LAP points to a secondary or benign leukocytosis, not to CML.",
+          "D": "Prominent basophilia favors CML; a leukemoid reaction lacks prominent basophilia.",
+          "E": "A leukemoid reaction returns to normal once the infection or disease is treated; this favors a reactive process, not CML."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "CML",
+        "leukemoid reaction",
+        "LAP",
+        "differential"
+      ],
+      "topicId": "chronic-myeloid-leukemia",
+      "topicName": "Chronic Myeloid Leukemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl46-008",
+      "stem": "A 58-year-old man with a 3-year history of chronic-phase CML now has a rapidly rising white blood cell count, new fever, and bone pain. His physician suspects transformation to blast crisis. Which of the following findings best defines progression to the blast crisis phase?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A decreased leukocyte alkaline phosphatase staining score"
+        },
+        {
+          "label": "B",
+          "text": "Basophils greater than 20% in the peripheral blood"
+        },
+        {
+          "label": "C",
+          "text": "Blasts greater than 20% in the blood or bone marrow"
+        },
+        {
+          "label": "D",
+          "text": "New palpable splenomegaly below the costal margin"
+        },
+        {
+          "label": "E",
+          "text": "White blood cell count greater than 100,000/mm3 on repeat"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Blast crisis is defined by a blast count greater than 20%, behaving like acute leukemia.",
+        "whyCorrect": "In blast crisis the WBC count rises rapidly and the blast count is now more than 20%, essentially the same as an acute leukemia, in contrast to the chronic phase where blasts are usually 2%-3% and not more than 10%.",
+        "whyWrongByChoice": {
+          "A": "A low LAP is a feature of CML in general and does not mark the transition to blast crisis.",
+          "B": "Basophilia is a feature of chronic-phase CML and is not the defining criterion for blast crisis.",
+          "D": "Splenomegaly can occur in chronic phase and is not the defining feature of blast transformation.",
+          "E": "A markedly elevated WBC is seen throughout CML and does not by itself define blast crisis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "CML",
+        "blast crisis",
+        "blasts",
+        "progression"
+      ],
+      "topicId": "chronic-myeloid-leukemia",
+      "topicName": "Chronic Myeloid Leukemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl46-009",
+      "stem": "A 63-year-old man with chronic myeloid leukemia develops an acutely painful, swollen great toe. Serum studies show an elevated uric acid level. Which of the following best explains this complication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autoimmune destruction of articular cartilage in the joint"
+        },
+        {
+          "label": "B",
+          "text": "Direct crystal-forming toxicity of tyrosine kinase inhibitors used"
+        },
+        {
+          "label": "C",
+          "text": "Expansion of the bone marrow into the adjacent joint space"
+        },
+        {
+          "label": "D",
+          "text": "Extramedullary hematopoiesis within the synovium of the joint"
+        },
+        {
+          "label": "E",
+          "text": "High uric acid from rapid turnover and lysis of white blood cells"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Gouty arthritis in CML results from hyperuricemia driven by rapid WBC turnover and lysis.",
+        "whyCorrect": "The explosive WBC proliferation in CML causes high production of uric acid from the fast turnover and lysis of the many white blood cells in the circulation, which can precipitate gouty arthritis.",
+        "whyWrongByChoice": {
+          "A": "Gout in CML is a metabolic consequence of high cell turnover, not an autoimmune process.",
+          "B": "The gouty arthritis is due to hyperuricemia from cell turnover, not a direct crystal-forming toxicity of TKIs.",
+          "C": "Marrow expansion causes complications such as retrosternal pain, not gout.",
+          "D": "Extramedullary hematopoiesis in CML causes splenic enlargement, not intra-articular gout."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "CML",
+        "complications",
+        "gout",
+        "uric acid"
+      ],
+      "topicId": "chronic-myeloid-leukemia",
+      "topicName": "Chronic Myeloid Leukemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl46-010",
+      "stem": "A medical student is reviewing risk factors for chronic myeloid leukemia. Which of the following is the only known risk factor for CML?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An inherited BCR mutation passed within families"
+        },
+        {
+          "label": "B",
+          "text": "Chronic autoimmune disease"
+        },
+        {
+          "label": "C",
+          "text": "Cigarette smoking"
+        },
+        {
+          "label": "D",
+          "text": "Epstein-Barr virus infection"
+        },
+        {
+          "label": "E",
+          "text": "Ionizing radiation"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Ionizing radiation is the only known risk factor for CML, which otherwise arises from spontaneous mutation.",
+        "whyCorrect": "The only recognized risk factor for CML is ionizing radiation. There is no recognized familial inheritance, so most cases arise from spontaneous gene mutations.",
+        "whyWrongByChoice": {
+          "A": "CML has no recognized familial inheritance; the driver mutation is acquired, not inherited.",
+          "B": "Chronic autoimmune disease is not identified as a cause of CML.",
+          "C": "Cigarette smoking is not the recognized risk factor described for CML.",
+          "D": "Epstein-Barr virus is not identified as a risk factor for CML."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "CML",
+        "risk factors",
+        "ionizing radiation",
+        "epidemiology"
+      ],
+      "topicId": "chronic-myeloid-leukemia",
+      "topicName": "Chronic Myeloid Leukemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl46-011",
+      "stem": "A 57-year-old woman with CML develops rising BCR::ABL levels on imatinib, and testing reveals a mutation in the BCR::ABL kinase. Her oncologist switches her to dasatinib. Which of the following best explains why this second agent may work despite imatinib resistance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It acts only on the JAK2 pathway to bypass BCR::ABL"
+        },
+        {
+          "label": "B",
+          "text": "It binds both the active and inactive conformations of the ABL kinase domain"
+        },
+        {
+          "label": "C",
+          "text": "It eliminates the Philadelphia chromosome from the genome"
+        },
+        {
+          "label": "D",
+          "text": "It is a monoclonal antibody targeting a surface receptor rather than a kinase"
+        },
+        {
+          "label": "E",
+          "text": "It works by suppressing uric acid production from cell turnover"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Dasatinib and ponatinib bind both active and inactive ABL conformations, overcoming imatinib-resistance mutations.",
+        "whyCorrect": "Unlike imatinib, dasatinib and ponatinib bind both the active and inactive conformations of the ABL kinase domain and can overcome imatinib resistance resulting from mutations in the BCR::ABL kinase.",
+        "whyWrongByChoice": {
+          "A": "Dasatinib targets the BCR::ABL kinase, not the JAK2 pathway.",
+          "C": "TKIs inhibit the fusion protein's activity; they do not remove the Philadelphia chromosome from the genome.",
+          "D": "Dasatinib is a tyrosine kinase inhibitor, not a monoclonal antibody against a surface receptor.",
+          "E": "Lowering uric acid manages a complication of CML and is unrelated to overcoming kinase-domain resistance."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "CML",
+        "dasatinib",
+        "resistance",
+        "TKI"
+      ],
+      "topicId": "chronic-myeloid-leukemia",
+      "topicName": "Chronic Myeloid Leukemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl46-012",
+      "stem": "A bone marrow biopsy is performed on a 55-year-old patient with newly diagnosed chronic-phase chronic myeloid leukemia. Which of the following findings is most characteristic of the marrow in this phase?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A hypercellular marrow with small, hypolobated megakaryocytes"
+        },
+        {
+          "label": "B",
+          "text": "A hypocellular, aplastic marrow with fatty replacement"
+        },
+        {
+          "label": "C",
+          "text": "A marrow dominated by red blood cell precursors"
+        },
+        {
+          "label": "D",
+          "text": "A marrow with greater than 20% blasts"
+        },
+        {
+          "label": "E",
+          "text": "Extensive fibrosis replacing nearly all hematopoietic tissue"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Chronic-phase CML marrow is markedly hypercellular with characteristic small, hypolobated megakaryocytes.",
+        "whyCorrect": "The bone marrow in chronic-phase CML is moderately to markedly hypercellular, with neutrophils and their precursors predominating and numerous megakaryocytes that are characteristically small with hypolobated nuclei.",
+        "whyWrongByChoice": {
+          "B": "The marrow is hypercellular with little fat, the opposite of a hypocellular aplastic marrow.",
+          "C": "Neutrophils and their precursors predominate; red blood cell precursors are present but fewer than the neutrophilic cells.",
+          "D": "Greater than 20% blasts defines the blast crisis phase, not chronic phase.",
+          "E": "Marrow can show some fibrosis, but extensive fibrosis replacing nearly all hematopoietic tissue is not the characteristic chronic-phase picture."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "CML",
+        "bone marrow",
+        "chronic phase",
+        "pathology"
+      ],
+      "topicId": "chronic-myeloid-leukemia",
+      "topicName": "Chronic Myeloid Leukemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl47-001",
+      "stem": "A 68-year-old man with hypertension reports intense itching after hot showers and burning pain in his hands and feet. He does not smoke. On examination his vital signs are normal, oxygen saturation is 98%, and a spleen tip is palpable. Laboratory studies show elevated hemoglobin and hematocrit. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic myeloid leukemia"
+        },
+        {
+          "label": "B",
+          "text": "Iron deficiency anemia"
+        },
+        {
+          "label": "C",
+          "text": "Polycythemia vera"
+        },
+        {
+          "label": "D",
+          "text": "Relative polycythemia from dehydration"
+        },
+        {
+          "label": "E",
+          "text": "Secondary polycythemia from chronic hypoxemia"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Aquagenic pruritus, erythromelalgia, splenomegaly, and elevated Hgb/Hct with normal oxygen saturation point to polycythemia vera.",
+        "whyCorrect": "The brick describes exactly this presentation: itching after warm showers (aquagenic pruritus), burning pain in the hands and feet (erythromelalgia), splenomegaly, and an elevated hemoglobin and hematocrit. A normal oxygen saturation in a non-smoker argues against a hypoxia-driven secondary cause, making primary polycythemia (PV) most likely.",
+        "whyWrongByChoice": {
+          "A": "CML is driven by a leukocyte proliferation and BCR-ABL, not the erythroid-dominant picture with pruritus and erythromelalgia described here.",
+          "B": "Iron deficiency anemia produces a low, not elevated, hemoglobin and does not cause aquagenic pruritus or erythromelalgia.",
+          "D": "Relative polycythemia from dehydration does not cause splenomegaly, aquagenic pruritus, or erythromelalgia.",
+          "E": "Secondary polycythemia from hypoxemia is typically accompanied by a low oxygen saturation; this patient's saturation is normal at 98%."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "polycythemia vera",
+        "presentation"
+      ],
+      "topicId": "polycythemia-vera",
+      "topicName": "Polycythemia Vera",
+      "tier": "core"
+    },
+    {
+      "id": "bl47-002",
+      "stem": "A 60-year-old woman is found to have an elevated red blood cell mass and is diagnosed with polycythemia vera. Molecular testing reveals a mutation that produces a tyrosine kinase which remains constitutively active, driving red cell precursors to proliferate even without erythropoietin. A mutation in which of the following genes is most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "BCR-ABL"
+        },
+        {
+          "label": "B",
+          "text": "HER2"
+        },
+        {
+          "label": "C",
+          "text": "JAK2"
+        },
+        {
+          "label": "D",
+          "text": "RET"
+        },
+        {
+          "label": "E",
+          "text": "TP53"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Virtually all cases of polycythemia vera are associated with an activating JAK2 mutation.",
+        "whyCorrect": "The brick states that virtually all cases of PV are associated with activating mutations in JAK2, a tyrosine kinase in the JAK-STAT pathway. The mutation keeps JAK2 constitutively active, so RBC precursors are continuously stimulated regardless of erythropoietin, causing uncontrolled RBC proliferation.",
+        "whyWrongByChoice": {
+          "A": "BCR-ABL is the driver of chronic myeloid leukemia, not polycythemia vera.",
+          "B": "HER2 is amplified in some breast cancers and is unrelated to PV.",
+          "D": "RET mutations are associated with medullary thyroid cancer and MEN syndromes, not PV.",
+          "E": "TP53 is a tumor suppressor implicated broadly in cancer but is not the characteristic driver mutation of PV."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "polycythemia vera",
+        "JAK2"
+      ],
+      "topicId": "polycythemia-vera",
+      "topicName": "Polycythemia Vera",
+      "tier": "core"
+    },
+    {
+      "id": "bl47-003",
+      "stem": "A 55-year-old man has an elevated hemoglobin and hematocrit. To distinguish polycythemia vera from secondary polycythemia, his physician measures the serum level of the hormone that normally stimulates the marrow to make red blood cells. In polycythemia vera, which of the following results would be expected for this hormone?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "High serum erythropoietin"
+        },
+        {
+          "label": "B",
+          "text": "High serum haptoglobin"
+        },
+        {
+          "label": "C",
+          "text": "High serum thrombopoietin"
+        },
+        {
+          "label": "D",
+          "text": "Low serum erythropoietin"
+        },
+        {
+          "label": "E",
+          "text": "Low serum ferritin"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Serum erythropoietin is low in polycythemia vera, an important diagnostic clue.",
+        "whyCorrect": "The brick emphasizes that because the JAK2 pathway is constitutively active and red cell numbers are already high, serum erythropoietin (EPO) levels in PV are low. This contrasts with secondary polycythemia, where EPO is high, so a low EPO is a key clue to primary disease.",
+        "whyWrongByChoice": {
+          "A": "A high EPO is characteristic of secondary polycythemia, not PV.",
+          "B": "Haptoglobin relates to hemolysis and is not the diagnostic test described for polycythemia.",
+          "C": "The brick uses erythropoietin, not thrombopoietin, to distinguish primary from secondary polycythemia.",
+          "E": "Ferritin reflects iron stores and is not the hormone used to differentiate these disorders."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "polycythemia vera",
+        "erythropoietin",
+        "diagnosis"
+      ],
+      "topicId": "polycythemia-vera",
+      "topicName": "Polycythemia Vera",
+      "tier": "core"
+    },
+    {
+      "id": "bl47-004",
+      "stem": "A 48-year-old man with a 40-pack-year smoking history and chronic obstructive pulmonary disease is found to have an elevated hematocrit. His oxygen saturation is 88%. His serum erythropoietin is elevated, and testing for the JAK2 mutation is negative. Which of the following best explains his polycythemia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A constitutively active JAK2 kinase"
+        },
+        {
+          "label": "B",
+          "text": "Aberrant erythropoietin production by a renal tumor"
+        },
+        {
+          "label": "C",
+          "text": "Bone marrow fibrosis with extramedullary hematopoiesis"
+        },
+        {
+          "label": "D",
+          "text": "Polycythemia vera"
+        },
+        {
+          "label": "E",
+          "text": "Secondary polycythemia due to tissue hypoxia"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A high EPO, low oxygen saturation, and absent JAK2 mutation indicate hypoxia-driven secondary polycythemia.",
+        "whyCorrect": "The brick teaches that secondary polycythemia results from an identifiable cause, most often tissue hypoxia (from chronic hypoxemia such as lung disease, high-altitude living, or smoking) that raises serum EPO. A high EPO, low oxygen saturation, and a negative JAK2 test fit hypoxia-driven secondary polycythemia rather than PV.",
+        "whyWrongByChoice": {
+          "A": "A constitutively active JAK2 kinase defines PV; his JAK2 test is negative.",
+          "B": "A renal tumor causes aberrant EPO production but would not explain the low oxygen saturation and clear hypoxic lung disease he has.",
+          "C": "Marrow fibrosis with extramedullary hematopoiesis is a late spent-phase feature of PV, not a cause of secondary polycythemia in a hypoxic smoker.",
+          "D": "Polycythemia vera has a low EPO, a normal oxygen saturation, and a JAK2 mutation, none of which are present here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "secondary polycythemia",
+        "hypoxia"
+      ],
+      "topicId": "polycythemia-vera",
+      "topicName": "Polycythemia Vera",
+      "tier": "core"
+    },
+    {
+      "id": "bl47-005",
+      "stem": "A 58-year-old man is newly diagnosed with polycythemia vera. He has no history of thrombosis and is not considered high risk. Which of the following is the most appropriate initial treatment to reduce his red cell mass?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blood transfusion"
+        },
+        {
+          "label": "B",
+          "text": "Bone marrow transplantation"
+        },
+        {
+          "label": "C",
+          "text": "Corticosteroids"
+        },
+        {
+          "label": "D",
+          "text": "Cyclophosphamide"
+        },
+        {
+          "label": "E",
+          "text": "Therapeutic phlebotomy"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "First-line treatment of PV is regular therapeutic phlebotomy (plus low-dose aspirin).",
+        "whyCorrect": "The brick lists regular/therapeutic phlebotomy and low-dose aspirin as the primary treatments for PV. Phlebotomy removes a controlled volume of blood to maintain the hematocrit in the normal range (below 45%), decreasing blood viscosity and clot risk.",
+        "whyWrongByChoice": {
+          "A": "The goal is to decrease the hematocrit; giving more blood via transfusion would be harmful.",
+          "B": "Bone marrow transplantation is used for some other hematopoietic neoplasms but is not the initial treatment for PV.",
+          "C": "Corticosteroids are not part of the described treatment for PV.",
+          "D": "Cyclophosphamide is a chemotherapy agent that is not used to treat PV."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "polycythemia vera",
+        "treatment",
+        "phlebotomy"
+      ],
+      "topicId": "polycythemia-vera",
+      "topicName": "Polycythemia Vera",
+      "tier": "core"
+    },
+    {
+      "id": "bl47-006",
+      "stem": "A 62-year-old woman with polycythemia vera is started on low-dose aspirin. In addition to reducing her thrombotic risk, aspirin also relieves her microvascular symptoms such as aquagenic pruritus and erythromelalgia. Which of the following best describes the mechanism by which aspirin achieves these antiplatelet effects?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Activation of antithrombin to inhibit thrombin"
+        },
+        {
+          "label": "B",
+          "text": "Antagonism of the erythropoietin receptor"
+        },
+        {
+          "label": "C",
+          "text": "Direct inhibition of the JAK2 tyrosine kinase"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of ribonucleotide reductase"
+        },
+        {
+          "label": "E",
+          "text": "Irreversible inhibition of cyclooxygenase"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Aspirin is a non-selective COX inhibitor that blocks thromboxane-A2, reducing platelet aggregation.",
+        "whyCorrect": "The brick explains that aspirin is a non-selective COX inhibitor that blocks the tissue-specific prostaglandin thromboxane-A2, and it is this action that reduces platelet aggregation. This antiplatelet effect both alleviates the microvascular complications of PV and helps reduce thrombotic risk.",
+        "whyWrongByChoice": {
+          "A": "Activating antithrombin describes heparin, not aspirin's antiplatelet action.",
+          "B": "Aspirin does not act at the erythropoietin receptor.",
+          "C": "Inhibiting JAK2 describes ruxolitinib, not aspirin.",
+          "D": "Inhibition of ribonucleotide reductase is the mechanism of hydroxyurea."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "polycythemia vera",
+        "aspirin",
+        "thromboxane"
+      ],
+      "topicId": "polycythemia-vera",
+      "topicName": "Polycythemia Vera",
+      "tier": "core"
+    },
+    {
+      "id": "bl47-007",
+      "stem": "A 70-year-old man with high-risk polycythemia vera continues to have an elevated hematocrit and platelet count despite phlebotomy and aspirin. He is started on an oral cytoreductive agent that lowers RBC and platelet counts by inhibiting ribonucleotide reductase and halting the cell cycle at the G1/S phase. Which of the following medications is most consistent with this description?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hydroxyurea"
+        },
+        {
+          "label": "B",
+          "text": "Pegylated interferon alfa"
+        },
+        {
+          "label": "C",
+          "text": "Prednisone"
+        },
+        {
+          "label": "D",
+          "text": "Ruxolitinib"
+        },
+        {
+          "label": "E",
+          "text": "Warfarin"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Hydroxyurea lowers RBC and platelet counts by inhibiting ribonucleotide reductase, arresting the cell cycle at G1/S.",
+        "whyCorrect": "The brick states that hydroxyurea lowers RBC and platelet counts by interfering with DNA repair through inhibition of ribonucleotide reductase, halting the cell cycle at the G1/S phase. It is an oral agent with a favorable toxicity profile and is generally the first cytoreductive drug chosen.",
+        "whyWrongByChoice": {
+          "B": "Interferon alfa works by inducing cell cycle arrest and apoptosis and is given by subcutaneous injection, not by inhibiting ribonucleotide reductase.",
+          "C": "Prednisone is a corticosteroid that is not used as a cytoreductive agent in PV.",
+          "D": "Ruxolitinib is a JAK inhibitor, not a ribonucleotide reductase inhibitor.",
+          "E": "Warfarin is an anticoagulant and does not reduce red cell or platelet production."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "polycythemia vera",
+        "hydroxyurea",
+        "treatment"
+      ],
+      "topicId": "polycythemia-vera",
+      "topicName": "Polycythemia Vera",
+      "tier": "core"
+    },
+    {
+      "id": "bl47-008",
+      "stem": "A 32-year-old pregnant woman with high-risk polycythemia vera requires a cytoreductive agent because phlebotomy and aspirin alone have not controlled her disease. Which of the following agents is preferred in this pregnant patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cyclophosphamide given orally"
+        },
+        {
+          "label": "B",
+          "text": "Hydroxyurea given daily"
+        },
+        {
+          "label": "C",
+          "text": "Methotrexate given weekly"
+        },
+        {
+          "label": "D",
+          "text": "Pegylated interferon alfa"
+        },
+        {
+          "label": "E",
+          "text": "Ruxolitinib, a JAK inhibitor"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Pegylated interferon alfa is preferred over hydroxyurea for cytoreduction in pregnancy.",
+        "whyCorrect": "The brick states that interferon alfa is a subcutaneous injection given every two weeks that is preferred in pregnant patients. It also notes that hydroxyurea can cause teratogenicity and should be used cautiously in pregnancy, making interferon the better choice here.",
+        "whyWrongByChoice": {
+          "A": "Cyclophosphamide is not used to treat PV.",
+          "B": "Hydroxyurea can be teratogenic and should be used cautiously in pregnancy, so it is not preferred.",
+          "C": "Methotrexate is contraindicated in pregnancy and is not a treatment for PV.",
+          "E": "Ruxolitinib is reserved for patients failing hydroxyurea or interferon and is not the described preferred agent in pregnancy."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "polycythemia vera",
+        "interferon",
+        "pregnancy"
+      ],
+      "topicId": "polycythemia-vera",
+      "topicName": "Polycythemia Vera",
+      "tier": "core"
+    },
+    {
+      "id": "bl47-009",
+      "stem": "A 66-year-old man with untreated polycythemia vera presents with an acute ischemic stroke. His physician explains that the most common complications of PV arise largely from the overproduction of red blood cells. Which of the following pairs of complications is most characteristic of polycythemia vera?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anemia and jaundice"
+        },
+        {
+          "label": "B",
+          "text": "Hypocalcemia and tetany"
+        },
+        {
+          "label": "C",
+          "text": "Lymphadenopathy and night sweats"
+        },
+        {
+          "label": "D",
+          "text": "Neutropenia and recurrent infection"
+        },
+        {
+          "label": "E",
+          "text": "Thrombosis and hemorrhage"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The most common complications of PV are thrombosis and hemorrhage.",
+        "whyCorrect": "The brick states that the most common complications of PV are thrombosis and hemorrhage. The increased cell number raises blood viscosity and precipitates thrombosis (stroke, MI, DVT, PE), while impaired platelet function contributes to bleeding.",
+        "whyWrongByChoice": {
+          "A": "PV causes a high red cell mass, not anemia; jaundice is not a described feature.",
+          "B": "Hypocalcemia and tetany are not associated with PV.",
+          "C": "Lymphadenopathy and night sweats are not the characteristic complications of PV described in the brick.",
+          "D": "PV usually raises the white cell count rather than causing neutropenia and infection."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "polycythemia vera",
+        "complications",
+        "thrombosis"
+      ],
+      "topicId": "polycythemia-vera",
+      "topicName": "Polycythemia Vera",
+      "tier": "core"
+    },
+    {
+      "id": "bl47-010",
+      "stem": "A 64-year-old man with long-standing untreated polycythemia vera develops progressive fatigue and massive enlargement of the spleen and liver. A bone marrow biopsy now shows extensive fibrosis that has replaced most of the normal marrow elements. Which of the following best explains his splenic and hepatic enlargement?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute erythropoietin overproduction by the enlarged liver"
+        },
+        {
+          "label": "B",
+          "text": "Extramedullary hematopoiesis during the spent phase"
+        },
+        {
+          "label": "C",
+          "text": "Iron overload from repeated red cell transfusions"
+        },
+        {
+          "label": "D",
+          "text": "Metastatic spread of an occult solid tumor to both organs"
+        },
+        {
+          "label": "E",
+          "text": "Portal vein thrombosis alone with venous congestion"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In the spent phase of PV, marrow fibrosis shifts blood production to the spleen and liver (extramedullary hematopoiesis), enlarging them.",
+        "whyCorrect": "The brick explains that untreated PV can exhaust the marrow, producing a spent phase characterized by bone marrow fibrosis. The body compensates by making red cells in alternate sites such as the spleen and liver, a process called extramedullary hematopoiesis, which leads to enlargement of both organs.",
+        "whyWrongByChoice": {
+          "A": "Erythropoietin is low in PV, and hepatic EPO overproduction does not explain marrow fibrosis with organ enlargement.",
+          "C": "Iron overload is not the mechanism the brick describes for splenic and hepatic enlargement in PV.",
+          "D": "The brick attributes the organ enlargement to extramedullary hematopoiesis in the spent phase, not to metastatic solid tumor.",
+          "E": "Portal vein thrombosis alone does not account for the marrow fibrosis and compensatory blood production described."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "polycythemia vera",
+        "spent phase",
+        "extramedullary hematopoiesis"
+      ],
+      "topicId": "polycythemia-vera",
+      "topicName": "Polycythemia Vera",
+      "tier": "core"
+    },
+    {
+      "id": "bl47-011",
+      "stem": "A hematopathologist reviews the bone marrow biopsy of a patient being worked up for polycythemia vera. Which of the following marrow findings is part of the diagnostic criteria and most characteristic of PV?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hypercellular marrow with trilineage growth"
+        },
+        {
+          "label": "B",
+          "text": "Hypocellular marrow with extensive fatty replacement"
+        },
+        {
+          "label": "C",
+          "text": "Marrow packed with sheets of lymphoblasts"
+        },
+        {
+          "label": "D",
+          "text": "Numerous ring sideroblasts on iron staining"
+        },
+        {
+          "label": "E",
+          "text": "Sheets of Reed-Sternberg cells in the marrow"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "PV marrow is hypercellular with erythroid predominance and trilineage (panmyeloid) growth.",
+        "whyCorrect": "The brick lists bone marrow biopsy showing hypercellular marrow with trilineage growth among the diagnostic criteria for PV. The marrow is hypercellular with an increase in all myeloid cells but a predominance of erythroid cells.",
+        "whyWrongByChoice": {
+          "B": "A hypocellular, fatty marrow is the opposite of the hypercellular marrow seen in PV.",
+          "C": "A marrow packed with lymphoblasts indicates acute lymphoblastic leukemia, not PV.",
+          "D": "Ring sideroblasts characterize sideroblastic anemia and certain myelodysplastic syndromes, not PV.",
+          "E": "Reed-Sternberg cells are the hallmark of Hodgkin lymphoma, not PV."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "polycythemia vera",
+        "bone marrow",
+        "diagnosis"
+      ],
+      "topicId": "polycythemia-vera",
+      "topicName": "Polycythemia Vera",
+      "tier": "core"
+    },
+    {
+      "id": "bl47-012",
+      "stem": "A 59-year-old man with polycythemia vera asks about his prognosis. His physician notes that outcomes depend heavily on treatment. Which of the following statements about the prognosis of PV is most accurate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Median survival is under one year regardless of treatment"
+        },
+        {
+          "label": "B",
+          "text": "Most patients transform to acute myeloid leukemia within a year"
+        },
+        {
+          "label": "C",
+          "text": "The disease is reliably cured by a single course of chemotherapy"
+        },
+        {
+          "label": "D",
+          "text": "Treatment has no effect on survival in PV"
+        },
+        {
+          "label": "E",
+          "text": "Untreated patients may survive only a few months"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Untreated PV may allow only a few months of survival, but frequent phlebotomy extends median survival to about 10 years.",
+        "whyCorrect": "The brick states that untreated individuals may live only a few months, whereas with frequent phlebotomy median survival is around 10 years, underscoring the major impact of treatment on prognosis.",
+        "whyWrongByChoice": {
+          "A": "Median survival with phlebotomy is around 10 years, not under one year.",
+          "B": "Transformation to acute myeloid leukemia occurs in only about 2% of patients and is not the usual course within a year.",
+          "C": "The brick does not describe PV as curable by a single course of chemotherapy; management centers on phlebotomy, aspirin, and cytoreduction.",
+          "D": "Treatment clearly affects survival, extending it from months to years."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "polycythemia vera",
+        "prognosis"
+      ],
+      "topicId": "polycythemia-vera",
+      "topicName": "Polycythemia Vera",
+      "tier": "core"
+    },
+    {
+      "id": "bl48-001",
+      "stem": "A 68-year-old woman is referred for new-onset headaches and occasional blurry vision. Her head CT and ophthalmologic exam are normal. She has no relevant medical history and does not smoke or drink. On examination she has splenomegaly, and her complete blood count reveals a markedly elevated platelet count. Secondary causes of thrombocytosis have been excluded. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aplastic anemia"
+        },
+        {
+          "label": "B",
+          "text": "Chronic myeloid leukemia"
+        },
+        {
+          "label": "C",
+          "text": "Essential thrombocythemia"
+        },
+        {
+          "label": "D",
+          "text": "Iron deficiency anemia"
+        },
+        {
+          "label": "E",
+          "text": "Reactive thrombocytosis from recent surgery"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Essential thrombocythemia is a myeloproliferative neoplasm marked by massive platelet production, often presenting with microvascular symptoms and splenomegaly.",
+        "whyCorrect": "ET is a hematopoietic neoplasm characterized by overproduction of platelets. When symptomatic, patients have nonspecific vascular symptoms such as headache and visual changes from microthrombi, and 25% to 50% have splenomegaly from extramedullary hematopoiesis. Once secondary causes are excluded, a very high platelet count with these findings points to ET.",
+        "whyWrongByChoice": {
+          "A": "Aplastic anemia produces pancytopenia with a hypocellular, fatty marrow, not an elevated platelet count.",
+          "B": "Chronic myeloid leukemia is distinguished by the Philadelphia chromosome (BCR::ABL1) and a marked leukocytosis rather than isolated thrombocytosis.",
+          "D": "Iron deficiency anemia causes a reactive thrombocytosis but would show microcytic anemia and would be identified as a secondary cause, which has been excluded here.",
+          "E": "Recent surgery is a cause of secondary thrombocytosis, but the stem states secondary causes have already been excluded."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "essential thrombocythemia",
+        "myeloproliferative neoplasm",
+        "diagnosis"
+      ],
+      "topicId": "essential-thrombocythemia",
+      "topicName": "Essential Thrombocythemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl48-002",
+      "stem": "A patient is diagnosed with essential thrombocythemia. In the bone marrow, proliferation of which of the following myeloid cell types is most responsible for the elevated platelet count?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Erythroid precursors"
+        },
+        {
+          "label": "B",
+          "text": "Lymphoblasts"
+        },
+        {
+          "label": "C",
+          "text": "Megakaryocytes"
+        },
+        {
+          "label": "D",
+          "text": "Neutrophil precursors"
+        },
+        {
+          "label": "E",
+          "text": "Plasma cells"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Megakaryocytes are the platelet precursors, and their proliferation drives the thrombocytosis of ET.",
+        "whyCorrect": "In ET the megakaryocytes proliferate the most. Megakaryocytes are the precursors of platelets in the bone marrow, which are then released into the blood, producing the massive increase in platelet number seen in the disease.",
+        "whyWrongByChoice": {
+          "A": "Erythroid precursor proliferation drives red cell overproduction in polycythemia vera, not the thrombocytosis of ET.",
+          "B": "Lymphoblasts are lymphoid cells seen in acute lymphoblastic leukemia and are not the source of platelets.",
+          "D": "Neutrophil precursor expansion characterizes chronic myeloid leukemia rather than ET.",
+          "E": "Plasma cells produce immunoglobulin and are expanded in multiple myeloma, not in ET."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "essential thrombocythemia",
+        "megakaryocyte",
+        "pathophysiology"
+      ],
+      "topicId": "essential-thrombocythemia",
+      "topicName": "Essential Thrombocythemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl48-003",
+      "stem": "Genetic testing of a patient with essential thrombocythemia reveals an activating mutation in JAK2. The protein encoded by this gene most directly promotes cell growth through which of the following mechanisms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A calcium-binding chaperone in the endoplasmic reticulum lumen"
+        },
+        {
+          "label": "B",
+          "text": "A cell-surface receptor for thrombopoietin on megakaryocytes"
+        },
+        {
+          "label": "C",
+          "text": "A fusion protein generated by the Philadelphia chromosome t(9;22)"
+        },
+        {
+          "label": "D",
+          "text": "A transcription factor that blocks apoptosis directly in the nucleus"
+        },
+        {
+          "label": "E",
+          "text": "A tyrosine kinase that phosphorylates JAK/STAT signaling proteins"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "JAK2 encodes a tyrosine kinase that activates JAK/STAT signaling to stimulate hematopoietic cell growth.",
+        "whyCorrect": "The JAK2 gene codes for a tyrosine kinase that stimulates growth-promoting genes by phosphorylating JAK/signal transducer and activator of transcription (JAK/STAT) proteins. In hematopoietic stem cells this JAK/STAT pathway mediates cell growth, so an activating JAK2 mutation drives the proliferation seen in ET.",
+        "whyWrongByChoice": {
+          "A": "A calcium-binding chaperone describes calreticulin (CALR), a different mutation found in JAK2-negative cases.",
+          "B": "A receptor for thrombopoietin describes MPL, not JAK2.",
+          "C": "The Philadelphia chromosome fusion protein is BCR::ABL1, which defines chronic myeloid leukemia rather than ET.",
+          "D": "JAK2 acts as a tyrosine kinase in the JAK/STAT cascade, not as a transcription factor that directly blocks apoptosis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "essential thrombocythemia",
+        "JAK2",
+        "JAK/STAT"
+      ],
+      "topicId": "essential-thrombocythemia",
+      "topicName": "Essential Thrombocythemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl48-004",
+      "stem": "A patient has clinical and bone marrow findings suspicious for essential thrombocythemia, but testing for the most common associated mutation is negative. Testing for which of the following gene mutations would be most useful next?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "BCR::ABL1"
+        },
+        {
+          "label": "B",
+          "text": "BRCA1"
+        },
+        {
+          "label": "C",
+          "text": "CALR"
+        },
+        {
+          "label": "D",
+          "text": "FLT3"
+        },
+        {
+          "label": "E",
+          "text": "TP53"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In JAK2-negative ET, calreticulin (CALR) mutations account for about 30% of cases and are the next appropriate test.",
+        "whyCorrect": "Approximately 50% of ET cases carry a JAK2 mutation. In JAK2-negative cases there can be other mutations, such as calreticulin (CALR, roughly 30% of cases) or MPL (5% to 10%). Testing CALR is therefore the most useful next step.",
+        "whyWrongByChoice": {
+          "A": "BCR::ABL1 mutations are seen in chronic myeloid leukemia, not essential thrombocythemia.",
+          "B": "BRCA1 mutations are associated with breast and ovarian cancer and are not linked to myeloproliferative neoplasms.",
+          "D": "FLT3 mutations are tested in acute myeloid leukemia and are not associated with ET.",
+          "E": "TP53 mutations are also more relevant to acute myeloid leukemia and are not part of the standard ET workup."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "essential thrombocythemia",
+        "CALR",
+        "genetic testing"
+      ],
+      "topicId": "essential-thrombocythemia",
+      "topicName": "Essential Thrombocythemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl48-005",
+      "stem": "A 55-year-old man is being evaluated for marked thrombocytosis with numerous giant platelets on smear and a JAK2 mutation, after secondary causes were excluded. A bone marrow biopsy is performed. Which of the following findings is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Abundant lymphoblasts completely replacing the normal marrow"
+        },
+        {
+          "label": "B",
+          "text": "Hypocellular marrow with extensive fatty infiltration throughout"
+        },
+        {
+          "label": "C",
+          "text": "Normocellular marrow with dominant megakaryocyte proliferation"
+        },
+        {
+          "label": "D",
+          "text": "Normocellular marrow with numerous lipid-laden atypical macrophages"
+        },
+        {
+          "label": "E",
+          "text": "Sheets of monoclonal plasma cells filling the marrow space"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The marrow in ET is typically normocellular with a striking proliferation of megakaryocytes in large clusters.",
+        "whyCorrect": "The bone marrow in ET is typically normocellular, and its unique feature is the massive proliferation of megakaryocytes, which can be seen in large clusters throughout the marrow. Dominant megakaryocyte proliferation suggests ET, though it is not always present.",
+        "whyWrongByChoice": {
+          "A": "Abundant lymphoblasts point to an acute leukemia rather than a myeloproliferative neoplasm.",
+          "B": "A hypocellular, fatty marrow is characteristic of aplastic anemia, not ET.",
+          "D": "Atypical marrow macrophages suggest a storage disorder such as Gaucher disease, not ET.",
+          "E": "Sheets of monoclonal plasma cells define multiple myeloma, which does not cause this picture."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "essential thrombocythemia",
+        "bone marrow",
+        "megakaryocyte"
+      ],
+      "topicId": "essential-thrombocythemia",
+      "topicName": "Essential Thrombocythemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl48-006",
+      "stem": "A peripheral blood smear is reviewed for a patient with essential thrombocythemia. Which of the following findings is most characteristic?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hypersegmented neutrophils"
+        },
+        {
+          "label": "B",
+          "text": "Marked spherocytosis with polychromasia"
+        },
+        {
+          "label": "C",
+          "text": "Numerous teardrop-shaped red blood cells only"
+        },
+        {
+          "label": "D",
+          "text": "Platelets ranging from tiny to gigantic"
+        },
+        {
+          "label": "E",
+          "text": "Rouleaux formation of red blood cells"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The main smear abnormality in ET is a marked increase in platelets that vary widely in size, called platelet anisocytosis.",
+        "whyCorrect": "In ET the principal peripheral blood abnormality is the marked increase in platelet number, and the platelets may range in size from tiny to gigantic. This variation in platelet size is termed platelet anisocytosis, while the other blood cells typically appear normal.",
+        "whyWrongByChoice": {
+          "A": "Hypersegmented neutrophils indicate megaloblastic anemia from B12 or folate deficiency.",
+          "B": "Spherocytosis is seen in hereditary spherocytosis and immune hemolysis, not in ET.",
+          "C": "Teardrop red cells suggest marrow fibrosis; they are not the defining smear finding of ET, which centers on platelets.",
+          "E": "Rouleaux formation reflects elevated plasma proteins, as in multiple myeloma, not ET."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "essential thrombocythemia",
+        "blood smear",
+        "platelet anisocytosis"
+      ],
+      "topicId": "essential-thrombocythemia",
+      "topicName": "Essential Thrombocythemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl48-007",
+      "stem": "A 42-year-old woman with newly diagnosed essential thrombocythemia has no history of arterial or venous thrombosis and no other high-risk features. Which of the following is the most appropriate management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cyclophosphamide"
+        },
+        {
+          "label": "B",
+          "text": "Lisinopril"
+        },
+        {
+          "label": "C",
+          "text": "Low-dose aspirin"
+        },
+        {
+          "label": "D",
+          "text": "Metoprolol"
+        },
+        {
+          "label": "E",
+          "text": "Tissue plasminogen activator"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "All ET patients should receive low-dose aspirin, and young patients without thrombosis need nothing more.",
+        "whyCorrect": "All patients with ET should receive low-dose aspirin to reduce microvascular complications and thrombotic risk. Young patients with no history of arterial or venous thrombi can be managed with aspirin alone; cytoreductive therapy is reserved for higher-risk patients.",
+        "whyWrongByChoice": {
+          "A": "Cyclophosphamide is a chemotherapy drug not used for ET.",
+          "B": "Lisinopril is used to control hypertension, not to manage ET.",
+          "D": "Metoprolol is also an antihypertensive and has no role in treating ET.",
+          "E": "Tissue plasminogen activator is a clot-busting drug used for acute events such as some myocardial infarctions, not for routine ET management."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "essential thrombocythemia",
+        "treatment",
+        "aspirin"
+      ],
+      "topicId": "essential-thrombocythemia",
+      "topicName": "Essential Thrombocythemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl48-008",
+      "stem": "A 67-year-old man with essential thrombocythemia continues to have microvascular symptoms despite low-dose aspirin, and he has a prior history of deep vein thrombosis. Which of the following is the most appropriate addition to his therapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hydroxyurea"
+        },
+        {
+          "label": "B",
+          "text": "Iron supplementation"
+        },
+        {
+          "label": "C",
+          "text": "Prednisone"
+        },
+        {
+          "label": "D",
+          "text": "Splenectomy"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin K"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "High-risk ET (age over 60 or prior thrombosis, or inadequate aspirin control) warrants cytoreduction with hydroxyurea.",
+        "whyCorrect": "If aspirin alone does not provide adequate control, or if the patient is high-risk (over 60 years old or a history of thrombosis), then cytoreductive therapy with hydroxyurea or pegylated interferon alfa is added. This patient meets both criteria, so hydroxyurea is appropriate.",
+        "whyWrongByChoice": {
+          "B": "Iron supplementation would not lower the platelet count and is unrelated to ET management.",
+          "C": "Prednisone is a corticosteroid without a defined cytoreductive role in ET.",
+          "D": "Splenectomy is not a standard treatment and can itself cause a reactive thrombocytosis.",
+          "E": "Vitamin K reverses warfarin and does not treat the platelet overproduction of ET."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "essential thrombocythemia",
+        "treatment",
+        "hydroxyurea"
+      ],
+      "topicId": "essential-thrombocythemia",
+      "topicName": "Essential Thrombocythemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl48-009",
+      "stem": "A patient with essential thrombocythemia reports episodes of burning pain and redness in the hands and feet. Which of the following best explains this symptom?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autoimmune destruction of peripheral nerves"
+        },
+        {
+          "label": "B",
+          "text": "Deposition of monosodium urate crystals in joints"
+        },
+        {
+          "label": "C",
+          "text": "Iron deficiency affecting the skin"
+        },
+        {
+          "label": "D",
+          "text": "Microvascular occlusion in the distal extremities"
+        },
+        {
+          "label": "E",
+          "text": "Vasospasm from cold-induced antibodies"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Erythromelalgia in ET results from microthrombi and sludging of platelet-rich blood occluding small vessels of the extremities.",
+        "whyCorrect": "Some ET patients have episodic burning pain and redness in the distal extremities, a condition called erythromelalgia. It arises from microvascular occlusion caused by the massive number of platelets producing microthrombi and sluggish flow, and it is also seen in polycythemia vera.",
+        "whyWrongByChoice": {
+          "A": "Autoimmune nerve destruction describes an inflammatory neuropathy, not the platelet-driven microvascular process of ET.",
+          "B": "Urate crystal deposition causes gout, an unrelated cause of extremity pain.",
+          "C": "Iron deficiency does not cause the burning erythema of erythromelalgia.",
+          "E": "Cold-induced antibody vasospasm describes cryoglobulinemia or Raynaud phenomenon, not erythromelalgia of ET."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "essential thrombocythemia",
+        "erythromelalgia",
+        "microvascular"
+      ],
+      "topicId": "essential-thrombocythemia",
+      "topicName": "Essential Thrombocythemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl48-010",
+      "stem": "A patient with essential thrombocythemia and a very high platelet count presents with mucosal bleeding. Which of the following best explains bleeding despite the elevated platelet number?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antibody-mediated destruction of platelets"
+        },
+        {
+          "label": "B",
+          "text": "Decreased platelet function"
+        },
+        {
+          "label": "C",
+          "text": "Deficiency of vitamin K-dependent clotting factors"
+        },
+        {
+          "label": "D",
+          "text": "Disseminated intravascular coagulation consuming fibrinogen"
+        },
+        {
+          "label": "E",
+          "text": "Hereditary deficiency of factor VIII"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In ET, excess but poorly functioning platelets and reduced von Willebrand factor activity can paradoxically cause bleeding.",
+        "whyCorrect": "The least common ET symptoms result from excessive bleeding. Too many platelets can cause increased bleeding because of decreased platelet function, sometimes from diminished function of von Willebrand factor, a platelet-associated protein necessary for forming blood clots.",
+        "whyWrongByChoice": {
+          "A": "Antibody-mediated platelet destruction describes immune thrombocytopenia, which lowers the platelet count rather than raising it.",
+          "C": "Vitamin K-dependent factor deficiency reflects warfarin effect or liver disease, not the platelet dysfunction of ET.",
+          "D": "Disseminated intravascular coagulation involves widespread clotting and factor consumption, a different process from ET.",
+          "E": "Factor VIII deficiency is hemophilia A, a hereditary coagulation factor disorder unrelated to ET."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "essential thrombocythemia",
+        "bleeding",
+        "von Willebrand factor"
+      ],
+      "topicId": "essential-thrombocythemia",
+      "topicName": "Essential Thrombocythemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl48-011",
+      "stem": "A 34-year-old woman is found to have a platelet count of 620,000/mm3 on a routine complete blood count. She also has a microcytic, hypochromic anemia and reports heavy menstrual periods. Which of the following is the most likely explanation for her elevated platelet count?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic myeloid leukemia"
+        },
+        {
+          "label": "B",
+          "text": "Essential thrombocythemia"
+        },
+        {
+          "label": "C",
+          "text": "Polycythemia vera"
+        },
+        {
+          "label": "D",
+          "text": "Primary myelofibrosis"
+        },
+        {
+          "label": "E",
+          "text": "Secondary thrombocytosis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Not all thrombocytosis is ET; secondary (reactive) causes such as iron deficiency anemia are far more common and must be excluded first.",
+        "whyCorrect": "When the platelet count is high for reasons other than ET it is termed secondary thrombocytosis, which is much more common than ET. Reactive causes include infection, surgery, malignancy, chronic inflammation, splenectomy, and anemia, especially iron deficiency anemia. Her microcytic anemia and menorrhagia point to iron deficiency as the reactive cause.",
+        "whyWrongByChoice": {
+          "A": "Chronic myeloid leukemia would typically show marked leukocytosis and the Philadelphia chromosome, not an isolated iron-deficiency picture.",
+          "B": "ET is a diagnosis of exclusion; a clear secondary cause such as iron deficiency must be ruled out before considering ET.",
+          "C": "Polycythemia vera is defined by increased red cell mass, the opposite of this patient's anemia.",
+          "D": "Primary myelofibrosis produces marrow fibrosis with teardrop cells and a leukoerythroblastic smear, not a simple iron-deficiency anemia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "essential thrombocythemia",
+        "secondary thrombocytosis",
+        "differential diagnosis"
+      ],
+      "topicId": "essential-thrombocythemia",
+      "topicName": "Essential Thrombocythemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl48-012",
+      "stem": "A hematologist notes that essential thrombocythemia is associated with an activating JAK2 mutation in about half of cases. This association provides the rationale for using which of the following targeted agents?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "All-trans retinoic acid"
+        },
+        {
+          "label": "B",
+          "text": "Bortezomib"
+        },
+        {
+          "label": "C",
+          "text": "Imatinib"
+        },
+        {
+          "label": "D",
+          "text": "Rituximab"
+        },
+        {
+          "label": "E",
+          "text": "Ruxolitinib"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Because roughly 50% of ET cases carry a JAK2 mutation, the JAK inhibitor ruxolitinib may be useful.",
+        "whyCorrect": "Similar to polycythemia vera, about 50% of ET cases are associated with activating mutations in the JAK2 gene. This means the JAK inhibitor ruxolitinib may be useful in ET patients, since it targets the overactive JAK/STAT signaling pathway.",
+        "whyWrongByChoice": {
+          "A": "All-trans retinoic acid is used in acute promyelocytic leukemia, not in ET.",
+          "B": "Bortezomib is a proteasome inhibitor used in multiple myeloma.",
+          "C": "Imatinib targets the BCR::ABL1 tyrosine kinase of chronic myeloid leukemia, not JAK2.",
+          "D": "Rituximab is an anti-CD20 antibody used for B-cell disorders, not for the myeloid proliferation of ET."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "essential thrombocythemia",
+        "ruxolitinib",
+        "JAK2"
+      ],
+      "topicId": "essential-thrombocythemia",
+      "topicName": "Essential Thrombocythemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl49-001",
+      "stem": "A 68-year-old man comes to the clinic with several months of left-sided abdominal heaviness and fatigue. His vital signs are normal, but on examination he has a massively enlarged spleen with the tip reaching the pelvic brim. His complete blood count shows an elevated white blood cell count, and the peripheral smear notes teardrop-shaped cells. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hereditary spherocytosis"
+        },
+        {
+          "label": "B",
+          "text": "Immune thrombocytopenia"
+        },
+        {
+          "label": "C",
+          "text": "Iron deficiency anemia"
+        },
+        {
+          "label": "D",
+          "text": "Multiple myeloma"
+        },
+        {
+          "label": "E",
+          "text": "Primary myelofibrosis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Massive splenomegaly with fatigue and teardrop cells on smear in an older patient points to primary myelofibrosis.",
+        "whyCorrect": "PMF is a myeloproliferative neoplasm that typically presents in patients in their 60s or older. The spleen can become so large that its tip reaches the pelvis as it performs extramedullary hematopoiesis, and the fibrotic marrow forces red cells into teardrop shapes (dacryocytes) seen on the smear. These findings together are characteristic of PMF.",
+        "whyWrongByChoice": {
+          "A": "Hereditary spherocytosis shows spherocytes and hemolysis, not dacryocytes and a leukoerythroblastic picture.",
+          "B": "Immune thrombocytopenia causes isolated low platelets and bleeding, not massive splenomegaly with teardrop cells.",
+          "C": "Iron deficiency anemia produces microcytic anemia without massive splenomegaly or teardrop cells.",
+          "D": "Multiple myeloma is a plasma-cell disorder presenting with bone lesions and rouleaux, not this myeloproliferative picture."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "primary myelofibrosis",
+        "splenomegaly",
+        "diagnosis"
+      ],
+      "topicId": "primary-myelofibrosis",
+      "topicName": "Primary Myelofibrosis",
+      "tier": "core"
+    },
+    {
+      "id": "bl49-002",
+      "stem": "A hematologist explains that primary myelofibrosis differs from the other myeloproliferative neoplasms. Which of the following best describes this distinguishing feature?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "No single myeloid cell line proliferates more than the others"
+        },
+        {
+          "label": "B",
+          "text": "Only lymphoid precursors proliferate and replace the marrow"
+        },
+        {
+          "label": "C",
+          "text": "Only the neutrophil series proliferates, driven by the Philadelphia chromosome"
+        },
+        {
+          "label": "D",
+          "text": "Only the red blood cell line proliferates, raising the hematocrit"
+        },
+        {
+          "label": "E",
+          "text": "Plasma cells proliferate and secrete a monoclonal protein"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In PMF all myeloid precursors proliferate at first, and the defining feature is progressive marrow fibrosis rather than one dominant cell line.",
+        "whyCorrect": "Unlike the other MPNs, in which one cell line predominates and spills into the blood, PMF has no single myeloid line that proliferates more than the others. All myeloid precursors (erythroid, neutrophilic, and megakaryocytic) proliferate wildly at first, and then, as the name suggests, the marrow becomes fibrotic with collagen fibers.",
+        "whyWrongByChoice": {
+          "B": "Lymphoid precursor proliferation describes a lymphoid leukemia, not a myeloproliferative neoplasm.",
+          "C": "A dominant neutrophil series driven by the Philadelphia chromosome describes chronic myeloid leukemia.",
+          "D": "Predominant red cell proliferation with a high hematocrit describes polycythemia vera.",
+          "E": "Monoclonal plasma-cell proliferation describes multiple myeloma."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "primary myelofibrosis",
+        "myeloproliferative neoplasm",
+        "pathophysiology"
+      ],
+      "topicId": "primary-myelofibrosis",
+      "topicName": "Primary Myelofibrosis",
+      "tier": "core"
+    },
+    {
+      "id": "bl49-003",
+      "stem": "A 67-year-old man is admitted for a lower-leg deep vein thrombosis treated with intravenous heparin. He reports a year of fatigue, bone pain, early satiety, and exertional dyspnea, and his exam shows marked splenomegaly. His hemoglobin is 10.1 g/dL, and a peripheral smear shows dacryocytes and nucleated red blood cells. Which of the following is the best next step in management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Abdomen and pelvis CT scan"
+        },
+        {
+          "label": "B",
+          "text": "Bone marrow biopsy"
+        },
+        {
+          "label": "C",
+          "text": "Discontinuation of the patient's heparin"
+        },
+        {
+          "label": "D",
+          "text": "Starting myelosuppressive therapy"
+        },
+        {
+          "label": "E",
+          "text": "Transfusion of packed red blood cells"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "When splenomegaly, anemia, and dacryocytes suggest PMF, a bone marrow biopsy is needed to confirm the diagnosis.",
+        "whyCorrect": "The splenomegaly, anemia, and teardrop cells on smear suggest possible primary myelofibrosis. Because the CBC and smear are suggestive but not diagnostic, a bone marrow biopsy is the next step to confirm the diagnosis by demonstrating fibrosis.",
+        "whyWrongByChoice": {
+          "A": "There is no indication for an abdomen and pelvis CT scan in this workup.",
+          "C": "Discontinuing heparin is dangerous in the setting of an active deep vein thrombosis.",
+          "D": "Myelosuppressive therapy such as ruxolitinib should not be started before a diagnosis is established.",
+          "E": "A hemoglobin of 10.1 g/dL does not warrant transfusion of packed red blood cells."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "primary myelofibrosis",
+        "bone marrow biopsy",
+        "diagnosis"
+      ],
+      "topicId": "primary-myelofibrosis",
+      "topicName": "Primary Myelofibrosis",
+      "tier": "core"
+    },
+    {
+      "id": "bl49-004",
+      "stem": "A patient with newly diagnosed primary myelofibrosis undergoes molecular testing. An activating mutation in which of the following genes is most likely to be found?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "BCR::ABL1"
+        },
+        {
+          "label": "B",
+          "text": "BRCA1"
+        },
+        {
+          "label": "C",
+          "text": "JAK2"
+        },
+        {
+          "label": "D",
+          "text": "FLT3"
+        },
+        {
+          "label": "E",
+          "text": "TP53"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Approximately 50% to 60% of PMF cases carry an activating JAK2 mutation, making it the most common molecular finding.",
+        "whyCorrect": "About 50% to 60% of PMF cases are associated with activating mutations in the JAK2 (Janus kinase 2) gene. This makes JAK2 the most likely mutation found and provides the rationale for using the JAK inhibitor ruxolitinib. In JAK2-negative cases, CALR (20% to 30%) or MPL (5% to 10%) mutations may be present.",
+        "whyWrongByChoice": {
+          "A": "BCR::ABL1 defines chronic myeloid leukemia and is absent in primary myelofibrosis.",
+          "B": "BRCA1 mutations are associated with breast and ovarian cancer, not myeloproliferative neoplasms.",
+          "D": "FLT3 mutations are tested in acute myeloid leukemia rather than PMF.",
+          "E": "TP53 mutations are more relevant to acute myeloid leukemia and are not the common PMF driver."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "primary myelofibrosis",
+        "JAK2",
+        "genetics"
+      ],
+      "topicId": "primary-myelofibrosis",
+      "topicName": "Primary Myelofibrosis",
+      "tier": "core"
+    },
+    {
+      "id": "bl49-005",
+      "stem": "A patient with primary myelofibrosis has a peripheral blood smear reviewed. Which of the following findings would be most characteristic?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hypersegmented neutrophils with 6 lobes"
+        },
+        {
+          "label": "B",
+          "text": "Numerous spherocytes without central pallor"
+        },
+        {
+          "label": "C",
+          "text": "Rouleaux formation of stacked red cells"
+        },
+        {
+          "label": "D",
+          "text": "Sickled red blood cells on the smear"
+        },
+        {
+          "label": "E",
+          "text": "Teardrop-shaped red blood cells"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The PMF smear shows a leukoerythroblastic picture with teardrop cells (dacryocytes) and nucleated red blood cells.",
+        "whyCorrect": "In PMF the peripheral smear shows teardrop-shaped RBCs and nucleated RBCs, a picture called a leukoerythroblastic reaction with left-shifted precursors. Teardrop cells form because a fibrotic marrow makes it hard for RBCs to squeeze into the blood, elongating them, and nucleated RBCs are released too early.",
+        "whyWrongByChoice": {
+          "A": "Hypersegmented neutrophils indicate megaloblastic anemia from B12 or folate deficiency.",
+          "B": "Spherocytes are seen in hereditary spherocytosis and immune hemolysis, not PMF.",
+          "C": "Rouleaux formation reflects elevated plasma proteins, as in multiple myeloma.",
+          "D": "Sickled cells occur in sickle cell disease, an unrelated hemoglobinopathy."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "primary myelofibrosis",
+        "blood smear",
+        "dacryocytes"
+      ],
+      "topicId": "primary-myelofibrosis",
+      "topicName": "Primary Myelofibrosis",
+      "tier": "core"
+    },
+    {
+      "id": "bl49-006",
+      "stem": "A physician attempts to aspirate bone marrow from a patient suspected of having primary myelofibrosis, but no marrow can be drawn (a dry tap). A core biopsy is obtained instead. Which of the following findings would most likely be seen in early-stage disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A hypocellular, fatty marrow with no reticulin or collagen fibrosis"
+        },
+        {
+          "label": "B",
+          "text": "Absence of reticulin and collagen fibers within the marrow"
+        },
+        {
+          "label": "C",
+          "text": "Clusters of high-grade dysplastic cells replacing the normal marrow"
+        },
+        {
+          "label": "D",
+          "text": "Hypercellular marrow with an increased number of megakaryocytes"
+        },
+        {
+          "label": "E",
+          "text": "Sheets of monoclonal plasma cells replacing the marrow space"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Early PMF shows a hypercellular marrow with proliferation of all myeloid lines and markedly increased, clustered megakaryocytes, accompanied by fibrosis.",
+        "whyCorrect": "Initially, PMF is characterized by proliferation of all myeloid cell lines, so the marrow is hypercellular and filled with neoplastic precursors. Megakaryocytes are markedly increased and clustered with atypia, and fibrosis is present. A dry tap occurs because the fibrosis makes the marrow difficult to aspirate, so a core biopsy is more helpful.",
+        "whyWrongByChoice": {
+          "A": "A hypocellular, fatty marrow characterizes aplastic anemia; PMF marrow contains extensive fibrosis.",
+          "B": "There is an abundance, not an absence, of reticulin and collagen, especially as the disease progresses.",
+          "C": "PMF does not cause dysplasia of marrow cells at any point in the disease.",
+          "E": "Sheets of monoclonal plasma cells define multiple myeloma, not PMF."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "primary myelofibrosis",
+        "bone marrow",
+        "megakaryocyte"
+      ],
+      "topicId": "primary-myelofibrosis",
+      "topicName": "Primary Myelofibrosis",
+      "tier": "core"
+    },
+    {
+      "id": "bl49-007",
+      "stem": "In primary myelofibrosis, the extensive bone marrow fibrosis is thought to be caused by cytokines that stimulate fibroblasts. Which of the following cell types is the primary source of these fibroblast-stimulating cytokines?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Erythroid precursors"
+        },
+        {
+          "label": "B",
+          "text": "Lymphocytes"
+        },
+        {
+          "label": "C",
+          "text": "Megakaryocytes"
+        },
+        {
+          "label": "D",
+          "text": "Osteoclasts"
+        },
+        {
+          "label": "E",
+          "text": "Plasma cells"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The fibrosis of PMF is driven by fibroblast-stimulating cytokines released by megakaryocytes.",
+        "whyCorrect": "Unlike the other myeloproliferative neoplasms, the marrow in PMF develops extensive fibrosis. This fibrosis is thought to be caused by fibroblast-stimulating cytokines released by the markedly increased megakaryocytes, and the marrow eventually becomes nearly completely replaced by fibrosis.",
+        "whyWrongByChoice": {
+          "A": "Erythroid precursors give rise to red blood cells and are not the source of the fibrosis-driving cytokines.",
+          "B": "Lymphocytes are not the cells responsible for releasing the fibroblast-stimulating cytokines in PMF.",
+          "D": "Osteoclasts resorb bone and are not implicated in stimulating the marrow fibroblasts here.",
+          "E": "Plasma cells secrete immunoglobulin and are not involved in the marrow fibrosis of PMF."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "primary myelofibrosis",
+        "megakaryocyte",
+        "fibrosis"
+      ],
+      "topicId": "primary-myelofibrosis",
+      "topicName": "Primary Myelofibrosis",
+      "tier": "core"
+    },
+    {
+      "id": "bl49-008",
+      "stem": "A patient with primary myelofibrosis develops progressively worsening anemia, recurrent infections, and bleeding episodes as the disease advances. Which of the following best explains this combination of findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute blood loss from a large gastrointestinal hemorrhage"
+        },
+        {
+          "label": "B",
+          "text": "Autoimmune antibody destruction of circulating blood cells"
+        },
+        {
+          "label": "C",
+          "text": "Bone marrow failure with low production of all blood cell lines"
+        },
+        {
+          "label": "D",
+          "text": "Dietary deficiency of vitamin B12 and folate over time"
+        },
+        {
+          "label": "E",
+          "text": "Sequestration of platelets and white cells by a normal-sized spleen"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "As marrow fibrosis worsens, marrow failure lowers all blood counts, causing anemia, infections, and bleeding.",
+        "whyCorrect": "As bone marrow fibrosis worsens, bone marrow failure with low blood cell production results. The patient develops anemia-related fatigue and breathlessness, infections from a low WBC count, and bleeding episodes from a low platelet count.",
+        "whyWrongByChoice": {
+          "A": "Acute gastrointestinal blood loss would not explain the low WBC count and infections.",
+          "B": "The cytopenias of PMF result from marrow failure, not autoimmune destruction of blood cells.",
+          "D": "B12 and folate deficiency cause megaloblastic anemia, not the marrow-failure pancytopenia of PMF.",
+          "E": "The spleen in PMF is massively enlarged, and the mechanism is marrow failure rather than sequestration by a normal spleen."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "primary myelofibrosis",
+        "marrow failure",
+        "pancytopenia"
+      ],
+      "topicId": "primary-myelofibrosis",
+      "topicName": "Primary Myelofibrosis",
+      "tier": "core"
+    },
+    {
+      "id": "bl49-009",
+      "stem": "A 60-year-old woman with intermediate-risk primary myelofibrosis is otherwise healthy. Her physician recommends a therapy soon after diagnosis, explaining that it is currently the only treatment with curative potential. Which of the following is being recommended?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Allogeneic hematopoietic stem cell transplantation"
+        },
+        {
+          "label": "B",
+          "text": "Autologous hematopoietic stem cell transplantation"
+        },
+        {
+          "label": "C",
+          "text": "Long-term hydroxyurea therapy"
+        },
+        {
+          "label": "D",
+          "text": "Ruxolitinib monotherapy"
+        },
+        {
+          "label": "E",
+          "text": "Splenectomy"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Allogeneic hematopoietic stem cell transplantation is the only therapy with curative potential for PMF.",
+        "whyCorrect": "In more severe disease with poor prognosis, the nonfunctional marrow can be replaced by allogeneic hematopoietic stem cell transplantation, currently the only therapy with curative potential for PMF. In high- or intermediate-risk patients who are healthy enough, it is recommended soon after diagnosis.",
+        "whyWrongByChoice": {
+          "B": "An autologous transplant would reintroduce the patient's own neoplastic cells; a donor (allogeneic) source is used.",
+          "C": "Hydroxyurea is a cytoreductive drug that controls counts but is not curative.",
+          "D": "Ruxolitinib helps with proliferation and symptoms such as splenomegaly but is not curative.",
+          "E": "Splenectomy is not a standard curative therapy for PMF."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "primary myelofibrosis",
+        "stem cell transplant",
+        "treatment"
+      ],
+      "topicId": "primary-myelofibrosis",
+      "topicName": "Primary Myelofibrosis",
+      "tier": "core"
+    },
+    {
+      "id": "bl49-010",
+      "stem": "A high-risk patient with JAK2-mutated primary myelofibrosis is not eligible for transplantation and is started on ruxolitinib. Which of the following best describes this drug's mechanism of action?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Covalently cross-links DNA strands in dividing cells to trigger apoptosis"
+        },
+        {
+          "label": "B",
+          "text": "Inhibits DNA polymerase to prevent replication of the malignant clone"
+        },
+        {
+          "label": "C",
+          "text": "Inhibits the tyrosine kinase activity of the BCR-ABL fusion protein"
+        },
+        {
+          "label": "D",
+          "text": "Selectively inhibits JAK1 and JAK2 to regulate the JAK-STAT pathway"
+        },
+        {
+          "label": "E",
+          "text": "Stimulates erythropoietin production in the kidney to increase RBC counts"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Ruxolitinib selectively inhibits JAK1 and JAK2 to counter the dysregulated JAK-STAT signaling caused by the JAK2 mutation.",
+        "whyCorrect": "Because about 50% of PMF cases carry a JAK2 mutation, the JAK inhibitor ruxolitinib can be used. It selectively inhibits JAK1 and JAK2 to mediate the dysregulated activity of the mutated JAK2, targeting the overactive JAK-STAT signaling pathway and helping with proliferation and symptoms such as anemia and splenomegaly.",
+        "whyWrongByChoice": {
+          "A": "DNA cross-linking describes alkylating chemotherapy agents, not ruxolitinib.",
+          "B": "Inhibiting DNA polymerase is more aligned with certain antiviral or chemotherapeutic agents, not ruxolitinib.",
+          "C": "Inhibiting BCR-ABL tyrosine kinase is the mechanism of imatinib used in chronic myeloid leukemia, not PMF.",
+          "E": "Ruxolitinib does not stimulate erythropoietin; it can actually cause anemia and pancytopenia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "primary myelofibrosis",
+        "ruxolitinib",
+        "JAK-STAT"
+      ],
+      "topicId": "primary-myelofibrosis",
+      "topicName": "Primary Myelofibrosis",
+      "tier": "core"
+    },
+    {
+      "id": "bl49-011",
+      "stem": "A high-risk patient with primary myelofibrosis is treated with hydroxyurea to reduce the white blood cell count. Which of the following best describes how this antimetabolite works?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Binds CD20 on the surface of B cells"
+        },
+        {
+          "label": "B",
+          "text": "Blocks microtubule assembly during mitosis"
+        },
+        {
+          "label": "C",
+          "text": "Inhibits ribonucleotide reductase"
+        },
+        {
+          "label": "D",
+          "text": "Inhibits the proteasome to accumulate misfolded proteins"
+        },
+        {
+          "label": "E",
+          "text": "Selectively inhibits JAK1 and JAK2 kinases"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Hydroxyurea is an antimetabolite that inhibits ribonucleotide reductase and halts the cell cycle at the G1/S phase.",
+        "whyCorrect": "Hydroxyurea is an antimetabolite chemotherapy drug that can help reduce WBC counts in PMF. It interferes with DNA repair by inhibiting ribonucleotide reductase, halting the cell cycle at the G1/S phase. It is teratogenic, so it should be used cautiously in women of childbearing age, and live vaccines are contraindicated.",
+        "whyWrongByChoice": {
+          "A": "Binding CD20 describes rituximab, an antibody used for B-cell disorders.",
+          "B": "Blocking microtubule assembly describes vinca alkaloids and taxanes, not hydroxyurea.",
+          "D": "Proteasome inhibition describes bortezomib used in multiple myeloma.",
+          "E": "Inhibiting JAK1 and JAK2 is the mechanism of ruxolitinib, not hydroxyurea."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "primary myelofibrosis",
+        "hydroxyurea",
+        "treatment"
+      ],
+      "topicId": "primary-myelofibrosis",
+      "topicName": "Primary Myelofibrosis",
+      "tier": "core"
+    },
+    {
+      "id": "bl49-012",
+      "stem": "A patient with long-standing primary myelofibrosis develops a rapid clinical decline. A repeat bone marrow evaluation raises concern for transformation of the disease. Which of the following outcomes is most consistent with this concern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Conversion to a benign reactive marrow"
+        },
+        {
+          "label": "B",
+          "text": "Spontaneous resolution of the marrow fibrosis"
+        },
+        {
+          "label": "C",
+          "text": "Transformation into acute myeloid leukemia"
+        },
+        {
+          "label": "D",
+          "text": "Transformation into chronic lymphocytic leukemia"
+        },
+        {
+          "label": "E",
+          "text": "Transformation into Hodgkin lymphoma"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "PMF can transform into acute myeloid leukemia in about 3% to 4% of cases, which is usually a fatal outcome.",
+        "whyCorrect": "PMF can transform into acute myeloid leukemia in approximately 3% to 4% of cases, which is usually a fatal outcome. This kind of transformation can occur in any myeloproliferative neoplasm, and it explains a rapid clinical decline.",
+        "whyWrongByChoice": {
+          "A": "PMF is a clonal neoplasm and does not convert to a benign reactive marrow.",
+          "B": "The fibrosis of PMF progresses rather than spontaneously resolving.",
+          "D": "Chronic lymphocytic leukemia is a lymphoid neoplasm and is not the transformation seen in PMF.",
+          "E": "Hodgkin lymphoma is unrelated to the progression of myeloproliferative neoplasms."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "primary myelofibrosis",
+        "acute myeloid leukemia",
+        "prognosis"
+      ],
+      "topicId": "primary-myelofibrosis",
+      "topicName": "Primary Myelofibrosis",
+      "tier": "core"
+    },
+    {
+      "id": "bl50-001",
+      "stem": "A hematology instructor explains that myelodysplastic neoplasms (MDS) are a group of hematopoietic neoplasms that arise from a single cell line, which normally gives rise to red blood cells, some white blood cells, and platelets. Which of the following cell lines is involved in MDS?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dendritic cell line"
+        },
+        {
+          "label": "B",
+          "text": "Lymphoid cell line"
+        },
+        {
+          "label": "C",
+          "text": "Mast cell line"
+        },
+        {
+          "label": "D",
+          "text": "Myeloid cell line"
+        },
+        {
+          "label": "E",
+          "text": "Plasma cell line"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "MDS are neoplasms of the myeloid cell line, which produces red blood cells, some white blood cells, and platelets.",
+        "whyCorrect": "Myelodysplastic neoplasms involve the myeloid cell line, the line that gives rise to red blood cells, some of the white blood cells, and platelets. The disorder is characterized by ineffective hematopoiesis, cytopenias, and dysplasia in at least one hematopoietic lineage.",
+        "whyWrongByChoice": {
+          "A": "Dendritic cells are antigen-presenting cells and are not the lineage affected in MDS.",
+          "B": "The lymphoid cell line gives rise to lymphocytes and is involved in lymphoid neoplasms, a separate branch of hematologic malignancies.",
+          "C": "Mast cells are not the lineage that defines MDS.",
+          "E": "Plasma cells are terminally differentiated B lymphocytes; their neoplasm is multiple myeloma, not MDS."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "myelodysplastic neoplasms",
+        "myeloid cell line",
+        "definition"
+      ],
+      "topicId": "myelodysplastic-neoplasms",
+      "topicName": "Myelodysplastic Neoplasms",
+      "tier": "core"
+    },
+    {
+      "id": "bl50-002",
+      "stem": "A 78-year-old man has routine bloodwork before elective prostate surgery. He feels well aside from age-appropriate fatigue. His complete blood count shows a mild decrease in white blood cell count, hemoglobin, and platelet count. The peripheral smear notes macro-ovalocytes and hyposegmented, hypogranular neutrophils, with no blasts seen. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute myeloid leukemia"
+        },
+        {
+          "label": "B",
+          "text": "Chronic myeloid leukemia"
+        },
+        {
+          "label": "C",
+          "text": "Hereditary spherocytosis"
+        },
+        {
+          "label": "D",
+          "text": "Iron-deficiency anemia"
+        },
+        {
+          "label": "E",
+          "text": "Myelodysplastic neoplasm"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Pancytopenia with macro-ovalocytes and dysplastic (hyposegmented, hypogranular) neutrophils but no blasts in an older adult is characteristic of MDS.",
+        "whyCorrect": "MDS often presents in older adults and may be found incidentally when a complete blood count shows one or more cytopenias. The smear reflects the dysplastic changes of MDS: macrocytic red cells and neutrophils with hyposegmentation and hypogranularity. The absence of a large blast population argues against acute leukemia.",
+        "whyWrongByChoice": {
+          "A": "Acute myeloid leukemia would show 20% or more blasts, which are explicitly absent here.",
+          "B": "Chronic myeloid leukemia presents with a markedly elevated white blood cell count, not the pancytopenia seen here.",
+          "C": "Hereditary spherocytosis shows spherocytes and hemolysis, not pancytopenia with dysplasia.",
+          "D": "Iron-deficiency anemia causes microcytic, not macrocytic, red cells and does not produce dysplastic neutrophils and tri-lineage cytopenia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "myelodysplastic neoplasms",
+        "cytopenia",
+        "diagnosis"
+      ],
+      "topicId": "myelodysplastic-neoplasms",
+      "topicName": "Myelodysplastic Neoplasms",
+      "tier": "core"
+    },
+    {
+      "id": "bl50-003",
+      "stem": "A bone marrow biopsy from a patient being evaluated for a hematologic disorder shows dysplastic changes in more than 10% of cells in two lineages. The pathologist notes that the finding used to distinguish this condition from acute myeloid leukemia is the blast percentage. Which of the following blast counts is consistent with myelodysplastic neoplasms rather than acute myeloid leukemia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blast percentage is irrelevant to the distinction"
+        },
+        {
+          "label": "B",
+          "text": "Exactly 25% blasts"
+        },
+        {
+          "label": "C",
+          "text": "Exactly 50% blasts"
+        },
+        {
+          "label": "D",
+          "text": "Fewer than 20% blasts"
+        },
+        {
+          "label": "E",
+          "text": "Greater than 75% blasts"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "MDS requires a bone marrow blast count below 20%; 20% or more defines acute myeloid leukemia.",
+        "whyCorrect": "To diagnose MDS, the bone marrow blast count must be lower than 20%. If it is 20% or more, the diagnosis becomes acute myeloid leukemia. The marrow must also show at least 10% dysplastic cells in one or more lineages, which this patient meets.",
+        "whyWrongByChoice": {
+          "A": "The blast percentage is precisely the feature that separates MDS from acute myeloid leukemia.",
+          "B": "A count of 25% blasts is 20% or greater and therefore indicates acute myeloid leukemia, not MDS.",
+          "C": "A count of 50% blasts far exceeds the 20% cutoff and defines acute myeloid leukemia.",
+          "E": "A count above 75% blasts is well within the range of acute myeloid leukemia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "myelodysplastic neoplasms",
+        "blast count",
+        "diagnosis"
+      ],
+      "topicId": "myelodysplastic-neoplasms",
+      "topicName": "Myelodysplastic Neoplasms",
+      "tier": "core"
+    },
+    {
+      "id": "bl50-004",
+      "stem": "A patient with newly diagnosed myelodysplastic neoplasm undergoes cytogenetic testing. Which of the following is the single most common chromosomal abnormality found in MDS?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Deletion of chromosome 13"
+        },
+        {
+          "label": "B",
+          "text": "Deletion on chromosome 5, del(5q)"
+        },
+        {
+          "label": "C",
+          "text": "The Philadelphia chromosome, t(9;22)"
+        },
+        {
+          "label": "D",
+          "text": "Translocation t(15;17)"
+        },
+        {
+          "label": "E",
+          "text": "Trisomy 12"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Deletions on chromosome 5, del(5q), are the single most common chromosomal abnormality in MDS.",
+        "whyCorrect": "MDS is caused by one or more genetic mutations, including chromosomal abnormalities such as monosomy or trisomy. Among these, del(5q), a deletion on chromosome 5, represents the single most common chromosomal abnormality in MDS.",
+        "whyWrongByChoice": {
+          "A": "Deletion of chromosome 13 is not the characteristic or most common MDS abnormality.",
+          "C": "The Philadelphia chromosome, t(9;22), defines chronic myeloid leukemia.",
+          "D": "The t(15;17) translocation defines acute promyelocytic leukemia.",
+          "E": "Trisomy 12 is associated with chronic lymphocytic leukemia, not MDS."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "myelodysplastic neoplasms",
+        "del(5q)",
+        "cytogenetics"
+      ],
+      "topicId": "myelodysplastic-neoplasms",
+      "topicName": "Myelodysplastic Neoplasms",
+      "tier": "core"
+    },
+    {
+      "id": "bl50-005",
+      "stem": "A 72-year-old woman with symptomatic low-risk myelodysplastic neoplasm has isolated del(5q) on cytogenetic testing and anemia with a nearly normal platelet count. Which of the following medications has been found to be particularly effective in this specific subtype?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hydroxyurea"
+        },
+        {
+          "label": "B",
+          "text": "Imatinib"
+        },
+        {
+          "label": "C",
+          "text": "Lenalidomide"
+        },
+        {
+          "label": "D",
+          "text": "Prednisone"
+        },
+        {
+          "label": "E",
+          "text": "Rituximab"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Lenalidomide is particularly effective in MDS associated with isolated del(5q).",
+        "whyCorrect": "Lenalidomide is an immune-modulating drug that lowers TNF-alpha, stimulates some T-cell subsets, and inhibits cell growth. It has been found to be particularly effective in patients with MDS associated with isolated del(5q), the subtype that classically affects older women with anemia but fairly normal platelet counts.",
+        "whyWrongByChoice": {
+          "A": "Hydroxyurea is a cytoreductive antimetabolite and is not the agent singled out for del(5q) MDS.",
+          "B": "Imatinib targets the BCR-ABL tyrosine kinase of chronic myeloid leukemia, not MDS.",
+          "D": "Prednisone is not a typical treatment for MDS.",
+          "E": "Rituximab is an anti-CD20 antibody used for B-cell disorders, not for del(5q) MDS."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "myelodysplastic neoplasms",
+        "lenalidomide",
+        "del(5q)"
+      ],
+      "topicId": "myelodysplastic-neoplasms",
+      "topicName": "Myelodysplastic Neoplasms",
+      "tier": "core"
+    },
+    {
+      "id": "bl50-006",
+      "stem": "A peripheral blood smear is reviewed for a patient with myelodysplastic neoplasm. Compared with the dramatic dysplasia seen in the bone marrow, the circulating red blood cells show a more subtle but characteristic change. Which of the following best describes the typical red blood cell finding in the peripheral blood?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Macrocytic red cells"
+        },
+        {
+          "label": "B",
+          "text": "Microcytic, hypochromic red cells"
+        },
+        {
+          "label": "C",
+          "text": "Sickled red cells"
+        },
+        {
+          "label": "D",
+          "text": "Spherocytes lacking central pallor"
+        },
+        {
+          "label": "E",
+          "text": "Teardrop-shaped red cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In the peripheral blood of MDS, red blood cells are usually macrocytic with a high mean cell volume.",
+        "whyCorrect": "Unlike the marrow, which is packed with dysplastic cells, the peripheral blood shows cytopenias and more subtle dysplasia. The red blood cells that do reach the circulation in MDS are usually macrocytic, meaning large with a high mean cell volume.",
+        "whyWrongByChoice": {
+          "B": "Microcytic, hypochromic red cells are characteristic of iron-deficiency anemia, not MDS.",
+          "C": "Sickled red cells occur in sickle cell disease, an unrelated hemoglobinopathy.",
+          "D": "Spherocytes are seen in hereditary spherocytosis and immune hemolysis.",
+          "E": "Teardrop cells (dacryocytes) are characteristic of primary myelofibrosis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "myelodysplastic neoplasms",
+        "macrocytosis",
+        "peripheral blood"
+      ],
+      "topicId": "myelodysplastic-neoplasms",
+      "topicName": "Myelodysplastic Neoplasms",
+      "tier": "core"
+    },
+    {
+      "id": "bl50-007",
+      "stem": "A bone marrow specimen from a patient with suspected myelodysplastic neoplasm is stained with Prussian blue. The pathologist identifies red blood cell precursors with a ring of iron-containing granules encircling the nucleus. Which of the following terms best describes these cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Auer rods"
+        },
+        {
+          "label": "B",
+          "text": "Heinz bodies"
+        },
+        {
+          "label": "C",
+          "text": "Howell-Jolly bodies"
+        },
+        {
+          "label": "D",
+          "text": "Ring sideroblasts"
+        },
+        {
+          "label": "E",
+          "text": "Smudge cells"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Red blood cell precursors with perinuclear granules of iron seen on Prussian blue stain are ring sideroblasts.",
+        "whyCorrect": "Among the dysplastic red blood cell precursor changes in the MDS bone marrow, ring sideroblasts, which are cells with perinuclear granules of iron, may be seen and are highlighted with a Prussian blue (iron) stain.",
+        "whyWrongByChoice": {
+          "A": "Auer rods are needle-like inclusions of fused granules seen in blasts of acute myeloid leukemia, not ringed iron granules.",
+          "B": "Heinz bodies are precipitated denatured hemoglobin seen in oxidative hemolysis, such as G6PD deficiency.",
+          "C": "Howell-Jolly bodies are nuclear remnants seen after splenectomy or in hyposplenism.",
+          "E": "Smudge cells are fragile lymphocytes seen in chronic lymphocytic leukemia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "myelodysplastic neoplasms",
+        "ring sideroblasts",
+        "bone marrow"
+      ],
+      "topicId": "myelodysplastic-neoplasms",
+      "topicName": "Myelodysplastic Neoplasms",
+      "tier": "core"
+    },
+    {
+      "id": "bl50-008",
+      "stem": "A physician evaluating an older patient with pancytopenia and dysplastic-appearing cells emphasizes that myelodysplastic neoplasm is a diagnosis of exclusion, because several more common conditions can produce overlapping morphologic dysplasia. Which of the following must be excluded before diagnosing MDS?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gastroesophageal reflux disease"
+        },
+        {
+          "label": "B",
+          "text": "Long-standing essential hypertension"
+        },
+        {
+          "label": "C",
+          "text": "Osteoarthritis of the knees and hips"
+        },
+        {
+          "label": "D",
+          "text": "Type 2 diabetes mellitus with retinopathy"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin B12 and folate deficiency"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Because deficiencies of vitamin B12 and folate can cause morphologic dysplasia that overlaps with MDS, they must be excluded before making the diagnosis.",
+        "whyCorrect": "MDS is a diagnosis of exclusion. Other, more common conditions that can demonstrate overlapping dysplasia should be ruled out first, and nutritional deficiencies such as vitamin B12 and folate are the prototypical example. Alcohol abuse, heavy metal exposure, certain drugs, and HIV must also be excluded.",
+        "whyWrongByChoice": {
+          "A": "Gastroesophageal reflux disease is unrelated to hematopoietic dysplasia.",
+          "B": "Essential hypertension does not cause dysplastic blood cell morphology and is not part of the MDS exclusion list.",
+          "C": "Osteoarthritis is a joint disorder with no effect on blood cell morphology.",
+          "D": "Type 2 diabetes mellitus does not mimic the dysplasia of MDS."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "myelodysplastic neoplasms",
+        "diagnosis of exclusion",
+        "vitamin B12"
+      ],
+      "topicId": "myelodysplastic-neoplasms",
+      "topicName": "Myelodysplastic Neoplasms",
+      "tier": "core"
+    },
+    {
+      "id": "bl50-009",
+      "stem": "A 74-year-old man with low-risk myelodysplastic neoplasm is troubled mainly by fatigue caused by his anemia. His physician selects a medication that is an endogenous hormone normally secreted by the kidneys to stimulate red blood cell production. Which of the following medications is being described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Azacitidine"
+        },
+        {
+          "label": "B",
+          "text": "Cytarabine"
+        },
+        {
+          "label": "C",
+          "text": "Daunorubicin"
+        },
+        {
+          "label": "D",
+          "text": "Erythropoietin"
+        },
+        {
+          "label": "E",
+          "text": "Venetoclax"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Erythropoietin, an endogenous kidney hormone that stimulates marrow red cell production, is often used for the anemia-related fatigue of low-risk MDS.",
+        "whyCorrect": "Because fatigue due to anemia is a major symptom in MDS, erythropoietin is often used. It is an endogenous hormone secreted by the kidneys that stimulates the bone marrow to produce red blood cells, and it is available for IV infusion to help with the fatigue and anemia.",
+        "whyWrongByChoice": {
+          "A": "Azacitidine is a pyrimidine nucleoside analog that inhibits DNA methylation, not a red-cell-stimulating hormone.",
+          "B": "Cytarabine is a pyrimidine nucleoside analog chemotherapy agent, not a hormone that raises red cell counts.",
+          "C": "Daunorubicin is an anthracycline chemotherapy agent used in high-potency regimens.",
+          "E": "Venetoclax is a BCL-2 inhibitor added to azacitidine for high-risk disease, not used for anemia-related fatigue."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "myelodysplastic neoplasms",
+        "erythropoietin",
+        "treatment"
+      ],
+      "topicId": "myelodysplastic-neoplasms",
+      "topicName": "Myelodysplastic Neoplasms",
+      "tier": "core"
+    },
+    {
+      "id": "bl50-010",
+      "stem": "A patient with low-risk myelodysplastic neoplasm is started on azacitidine. Which of the following best describes the mechanism of action of this pyrimidine nucleoside analog?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It inhibits ribonucleotide reductase at the G1/S phase"
+        },
+        {
+          "label": "B",
+          "text": "It is incorporated into DNA and inhibits DNA methylation"
+        },
+        {
+          "label": "C",
+          "text": "It lowers TNF-alpha and modulates T-cell subsets"
+        },
+        {
+          "label": "D",
+          "text": "It selectively inhibits the anti-apoptotic protein BCL-2"
+        },
+        {
+          "label": "E",
+          "text": "It stimulates the kidneys to release erythropoietin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Azacitidine is a pyrimidine nucleoside analog that is incorporated into DNA and inhibits DNA methylation.",
+        "whyCorrect": "Azacitidine (like decitabine) is a pyrimidine nucleoside analog, similar to cytarabine, that is incorporated into DNA and inhibits DNA methylation. Its adverse effects, like those of other pyrimidine analogs, include nausea and vomiting, diarrhea, mucositis, skin reactions, and myelosuppression.",
+        "whyWrongByChoice": {
+          "A": "Inhibition of ribonucleotide reductase at the G1/S phase describes hydroxyurea.",
+          "C": "Lowering TNF-alpha and modulating T-cell subsets describes lenalidomide.",
+          "D": "Selective inhibition of BCL-2 is the mechanism of venetoclax, not azacitidine.",
+          "E": "Stimulating red cell production through erythropoietin describes erythropoietin therapy, not azacitidine."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "myelodysplastic neoplasms",
+        "azacitidine",
+        "DNA methylation"
+      ],
+      "topicId": "myelodysplastic-neoplasms",
+      "topicName": "Myelodysplastic Neoplasms",
+      "tier": "core"
+    },
+    {
+      "id": "bl50-011",
+      "stem": "A 76-year-old man was diagnosed 3 years ago with a myelodysplastic neoplasm after presenting with anemia and a low neutrophil count. He now returns with worsening fatigue and bruising, and his hematocrit, red blood cell count, and platelet count are markedly decreased. A repeat bone marrow biopsy shows 40% blasts. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute myeloid leukemia"
+        },
+        {
+          "label": "B",
+          "text": "Anemia of chronic disease"
+        },
+        {
+          "label": "C",
+          "text": "Chronic myeloid leukemia"
+        },
+        {
+          "label": "D",
+          "text": "Iron-deficiency anemia"
+        },
+        {
+          "label": "E",
+          "text": "Stable myelodysplastic neoplasm"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A rise in marrow blasts to 20% or more marks transformation of MDS into acute myeloid leukemia, which occurs in roughly 30% of patients.",
+        "whyCorrect": "Roughly 30% of patients with MDS develop full-blown acute myeloid leukemia. AML is suggested here by the worsening symptoms and the bone marrow biopsy showing more than 20% blasts (40%), which is not consistent with MDS. The higher the blast count, the closer the disease is to the 20% cutoff that defines AML.",
+        "whyWrongByChoice": {
+          "B": "Anemia of chronic disease does not produce 40% marrow blasts or this degree of pancytopenia.",
+          "C": "Chronic myeloid leukemia presents initially with a markedly increased peripheral white blood cell count, not the low counts here, and is not a complication of MDS.",
+          "D": "Iron-deficiency anemia causes microcytic anemia and does not raise marrow blasts.",
+          "E": "A blast count of 40% is far above the under-20% threshold, so the disease is no longer stable MDS."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "myelodysplastic neoplasms",
+        "acute myeloid leukemia",
+        "progression"
+      ],
+      "topicId": "myelodysplastic-neoplasms",
+      "topicName": "Myelodysplastic Neoplasms",
+      "tier": "core"
+    },
+    {
+      "id": "bl50-012",
+      "stem": "A 60-year-old woman has high-risk myelodysplastic neoplasm with a very high risk of progression to acute myeloid leukemia. She is otherwise healthy. Her physician recommends the one therapy that may offer a potential cure. Which of the following is being recommended?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Allogeneic stem cell transplantation"
+        },
+        {
+          "label": "B",
+          "text": "Bone marrow radiotherapy"
+        },
+        {
+          "label": "C",
+          "text": "Lenalidomide monotherapy"
+        },
+        {
+          "label": "D",
+          "text": "Long-term erythropoietin infusions"
+        },
+        {
+          "label": "E",
+          "text": "Observation with transfusion as needed"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "For high-risk MDS patients with a very high risk of progressing to AML, allogeneic (donor) stem cell transplantation is the option that may offer a potential cure.",
+        "whyCorrect": "High-risk patients can be treated with the same drugs used for low-risk disease, but for some patients who have a very high risk of progression to AML, allogeneic (donor) stem cell transplantation may offer a potential cure by replacing the diseased marrow.",
+        "whyWrongByChoice": {
+          "B": "Bone marrow radiotherapy is used for certain lymphomas, not for MDS.",
+          "C": "Lenalidomide can control symptoms, especially in del(5q) disease, but is not curative.",
+          "D": "Erythropoietin helps with anemia-related fatigue but does not cure MDS.",
+          "E": "Observation is appropriate for asymptomatic low-risk patients, not for a patient at very high risk of AML who is a transplant candidate."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "myelodysplastic neoplasms",
+        "stem cell transplant",
+        "high-risk treatment"
+      ],
+      "topicId": "myelodysplastic-neoplasms",
+      "topicName": "Myelodysplastic Neoplasms",
+      "tier": "core"
+    },
+    {
+      "id": "bl51-001",
+      "stem": "A first-year medical student learns that acute myeloid leukemia (AML) is a malignant proliferation of large numbers of abnormal, immature cells that arise from the precursor cells of one specific hematopoietic lineage. From which of the following lineages does AML arise?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Endothelial lineage"
+        },
+        {
+          "label": "B",
+          "text": "Lymphoid lineage"
+        },
+        {
+          "label": "C",
+          "text": "Mesenchymal stromal lineage"
+        },
+        {
+          "label": "D",
+          "text": "Myeloid lineage"
+        },
+        {
+          "label": "E",
+          "text": "Plasma cell lineage"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "AML arises from the precursor cells of the myeloid lineage.",
+        "whyCorrect": "Acute myeloid leukemia specifically arises from the precursor cells of the myeloid lineage. Genetic mutations keep these cells from growing and differentiating normally, leading to an accumulation of immature myeloid cells. Any of the myeloid cell lineages can be affected: neutrophils, platelets, erythrocytes, or monocytes.",
+        "whyWrongByChoice": {
+          "A": "Endothelial cells line blood vessels and are not the origin of acute myeloid leukemia.",
+          "B": "The lymphoid lineage gives rise to lymphocytes and underlies the lymphoid neoplasms, a separate branch from AML.",
+          "C": "Mesenchymal stromal cells give rise to adipocytes and other connective tissue, not to leukemic blasts.",
+          "E": "Plasma cells are terminally differentiated B lymphocytes; their neoplasm is multiple myeloma."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "acute myeloid leukemia",
+        "myeloid lineage",
+        "definition"
+      ],
+      "topicId": "acute-myeloid-leukemia",
+      "topicName": "Acute Myeloid Leukemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl51-002",
+      "stem": "A 67-year-old man comes to clinic with several weeks of worsening fatigue and bleeding gums. He appears pale, and his examination is unremarkable except for multiple bruises. A complete blood count shows low white blood cell, red blood cell, and platelet counts, and the peripheral smear shows 33% blasts, some containing needle-like cytoplasmic inclusions. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute myeloid leukemia"
+        },
+        {
+          "label": "B",
+          "text": "Aplastic anemia"
+        },
+        {
+          "label": "C",
+          "text": "Chronic myeloid leukemia"
+        },
+        {
+          "label": "D",
+          "text": "Immune thrombocytopenic purpura"
+        },
+        {
+          "label": "E",
+          "text": "Myelodysplastic neoplasm"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Pancytopenia with 33% blasts containing Auer rods in an older adult is diagnostic of AML.",
+        "whyCorrect": "AML presents with symptoms of bone marrow failure such as anemia, bleeding and bruising from thrombocytopenia, and infection risk. A blast count of 20% or more in the marrow or blood establishes the diagnosis, and the needle-like cytoplasmic inclusions are Auer rods, which are most characteristic of AML.",
+        "whyWrongByChoice": {
+          "B": "Aplastic anemia produces pancytopenia with a hypocellular marrow and no excess blasts or Auer rods.",
+          "C": "Chronic myeloid leukemia presents with a markedly elevated white blood cell count, not the pancytopenia and high blast fraction seen here.",
+          "D": "Immune thrombocytopenic purpura causes isolated low platelets, not tri-lineage cytopenia with circulating blasts.",
+          "E": "Myelodysplastic neoplasm requires fewer than 20% blasts; this patient has 33%, which crosses into acute leukemia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "acute myeloid leukemia",
+        "presentation",
+        "diagnosis"
+      ],
+      "topicId": "acute-myeloid-leukemia",
+      "topicName": "Acute Myeloid Leukemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl51-003",
+      "stem": "A peripheral smear from a patient with acute myeloid leukemia shows blasts containing pink-red, rod-like granular structures within the cytoplasm. Which of the following best describes what these structures are composed of?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aggregated residual ribosomes"
+        },
+        {
+          "label": "B",
+          "text": "Fused lysosomes, primary granules, and enzymes"
+        },
+        {
+          "label": "C",
+          "text": "Nuclear remnants left after splenic filtration"
+        },
+        {
+          "label": "D",
+          "text": "Perinuclear iron granules within mitochondria"
+        },
+        {
+          "label": "E",
+          "text": "Precipitated, denatured hemoglobin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Auer rods are composed of fused lysosomes, primary granules, and enzymes and are most characteristic of AML.",
+        "whyCorrect": "The pink/red rod-like granular cytoplasmic structures are Auer rods. They are composed of fused lysosomes, primary granules, and enzymes. Auer rods are most characteristic of AML, though they can occasionally be seen in some myelodysplastic and myeloproliferative disorders.",
+        "whyWrongByChoice": {
+          "A": "Aggregated residual ribosomes produce basophilic stippling, characteristic of lead poisoning.",
+          "C": "Nuclear remnants after splenic filtration describe Howell-Jolly bodies, not Auer rods.",
+          "D": "Perinuclear iron granules in mitochondria describe ring sideroblasts, a feature of myelodysplasia.",
+          "E": "Precipitated denatured hemoglobin describes Heinz bodies, seen in oxidative hemolysis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "acute myeloid leukemia",
+        "Auer rods",
+        "morphology"
+      ],
+      "topicId": "acute-myeloid-leukemia",
+      "topicName": "Acute Myeloid Leukemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl51-004",
+      "stem": "A patient is being evaluated for possible acute myeloid leukemia. The hematologist explains that, apart from certain defining genetic abnormalities, the diagnosis requires a minimum percentage of blasts on blood smear or bone marrow biopsy. Which of the following blast percentages is the required threshold to diagnose most forms of AML?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "5%"
+        },
+        {
+          "label": "B",
+          "text": "10%"
+        },
+        {
+          "label": "C",
+          "text": "15%"
+        },
+        {
+          "label": "D",
+          "text": "20%"
+        },
+        {
+          "label": "E",
+          "text": "50%"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "AML is diagnosed when blasts or blast equivalents make up 20% or more of cells, or when specific genetic abnormalities are present.",
+        "whyCorrect": "For AML to be definitively diagnosed, a blood smear or bone marrow biopsy must show either 20% or more blasts (or blast equivalents), or specific genetic abnormalities such as t(15;17), t(8;21), inv(16), or t(16;16), which are classified as AML regardless of blast percentage.",
+        "whyWrongByChoice": {
+          "A": "A 5% blast count is within the normal-to-mildly-elevated range and does not meet the AML threshold.",
+          "B": "A 10% blast count is below the threshold and is more consistent with myelodysplasia.",
+          "C": "A 15% blast count still falls short of the 20% cutoff.",
+          "E": "A 50% blast count exceeds the threshold, but 50% is not the minimum required to diagnose AML."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "acute myeloid leukemia",
+        "blast percentage",
+        "diagnosis"
+      ],
+      "topicId": "acute-myeloid-leukemia",
+      "topicName": "Acute Myeloid Leukemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl51-005",
+      "stem": "A 40-year-old woman is diagnosed with acute promyelocytic leukemia (APL). Cytogenetic testing reveals the t(15;17) translocation that is present in almost every case. This translocation places the retinoic acid receptor-alpha (RARalpha) gene next to part of which of the following genes, producing a chimeric fusion protein that blocks promyelocyte maturation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ABL1"
+        },
+        {
+          "label": "B",
+          "text": "BCL2"
+        },
+        {
+          "label": "C",
+          "text": "BCR"
+        },
+        {
+          "label": "D",
+          "text": "MYC"
+        },
+        {
+          "label": "E",
+          "text": "PML"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "In APL, the t(15;17) translocation fuses RARalpha on chromosome 17 with PML on chromosome 15 to form the PML-RARalpha fusion protein.",
+        "whyCorrect": "The t(15;17) translocation is a balanced translocation in which the RARalpha gene on chromosome 17 is placed next to part of the PML gene on chromosome 15. This creates a fusion gene producing the chimeric PML-RARalpha protein, which makes the cells unresponsive to normal retinoic acid so promyelocytes do not mature, and it also increases neoplastic proliferation.",
+        "whyWrongByChoice": {
+          "A": "ABL1 partners with BCR in chronic myeloid leukemia, not with RARalpha.",
+          "B": "BCL2 rearrangement, t(14;18), is associated with follicular lymphoma.",
+          "C": "BCR fuses with ABL1 in the t(9;22) Philadelphia chromosome of chronic myeloid leukemia, not APL.",
+          "D": "MYC translocations, such as t(8;14), are characteristic of Burkitt lymphoma."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "acute promyelocytic leukemia",
+        "t(15;17)",
+        "PML-RARalpha"
+      ],
+      "topicId": "acute-myeloid-leukemia",
+      "topicName": "Acute Myeloid Leukemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl51-006",
+      "stem": "A patient with acute promyelocytic leukemia is started on a medication that is a form of vitamin A. The drug binds nuclear receptors and overcomes the signaling block caused by the PML-RARalpha fusion protein, inducing the malignant promyelocytes to mature into normal cells. Which of the following medications is being described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "All-trans retinoic acid"
+        },
+        {
+          "label": "B",
+          "text": "Oral hydroxyurea therapy"
+        },
+        {
+          "label": "C",
+          "text": "Imatinib mesylate therapy"
+        },
+        {
+          "label": "D",
+          "text": "High-dose methotrexate"
+        },
+        {
+          "label": "E",
+          "text": "Intravenous rituximab"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "All-trans retinoic acid (ATRA), a vitamin A derivative, induces differentiation of APL promyelocytes and overcomes the PML-RARalpha signaling block.",
+        "whyCorrect": "APL can be treated with all-trans retinoic acid, a vitamin A derivative that raises trans-retinoic acid to higher-than-normal levels to overcome the signaling block. In APL cells it binds nuclear receptors, decreases proliferation, and induces differentiation, maturing primitive promyelocytes and repopulating the marrow with normal cells.",
+        "whyWrongByChoice": {
+          "B": "Hydroxyurea is a cytoreductive agent used for high white counts, not a differentiating agent.",
+          "C": "Imatinib is a BCR-ABL tyrosine kinase inhibitor used in chronic myeloid leukemia, not APL.",
+          "D": "Methotrexate is an antifolate chemotherapy agent and does not target the PML-RARalpha block.",
+          "E": "Rituximab is an anti-CD20 antibody for B-cell disorders and has no role in APL differentiation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "acute promyelocytic leukemia",
+        "ATRA",
+        "treatment"
+      ],
+      "topicId": "acute-myeloid-leukemia",
+      "topicName": "Acute Myeloid Leukemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl51-007",
+      "stem": "A hospitalized patient with acute myeloid leukemia and profound neutropenia develops a high fever. The team is concerned because this complication is the most common cause of death in AML. Which of the following complications are they most likely concerned about?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Disseminated intravascular coagulation"
+        },
+        {
+          "label": "B",
+          "text": "Hypercholesterolemia"
+        },
+        {
+          "label": "C",
+          "text": "Leukostasis"
+        },
+        {
+          "label": "D",
+          "text": "Sepsis"
+        },
+        {
+          "label": "E",
+          "text": "Tumor lysis syndrome"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Sepsis, often from atypical bacteria or fungi, is the leading cause of death in AML.",
+        "whyCorrect": "The leading cause of death in AML is sepsis, often caused by atypical bacteria or fungi that generally affect immunocompromised patients. This occurs because the circulating blasts lack normal immunologic protective function, leaving the patient with little natural defense against pathogens.",
+        "whyWrongByChoice": {
+          "A": "Disseminated intravascular coagulation is a serious complication, especially in APL, but is not the most common cause of death in AML overall.",
+          "B": "Hypercholesterolemia is an adverse effect of ATRA therapy, not a leading cause of death in AML.",
+          "C": "Leukostasis affects a subset of patients with hyperleukocytosis and is not the most common cause of death.",
+          "E": "Tumor lysis syndrome is a metabolic complication that is preventable and is not the leading cause of death."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "acute myeloid leukemia",
+        "sepsis",
+        "complications"
+      ],
+      "topicId": "acute-myeloid-leukemia",
+      "topicName": "Acute Myeloid Leukemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl51-008",
+      "stem": "A patient with acute promyelocytic leukemia develops widespread bleeding and clotting shortly after starting chemotherapy, and laboratory studies confirm disseminated intravascular coagulation (DIC). Which of the following best explains why DIC occurs so frequently in this setting?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An inherited deficiency of factor VIII impairs clotting"
+        },
+        {
+          "label": "B",
+          "text": "Autoantibodies form against circulating platelets"
+        },
+        {
+          "label": "C",
+          "text": "Dying blasts release procoagulant granule contents"
+        },
+        {
+          "label": "D",
+          "text": "The spleen sequesters and destroys platelets"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin K deficiency reduces synthesis of clotting factors"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In APL, DIC arises because dying blasts release granule contents and tissue factor that initiate the coagulation cascade and consume clotting factors and platelets.",
+        "whyCorrect": "The Auer rods within the blasts contain substances that can easily initiate a coagulation cascade, and the blasts also secrete tissue factor, the primary initiator of the extrinsic clotting pathway. When tumor cells undergo cell death, especially during chemotherapy, they release their granules, consuming clotting factors and platelets and leaving the patient at risk of hemorrhage.",
+        "whyWrongByChoice": {
+          "A": "Factor VIII deficiency is the inherited disorder hemophilia A, unrelated to APL.",
+          "B": "Antiplatelet autoantibodies cause immune thrombocytopenia, not the consumptive coagulopathy of DIC in APL.",
+          "D": "Splenic sequestration causes thrombocytopenia in hypersplenism, not the widespread clotting of DIC.",
+          "E": "Vitamin K deficiency impairs factor synthesis but is not the mechanism driving DIC in APL."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "acute promyelocytic leukemia",
+        "DIC",
+        "complications"
+      ],
+      "topicId": "acute-myeloid-leukemia",
+      "topicName": "Acute Myeloid Leukemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl51-009",
+      "stem": "A patient with acute myeloid leukemia is about to begin induction chemotherapy. IV hydration and allopurinol are started to prevent tumor lysis syndrome, but the uric acid level is already markedly elevated. A recombinant urate-oxidase enzyme that converts uric acid to allantoin, an inactive and soluble metabolite, is added. Which of the following medications is being described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Allopurinol"
+        },
+        {
+          "label": "B",
+          "text": "Colchicine"
+        },
+        {
+          "label": "C",
+          "text": "Febuxostat"
+        },
+        {
+          "label": "D",
+          "text": "Probenecid"
+        },
+        {
+          "label": "E",
+          "text": "Rasburicase"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Rasburicase is a recombinant urate-oxidase enzyme that converts existing uric acid to allantoin and is used when uric acid is already elevated in tumor lysis syndrome.",
+        "whyCorrect": "IV hydration and allopurinol are used to prevent tumor lysis syndrome, but if the uric acid level is already elevated, rasburicase is administered. Rasburicase is a recombinant urate-oxidase enzyme that converts uric acid to allantoin, an inactive and soluble metabolite of uric acid.",
+        "whyWrongByChoice": {
+          "A": "Allopurinol blocks the production of new uric acid but does not eliminate uric acid that is already elevated.",
+          "B": "Colchicine treats acute gout flares by inhibiting neutrophil activity and does not lower uric acid.",
+          "C": "Febuxostat is a xanthine oxidase inhibitor that, like allopurinol, prevents production rather than degrading existing uric acid.",
+          "D": "Probenecid is a uricosuric that increases renal uric acid excretion but does not convert uric acid to allantoin."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "acute myeloid leukemia",
+        "tumor lysis syndrome",
+        "rasburicase"
+      ],
+      "topicId": "acute-myeloid-leukemia",
+      "topicName": "Acute Myeloid Leukemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl51-010",
+      "stem": "Genetic testing on a patient newly diagnosed with acute myeloid leukemia reveals a FLT3 mutation. Which of the following best describes the significance of this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It confers a favorable prognosis and requires no additional therapy"
+        },
+        {
+          "label": "B",
+          "text": "It confers a generally unfavorable prognosis"
+        },
+        {
+          "label": "C",
+          "text": "It defines core binding factor leukemia and carries a favorable prognosis"
+        },
+        {
+          "label": "D",
+          "text": "It is an incidental finding with no prognostic or therapeutic relevance"
+        },
+        {
+          "label": "E",
+          "text": "It is diagnostic of acute promyelocytic leukemia"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "FLT3 mutations are common in AML, carry a generally unfavorable prognosis, and can be targeted with FLT3 inhibitors such as midostaurin.",
+        "whyCorrect": "FLT3 mutations are common in AML and are associated with a generally unfavorable prognosis. Importantly, patients with this mutation can be given targeted therapy in the form of FLT3 inhibitors, such as midostaurin.",
+        "whyWrongByChoice": {
+          "A": "FLT3 mutations are unfavorable, not favorable, and do prompt targeted therapy.",
+          "C": "Core binding factor leukemias are defined by t(8;21) or inv(16), not by FLT3 mutations.",
+          "D": "FLT3 status is prognostically important and therapeutically actionable, so it is not incidental.",
+          "E": "Acute promyelocytic leukemia is defined by the t(15;17) translocation, not by FLT3 mutation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "acute myeloid leukemia",
+        "FLT3",
+        "prognosis"
+      ],
+      "topicId": "acute-myeloid-leukemia",
+      "topicName": "Acute Myeloid Leukemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl51-011",
+      "stem": "A 55-year-old man with newly diagnosed acute myeloid leukemia (not the promyelocytic subtype) is started on induction chemotherapy. The regimen consists of a pyrimidine nucleoside analog given as a continuous IV infusion over 7 days plus an anthracycline given for 3 days. Which of the following pairs of drugs constitutes this classic 7+3 regimen?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "All-trans retinoic acid and arsenic trioxide"
+        },
+        {
+          "label": "B",
+          "text": "Cyclophosphamide and etoposide"
+        },
+        {
+          "label": "C",
+          "text": "Cytarabine and daunorubicin"
+        },
+        {
+          "label": "D",
+          "text": "Imatinib and dasatinib"
+        },
+        {
+          "label": "E",
+          "text": "Methotrexate and vincristine"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The 7+3 induction regimen for most AML combines cytarabine (a pyrimidine nucleoside analog) with daunorubicin (an anthracycline).",
+        "whyCorrect": "Initial treatment to achieve remission usually includes cytarabine, a pyrimidine nucleoside analog, and daunorubicin, an anthracycline. This is called the 7+3 regimen because cytarabine is given by continuous IV infusion over 7 days while the anthracycline is given as a single daily IV dose for 3 days.",
+        "whyWrongByChoice": {
+          "A": "All-trans retinoic acid plus arsenic trioxide is the regimen for acute promyelocytic leukemia, not standard 7+3 induction.",
+          "B": "Cyclophosphamide is an alkylating agent and etoposide a topoisomerase inhibitor; these are more often causes of therapy-related AML than the standard induction pair.",
+          "D": "Imatinib and dasatinib are tyrosine kinase inhibitors for chronic myeloid leukemia.",
+          "E": "Methotrexate and vincristine are used in lymphoid malignancy regimens, not AML induction."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "acute myeloid leukemia",
+        "7+3 regimen",
+        "chemotherapy"
+      ],
+      "topicId": "acute-myeloid-leukemia",
+      "topicName": "Acute Myeloid Leukemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl51-012",
+      "stem": "A patient with acute myeloid leukemia has a white blood cell count over 200,000/microL and presents with confusion, gait instability, and dyspnea. The team explains that these clinical findings, thought to result from increased blood viscosity and local hypoxemia caused by the large population of blasts, distinguish this condition from an asymptomatic laboratory finding. Which of the following best describes this clinical condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Differentiation syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Disseminated intravascular coagulation"
+        },
+        {
+          "label": "C",
+          "text": "Hyperleukocytosis"
+        },
+        {
+          "label": "D",
+          "text": "Leukostasis"
+        },
+        {
+          "label": "E",
+          "text": "Tumor lysis syndrome"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Leukostasis is the clinical syndrome of neurologic and pulmonary symptoms from increased blood viscosity in a patient with hyperleukocytosis.",
+        "whyCorrect": "Leukostasis is a clinical diagnosis defined by symptoms or clinical findings associated with hyperleukocytosis. It is thought to be due to increased blood viscosity from the large population of blasts, with local hypoxemia exacerbated by the high metabolic activity of blasts and excessive cytokine production. Patients predominantly present with neurologic and pulmonary symptoms.",
+        "whyWrongByChoice": {
+          "A": "Differentiation syndrome is a cytokine-release reaction to ATRA or arsenic trioxide therapy, not a consequence of blast viscosity.",
+          "B": "Disseminated intravascular coagulation is a consumptive coagulopathy, not a syndrome of neurologic and pulmonary symptoms from viscosity.",
+          "C": "Hyperleukocytosis is the laboratory-based diagnosis of a WBC count over 100,000/microL, without the clinical symptoms that define leukostasis.",
+          "E": "Tumor lysis syndrome is a metabolic complication of cell turnover, not a viscosity-related syndrome."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "acute myeloid leukemia",
+        "leukostasis",
+        "complications"
+      ],
+      "topicId": "acute-myeloid-leukemia",
+      "topicName": "Acute Myeloid Leukemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl52-001",
+      "stem": "A 58-year-old man with multiple myeloma is scheduled for an autologous transplant. To increase the number of stem cells circulating in his blood before apheresis, he is given several days of a granulocyte colony-stimulating factor. On the third day he develops diffuse aching bone pain. Which of the following is the most likely explanation for his symptom?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A side effect of the G-CSF used to mobilize stem cells"
+        },
+        {
+          "label": "B",
+          "text": "Acute graft-versus-host disease from donor T cells"
+        },
+        {
+          "label": "C",
+          "text": "Progressive bone infiltration by myeloma plasma cells"
+        },
+        {
+          "label": "D",
+          "text": "Oral mucositis from the conditioning chemotherapy regimen"
+        },
+        {
+          "label": "E",
+          "text": "Reactivation of a latent viral infection such as CMV"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "G-CSF is the most common agent used to mobilize hematopoietic stem cells, and its most common side effect is bone pain.",
+        "whyCorrect": "Hematopoietic stem cells are normally present at very low levels in blood, so agents such as G-CSF (most common), IL-3, thrombopoietin, and the CXCR4 antagonist plerixafor are used to mobilize them from the marrow into the circulation. The brick states that mobilization is generally very safe, with the most common side effect being bone pain from G-CSF administration.",
+        "whyWrongByChoice": {
+          "B": "GVHD occurs after allogeneic transplant when donor T cells attack the recipient; this patient has not yet received an autologous graft.",
+          "C": "The pain is temporally tied to the mobilization drug, not to disease progression; mobilization is being done as part of planned collection.",
+          "D": "Mucositis is a toxicity of the conditioning regimen and causes mouth pain and ulcers, not diffuse bone pain, and conditioning has not occurred.",
+          "E": "Viral reactivation causes infection during post-transplant immunosuppression, not bone pain during pre-collection mobilization."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "stem cell sources",
+        "mobilization",
+        "G-CSF"
+      ],
+      "topicId": "hematopoietic-stem-cell-transplantation",
+      "topicName": "Hematopoietic Stem Cell Transplantation",
+      "tier": "core"
+    },
+    {
+      "id": "bl52-002",
+      "stem": "A transplant team is collecting stem cells from a donor by apheresis after mobilization. Before deciding whether the collected product is adequate for engraftment, they need an objective measure of stem cell content. Which of the following is most commonly used to assess the adequacy of a peripheral blood stem cell product?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ABO antibody titer measured in the collected product"
+        },
+        {
+          "label": "B",
+          "text": "Absolute reticulocyte count of the donor after mobilization"
+        },
+        {
+          "label": "C",
+          "text": "Number of CD34+ cells per kilogram of recipient body weight"
+        },
+        {
+          "label": "D",
+          "text": "Serum G-CSF concentration measured at the time of collection"
+        },
+        {
+          "label": "E",
+          "text": "Total white blood cell count in the collected product"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Adequacy of a peripheral blood stem cell product is judged by CD34+ cells per kilogram of recipient body weight.",
+        "whyCorrect": "CD34 is a marker of hematopoietic stem/progenitor cells. The brick states that adequacy of peripheral blood stem cell products is generally measured through the number of CD34+ cells per kilogram of recipient body weight, with greater than 2 x 10^6 CD34+ cells/kg often considered the minimum acceptable dose, although engraftment can occur with lower doses.",
+        "whyWrongByChoice": {
+          "A": "ABO antibody titer relates to blood-group compatibility, not to the stem cell dose in the product.",
+          "B": "Reticulocyte count reflects red cell production and is not the standard measure of stem cell product adequacy.",
+          "D": "Serum G-CSF level is not used to gauge the number of stem cells actually collected.",
+          "E": "Total white cell count reflects mature leukocytes and does not specifically quantify the hematopoietic stem cells needed for engraftment."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "peripheral blood",
+        "CD34",
+        "apheresis"
+      ],
+      "topicId": "hematopoietic-stem-cell-transplantation",
+      "topicName": "Hematopoietic Stem Cell Transplantation",
+      "tier": "core"
+    },
+    {
+      "id": "bl52-003",
+      "stem": "A healthy 30-year-old volunteer is scheduled to donate stem cells using the traditional, historical source for transplantation. She is taken to the operating room and placed under general anesthesia. Which of the following best describes how her donation will be obtained?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Apheresis through a peripheral intravenous line"
+        },
+        {
+          "label": "B",
+          "text": "Aspiration through needles in the posterior iliac crest"
+        },
+        {
+          "label": "C",
+          "text": "Collection from placental vessels after delivery"
+        },
+        {
+          "label": "D",
+          "text": "Leukapheresis after several days of plerixafor"
+        },
+        {
+          "label": "E",
+          "text": "Splenic biopsy under ultrasound guidance"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Bone marrow, the traditional HSC source, is procured by aspiration from the posterior iliac crest under general anesthesia.",
+        "whyCorrect": "The brick states that bone marrow has historically been the traditional source for HSCs, and the procurement procedure is done under general anesthesia, in which marrow is aspirated through large-bore needles inserted into both sides of the posterior iliac crest. It is generally a very safe procedure.",
+        "whyWrongByChoice": {
+          "A": "Apheresis through an IV line describes peripheral blood stem cell collection, which does not require general anesthesia.",
+          "C": "Collection from placental vessels describes umbilical cord blood, obtained at the time of delivery, not from a healthy adult volunteer.",
+          "D": "Plerixafor-based leukapheresis is a mobilization/apheresis approach for peripheral blood collection, not marrow aspiration under anesthesia.",
+          "E": "The spleen is not a source of stem cells for transplantation; marrow is aspirated from the iliac crest."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "bone marrow",
+        "harvest",
+        "iliac crest"
+      ],
+      "topicId": "hematopoietic-stem-cell-transplantation",
+      "topicName": "Hematopoietic Stem Cell Transplantation",
+      "tier": "core"
+    },
+    {
+      "id": "bl52-004",
+      "stem": "A 6-year-old child of mixed ethnicity needs an allogeneic transplant but lacks an HLA-identical sibling and has no suitably matched unrelated adult donor in the registry. The team elects to use umbilical cord blood. Which of the following is a major limitation the team must anticipate with this source?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cord blood cannot cross histocompatibility barriers"
+        },
+        {
+          "label": "B",
+          "text": "Cord blood is contraindicated in children"
+        },
+        {
+          "label": "C",
+          "text": "Inevitable severe bone pain in the recipient"
+        },
+        {
+          "label": "D",
+          "text": "The need for donor general anesthesia and marrow harvest"
+        },
+        {
+          "label": "E",
+          "text": "The small number of stem cells per unit"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Umbilical cord blood units contain relatively few stem cells and carry an increased infection risk from immunologically naive cells.",
+        "whyCorrect": "The brick lists the major limitations of cord blood as the relatively small number of HSCs in each unit (cell dose often requires two units for an adult) and an increased risk of infections, particularly viral infections or reactivation, given the naive immunologic nature of the stem cells.",
+        "whyWrongByChoice": {
+          "A": "Cord blood cells are immunologically naive and are actually able to cross the usual histocompatibility barriers of conventional transplants, an advantage rather than a limitation.",
+          "B": "Cord blood is a valuable option in patients, including children, who lack matched donors; it is not contraindicated in children.",
+          "C": "Bone pain is a side effect of G-CSF mobilization in peripheral blood donors, not a limitation of cord blood.",
+          "D": "General anesthesia and marrow harvest describe bone marrow donation; cord blood is collected from the placenta at delivery."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "umbilical cord blood",
+        "HLA matching",
+        "limitations"
+      ],
+      "topicId": "hematopoietic-stem-cell-transplantation",
+      "topicName": "Hematopoietic Stem Cell Transplantation",
+      "tier": "core"
+    },
+    {
+      "id": "bl52-005",
+      "stem": "A 42-year-old woman with primary myelofibrosis undergoes a transplant using hematopoietic stem cells donated by her HLA-matched brother. Which of the following best classifies this type of transplant?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Allogeneic transplant"
+        },
+        {
+          "label": "B",
+          "text": "Autologous rescue after myeloablation"
+        },
+        {
+          "label": "C",
+          "text": "Autologous transplant"
+        },
+        {
+          "label": "D",
+          "text": "Syngeneic autograft"
+        },
+        {
+          "label": "E",
+          "text": "Xenogeneic transplant"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Receiving stem cells from another person, related or unrelated, defines an allogeneic transplant.",
+        "whyCorrect": "The brick defines allogeneic stem cell transplant as the infusion of stem cells from a related or unrelated donor. Because the cells come from her brother rather than herself, this is an allogeneic transplant, which additionally offers a graft-versus-tumor effect.",
+        "whyWrongByChoice": {
+          "B": "Autologous rescue again refers to reinfusing the patient's own cells after high-dose chemotherapy, which is not the case here.",
+          "C": "Autologous transplant uses the patient's own stem cells, not a donor's.",
+          "D": "A syngeneic autograft is a contradictory term; the cells here are from a sibling donor, making the transplant allogeneic.",
+          "E": "Xenogeneic (between species) transplantation is not a category described for HSCT in this brick."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "allogeneic",
+        "autologous",
+        "transplant types"
+      ],
+      "topicId": "hematopoietic-stem-cell-transplantation",
+      "topicName": "Hematopoietic Stem Cell Transplantation",
+      "tier": "core"
+    },
+    {
+      "id": "bl52-006",
+      "stem": "A hematologist explains that one reason to choose an allogeneic transplant over an autologous transplant for a patient with acute myeloid leukemia is that the allogeneic graft provides an additional anti-cancer mechanism beyond conditioning chemotherapy. Which of the following describes this additional mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct cytotoxicity of mobilizing agents on tumor cells"
+        },
+        {
+          "label": "B",
+          "text": "Enhanced red cell production correcting anemia"
+        },
+        {
+          "label": "C",
+          "text": "Neutralization of tumor cells by the patient's own reinfused cells"
+        },
+        {
+          "label": "D",
+          "text": "Replacement of destroyed small bile ducts in the liver"
+        },
+        {
+          "label": "E",
+          "text": "The donor's immune system attacking residual tumor cells"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Allogeneic transplant adds a graft-versus-tumor effect, in which donor immune cells attack residual cancer.",
+        "whyCorrect": "The brick states that allogeneic transplant results in two mechanisms for fighting cancer: the cytotoxic effects of the preparative (conditioning) chemotherapy, and the donor's immune system attacking residual cancer cells, known as the graft-versus-tumor effect. HSCT also provides an immunologic graft-versus-tumor effect overall.",
+        "whyWrongByChoice": {
+          "A": "Mobilizing agents such as G-CSF move stem cells into blood for collection; they are not described as directly cytotoxic to tumor cells.",
+          "B": "Improving anemia through red cell production is a general marrow function, not the distinguishing anti-cancer mechanism of allogeneic grafts.",
+          "C": "Reinfusing the patient's own cells describes autologous transplant, which lacks the donor immune graft-versus-tumor effect.",
+          "D": "Destruction of small bile ducts is a feature of GVHD injury, not an anti-cancer mechanism."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "allogeneic",
+        "graft-versus-tumor",
+        "mechanism"
+      ],
+      "topicId": "hematopoietic-stem-cell-transplantation",
+      "topicName": "Hematopoietic Stem Cell Transplantation",
+      "tier": "core"
+    },
+    {
+      "id": "bl52-007",
+      "stem": "In the days leading up to Day 0 of a transplant, a patient receives a combination of chemotherapy drugs, in this case together with total body irradiation. Which of the following best states the goals of this conditioning regimen?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "To establish the patient's ABO blood group and HLA tissue type"
+        },
+        {
+          "label": "B",
+          "text": "To immunosuppress the recipient and eliminate as much tumor as possible"
+        },
+        {
+          "label": "C",
+          "text": "To provide long-term antimicrobial and antifungal prophylaxis"
+        },
+        {
+          "label": "D",
+          "text": "To stimulate the recipient's own marrow to overproduce and release stem cells"
+        },
+        {
+          "label": "E",
+          "text": "To treat established graft-versus-host disease of the skin and gut"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The pretransplant conditioning regimen aims to immunosuppress the recipient and eliminate as much tumor as possible.",
+        "whyCorrect": "The brick explains that in the days prior to transplant the patient receives conditioning chemotherapy (the conditioning regimen), generally a combination of chemotherapy drugs with or without radiation, with the goal to immunosuppress the recipient and eliminate as much tumor as possible.",
+        "whyWrongByChoice": {
+          "A": "ABO and HLA typing is part of the pretransplant evaluation done earlier, not the purpose of conditioning chemotherapy.",
+          "C": "Antimicrobial prophylaxis addresses infection risk during myelosuppression and is not the goal of the conditioning regimen.",
+          "D": "Conditioning is myeloablative (wipes out the marrow); it does not stimulate the recipient marrow to overproduce cells.",
+          "E": "GVHD is prevented and treated with immunosuppressive drugs after transplant; conditioning is given before the graft."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "conditioning regimen",
+        "transplant process",
+        "Day 0"
+      ],
+      "topicId": "hematopoietic-stem-cell-transplantation",
+      "topicName": "Hematopoietic Stem Cell Transplantation",
+      "tier": "core"
+    },
+    {
+      "id": "bl52-008",
+      "stem": "Two weeks after an allogeneic transplant, a patient's blood counts begin to recover. The team documents that the absolute neutrophil count has exceeded 0.5 x 10^9/L on the first of three consecutive days. This finding is used to define which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute graft-versus-host disease"
+        },
+        {
+          "label": "B",
+          "text": "Conditioning-related mucositis"
+        },
+        {
+          "label": "C",
+          "text": "Myeloid engraftment"
+        },
+        {
+          "label": "D",
+          "text": "Primary graft failure"
+        },
+        {
+          "label": "E",
+          "text": "Secondary graft failure"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Myeloid engraftment is defined as the first of 3 consecutive days with an ANC above 0.5 x 10^9/L.",
+        "whyCorrect": "The brick defines myeloid engraftment as the first of 3 consecutive days in which the absolute neutrophil count exceeds 0.5 x 10^9/L, typically occurring within 21 days of the graft infusion, marking that donor cells have begun producing new blood cells.",
+        "whyWrongByChoice": {
+          "A": "GVHD is defined by donor T cells attacking recipient tissue, presenting with rash, diarrhea, and organ dysfunction, not by a neutrophil threshold.",
+          "B": "Mucositis is a mucosal toxicity of conditioning and is unrelated to the neutrophil count criterion for engraftment.",
+          "D": "Primary graft failure is the failure to achieve threshold counts beyond day 28; here counts are recovering, indicating successful engraftment.",
+          "E": "Secondary graft failure occurs when a patient who initially engrafted later loses graft function in at least two cell lines; this patient is engrafting, not losing function."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "engraftment",
+        "neutrophil count",
+        "recovery period"
+      ],
+      "topicId": "hematopoietic-stem-cell-transplantation",
+      "topicName": "Hematopoietic Stem Cell Transplantation",
+      "tier": "core"
+    },
+    {
+      "id": "bl52-009",
+      "stem": "A patient who successfully met threshold blood counts one month after transplant later develops declining function in both the red cell and platelet lines without recovery. Which of the following best describes this complication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Oral mucositis"
+        },
+        {
+          "label": "B",
+          "text": "Primary graft failure"
+        },
+        {
+          "label": "C",
+          "text": "Regimen-related pulmonary toxicity"
+        },
+        {
+          "label": "D",
+          "text": "Secondary graft failure"
+        },
+        {
+          "label": "E",
+          "text": "Successful myeloid engraftment"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Loss of graft function in at least two cell lines after initial engraftment defines secondary graft failure.",
+        "whyCorrect": "The brick states that secondary (late) graft failure occurs in patients who initially meet threshold counts for engraftment but subsequently lose graft function in at least two cell lines, as seen here with declining red cell and platelet lineages after successful early engraftment.",
+        "whyWrongByChoice": {
+          "A": "Oral mucositis is a mouth toxicity of conditioning, not a description of loss of graft function.",
+          "B": "Primary (early) graft failure is failure to achieve threshold counts at any point beyond 28 days after HSCT; this patient did initially reach threshold counts.",
+          "C": "Pulmonary toxicity is a regimen-related organ complication and does not describe the marrow-lineage failure defined here.",
+          "E": "Successful engraftment would show sustained counts, not a subsequent loss of function in multiple cell lines."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "graft failure",
+        "primary vs secondary",
+        "complications"
+      ],
+      "topicId": "hematopoietic-stem-cell-transplantation",
+      "topicName": "Hematopoietic Stem Cell Transplantation",
+      "tier": "core"
+    },
+    {
+      "id": "bl52-010",
+      "stem": "About one week after high-intensity conditioning and stem cell infusion, a transplant patient develops a dry, sore mouth with painful ulcers, making eating difficult. This is the most common regimen-related organ toxicity in transplant recipients. Which of the following is the most appropriate description of its management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "High-dose G-CSF to mobilize additional stem cells"
+        },
+        {
+          "label": "B",
+          "text": "Immediate systemic immunosuppression to halt donor T cells"
+        },
+        {
+          "label": "C",
+          "text": "Supportive care with saline and antimicrobial rinses"
+        },
+        {
+          "label": "D",
+          "text": "Urgent re-transplantation of stem cells"
+        },
+        {
+          "label": "E",
+          "text": "Withdrawal of all antimicrobial prophylaxis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Oral mucositis is managed supportively with rinses, cryotherapy, pain control, and parenteral nutrition when needed.",
+        "whyCorrect": "The brick notes that oral mucositis, inflammation of the mouth, occurs in a majority of transplant recipients (70-87% in one study) due to the high-intensity conditioning regimen, and that current management is supportive: rinsing with saline solutions and antimicrobials, cryotherapy, pain control, and possible parenteral nutrition.",
+        "whyWrongByChoice": {
+          "A": "G-CSF mobilizes stem cells before collection and is not a treatment for oral mucositis.",
+          "B": "Immunosuppression is used to prevent and treat GVHD, not the mucosal toxicity caused directly by conditioning chemotherapy.",
+          "D": "Mucositis is an expected self-limited toxicity of conditioning and is not an indication for re-transplantation.",
+          "E": "Stopping antimicrobial prophylaxis would increase infection risk during immunosuppression and is not part of mucositis care."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "oral mucositis",
+        "regimen-related toxicity",
+        "management"
+      ],
+      "topicId": "hematopoietic-stem-cell-transplantation",
+      "topicName": "Hematopoietic Stem Cell Transplantation",
+      "tier": "core"
+    },
+    {
+      "id": "bl52-011",
+      "stem": "Several weeks after an allogeneic transplant, a patient develops a maculopapular skin rash, diarrhea, and an enlarged liver and spleen. The team explains that donor immune cells are recognizing his tissues as foreign. Which of the following complications is most consistent with this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ABO incompatibility reaction during collection"
+        },
+        {
+          "label": "B",
+          "text": "Autologous graft failure"
+        },
+        {
+          "label": "C",
+          "text": "G-CSF-induced bone pain"
+        },
+        {
+          "label": "D",
+          "text": "Graft-versus-host disease"
+        },
+        {
+          "label": "E",
+          "text": "Oral mucositis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Donor T cells attacking recipient tissue after allogeneic transplant, causing rash, diarrhea, and hepatosplenomegaly, is graft-versus-host disease.",
+        "whyCorrect": "The brick describes GVHD as a potentially fatal complication that typically occurs after allogeneic transplantation, in which the donor's transplanted T cells attack the recipient's organs. Patients may present with a maculopapular rash (which can desquamate), nausea, diarrhea, vomiting, abdominal pain, and hepatosplenomegaly, often affecting the skin, liver, and gastrointestinal tract.",
+        "whyWrongByChoice": {
+          "A": "An ABO reaction is a blood-group compatibility issue, not the donor-T-cell-mediated multiorgan syndrome described here.",
+          "B": "Graft failure is defined by lack of donor cell engraftment or loss of counts, and this patient received an allogeneic, not autologous, transplant.",
+          "C": "G-CSF bone pain is a mobilization side effect and does not cause rash, diarrhea, or hepatosplenomegaly.",
+          "E": "Oral mucositis causes mouth soreness and ulcers, not a multi-organ picture of rash, diarrhea, and organomegaly."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "GVHD",
+        "allogeneic",
+        "complications"
+      ],
+      "topicId": "hematopoietic-stem-cell-transplantation",
+      "topicName": "Hematopoietic Stem Cell Transplantation",
+      "tier": "core"
+    },
+    {
+      "id": "bl52-012",
+      "stem": "During the post-transplant recovery period, a patient is started on medication specifically intended to reduce the risk of graft failure and graft-versus-host disease. Which of the following classes of medication is being given for this purpose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antimicrobial prophylaxis"
+        },
+        {
+          "label": "B",
+          "text": "Conditioning chemotherapy"
+        },
+        {
+          "label": "C",
+          "text": "Immunosuppressive agents"
+        },
+        {
+          "label": "D",
+          "text": "Packed red blood cell transfusions"
+        },
+        {
+          "label": "E",
+          "text": "Stem cell mobilizing agents"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Immunosuppression is given after transplant to reduce the risk of graft failure and graft-versus-host disease.",
+        "whyCorrect": "The brick states that during the recovery period immunosuppression is given to reduce the risk of graft failure and graft-versus-host disease, and that immunosuppressive drugs are used to both prevent and treat GVHD.",
+        "whyWrongByChoice": {
+          "A": "Antimicrobial prophylaxis is given to reduce the risk of infection during myelosuppression, not to prevent graft failure or GVHD.",
+          "B": "Conditioning chemotherapy is given before Day 0 to immunosuppress and eliminate tumor, not as post-transplant GVHD prophylaxis.",
+          "D": "Blood transfusions are used to treat low counts (anemia and thrombocytopenia), not to prevent GVHD or graft failure.",
+          "E": "Mobilizing agents are used before collection to move stem cells into blood, not during recovery to prevent GVHD."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "immunosuppression",
+        "GVHD prevention",
+        "recovery period"
+      ],
+      "topicId": "hematopoietic-stem-cell-transplantation",
+      "topicName": "Hematopoietic Stem Cell Transplantation",
+      "tier": "core"
+    }
+  ]
+}

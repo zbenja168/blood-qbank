@@ -1,0 +1,1713 @@
+{
+  "categoryId": "w2s1",
+  "categoryName": "Session 1",
+  "questions": [
+    {
+      "id": "bl16-001",
+      "stem": "A 62-year-old man with atrial fibrillation is started on warfarin for stroke prevention. His physician needs a laboratory test to guide dose adjustments. Which of the following tests is most appropriate for monitoring the degree of anticoagulation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Activated partial thromboplastin time"
+        },
+        {
+          "label": "B",
+          "text": "Bleeding time"
+        },
+        {
+          "label": "C",
+          "text": "D-dimer assay"
+        },
+        {
+          "label": "D",
+          "text": "International normalized ratio"
+        },
+        {
+          "label": "E",
+          "text": "Thrombin time"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The INR (a standardized PT) measures the extrinsic and common pathways and is the preferred test for monitoring warfarin.",
+        "whyCorrect": "Warfarin interferes with gamma-carboxylation of the vitamin K-dependent factors II, VII, IX, and X, most of which lie in the extrinsic and common pathways that the PT/INR measures. The INR standardizes the PT across laboratories, making it the best test to adjust warfarin dosing.",
+        "whyWrongByChoice": {
+          "A": "The aPTT measures the intrinsic and common pathways and is used to monitor heparin, not warfarin.",
+          "B": "Bleeding time assesses primary hemostasis (platelets and vessel wall), not the coagulation cascade affected by warfarin.",
+          "C": "D-dimer is a marker of fibrinolysis/thrombosis and does not reflect the degree of warfarin anticoagulation.",
+          "E": "Thrombin time assesses only the fibrinogen-to-fibrin conversion and is not used to monitor warfarin."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "warfarin",
+        "INR",
+        "PT",
+        "anticoagulation monitoring"
+      ],
+      "topicId": "coagulation-assays",
+      "topicName": "Coagulation Assays",
+      "tier": "core"
+    },
+    {
+      "id": "bl16-002",
+      "stem": "A 55-year-old woman is admitted for a pulmonary embolism and started on a continuous intravenous unfractionated heparin infusion. Which of the following laboratory tests is most appropriate to monitor her level of anticoagulation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Activated partial thromboplastin time"
+        },
+        {
+          "label": "B",
+          "text": "International normalized ratio (INR)"
+        },
+        {
+          "label": "C",
+          "text": "Prothrombin time (extrinsic pathway)"
+        },
+        {
+          "label": "D",
+          "text": "Serum fibrin degradation product assay"
+        },
+        {
+          "label": "E",
+          "text": "Standardized template bleeding time"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The aPTT measures the intrinsic and common pathways and is the standard test for monitoring unfractionated heparin.",
+        "whyCorrect": "Heparin activates antithrombin, which then inhibits many factors including IIa, IXa, Xa, XIa, and XIIa. In practice the aPTT is most useful for monitoring the intrinsic and common pathways, so it is used to follow heparin therapy (an anti-Xa assay is an alternative).",
+        "whyWrongByChoice": {
+          "B": "The INR is used to monitor warfarin, which affects the extrinsic and common pathways.",
+          "C": "The PT measures the extrinsic and common pathways and is not the standard test for heparin.",
+          "D": "The FDP assay measures fibrinolysis products and is not used to monitor heparin dosing.",
+          "E": "Bleeding time reflects primary hemostasis and does not track heparin effect."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "heparin",
+        "aPTT",
+        "antithrombin",
+        "anticoagulation monitoring"
+      ],
+      "topicId": "coagulation-assays",
+      "topicName": "Coagulation Assays",
+      "tier": "core"
+    },
+    {
+      "id": "bl16-003",
+      "stem": "A 40-year-old man being evaluated for prolonged bleeding after a dental extraction is found to have a prolonged prothrombin time with a completely normal activated partial thromboplastin time. A deficiency of which of the following factors best explains this pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Factor IX"
+        },
+        {
+          "label": "B",
+          "text": "Factor VII"
+        },
+        {
+          "label": "C",
+          "text": "Factor VIII"
+        },
+        {
+          "label": "D",
+          "text": "Factor XI"
+        },
+        {
+          "label": "E",
+          "text": "Factor XII"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Factor VII is unique to the extrinsic pathway, which is assessed by the PT but not the aPTT.",
+        "whyCorrect": "The PT measures the activity of factor VII down through fibrin formation (extrinsic and common pathways). Because factor VII is not part of the intrinsic pathway, an isolated factor VII deficiency prolongs the PT while leaving the aPTT normal.",
+        "whyWrongByChoice": {
+          "A": "Factor IX is intrinsic; deficiency prolongs the aPTT rather than the PT.",
+          "C": "Factor VIII is an intrinsic pathway factor; its deficiency prolongs the aPTT, not the PT.",
+          "D": "Factor XI is intrinsic; deficiency prolongs the aPTT.",
+          "E": "Factor XII is intrinsic; deficiency prolongs the aPTT (though it causes no clinical bleeding)."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "PT",
+        "aPTT",
+        "factor VII",
+        "extrinsic pathway"
+      ],
+      "topicId": "coagulation-assays",
+      "topicName": "Coagulation Assays",
+      "tier": "core"
+    },
+    {
+      "id": "bl16-004",
+      "stem": "A 6-year-old boy has a prolonged activated partial thromboplastin time and a normal prothrombin time. When his plasma is mixed 1:1 with normal plasma, the aPTT corrects into the normal range both immediately and after incubation. Which of the following is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A specific factor inhibitor"
+        },
+        {
+          "label": "B",
+          "text": "Disseminated intravascular coagulation"
+        },
+        {
+          "label": "C",
+          "text": "Factor VIII deficiency"
+        },
+        {
+          "label": "D",
+          "text": "Heparin contamination of the sample"
+        },
+        {
+          "label": "E",
+          "text": "Lupus anticoagulant"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Correction of a prolonged aPTT with normal plasma indicates a clotting factor deficiency.",
+        "whyCorrect": "In a mixing study, if the aPTT corrects after adding normal plasma, the missing ingredient was a coagulation factor supplied by the normal plasma. A boy with an isolated prolonged aPTT that corrects most likely has hemophilia (factor VIII deficiency), which can then be confirmed with a specific factor assay.",
+        "whyWrongByChoice": {
+          "A": "A specific factor inhibitor typically corrects immediately but becomes prolonged again after incubation.",
+          "B": "DIC produces prolonged PT and aPTT with low platelets and elevated D-dimer, not an isolated correcting aPTT.",
+          "D": "Heparin would not correct on mixing, since the drug remains in the mixture and blocks the reagent.",
+          "E": "Lupus anticoagulant does not correct on mixing because it is an inhibitor, not a deficiency."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "mixing study",
+        "factor deficiency",
+        "hemophilia",
+        "aPTT"
+      ],
+      "topicId": "coagulation-assays",
+      "topicName": "Coagulation Assays",
+      "tier": "core"
+    },
+    {
+      "id": "bl16-005",
+      "stem": "A 34-year-old woman has a prolonged activated partial thromboplastin time. A mixing study with normal plasma fails to correct the aPTT both immediately and after incubation. Which of the following is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Factor VII deficiency"
+        },
+        {
+          "label": "B",
+          "text": "Hemophilia A"
+        },
+        {
+          "label": "C",
+          "text": "Lupus anticoagulant"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin K deficiency"
+        },
+        {
+          "label": "E",
+          "text": "Von Willebrand disease"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A prolonged aPTT that fails to correct on mixing, both immediately and after incubation, indicates a lupus anticoagulant.",
+        "whyCorrect": "Failure to correct means a circulating inhibitor, not a missing factor, is present. A lupus anticoagulant (an antiphospholipid antibody) binds the phospholipid in the reagent and keeps the aPTT prolonged immediately and after incubation, matching the Case #3 mixing-study pattern.",
+        "whyWrongByChoice": {
+          "A": "Factor VII deficiency prolongs the PT, not the aPTT, and is a deficiency that corrects on mixing.",
+          "B": "Hemophilia A is a factor deficiency and would correct on mixing.",
+          "D": "Vitamin K deficiency reduces factors II, VII, IX, X (a deficiency) and would correct on mixing.",
+          "E": "Von Willebrand disease chiefly affects platelet adhesion and factor VIII carriage and corrects on mixing."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "mixing study",
+        "lupus anticoagulant",
+        "inhibitor",
+        "aPTT"
+      ],
+      "topicId": "coagulation-assays",
+      "topicName": "Coagulation Assays",
+      "tier": "core"
+    },
+    {
+      "id": "bl16-006",
+      "stem": "A 30-year-old woman with systemic lupus erythematosus develops a deep venous thrombosis and is found to have a prolonged activated partial thromboplastin time that does not correct on a mixing study; testing confirms a lupus anticoagulant. Which of the following best explains why her aPTT is prolonged despite her tendency to clot?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A hereditary deficiency of factor VIII in the intrinsic pathway"
+        },
+        {
+          "label": "B",
+          "text": "Decreased hepatic synthesis of nearly all the coagulation factors"
+        },
+        {
+          "label": "C",
+          "text": "Impaired gamma-carboxylation of clotting factors from vitamin K deficiency"
+        },
+        {
+          "label": "D",
+          "text": "Ongoing consumption of clotting factors by widespread microthrombi"
+        },
+        {
+          "label": "E",
+          "text": "The antibody binds and inactivates phospholipid in the assay reagent"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Antiphospholipid antibodies prolong the aPTT in vitro as a lab artifact while promoting thrombosis in vivo.",
+        "whyCorrect": "In vitro, antiphospholipid antibodies/lupus anticoagulant bind to and inactivate phospholipid-containing reagents used in the aPTT, leaving less reagent available and falsely prolonging the aPTT. This is a pure laboratory artifact; in vivo these antibodies actually increase thrombosis, putting patients at risk for DVT and pulmonary embolism.",
+        "whyWrongByChoice": {
+          "A": "A factor VIII deficiency would correct on mixing and does not cause thrombosis.",
+          "B": "Impaired hepatic synthesis is a factor deficiency that corrects on mixing and causes bleeding, not thrombosis.",
+          "C": "Vitamin K deficiency reduces functional factors and prolongs the PT; it does not explain a non-correcting aPTT with thrombosis.",
+          "D": "Consumption of factors describes DIC, not the mechanism of a lupus anticoagulant, and would not fail to correct as an isolated finding."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "antiphospholipid antibody",
+        "lupus anticoagulant",
+        "aPTT artifact",
+        "thrombosis"
+      ],
+      "topicId": "coagulation-assays",
+      "topicName": "Coagulation Assays",
+      "tier": "core"
+    },
+    {
+      "id": "bl16-007",
+      "stem": "A 45-year-old man scheduled for elective hernia repair is found on routine testing to have an isolated prolonged activated partial thromboplastin time. He has no personal or family history of abnormal bleeding and has previously undergone surgery without bleeding complications. A deficiency of which of the following factors best explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Factor IX"
+        },
+        {
+          "label": "B",
+          "text": "Factor VIII"
+        },
+        {
+          "label": "C",
+          "text": "Factor XI"
+        },
+        {
+          "label": "D",
+          "text": "Factor XII"
+        },
+        {
+          "label": "E",
+          "text": "Von Willebrand factor"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Factor XII deficiency prolongs the aPTT in vitro but does not cause clinical bleeding.",
+        "whyCorrect": "Factor XII deficiency prolongs clotting time in vitro (prolonged aPTT) because factor XII participates in the contact-activated intrinsic pathway of the assay. However, factor XII is not involved in physiologic coagulation, so its deficiency does not cause clinical bleeding, explaining this asymptomatic patient.",
+        "whyWrongByChoice": {
+          "A": "Factor IX deficiency (hemophilia B) prolongs the aPTT and causes clinical bleeding.",
+          "B": "Factor VIII deficiency (hemophilia A) prolongs the aPTT and causes significant clinical bleeding.",
+          "C": "Factor XI deficiency prolongs the aPTT and can cause bleeding, unlike the asymptomatic picture here.",
+          "E": "Von Willebrand disease causes mucocutaneous bleeding and typically a bleeding history, not an asymptomatic isolated aPTT prolongation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "factor XII",
+        "aPTT",
+        "no bleeding",
+        "intrinsic pathway"
+      ],
+      "topicId": "coagulation-assays",
+      "topicName": "Coagulation Assays",
+      "tier": "core"
+    },
+    {
+      "id": "bl16-008",
+      "stem": "A patient in the intensive care unit suddenly begins to ooze blood from his central venous line and surgical sites. Disseminated intravascular coagulation is suspected. Which of the following sets of laboratory findings would most support this diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Elevated platelet count with normal PT"
+        },
+        {
+          "label": "B",
+          "text": "Isolated low D-dimer with normal platelets"
+        },
+        {
+          "label": "C",
+          "text": "Isolated prolonged thrombin time with normal PT and aPTT"
+        },
+        {
+          "label": "D",
+          "text": "Normal PT, normal aPTT, and normal D-dimer"
+        },
+        {
+          "label": "E",
+          "text": "Prolonged PT and aPTT with an elevated D-dimer"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "DIC consumes clotting factors and platelets while generating clot breakdown, giving prolonged PT/aPTT with elevated D-dimer.",
+        "whyCorrect": "In DIC, abnormal activation of the coagulation cascade produces widespread microthrombi and rapid consumption of clotting factors (prolonging PT/INR and aPTT), fibrin, and platelets (causing thrombocytopenia). Ongoing fibrinolysis of those clots raises the D-dimer, so prolonged PT and aPTT with an elevated D-dimer best supports DIC.",
+        "whyWrongByChoice": {
+          "A": "DIC causes thrombocytopenia (low platelets) and a prolonged PT, not an elevated platelet count with a normal PT.",
+          "B": "DIC raises the D-dimer and lowers platelets, opposite to this choice.",
+          "C": "DIC produces global abnormalities, not an isolated prolonged thrombin time with otherwise normal tests.",
+          "D": "Entirely normal studies would argue against DIC, which produces multiple abnormalities."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "DIC",
+        "D-dimer",
+        "PT",
+        "aPTT",
+        "thrombocytopenia"
+      ],
+      "topicId": "coagulation-assays",
+      "topicName": "Coagulation Assays",
+      "tier": "core"
+    },
+    {
+      "id": "bl16-009",
+      "stem": "A 46-year-old woman presents to the emergency department with chest pain. Her vital signs, physical examination, and electrocardiogram are unremarkable, and clinical scoring places her at low probability for pulmonary embolism. Which of the following tests is the most appropriate and cost-effective choice to rule out a pulmonary embolism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bleeding time"
+        },
+        {
+          "label": "B",
+          "text": "CT pulmonary angiography"
+        },
+        {
+          "label": "C",
+          "text": "D-dimer assay"
+        },
+        {
+          "label": "D",
+          "text": "International normalized ratio"
+        },
+        {
+          "label": "E",
+          "text": "Thrombin time"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A negative highly sensitive D-dimer in a low-probability patient effectively rules out pulmonary embolism.",
+        "whyCorrect": "The D-dimer assay is very sensitive and is almost always elevated when a thrombus is present, making it excellent for ruling out clot. A negative result with such a sensitive test in a low-probability scenario effectively rules out pulmonary embolism, avoiding unnecessary imaging and cost.",
+        "whyWrongByChoice": {
+          "A": "Bleeding time measures primary hemostasis and is unrelated to detecting a thrombus.",
+          "B": "CT angiography is used to rule in a thrombus and is unnecessary imaging in a low-probability patient before a D-dimer.",
+          "D": "The INR monitors extrinsic/common pathway activity (e.g., warfarin) and cannot exclude a pulmonary embolism.",
+          "E": "Thrombin time assesses fibrinogen-to-fibrin conversion and does not rule out pulmonary embolism."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "D-dimer",
+        "pulmonary embolism",
+        "sensitivity",
+        "rule out"
+      ],
+      "topicId": "coagulation-assays",
+      "topicName": "Coagulation Assays",
+      "tier": "core"
+    },
+    {
+      "id": "bl16-010",
+      "stem": "A 52-year-old man with chronic alcohol use disorder arrives intoxicated with a protuberant abdomen after weeks of continuous drinking. Laboratory studies show a prolonged prothrombin time, prolonged partial thromboplastin time, and thrombocytopenia. Which of the following is the most likely cause of the prolonged PT and PTT?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An antibody against factor VII"
+        },
+        {
+          "label": "B",
+          "text": "Chronic kidney disease"
+        },
+        {
+          "label": "C",
+          "text": "Cirrhosis"
+        },
+        {
+          "label": "D",
+          "text": "Heparin use"
+        },
+        {
+          "label": "E",
+          "text": "Isolated factor VII deficiency"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The liver produces all coagulation factors, so advanced liver disease prolongs all coagulation assays.",
+        "whyCorrect": "This patient's chronic alcohol use and protuberant abdomen point to cirrhosis. Because all coagulation factors are produced in the liver, advanced liver disease decreases them all, prolonging the PT, PTT, and TT. Liver disease is the most common acquired cause of coagulation abnormalities.",
+        "whyWrongByChoice": {
+          "A": "An antibody against factor VII would prolong the PT but not the PTT.",
+          "B": "Chronic kidney disease causes uremic platelet dysfunction but does not directly reduce clotting factors to prolong PT and PTT.",
+          "D": "The clinical picture fits cirrhosis; the patient is not receiving regular heparin injections.",
+          "E": "Isolated factor VII deficiency prolongs the PT only, not the PTT."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cirrhosis",
+        "liver disease",
+        "PT",
+        "PTT",
+        "acquired"
+      ],
+      "topicId": "coagulation-assays",
+      "topicName": "Coagulation Assays",
+      "tier": "core"
+    },
+    {
+      "id": "bl16-011",
+      "stem": "A 28-year-old woman with a lifelong history of easy bruising is found to have a prolonged thrombin time despite a normal prothrombin time and normal activated partial thromboplastin time. The thrombin time most directly assesses which of the following steps?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Activation of the extrinsic pathway"
+        },
+        {
+          "label": "B",
+          "text": "Activation of the intrinsic pathway"
+        },
+        {
+          "label": "C",
+          "text": "Conversion of fibrinogen to fibrin"
+        },
+        {
+          "label": "D",
+          "text": "Platelet plug formation"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin K-dependent carboxylation of factors"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The thrombin time isolates the final step of the common pathway: fibrinogen-to-fibrin conversion.",
+        "whyCorrect": "The thrombin time is performed by adding thrombin to plasma and measuring the time to form fibrin, so it assesses conversion of fibrinogen to fibrin. Because it sits at the very end of the common pathway, it is a specialized test most often used to detect fibrinogen deficiency or a fibrinogen functional mutation.",
+        "whyWrongByChoice": {
+          "A": "The extrinsic pathway is assessed by the PT, not the thrombin time.",
+          "B": "The intrinsic pathway is assessed by the aPTT, not the thrombin time.",
+          "D": "Platelet plug formation is primary hemostasis, evaluated by platelet tests, not the thrombin time.",
+          "E": "Vitamin K-dependent carboxylation relates to factor synthesis and is reflected in the PT/INR, not the thrombin time."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "thrombin time",
+        "fibrinogen",
+        "common pathway"
+      ],
+      "topicId": "coagulation-assays",
+      "topicName": "Coagulation Assays",
+      "tier": "core"
+    },
+    {
+      "id": "bl16-012",
+      "stem": "A laboratory technician draws blood for coagulation testing into a light-blue-top vacutainer tube that contains citrate. Which of the following best explains why citrate is required for the sample to be usable?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It activates the intrinsic pathway for the assay"
+        },
+        {
+          "label": "B",
+          "text": "It adds thrombin to standardize fibrin formation"
+        },
+        {
+          "label": "C",
+          "text": "It provides a phospholipid surface to accelerate clotting"
+        },
+        {
+          "label": "D",
+          "text": "It removes calcium to prevent the blood from clotting"
+        },
+        {
+          "label": "E",
+          "text": "It supplies tissue factor needed for the prothrombin time"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Citrate chelates calcium, preventing clotting in the tube so timed coagulation tests can be run.",
+        "whyCorrect": "The light-blue-top tube contains citrate, which removes calcium from the blood. Because calcium binds the phospholipids exposed during platelet activation and provides a surface for assembly of some coagulation factors, removing it prevents clotting in the tube. Calcium is then added back during the actual assay so the timed test can be performed.",
+        "whyWrongByChoice": {
+          "A": "Intrinsic pathway activators (silica, kaolin) are reagents used in the aPTT, not the anticoagulant in the tube.",
+          "B": "Thrombin is added only in the specific thrombin time assay, not by the collection tube.",
+          "C": "Phospholipid and calcium are added later during the assay; citrate does not provide a clotting surface.",
+          "E": "Tissue factor (thromboplastin) is a PT reagent added in the lab, not the citrate in the collection tube."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "citrate tube",
+        "calcium",
+        "specimen collection",
+        "technique"
+      ],
+      "topicId": "coagulation-assays",
+      "topicName": "Coagulation Assays",
+      "tier": "core"
+    },
+    {
+      "id": "bl17-001",
+      "stem": "A 68-year-old man is brought to the emergency department with acute onset of right-sided weakness and slurred speech. Imaging confirms an acute ischemic stroke, and he is given a thrombolytic agent that restores blood flow by breaking down the occluding clot. Which of the following molecules is directly responsible for dissolving the already-formed clot?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antithrombin"
+        },
+        {
+          "label": "B",
+          "text": "Fibrinogen"
+        },
+        {
+          "label": "C",
+          "text": "Plasmin"
+        },
+        {
+          "label": "D",
+          "text": "Plasminogen"
+        },
+        {
+          "label": "E",
+          "text": "Thrombin"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Plasmin is the active enzyme of fibrinolysis that degrades fibrin and dissolves clots.",
+        "whyCorrect": "Clots are broken down through fibrinolysis, and the main actor is the enzyme plasmin, which cleaves the fibrin surrounding a clot into small fragments that wash away. Tissue plasminogen activator (tPA) generates plasmin from plasminogen and is used clinically to dissolve clots after strokes.",
+        "whyWrongByChoice": {
+          "A": "Antithrombin stops the formation of new fibrin by inhibiting thrombin, but it does not dissolve fibrin that has already formed.",
+          "B": "Fibrinogen is the inactive precursor that is converted into fibrin to build a clot, not to break one down.",
+          "D": "Plasminogen is the inactive zymogen precursor; it must be activated to plasmin before it can degrade fibrin.",
+          "E": "Thrombin promotes clotting by converting fibrinogen to fibrin, the opposite of clot dissolution."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "fibrinolysis",
+        "plasmin"
+      ],
+      "topicId": "hemostasis",
+      "topicName": "Hemostasis",
+      "tier": "core"
+    },
+    {
+      "id": "bl17-002",
+      "stem": "A 19-year-old woman reports frequent nosebleeds, easy bruising, heavy menstrual periods, and gum bleeding when she brushes her teeth. Her platelet count, PT, and aPTT are near normal, and specialized testing shows reduced activity of a protein secreted by endothelial cells. Which of the following best describes the normal function of this protein in primary hemostasis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It activates thrombin from prothrombin"
+        },
+        {
+          "label": "B",
+          "text": "It aids platelet adhesion"
+        },
+        {
+          "label": "C",
+          "text": "It converts fibrinogen to fibrin"
+        },
+        {
+          "label": "D",
+          "text": "It cross-links fibrin strands"
+        },
+        {
+          "label": "E",
+          "text": "It dissolves fibrin clots"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Von Willebrand factor acts as a molecular glue that mediates platelet adhesion to the subendothelium.",
+        "whyCorrect": "Von Willebrand factor is secreted by endothelial cells and binds both exposed subendothelial collagen and platelet glycoprotein Ib receptors, anchoring platelets to the damaged wall during platelet adhesion. Its deficiency causes von Willebrand disease, the most common hereditary bleeding disorder, with mucocutaneous bleeding.",
+        "whyWrongByChoice": {
+          "A": "Prothrombin is activated to thrombin by activated Factor X in the common pathway, not by von Willebrand factor.",
+          "C": "Conversion of fibrinogen to fibrin is catalyzed by thrombin, part of secondary hemostasis.",
+          "D": "Cross-linking of fibrin is performed by Factor XIII during secondary hemostasis.",
+          "E": "Dissolving fibrin is the job of plasmin during fibrinolysis, not von Willebrand factor."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "von Willebrand factor",
+        "platelet adhesion",
+        "primary hemostasis"
+      ],
+      "topicId": "hemostasis",
+      "topicName": "Hemostasis",
+      "tier": "core"
+    },
+    {
+      "id": "bl17-003",
+      "stem": "A 72-year-old man with atrial fibrillation is started on warfarin, an anticoagulant that blocks the recycling of vitamin K. Which of the following best describes the role of vitamin K in normal coagulation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It activates plasminogen to plasmin during fibrinolysis of a clot"
+        },
+        {
+          "label": "B",
+          "text": "It binds calcium ions directly to cross-link fibrin into a clot"
+        },
+        {
+          "label": "C",
+          "text": "It directly cleaves prothrombin into thrombin at the start of the common pathway"
+        },
+        {
+          "label": "D",
+          "text": "It is a cofactor for gamma-carboxylation of Factors II, VII, IX, and X"
+        },
+        {
+          "label": "E",
+          "text": "It is required for hepatic synthesis of fibrinogen and factor XIII"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Vitamin K enables gamma-carboxylation of glutamate residues on Factors II, VII, IX, and X so they can bind calcium.",
+        "whyCorrect": "Vitamin K is a cofactor in the gamma-carboxylation of glutamate residues on clotting Factors II, VII, IX, and X (and proteins C and S), a modification that lets these factors bind calcium and become functional. Warfarin inhibits the enzyme that recycles vitamin K, reducing functional levels of these factors.",
+        "whyWrongByChoice": {
+          "A": "Plasminogen is converted to plasmin by tPA, not by vitamin K.",
+          "B": "Vitamin K does not bind calcium itself; it enables the clotting factors to bind calcium after they are carboxylated.",
+          "C": "Prothrombin is cleaved to thrombin by activated Factor X in the common pathway, not by vitamin K.",
+          "E": "Fibrinogen synthesis occurs in the liver and is not vitamin K dependent."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "vitamin K",
+        "warfarin",
+        "clotting factors"
+      ],
+      "topicId": "hemostasis",
+      "topicName": "Hemostasis",
+      "tier": "core"
+    },
+    {
+      "id": "bl17-004",
+      "stem": "A 6-year-old boy is evaluated for a swollen, painful knee that developed after minimal activity. He has a history of prolonged bleeding after a tooth extraction. Laboratory testing shows a prolonged aPTT with a normal PT and normal platelet count. A deficiency of which of the following factors most likely explains his presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Factor V"
+        },
+        {
+          "label": "B",
+          "text": "Factor VII"
+        },
+        {
+          "label": "C",
+          "text": "Factor VIII"
+        },
+        {
+          "label": "D",
+          "text": "Factor XIII"
+        },
+        {
+          "label": "E",
+          "text": "Von Willebrand factor"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Hemophilia A is an X-linked Factor VIII deficiency affecting the intrinsic pathway, causing hemarthroses with prolonged aPTT and normal PT.",
+        "whyCorrect": "Hemophilia A is caused by Factor VIII deficiency, an X-linked recessive disorder that mainly affects males and presents with muscle, joint, and deep tissue bleeding such as hemarthrosis. Because Factor VIII is part of the intrinsic pathway, the aPTT is prolonged while the PT (extrinsic pathway) remains normal.",
+        "whyWrongByChoice": {
+          "A": "Factor V is part of the common pathway, and its involvement would prolong both PT and aPTT; it is better known for the Factor V Leiden thrombophilia.",
+          "B": "Factor VII deficiency affects the extrinsic pathway and would prolong the PT, not selectively the aPTT.",
+          "D": "Factor XIII cross-links fibrin; its deficiency does not prolong the aPTT because standard tests still form an initial clot.",
+          "E": "Von Willebrand disease usually has a normal or only mildly prolonged aPTT and features mucocutaneous rather than deep joint bleeding."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hemophilia A",
+        "Factor VIII",
+        "intrinsic pathway",
+        "aPTT"
+      ],
+      "topicId": "hemostasis",
+      "topicName": "Hemostasis",
+      "tier": "core"
+    },
+    {
+      "id": "bl17-005",
+      "stem": "Immediately after a small arteriole is lacerated, a series of events begins to limit blood loss. Which of the following is the first event in primary hemostasis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Generation of active thrombin"
+        },
+        {
+          "label": "B",
+          "text": "Blood vessel constriction"
+        },
+        {
+          "label": "C",
+          "text": "Formation of fibrin strands"
+        },
+        {
+          "label": "D",
+          "text": "Platelet adhesion to collagen"
+        },
+        {
+          "label": "E",
+          "text": "Aggregation of platelets"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Vessel constriction is the first step of primary hemostasis, reducing blood flow to the injury.",
+        "whyCorrect": "Almost immediately after a vessel is damaged, regional small arterioles constrict, driven by endothelin released from endothelial cells. This vasoconstriction reduces blood loss and brings platelets and clotting factors into closer contact with the injured wall before the plug forms.",
+        "whyWrongByChoice": {
+          "A": "Thrombin activation occurs during secondary hemostasis, well after the initial vascular response.",
+          "C": "Fibrin formation stabilizes the plug during secondary hemostasis, not at the outset.",
+          "D": "Platelet adhesion occurs after constriction, once platelets contact exposed collagen.",
+          "E": "Platelet aggregation is a later step that forms the soft platelet plug."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "primary hemostasis",
+        "vasoconstriction",
+        "endothelin"
+      ],
+      "topicId": "hemostasis",
+      "topicName": "Hemostasis",
+      "tier": "core"
+    },
+    {
+      "id": "bl17-006",
+      "stem": "A patient sustains a deep laceration, and clotting factors in the blood are exposed to a substance released from the damaged vessel wall that sits at the top of the extrinsic pathway. Which of the following substances triggers the extrinsic pathway of the coagulation cascade?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Collagen"
+        },
+        {
+          "label": "B",
+          "text": "Factor XII (Hageman factor)"
+        },
+        {
+          "label": "C",
+          "text": "Thrombin"
+        },
+        {
+          "label": "D",
+          "text": "Tissue factor"
+        },
+        {
+          "label": "E",
+          "text": "Von Willebrand factor"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Tissue factor (Factor III) released by damaged tissue initiates the extrinsic pathway.",
+        "whyCorrect": "The extrinsic pathway is triggered by tissue factor (TF, Factor III), which is normally hidden from the bloodstream until vessel cells are damaged. Once released, it activates Factor VII and initiates coagulation along the extrinsic arm, which then proceeds through the common pathway starting at Factor X.",
+        "whyWrongByChoice": {
+          "A": "Exposed collagen and other negatively charged surfaces activate the intrinsic pathway, not the extrinsic pathway.",
+          "B": "Factor XII begins the intrinsic pathway in vitro and, notably, is not required for physiologic clotting.",
+          "C": "Thrombin acts within the cascade to amplify clotting and loops back to the intrinsic pathway; it does not initiate the extrinsic arm.",
+          "E": "Von Willebrand factor functions in platelet adhesion during primary hemostasis, not in triggering the extrinsic pathway."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "extrinsic pathway",
+        "tissue factor",
+        "coagulation cascade"
+      ],
+      "topicId": "hemostasis",
+      "topicName": "Hemostasis",
+      "tier": "core"
+    },
+    {
+      "id": "bl17-007",
+      "stem": "In the coagulation cascade, the intrinsic and extrinsic pathways converge at a single point that begins the common pathway. Which of the following factors is the convergence point where both pathways meet?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Factor IX"
+        },
+        {
+          "label": "B",
+          "text": "Factor VII"
+        },
+        {
+          "label": "C",
+          "text": "Factor VIII"
+        },
+        {
+          "label": "D",
+          "text": "Factor X"
+        },
+        {
+          "label": "E",
+          "text": "Factor XII"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Factor X is the convergence point of the intrinsic and extrinsic pathways and starts the common pathway.",
+        "whyCorrect": "Both the intrinsic and extrinsic pathways activate Factor X to Xa, which is the start of the common pathway. From there, the common pathway (Factors X, V, II, and I) generates thrombin, which converts fibrinogen to fibrin to form a stable clot.",
+        "whyWrongByChoice": {
+          "A": "Factor IX is an intrinsic pathway factor upstream of Factor X.",
+          "B": "Factor VII belongs to the extrinsic pathway only and acts upstream of the convergence point.",
+          "C": "Factor VIII is part of the intrinsic pathway and does not represent the point of convergence.",
+          "E": "Factor XII initiates the intrinsic pathway in vitro and is not the shared convergence point."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "common pathway",
+        "Factor X",
+        "coagulation cascade"
+      ],
+      "topicId": "hemostasis",
+      "topicName": "Hemostasis",
+      "tier": "core"
+    },
+    {
+      "id": "bl17-008",
+      "stem": "A 60-year-old woman admitted with a deep vein thrombosis is started on heparin. Heparin produces its anticoagulant effect by enhancing the activity of which of the following naturally occurring molecules?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antithrombin"
+        },
+        {
+          "label": "B",
+          "text": "Plasmin"
+        },
+        {
+          "label": "C",
+          "text": "Protein C"
+        },
+        {
+          "label": "D",
+          "text": "Tissue factor pathway inhibitor"
+        },
+        {
+          "label": "E",
+          "text": "Von Willebrand factor"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Heparin enhances antithrombin, which inhibits thrombin and amplification of the cascade.",
+        "whyCorrect": "Antithrombin is a natural inhibitor of thrombin, and its activity is enhanced by heparin. Because thrombin amplifies the clotting cascade, boosting antithrombin damps both the intrinsic and common pathways. Heparin-like molecules on endothelial cells naturally augment antithrombin at the vessel wall.",
+        "whyWrongByChoice": {
+          "B": "Plasmin dissolves existing clots during fibrinolysis and is not the target enhanced by heparin.",
+          "C": "Protein C is activated by the thrombin-thrombomodulin complex with protein S, a pathway independent of heparin.",
+          "D": "Tissue factor pathway inhibitor switches off the extrinsic arm but is not potentiated by heparin.",
+          "E": "Von Willebrand factor promotes platelet adhesion and is unrelated to heparin's mechanism."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "antithrombin",
+        "heparin",
+        "anticoagulants"
+      ],
+      "topicId": "hemostasis",
+      "topicName": "Hemostasis",
+      "tier": "core"
+    },
+    {
+      "id": "bl17-009",
+      "stem": "A 28-year-old woman of European descent has had two unprovoked deep vein thromboses. Workup reveals a mutation in Factor V that renders it resistant to cleavage by activated protein C. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Factor V Leiden"
+        },
+        {
+          "label": "B",
+          "text": "Hemophilia A (Factor VIII deficiency)"
+        },
+        {
+          "label": "C",
+          "text": "Liver failure"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin K deficiency"
+        },
+        {
+          "label": "E",
+          "text": "Von Willebrand disease"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Factor V Leiden is a mutation making Factor V resistant to activated protein C, the most common inherited thrombophilia in Caucasians.",
+        "whyCorrect": "In Factor V Leiden, mutated Factor V is not degraded by activated protein C, so the anticoagulant brake fails and clotting continues unchecked. It is the most common inherited thrombophilia (hypercoagulability) in Caucasian populations of European descent and predisposes to venous thromboses.",
+        "whyWrongByChoice": {
+          "B": "Hemophilia A is a Factor VIII deficiency that causes bleeding, not thrombosis.",
+          "C": "Liver failure reduces clotting factor synthesis and tends to cause bleeding rather than clotting.",
+          "D": "Vitamin K deficiency impairs Factors II, VII, IX, and X and causes bleeding, not a hypercoagulable state.",
+          "E": "Von Willebrand disease is a bleeding disorder from deficient von Willebrand factor, the opposite of a clotting tendency."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Factor V Leiden",
+        "thrombophilia",
+        "protein C"
+      ],
+      "topicId": "hemostasis",
+      "topicName": "Hemostasis",
+      "tier": "core"
+    },
+    {
+      "id": "bl17-010",
+      "stem": "A 70-year-old man taking warfarin needs periodic monitoring to keep his dose in the correct range. Which laboratory test, which primarily assesses the extrinsic and common pathways, is most appropriate for monitoring his warfarin therapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Activated partial thromboplastin time (aPTT)"
+        },
+        {
+          "label": "B",
+          "text": "Bleeding time"
+        },
+        {
+          "label": "C",
+          "text": "D-dimer"
+        },
+        {
+          "label": "D",
+          "text": "Platelet count"
+        },
+        {
+          "label": "E",
+          "text": "Prothrombin time (PT/INR)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The PT/INR assesses the extrinsic and common pathways and is used to monitor warfarin.",
+        "whyCorrect": "The prothrombin time assesses the extrinsic pathway and, by extension, the common pathway (Factors I, II, V, VII, and X). The INR standardizes the PT so clotting times can be compared between labs, making PT/INR the standard test to adjust warfarin dosing.",
+        "whyWrongByChoice": {
+          "A": "The aPTT assesses the intrinsic and common pathways and is used to monitor heparin rather than warfarin.",
+          "B": "Bleeding time reflects platelet function and vessel response, not the vitamin K-dependent factors affected by warfarin.",
+          "C": "D-dimer is a marker of fibrin breakdown used to evaluate thrombosis, not to monitor anticoagulant dosing.",
+          "D": "Platelet count measures platelet number and is unaffected by warfarin's action on clotting factors."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "prothrombin time",
+        "INR",
+        "warfarin",
+        "coagulation tests"
+      ],
+      "topicId": "hemostasis",
+      "topicName": "Hemostasis",
+      "tier": "core"
+    },
+    {
+      "id": "bl17-011",
+      "stem": "A healthy 30-year-old man undergoing preoperative screening is found to have an isolated prolonged aPTT with a normal PT. He has never had abnormal bleeding, even after prior dental extractions, and further testing reveals a deficiency of Factor XII (Hageman factor). Which of the following best explains why he does not have a clinical bleeding tendency?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Factor XII activates plasmin to prevent bleeding"
+        },
+        {
+          "label": "B",
+          "text": "Factor XII deficiency is compensated by increased platelet counts"
+        },
+        {
+          "label": "C",
+          "text": "Factor XII is not involved in physiologic in vivo coagulation"
+        },
+        {
+          "label": "D",
+          "text": "Factor XII is only needed for fibrinolysis, not clotting"
+        },
+        {
+          "label": "E",
+          "text": "Factor XII is replaced by vitamin K in the liver"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Factor XII deficiency prolongs the aPTT in vitro but does not cause bleeding because Factor XII is not needed for physiologic clotting.",
+        "whyCorrect": "Although Factor XII deficiency prolongs clotting time in vitro (a longer aPTT), it does not cause clinical bleeding because Factor XII is not involved in physiologic coagulation. In the body, the tissue factor pathway generates thrombin that loops back to amplify the intrinsic pathway, so the cascade proceeds without Factor XII.",
+        "whyWrongByChoice": {
+          "A": "Factor XII does not activate plasmin to prevent bleeding; its absence is tolerated because it is dispensable in vivo.",
+          "B": "Bleeding protection here is not due to platelet numbers; Factor XII deficiency simply lacks physiologic relevance to clotting.",
+          "D": "Factor XII is classically an intrinsic-pathway (clotting) factor in vitro, not a dedicated fibrinolytic factor.",
+          "E": "Vitamin K supports carboxylation of Factors II, VII, IX, and X and does not replace Factor XII."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Factor XII",
+        "Hageman factor",
+        "aPTT",
+        "intrinsic pathway"
+      ],
+      "topicId": "hemostasis",
+      "topicName": "Hemostasis",
+      "tier": "core"
+    },
+    {
+      "id": "bl17-012",
+      "stem": "A blood bank collects a unit of whole blood into a tube containing citrate to keep it from clotting during storage. Citrate prevents coagulation by which of the following mechanisms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Activating antithrombin"
+        },
+        {
+          "label": "B",
+          "text": "Chelating calcium ions"
+        },
+        {
+          "label": "C",
+          "text": "Cleaving fibrin into D-dimers"
+        },
+        {
+          "label": "D",
+          "text": "Converting plasminogen to plasmin"
+        },
+        {
+          "label": "E",
+          "text": "Inhibiting vitamin K recycling"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Citrate and EDTA block clotting by chelating calcium, which is required at multiple steps of the cascade.",
+        "whyCorrect": "Calcium is required at numerous points in the coagulation cascade to bind and activate clotting factors. Chelating calcium with citrate or EDTA blocks these steps, which is why citrate is used in blood banking and blood is collected in EDTA tubes.",
+        "whyWrongByChoice": {
+          "A": "Antithrombin is potentiated by heparin, not by citrate, and this is not how citrate anticoagulates a specimen.",
+          "C": "Cleaving fibrin into D-dimers is the action of plasmin during fibrinolysis, unrelated to citrate.",
+          "D": "Converting plasminogen to plasmin is done by tissue plasminogen activator, not by citrate.",
+          "E": "Inhibiting vitamin K recycling is the mechanism of warfarin, not citrate."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "calcium",
+        "citrate",
+        "EDTA",
+        "blood banking"
+      ],
+      "topicId": "hemostasis",
+      "topicName": "Hemostasis",
+      "tier": "core"
+    },
+    {
+      "id": "bl18-001",
+      "stem": "A 46-year-old woman in the ICU is receiving a transfusion of packed red blood cells. A few minutes into the transfusion she develops chills, a temperature of 102.4 F, back pain, and dark red urine. Her blood pressure falls to 76/52 mm Hg. The blood bank later determines that her unit was mislabeled. Which of the following best explains her reaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bacterial contamination of the stored donor unit causing sepsis"
+        },
+        {
+          "label": "B",
+          "text": "Donor T lymphocytes engrafting and attacking the recipient's tissues"
+        },
+        {
+          "label": "C",
+          "text": "Recipient antibodies against ABO antigens on the donor red blood cells"
+        },
+        {
+          "label": "D",
+          "text": "Recipient antibodies against HLA class I antigens on the donor leukocytes"
+        },
+        {
+          "label": "E",
+          "text": "Type 1 hypersensitivity to soluble allergens in the donor plasma"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Acute hemolytic transfusion reactions are caused by recipient anti-ABO antibodies binding mismatched donor RBCs.",
+        "whyCorrect": "A mislabeled unit leading to ABO-incompatible transfusion causes an acute hemolytic reaction. Recipient antibodies against ABO antigens on the donor RBCs trigger fever/chills (the most common presenting symptom), back pain, hemoglobinuria, kidney failure, DIC, and hypotension/shock. The direct antiglobulin (DAT) test is positive in the post-transfusion sample.",
+        "whyWrongByChoice": {
+          "A": "Bacterial contamination can cause septic shock, but the mislabeled ABO-incompatible unit and hemoglobinuria point specifically to an acute hemolytic reaction.",
+          "B": "Donor T lymphocytes attacking host tissue causes transfusion-associated graft-versus-host disease, which presents with fever, rash, diarrhea, and hepatomegaly 7-10 days later, not within minutes.",
+          "D": "Antibodies against donor leukocyte HLA antigens cause a febrile nonhemolytic reaction, which presents with fever and flushing without hemoglobinuria or shock.",
+          "E": "A type 1 hypersensitivity (allergic) reaction presents with urticaria, itching, and wheezing rather than back pain and hemoglobinuria."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "transfusion reactions",
+        "acute hemolytic",
+        "ABO"
+      ],
+      "topicId": "transfusion-medicine",
+      "topicName": "Transfusion Medicine",
+      "tier": "core"
+    },
+    {
+      "id": "bl18-002",
+      "stem": "A trauma patient with unknown blood type is exsanguinating, and there is no time to complete blood typing. The blood bank issues emergency red blood cells that can be given to any recipient. Which of the following blood types are these units?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A-negative"
+        },
+        {
+          "label": "B",
+          "text": "AB-negative"
+        },
+        {
+          "label": "C",
+          "text": "AB-positive"
+        },
+        {
+          "label": "D",
+          "text": "O-negative"
+        },
+        {
+          "label": "E",
+          "text": "O-positive"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "O-negative is the universal red cell donor because its RBCs carry no A, B, or D antigens.",
+        "whyCorrect": "The universal RBC donor is type O-negative. Because there are no A, B, or D antigens on the surface of these red cells, they will not prompt an anti-A, anti-B, or anti-D response in any recipient. Emergency blood release therefore typically uses O-negative units.",
+        "whyWrongByChoice": {
+          "A": "A-negative RBCs carry the A antigen, so they would be attacked by anti-A antibodies in type B and type O recipients.",
+          "B": "AB-negative RBCs carry A and B antigens, which would react with anti-A and anti-B in most recipients.",
+          "C": "AB-positive is the universal recipient (can receive any blood), not the universal donor; its RBCs carry A, B, and D antigens.",
+          "E": "O-positive RBCs carry the D antigen and could sensitize or react in Rh-negative recipients, so they are not truly universal."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "ABO",
+        "Rh",
+        "universal donor"
+      ],
+      "topicId": "transfusion-medicine",
+      "topicName": "Transfusion Medicine",
+      "tier": "core"
+    },
+    {
+      "id": "bl18-003",
+      "stem": "A patient is described as a \"universal recipient\" who can safely receive red blood cells of any ABO and Rh type. Which of the following is this patient's blood type?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A-positive"
+        },
+        {
+          "label": "B",
+          "text": "AB-positive"
+        },
+        {
+          "label": "C",
+          "text": "B-negative"
+        },
+        {
+          "label": "D",
+          "text": "O-negative"
+        },
+        {
+          "label": "E",
+          "text": "O-positive"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "AB-positive patients have no anti-A, anti-B, or anti-D antibodies, so they can receive any blood type.",
+        "whyCorrect": "An AB-positive patient carries the A, B, and D antigens on their RBCs and therefore makes no antibodies against these antigens. With no anti-A, anti-B, or anti-D antibodies in their plasma, they can receive any type of blood, making them the universal recipient.",
+        "whyWrongByChoice": {
+          "A": "A-positive patients have anti-B antibodies and cannot receive B or AB blood.",
+          "C": "B-negative patients have anti-A (and possibly anti-D) antibodies and cannot receive A, AB, or Rh-positive blood.",
+          "D": "O-negative patients have anti-A, anti-B, and (if exposed) anti-D antibodies, so they can receive only O-negative blood.",
+          "E": "O-positive patients have anti-A and anti-B antibodies, limiting them to O-positive or O-negative blood."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "ABO",
+        "Rh",
+        "universal recipient"
+      ],
+      "topicId": "transfusion-medicine",
+      "topicName": "Transfusion Medicine",
+      "tier": "core"
+    },
+    {
+      "id": "bl18-004",
+      "stem": "A blood bank technologist notes that a particular patient's plasma may contain both anti-A antibodies and anti-Rh (anti-D) antibodies. Which of the following blood types is most consistent with this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A-negative"
+        },
+        {
+          "label": "B",
+          "text": "A-positive"
+        },
+        {
+          "label": "C",
+          "text": "AB-positive"
+        },
+        {
+          "label": "D",
+          "text": "B-negative"
+        },
+        {
+          "label": "E",
+          "text": "B-positive"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A B-negative person lacks the A antigen and the D antigen, so they can form anti-A (naturally) and anti-D (after exposure).",
+        "whyCorrect": "B-negative red cells carry only the B antigen (no A, no D). Anti-A antibodies are naturally occurring in anyone who lacks the A antigen. Anti-Rh (anti-D) antibodies are not naturally occurring but can develop after an Rh-negative person is exposed to Rh-positive blood. A B-negative patient can therefore have both anti-A and anti-D antibodies.",
+        "whyWrongByChoice": {
+          "A": "An A-negative patient has the A antigen and would not make anti-A; they could make anti-D only if exposed.",
+          "B": "An A-positive patient has the A and D antigens, so they make neither anti-A nor anti-D antibodies.",
+          "C": "An AB-positive patient has A, B, and D antigens and makes no ABO or anti-D antibodies at all.",
+          "E": "A B-positive patient has the D antigen and would not make anti-D antibodies."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ABO",
+        "Rh",
+        "antibodies"
+      ],
+      "topicId": "transfusion-medicine",
+      "topicName": "Transfusion Medicine",
+      "tier": "core"
+    },
+    {
+      "id": "bl18-005",
+      "stem": "An Rh-negative woman is pregnant with her first child. Her physician plans to give an injection of anti-D antibody (RhoGAM) during pregnancy and again immediately after delivery. Which of the following best describes how this injection prevents harm in future pregnancies?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It binds fetal Rh-positive red cells"
+        },
+        {
+          "label": "B",
+          "text": "It converts the mother's blood type to Rh-positive"
+        },
+        {
+          "label": "C",
+          "text": "It crosses the placenta to protect the fetal red cells directly"
+        },
+        {
+          "label": "D",
+          "text": "It replaces the fetal red cells destroyed by maternal antibodies"
+        },
+        {
+          "label": "E",
+          "text": "It suppresses production of naturally occurring anti-A and anti-B antibodies"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "RhoGAM is an anti-D antibody that masks fetal Rh-positive cells so the mother never becomes sensitized to the D antigen.",
+        "whyCorrect": "If fetal Rh-positive RBCs enter the Rh-negative mother's circulation, the RhoGAM anti-D antibodies bind those cells and prevent the mother's immune system from \"seeing\" the Rh antigen. This blocks formation of maternal anti-D antibodies. It is given both during pregnancy and immediately after delivery because fetal blood may enter maternal circulation at any time.",
+        "whyWrongByChoice": {
+          "B": "RhoGAM does not change the mother's blood type; she remains Rh-negative.",
+          "C": "RhoGAM (like the anti-D antibody used) does not cross the placenta; that property is what makes it safe.",
+          "D": "RhoGAM does not replace red cells; it prevents maternal sensitization to the D antigen.",
+          "E": "RhoGAM targets the D (Rh) antigen only and has no effect on naturally occurring anti-A and anti-B antibodies."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Rh",
+        "HDN",
+        "RhoGAM"
+      ],
+      "topicId": "transfusion-medicine",
+      "topicName": "Transfusion Medicine",
+      "tier": "core"
+    },
+    {
+      "id": "bl18-006",
+      "stem": "An Rh-negative woman with an Rh-positive fetus received no anti-D prophylaxis during her first pregnancy, which was uncomplicated. During a later pregnancy with a second Rh-positive fetus, the fetus develops severe hemolytic anemia, jaundice, and hepatomegaly. Which of the following best explains why the first fetus was spared but the second was affected?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anti-Rh antibodies are naturally occurring and take years to reach high levels"
+        },
+        {
+          "label": "B",
+          "text": "Fetal red cells only enter maternal circulation during a second pregnancy"
+        },
+        {
+          "label": "C",
+          "text": "The first fetus was Rh-negative and the second was Rh-positive"
+        },
+        {
+          "label": "D",
+          "text": "The mother developed anti-A antibodies rather than anti-Rh antibodies"
+        },
+        {
+          "label": "E",
+          "text": "The mother's initial anti-Rh antibodies were IgM and too large to cross the placenta"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "In hemolytic disease of the newborn, the first-pregnancy anti-Rh response is IgM (cannot cross placenta), while later IgG antibodies do cross and attack the fetus.",
+        "whyCorrect": "When fetal Rh-positive cells first sensitize the Rh-negative mother, the initial anti-Rh antibodies are IgM, which are too big to cross the placenta, so there is usually no harm in the current pregnancy. Over time these antibodies become IgG, which can cross the placenta. In a subsequent pregnancy with an Rh-positive fetus, maternal IgG anti-Rh antibodies cross and hemolyze the fetal red cells, causing hemolytic disease of the newborn.",
+        "whyWrongByChoice": {
+          "A": "Anti-Rh antibodies are not naturally occurring; they form only after exposure to Rh-positive blood.",
+          "B": "Fetal red cells can enter maternal circulation during the first delivery (and sometimes pregnancy), which is what sensitizes the mother.",
+          "C": "The stem specifies both fetuses were Rh-positive, so a change in fetal Rh type does not explain the difference.",
+          "D": "The disease is caused by anti-Rh (anti-D) antibodies, not anti-A antibodies."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Rh",
+        "HDN",
+        "IgG"
+      ],
+      "topicId": "transfusion-medicine",
+      "topicName": "Transfusion Medicine",
+      "tier": "core"
+    },
+    {
+      "id": "bl18-007",
+      "stem": "A 45-year-old man with recurrent gastrointestinal bleeding is being prepared for an urgent transfusion. As part of pre-transfusion testing, his serum is combined with the actual red blood cells from the unit to be transfused, and the sample is observed for agglutination or hemolysis. Which of the following steps is being performed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ABO forward typing"
+        },
+        {
+          "label": "B",
+          "text": "Antibody screen"
+        },
+        {
+          "label": "C",
+          "text": "Cross-matching"
+        },
+        {
+          "label": "D",
+          "text": "Reverse typing"
+        },
+        {
+          "label": "E",
+          "text": "Rh (D antigen) typing"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The cross-match is the only pre-transfusion step that mixes recipient serum with the actual donor red cells.",
+        "whyCorrect": "Cross-matching is like a mini-transfusion: the patient's serum is combined with the specific donor RBCs. If agglutination or hemolysis occurs, the patient has an antibody against an antigen on those donor cells and the unit must not be transfused. It is the only step that uses the actual donated red cells and is done immediately before transfusion.",
+        "whyWrongByChoice": {
+          "A": "Forward typing uses the patient's own RBCs and known anti-A/anti-B reagents, not donor cells.",
+          "B": "The antibody screen tests patient serum against a manufactured panel of reagent RBCs, not the specific donor unit.",
+          "D": "Reverse typing tests patient serum against known type A and type B reagent cells to confirm ABO type.",
+          "E": "Rh typing detects the D antigen on the patient's own red cells using anti-D reagent."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pre-transfusion testing",
+        "cross-match"
+      ],
+      "topicId": "transfusion-medicine",
+      "topicName": "Transfusion Medicine",
+      "tier": "core"
+    },
+    {
+      "id": "bl18-008",
+      "stem": "A patient with active bleeding is found to have a very low fibrinogen level (fibrinogen < 100 mg/dL). Which of the following blood products is the most appropriate choice to correct this deficiency?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cryoprecipitate"
+        },
+        {
+          "label": "B",
+          "text": "Fresh frozen plasma"
+        },
+        {
+          "label": "C",
+          "text": "Granulocytes"
+        },
+        {
+          "label": "D",
+          "text": "Packed red blood cells"
+        },
+        {
+          "label": "E",
+          "text": "Platelets"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Cryoprecipitate is the concentrated source of fibrinogen and is preferred for bleeding with low fibrinogen.",
+        "whyCorrect": "Cryoprecipitate contains fibrinogen, factor VIII, and von Willebrand factor and is indicated for bleeding emergencies in patients with fibrinogen deficiency (fibrinogen < 100). It is made by thawing fresh frozen plasma and collecting the precipitate, concentrating the fibrinogen.",
+        "whyWrongByChoice": {
+          "B": "Fresh frozen plasma does contain fibrinogen, but it is diluted in a large volume of plasma, making it less efficient for correcting isolated low fibrinogen.",
+          "C": "Granulocytes are used for uncontrolled infection with a very low neutrophil count, not for bleeding.",
+          "D": "Packed RBCs are used for severe symptomatic anemia and do not contain clotting factors.",
+          "E": "Platelets treat bleeding due to thrombocytopenia and would not correct low fibrinogen."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "blood products",
+        "cryoprecipitate",
+        "fibrinogen"
+      ],
+      "topicId": "transfusion-medicine",
+      "topicName": "Transfusion Medicine",
+      "tier": "core"
+    },
+    {
+      "id": "bl18-009",
+      "stem": "A patient with symptomatic anemia and a hemoglobin of 6.5 g/dL is transfused one unit of packed red blood cells. Which of the following best describes the expected effect of this single unit?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It corrects a low fibrinogen level"
+        },
+        {
+          "label": "B",
+          "text": "It provides white blood cells to fight infection"
+        },
+        {
+          "label": "C",
+          "text": "It raises the hemoglobin by approximately 1 g/dL"
+        },
+        {
+          "label": "D",
+          "text": "It raises the platelet count by 30,000-50,000/mm3"
+        },
+        {
+          "label": "E",
+          "text": "It replaces all of the patient's coagulation factors"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Packed RBCs are given for severe symptomatic anemia; one unit raises hemoglobin by roughly 1 g/dL.",
+        "whyCorrect": "Packed red blood cells are indicated for severe anemia (hemoglobin < 7 g/dL, or < 8 g/dL with symptoms) to increase the oxygen-carrying capacity of blood. One unit of packed RBCs raises the hemoglobin by approximately 1 g/dL.",
+        "whyWrongByChoice": {
+          "A": "Correcting low fibrinogen is the role of cryoprecipitate.",
+          "B": "Granulocyte transfusions provide white blood cells; packed RBCs contain concentrated red cells.",
+          "D": "Raising the platelet count by 30,000-50,000/mm3 describes a unit of apheresis platelets, not packed RBCs.",
+          "E": "Fresh frozen plasma, not packed RBCs, contains the coagulation factors."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "blood products",
+        "packed RBCs",
+        "anemia"
+      ],
+      "topicId": "transfusion-medicine",
+      "topicName": "Transfusion Medicine",
+      "tier": "core"
+    },
+    {
+      "id": "bl18-010",
+      "stem": "Several minutes after starting a transfusion of packed red blood cells, a patient becomes hypotensive and short of breath and develops hives all over her body. She does not have a fever. Which of the following types of transfusion reaction is she most likely experiencing?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute hemolytic transfusion reaction"
+        },
+        {
+          "label": "B",
+          "text": "Allergic transfusion reaction"
+        },
+        {
+          "label": "C",
+          "text": "Delayed hemolytic transfusion reaction"
+        },
+        {
+          "label": "D",
+          "text": "Febrile nonhemolytic transfusion reaction"
+        },
+        {
+          "label": "E",
+          "text": "Transfusion-related acute lung injury"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "An allergic (IgE-mediated) transfusion reaction presents with urticaria, wheezing, and hypotension without fever.",
+        "whyCorrect": "This patient is experiencing difficulty breathing and hypotension from mast cell and histamine activation, causing vasodilation and urticaria, all consistent with an anaphylactic (allergic, type 1 hypersensitivity) reaction to allergens in the donor blood. Dyspnea plus hives plus hypotension points to an IgE-mediated reaction.",
+        "whyWrongByChoice": {
+          "A": "Acute hemolytic reactions present with fever, back pain, and hemoglobinuria, not urticaria.",
+          "C": "Delayed hemolytic reactions occur roughly a week or more after transfusion, not within minutes.",
+          "D": "Febrile nonhemolytic reactions present with fever and flushing, and this patient has no fever.",
+          "E": "Transfusion-related acute lung injury causes hypoxia and respiratory failure but not the hives seen here, and the dyspnea-plus-hives-plus-hypotension picture is classic for an IgE-mediated reaction."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "transfusion reactions",
+        "allergic",
+        "anaphylaxis"
+      ],
+      "topicId": "transfusion-medicine",
+      "topicName": "Transfusion Medicine",
+      "tier": "core"
+    },
+    {
+      "id": "bl18-011",
+      "stem": "A severely immunocompromised transplant recipient receives a packed red blood cell transfusion. About 8 days later he develops fever, a diffuse rash, watery diarrhea, and hepatomegaly, and his condition rapidly deteriorates. Which of the following would most likely have prevented this complication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Irradiation of the blood product before transfusion"
+        },
+        {
+          "label": "B",
+          "text": "Leukoreduction to remove donor leukocytes to reduce febrile reactions"
+        },
+        {
+          "label": "C",
+          "text": "Premedication with antihistamines"
+        },
+        {
+          "label": "D",
+          "text": "Pretreatment with antipyretics"
+        },
+        {
+          "label": "E",
+          "text": "Use of O-negative red cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Transfusion-associated graft-versus-host disease is caused by donor T lymphocytes and is prevented by irradiating blood products.",
+        "whyCorrect": "The fever, rash, diarrhea, and hepatomegaly appearing 7-10 days after transfusion in an immunocompromised patient describe transfusion-associated graft-versus-host disease, in which donor T lymphocytes attack the host's tissues. It is 80-90% fatal, and prevention is achieved by irradiating the blood product to disable donor lymphocytes.",
+        "whyWrongByChoice": {
+          "B": "Leukoreduction reduces febrile reactions and CMV transmission but does not reliably prevent graft-versus-host disease, which requires irradiation.",
+          "C": "Antihistamines are used for allergic reactions, not graft-versus-host disease.",
+          "D": "Antipyretics treat fever symptomatically and do not prevent graft-versus-host disease.",
+          "E": "Using O-negative cells addresses ABO/Rh compatibility, not donor lymphocyte-mediated disease."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "transfusion reactions",
+        "graft-versus-host disease",
+        "irradiation"
+      ],
+      "topicId": "transfusion-medicine",
+      "topicName": "Transfusion Medicine",
+      "tier": "core"
+    },
+    {
+      "id": "bl18-012",
+      "stem": "A patient receiving a red blood cell transfusion develops fever and flushing but no hypotension, back pain, hemoglobinuria, or urticaria. The reaction is attributed to recipient antibodies directed against HLA antigens on donor leukocytes. Which of the following interventions would most reduce the incidence of this type of reaction in the future?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Giving only O-negative units"
+        },
+        {
+          "label": "B",
+          "text": "Irradiation of the blood product"
+        },
+        {
+          "label": "C",
+          "text": "Leukoreduction of the blood product"
+        },
+        {
+          "label": "D",
+          "text": "Premedication with epinephrine"
+        },
+        {
+          "label": "E",
+          "text": "Transfusing cryoprecipitate instead"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Febrile nonhemolytic reactions result from antibodies against donor leukocytes and are reduced by leukoreduction.",
+        "whyCorrect": "A febrile nonhemolytic transfusion reaction is caused by recipient antibodies against HLA antigens on donor leukocytes and presents with fever and flushing. Removing the white blood cells from the product (leukoreduction) reduces the incidence of these reactions; antipyretic premedication may also be used.",
+        "whyWrongByChoice": {
+          "A": "O-negative units address ABO/Rh compatibility and do not target leukocyte-related febrile reactions.",
+          "B": "Irradiation prevents transfusion-associated graft-versus-host disease, not febrile nonhemolytic reactions.",
+          "D": "Epinephrine is used to treat anaphylaxis from allergic reactions, not to prevent febrile reactions.",
+          "E": "Cryoprecipitate is a specific product for fibrinogen deficiency and is unrelated to preventing febrile reactions."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "transfusion reactions",
+        "febrile nonhemolytic",
+        "leukoreduction"
+      ],
+      "topicId": "transfusion-medicine",
+      "topicName": "Transfusion Medicine",
+      "tier": "core"
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "categories": [
     {
-      "id": "rbc-and-anemias",
-      "name": "Red Blood Cells & Anemias",
+      "id": "w1s1",
+      "name": "Session 1",
       "topics": [
         {
           "id": "hematopoiesis",
@@ -29,13 +29,30 @@
           "questionCount": 36
         },
         {
+          "id": "red-blood-cell-laboratory-tests-b09",
+          "name": "Red Blood Cell Laboratory Tests",
+          "sourceFile": "Blood Brick 9",
+          "coreCount": 12,
+          "extraCount": 0,
+          "questionCount": 12
+        },
+        {
           "id": "history-taking-approach-to-anemia",
           "name": "History-Taking Approach to Anemia",
           "sourceFile": "Blood Brick 4",
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
-        },
+        }
+      ],
+      "week": 1,
+      "weekName": "Week 1",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w1s2",
+      "name": "Session 2",
+      "topics": [
         {
           "id": "iron-deficiency-anemia",
           "name": "Iron-Deficiency Anemia",
@@ -67,15 +84,16 @@
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
-        },
-        {
-          "id": "red-blood-cell-laboratory-tests-b09",
-          "name": "Red Blood Cell Laboratory Tests",
-          "sourceFile": "Blood Brick 9",
-          "coreCount": 12,
-          "extraCount": 0,
-          "questionCount": 12
-        },
+        }
+      ],
+      "week": 1,
+      "weekName": "Week 1",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w1s3",
+      "name": "Session 3",
+      "topics": [
         {
           "id": "aplastic-anemia",
           "name": "Aplastic Anemia",
@@ -124,11 +142,14 @@
           "extraCount": 24,
           "questionCount": 36
         }
-      ]
+      ],
+      "week": 1,
+      "weekName": "Week 1",
+      "weekSubtitle": ""
     },
     {
-      "id": "hemostasis-thrombosis-platelets",
-      "name": "Hemostasis, Thrombosis & Platelets",
+      "id": "w2s1",
+      "name": "Session 1",
       "topics": [
         {
           "id": "coagulation-assays",
@@ -153,7 +174,16 @@
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
-        },
+        }
+      ],
+      "week": 2,
+      "weekName": "Week 2",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w2s2",
+      "name": "Session 2",
+      "topics": [
         {
           "id": "hemophilia",
           "name": "Hemophilia",
@@ -201,7 +231,16 @@
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
-        },
+        }
+      ],
+      "week": 2,
+      "weekName": "Week 2",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w2s3",
+      "name": "Session 3",
+      "topics": [
         {
           "id": "hereditary-platelet-disorders",
           "name": "Hereditary Platelet Disorders",
@@ -241,13 +280,7 @@
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
-        }
-      ]
-    },
-    {
-      "id": "malignancies-and-chemo",
-      "name": "Leukemias, Lymphomas & Chemotherapy",
-      "topics": [
+        },
         {
           "id": "hematopoietic-neoplasms-foundations-and-frameworks",
           "name": "Hematopoietic Neoplasms: Foundations and Frameworks",
@@ -263,7 +296,16 @@
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
-        },
+        }
+      ],
+      "week": 2,
+      "weekName": "Week 2",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w3s1_2",
+      "name": "Sessions 1 & 2",
+      "topics": [
         {
           "id": "acute-lymphoblastic-leukemia-lymphoma",
           "name": "Acute Lymphoblastic Leukemia/Lymphoma",
@@ -327,7 +369,16 @@
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
-        },
+        }
+      ],
+      "week": 3,
+      "weekName": "Week 3",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w3s3",
+      "name": "Session 3",
+      "topics": [
         {
           "id": "b-cell-non-hodgkin-lymphomas",
           "name": "B-Cell Non-Hodgkin Lymphomas (Part 1 of 2)",
@@ -375,7 +426,16 @@
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
-        },
+        }
+      ],
+      "week": 3,
+      "weekName": "Week 3",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w3s4",
+      "name": "Session 4",
+      "topics": [
         {
           "id": "chronic-myeloid-leukemia",
           "name": "Chronic Myeloid Leukemia",
@@ -432,11 +492,14 @@
           "extraCount": 24,
           "questionCount": 36
         }
-      ]
+      ],
+      "week": 3,
+      "weekName": "Week 3",
+      "weekSubtitle": ""
     },
     {
-      "id": "organs-and-infections",
-      "name": "Spleen, Thymus & Hematologic Infections",
+      "id": "w4s1",
+      "name": "Session 1",
       "topics": [
         {
           "id": "structure-and-function-of-the-spleen",
@@ -469,7 +532,16 @@
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
-        },
+        }
+      ],
+      "week": 4,
+      "weekName": "Week 4",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w4s2",
+      "name": "Session 2",
+      "topics": [
         {
           "id": "plasmodium-babesia-brucella",
           "name": "Plasmodium spp., Babesia spp., and Brucella spp.",
@@ -502,7 +574,10 @@
           "extraCount": 24,
           "questionCount": 36
         }
-      ]
+      ],
+      "week": 4,
+      "weekName": "Week 4",
+      "weekSubtitle": ""
     }
   ],
   "totalQuestions": 2136

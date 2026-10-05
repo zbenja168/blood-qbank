@@ -1,0 +1,2832 @@
+{
+  "categoryId": "w1s1",
+  "categoryName": "Session 1",
+  "questions": [
+    {
+      "id": "bl01-001",
+      "stem": "A 68-year-old man with primary myelofibrosis, in which his bone marrow is progressively replaced by fibrosis, is found on exam to have marked hepatosplenomegaly. A biopsy of the enlarged right upper quadrant organ shows clusters of developing erythroid and myeloid precursors. Reactivation of blood cell production in which of the following organs best explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Kidney"
+        },
+        {
+          "label": "B",
+          "text": "Liver"
+        },
+        {
+          "label": "C",
+          "text": "Lymph node"
+        },
+        {
+          "label": "D",
+          "text": "Thymus"
+        },
+        {
+          "label": "E",
+          "text": "Yolk sac"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "When the bone marrow fails, blood formation can resume in former fetal sites such as the liver and spleen (extramedullary hematopoiesis).",
+        "whyCorrect": "The liver and spleen serve as hematopoietic organs during fetal life and are normally inactive after birth, but they can revert to producing blood cells when the marrow cannot, such as in bone marrow failure or fibrosis. This is termed extramedullary hematopoiesis and produces the hepatosplenomegaly seen here.",
+        "whyWrongByChoice": {
+          "A": "The kidney secretes erythropoietin but is not itself a site of blood cell production.",
+          "C": "Lymph nodes are secondary lymphoid tissue and are not described as sites that revert to hematopoiesis in marrow failure.",
+          "D": "The thymus supports T-cell maturation, not erythroid and myeloid precursor production, and is not a reserve hematopoietic organ.",
+          "E": "The yolk sac is an embryonic hematopoietic site that ceases and does not persist into postnatal life."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hematopoiesis",
+        "extramedullary hematopoiesis",
+        "myelofibrosis"
+      ],
+      "topicId": "hematopoiesis",
+      "topicName": "Hematopoiesis",
+      "tier": "core"
+    },
+    {
+      "id": "bl01-002",
+      "stem": "During a study of fetal development, blood cell production is examined at the fourth month of gestation. Which of the following organs is the chief site of hematopoiesis at this stage?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bone marrow"
+        },
+        {
+          "label": "B",
+          "text": "Kidney"
+        },
+        {
+          "label": "C",
+          "text": "Liver"
+        },
+        {
+          "label": "D",
+          "text": "Thymus"
+        },
+        {
+          "label": "E",
+          "text": "Yolk sac"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The fetal liver is the main hematopoietic organ from roughly the second to the seventh month of gestation.",
+        "whyCorrect": "After the earliest embryonic hematopoiesis, stem cells infiltrate the liver, which functions as the hematopoietic system from the second to the seventh months of gestation. The fourth month therefore falls within the period of dominant hepatic blood formation.",
+        "whyWrongByChoice": {
+          "A": "The bone marrow only takes over as the definitive site beginning around the seventh month of gestation.",
+          "B": "The kidney produces erythropoietin later in life but is not a hematopoietic organ.",
+          "D": "The thymus is a site of T-cell maturation, not the primary organ of overall blood cell production.",
+          "E": "The yolk sac is the earliest embryonic site but its contribution has ended well before the fourth month."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hematopoiesis",
+        "fetal development",
+        "liver"
+      ],
+      "topicId": "hematopoiesis",
+      "topicName": "Hematopoiesis",
+      "tier": "core"
+    },
+    {
+      "id": "bl01-003",
+      "stem": "A 45-year-old woman requires a bone marrow biopsy to evaluate a suspected hematologic disorder. Which of the following is the preferred site for obtaining the marrow sample in this adult patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anteromedial proximal tibia"
+        },
+        {
+          "label": "B",
+          "text": "Body of the sternum"
+        },
+        {
+          "label": "C",
+          "text": "Distal radial metaphysis"
+        },
+        {
+          "label": "D",
+          "text": "Midshaft of the femur"
+        },
+        {
+          "label": "E",
+          "text": "Posterior iliac crest"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The posterior iliac crest is the preferred site for bone marrow sampling in adults.",
+        "whyCorrect": "The preferred site for bone marrow sampling is the posterior iliac crest (the back of the hip bone), which safely allows both aspiration and biopsy.",
+        "whyWrongByChoice": {
+          "A": "The tibia is the preferred site in infants and young children, not in adults.",
+          "B": "The sternum is used only as a last resort in adults, and only aspiration (not biopsy) is permitted because of the risk of injuring underlying structures.",
+          "C": "The distal radius is not a described site for marrow sampling.",
+          "D": "The femoral shaft is not the preferred sampling location described for adults."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "bone marrow",
+        "biopsy",
+        "clinical correlation"
+      ],
+      "topicId": "hematopoiesis",
+      "topicName": "Hematopoiesis",
+      "tier": "core"
+    },
+    {
+      "id": "bl01-004",
+      "stem": "A 12-year-old boy with fatigue and easy bruising has a peripheral blood smear showing numerous immature blast cells that are normally confined to the bone marrow. This finding is most concerning for which of the following conditions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Extramedullary hematopoiesis"
+        },
+        {
+          "label": "B",
+          "text": "Iron deficiency anemia"
+        },
+        {
+          "label": "C",
+          "text": "Leukemia"
+        },
+        {
+          "label": "D",
+          "text": "Polycythemia from high altitude"
+        },
+        {
+          "label": "E",
+          "text": "Reactive reticulocytosis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Blasts are normally restricted to the marrow; their appearance in peripheral blood suggests leukemia.",
+        "whyCorrect": "Blasts are normally present in the bone marrow but not in the peripheral blood. Their presence in the peripheral blood is concerning for leukemia, a condition in which blasts overgrow due to uncontrolled proliferation of neoplastic blast cells.",
+        "whyWrongByChoice": {
+          "A": "Extramedullary hematopoiesis reflects blood formation resuming in organs such as the liver and spleen, not neoplastic blasts flooding the blood.",
+          "B": "Iron deficiency anemia produces small, pale red cells, not circulating blasts.",
+          "D": "High-altitude polycythemia raises mature red cell mass through erythropoietin, without producing circulating blasts.",
+          "E": "Reticulocytosis is an increase in immature red cells, not nucleated blast cells, and reflects red cell turnover rather than malignancy."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "leukopoiesis",
+        "blasts",
+        "leukemia"
+      ],
+      "topicId": "hematopoiesis",
+      "topicName": "Hematopoiesis",
+      "tier": "core"
+    },
+    {
+      "id": "bl01-005",
+      "stem": "A 55-year-old man with chronic obstructive pulmonary disease and chronic hypoxemia is found to have an elevated red blood cell count. The increased red cell production is driven by a hormone secreted mainly by cells in which of the following organs?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bone marrow"
+        },
+        {
+          "label": "B",
+          "text": "Heart"
+        },
+        {
+          "label": "C",
+          "text": "Kidney"
+        },
+        {
+          "label": "D",
+          "text": "Liver"
+        },
+        {
+          "label": "E",
+          "text": "Spleen"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Erythropoietin, the primary stimulator of red cell production, is secreted mainly by the kidney in response to hypoxia.",
+        "whyCorrect": "Low systemic oxygen, as in chronic lung disease, causes the kidney to secrete erythropoietin, which can rise up to 1,000-fold during hypoxia. The kidney is the major source of erythropoietin, produced by renal interstitial cells around the peritubular capillaries of the renal cortex.",
+        "whyWrongByChoice": {
+          "A": "The bone marrow is the target that responds to erythropoietin by making red cells, not the source of the hormone.",
+          "B": "The heart is not involved in secreting hormones that stimulate blood cell production.",
+          "D": "The liver is the primary erythropoietin source in the fetus and can make some in adults, but it is far less important than the kidney postnatally.",
+          "E": "The spleen removes aged red cells but does not secrete erythropoietin."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "erythropoietin",
+        "hypoxia",
+        "erythropoiesis"
+      ],
+      "topicId": "hematopoiesis",
+      "topicName": "Hematopoiesis",
+      "tier": "core"
+    },
+    {
+      "id": "bl01-006",
+      "stem": "Circulating erythropoietin binds its receptor on red blood cell progenitor cells and stimulates their maturation. Activation of which of the following intracellular signaling pathways mediates this effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gq protein with IP3 and diacylglycerol"
+        },
+        {
+          "label": "B",
+          "text": "Gs protein and cyclic AMP"
+        },
+        {
+          "label": "C",
+          "text": "Guanylate cyclase and cyclic GMP"
+        },
+        {
+          "label": "D",
+          "text": "Intracellular steroid hormone receptor acting on DNA"
+        },
+        {
+          "label": "E",
+          "text": "JAK/STAT tyrosine kinase cascade"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Erythropoietin signals through a JAK/STAT tyrosine kinase cascade to drive red cell maturation.",
+        "whyCorrect": "When circulating erythropoietin binds erythropoietin receptors on red blood cell progenitor cells at the first stage of differentiation, binding stimulates red cell maturation by activating a JAK/STAT tyrosine kinase signaling cascade.",
+        "whyWrongByChoice": {
+          "A": "The Gq/IP3/DAG pathway is a G-protein-coupled second messenger system, not the JAK/STAT cascade used by erythropoietin.",
+          "B": "The Gs/cAMP pathway is used by many peptide hormones but is not the mechanism described for erythropoietin.",
+          "C": "Guanylate cyclase/cGMP signaling is used by agents such as nitric oxide, not by erythropoietin.",
+          "D": "Erythropoietin is a peptide hormone acting at a cell-surface receptor, not a steroid acting on an intracellular DNA-binding receptor."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "erythropoietin",
+        "signal transduction",
+        "JAK/STAT"
+      ],
+      "topicId": "hematopoiesis",
+      "topicName": "Hematopoiesis",
+      "tier": "core"
+    },
+    {
+      "id": "bl01-007",
+      "stem": "A 60-year-old woman with long-standing chronic kidney disease has a normocytic anemia with an inappropriately low reticulocyte count. Which of the following best explains the underlying cause of her anemia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antibody-mediated destruction of circulating red cells"
+        },
+        {
+          "label": "B",
+          "text": "Dietary iron deficiency from poor intake"
+        },
+        {
+          "label": "C",
+          "text": "Overproduction of erythropoietin causing marrow exhaustion"
+        },
+        {
+          "label": "D",
+          "text": "Reduced erythropoietin production by damaged renal cells"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin B12 deficiency impairing DNA synthesis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Anemia of chronic kidney disease results largely from failure of damaged renal cells to make enough erythropoietin.",
+        "whyCorrect": "In chronic kidney disease, renal cells are damaged and fail to make sufficient erythropoietin, leading to reduced hematopoiesis and anemia; shortened red cell survival contributes as well. The low reticulocyte count reflects inadequate erythropoietic stimulation, and treatment uses erythropoiesis-stimulating agents such as epoetin.",
+        "whyWrongByChoice": {
+          "A": "Antibody-mediated hemolysis would raise, not lower, the reticulocyte count as the marrow compensates.",
+          "B": "Iron deficiency is a separate cause of anemia and is not the mechanism attributed to kidney disease here.",
+          "C": "Chronic kidney disease causes a deficiency, not an excess, of erythropoietin.",
+          "E": "Vitamin B12 deficiency causes a macrocytic anemia and is not the described renal mechanism."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "erythropoietin",
+        "chronic kidney disease",
+        "anemia"
+      ],
+      "topicId": "hematopoiesis",
+      "topicName": "Hematopoiesis",
+      "tier": "core"
+    },
+    {
+      "id": "bl01-008",
+      "stem": "A 30-year-old man presents with anemia. Laboratory studies show a markedly elevated reticulocyte count. This finding most strongly suggests that his anemia is caused by which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aplastic marrow with absent precursors"
+        },
+        {
+          "label": "B",
+          "text": "Erythropoietin deficiency"
+        },
+        {
+          "label": "C",
+          "text": "Failure of erythropoiesis from bone marrow disease"
+        },
+        {
+          "label": "D",
+          "text": "Increased destruction of red blood cells"
+        },
+        {
+          "label": "E",
+          "text": "Iron deficiency limiting red cell production"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A high reticulocyte count in an anemic patient points to increased red cell destruction, such as hemolysis.",
+        "whyCorrect": "Reticulocytes are counted during evaluation of anemia. Increased counts are seen when anemia is caused by increased red blood cell destruction, such as hemolysis, because the marrow responds by releasing more immature red cells.",
+        "whyWrongByChoice": {
+          "A": "An aplastic marrow lacks precursors and cannot mount a reticulocyte response, so the count would be low.",
+          "B": "Erythropoietin deficiency reduces erythropoietic drive and lowers the reticulocyte count.",
+          "C": "Failure of erythropoiesis from bone marrow disease produces a reduced, not elevated, reticulocyte count.",
+          "E": "Iron deficiency reflects failure of red cell production and is associated with a low reticulocyte response."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "reticulocyte",
+        "hemolysis",
+        "anemia"
+      ],
+      "topicId": "hematopoiesis",
+      "topicName": "Hematopoiesis",
+      "tier": "core"
+    },
+    {
+      "id": "bl01-009",
+      "stem": "A histology student reviews the maturation of red blood cell precursors in the bone marrow. Which of the following changes normally occurs as the red cell matures?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The cell progressively enlarges"
+        },
+        {
+          "label": "B",
+          "text": "The chromatin becomes progressively less condensed"
+        },
+        {
+          "label": "C",
+          "text": "The cytoplasm changes from deep blue to red"
+        },
+        {
+          "label": "D",
+          "text": "The nucleus enlarges as the cell matures"
+        },
+        {
+          "label": "E",
+          "text": "The nucleus is retained in the mature red blood cell"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "During erythropoiesis the cytoplasm shifts from deep blue to red and develops a pale center as hemoglobin accumulates.",
+        "whyCorrect": "As the red cell matures, the cytoplasm turns from deep blue to red and then develops a pale center due to peripheral localization of hemoglobin. The cell shrinks, the nucleus shrinks and disappears, and the chromatin evolves from very fine to very condensed.",
+        "whyWrongByChoice": {
+          "A": "The cell shrinks rather than enlarges during maturation.",
+          "B": "The chromatin pattern evolves from very fine to very condensed, the opposite of becoming less condensed.",
+          "D": "The nucleus shrinks, becomes darker, and disappears rather than enlarging.",
+          "E": "Mature red blood cells lack a nucleus, which is why they cannot divide."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "erythropoiesis",
+        "histology",
+        "red cell maturation"
+      ],
+      "topicId": "hematopoiesis",
+      "topicName": "Hematopoiesis",
+      "tier": "core"
+    },
+    {
+      "id": "bl01-010",
+      "stem": "A healthy adult donates blood, and the physiology of red cell turnover is discussed. Approximately how long does a normal red blood cell circulate in an adult before it is removed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "About 1 year"
+        },
+        {
+          "label": "B",
+          "text": "About 7 days"
+        },
+        {
+          "label": "C",
+          "text": "About 30 days"
+        },
+        {
+          "label": "D",
+          "text": "About 60 days"
+        },
+        {
+          "label": "E",
+          "text": "About 120 days"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Adult red blood cells circulate for roughly 120 days before macrophages remove them.",
+        "whyCorrect": "Red blood cells are removed from the circulation when they are around 120 days old in an adult (and 60 to 90 days old in an infant). Old red cells are cleared by macrophages in the spleen and liver.",
+        "whyWrongByChoice": {
+          "A": "One year greatly overestimates the roughly 120-day red cell lifespan.",
+          "B": "About a week is the approximate lifespan of a platelet, not a red blood cell.",
+          "C": "Thirty days is far shorter than the roughly 120-day adult red cell lifespan.",
+          "D": "Sixty days is closer to the lower end of the infant range, not the adult lifespan."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "erythrocyte",
+        "red cell lifespan",
+        "physiology"
+      ],
+      "topicId": "hematopoiesis",
+      "topicName": "Hematopoiesis",
+      "tier": "core"
+    },
+    {
+      "id": "bl01-011",
+      "stem": "A 58-year-old woman develops severe neutropenia after receiving chemotherapy. She is treated with filgrastim, a recombinant colony-stimulating factor (G-CSF). Increasing the number of which of the following cells is the intended effect of this therapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "B lymphocytes"
+        },
+        {
+          "label": "B",
+          "text": "Granulocytes"
+        },
+        {
+          "label": "C",
+          "text": "Monocytes only"
+        },
+        {
+          "label": "D",
+          "text": "Platelets"
+        },
+        {
+          "label": "E",
+          "text": "Red blood cells"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "G-CSF (filgrastim) stimulates production of granulocytes and is used for granulocytopenia after chemotherapy.",
+        "whyCorrect": "Granulocyte colony-stimulating factor increases granulocytes and can be used therapeutically as filgrastim (Neupogen) for granulocytopenia due to chemotherapy or other causes, or after bone marrow transplantation.",
+        "whyWrongByChoice": {
+          "A": "B-cell growth is promoted by cytokines such as IL-4, not by G-CSF.",
+          "C": "G-CSF specifically raises granulocytes; agents such as M-CSF or GM-CSF are the ones tied to monocyte increases.",
+          "D": "Platelet production is stimulated by thrombopoietin, not by G-CSF.",
+          "E": "Red blood cell production is driven by erythropoietin, not G-CSF."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "leukopoiesis",
+        "G-CSF",
+        "growth factors"
+      ],
+      "topicId": "hematopoiesis",
+      "topicName": "Hematopoiesis",
+      "tier": "core"
+    },
+    {
+      "id": "bl01-012",
+      "stem": "A megakaryocyte in the bone marrow is a very large cell, 50 to 100 micrometers in diameter, with a single prominent enlarged nucleus. This large polyploid nucleus develops through which of the following processes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Apoptosis, in which the nuclear membrane fragments during programmed cell death"
+        },
+        {
+          "label": "B",
+          "text": "Binary fission, in which the nucleus divides into separate diploid nuclei"
+        },
+        {
+          "label": "C",
+          "text": "Endomitosis, in which chromosomes replicate without nuclear division"
+        },
+        {
+          "label": "D",
+          "text": "Meiosis, in which two successive divisions produce haploid daughter cells"
+        },
+        {
+          "label": "E",
+          "text": "Ordinary mitosis, in which replicated chromosomes segregate into two identical cells"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Megakaryocytes enlarge through endomitosis, replicating DNA without dividing the nucleus or cell.",
+        "whyCorrect": "When megakaryocyte precursors receive growth signals from thrombopoietin, they undergo endomitosis, a unique type of mitosis in which the nuclear and cellular components divide but do not separate. There is chromosomal replication without nuclear division, unlike ordinary mitosis and meiosis where cells split into two.",
+        "whyWrongByChoice": {
+          "A": "Apoptosis is programmed cell death, not the mechanism by which the megakaryocyte grows and becomes polyploid.",
+          "B": "The nucleus becomes a single enlarged polyploid nucleus rather than splitting into separate nuclei.",
+          "D": "Meiosis produces haploid gametes and does not describe megakaryocyte enlargement.",
+          "E": "Ordinary mitosis splits a cell into two identical cells, whereas endomitosis specifically avoids separation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "thrombopoiesis",
+        "megakaryocyte",
+        "endomitosis"
+      ],
+      "topicId": "hematopoiesis",
+      "topicName": "Hematopoiesis",
+      "tier": "core"
+    },
+    {
+      "id": "bl02-001",
+      "stem": "A 60-year-old woman comes to the clinic with worsening shortness of breath and blue-gray discoloration of her lips and nail beds. She recently started taking a nitrate for angina. Examination shows tachycardia and cyanosis. Pulse oximetry reads 85%, but arterial blood gas analysis shows a normal PaO2, and the cyanosis does not improve with supplemental oxygen. A drawn blood sample appears chocolate brown. Which of the following is the most appropriate treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hydroxocobalamin"
+        },
+        {
+          "label": "B",
+          "text": "Hyperbaric oxygen therapy"
+        },
+        {
+          "label": "C",
+          "text": "Intravenous iron"
+        },
+        {
+          "label": "D",
+          "text": "Methylene blue"
+        },
+        {
+          "label": "E",
+          "text": "Packed red blood cell transfusion"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Nitrate-induced acquired methemoglobinemia is treated with methylene blue.",
+        "whyCorrect": "Nitrates/nitrites are oxidants that convert ferrous heme iron (Fe2+) to ferric iron (Fe3+), forming methemoglobin that cannot bind oxygen and produces cyanosis with chocolate-brown blood, a normal PaO2, and cyanosis refractory to oxygen. Methylene blue is the first-line treatment for acquired methemoglobinemia because it activates the NADPH-methemoglobin reductase pathway to reduce metHb back to functional hemoglobin.",
+        "whyWrongByChoice": {
+          "A": "Hydroxocobalamin is the antidote for cyanide poisoning, not methemoglobinemia; the vignette describes nitrate exposure.",
+          "B": "The cyanosis is refractory to oxygen because the defect is oxidized hemoglobin, so hyperbaric oxygen would not correct it.",
+          "C": "Iron corrects iron-deficiency anemia; the problem here is oxidation of existing heme iron, not iron deficiency.",
+          "E": "Transfusion does not address the oxidized hemoglobin already present and is not the primary therapy for acquired methemoglobinemia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "methemoglobinemia",
+        "methylene blue",
+        "cyanosis"
+      ],
+      "topicId": "rbc-metabolism",
+      "topicName": "RBC Metabolism",
+      "tier": "core"
+    },
+    {
+      "id": "bl02-002",
+      "stem": "A 7-year-old boy is brought to the emergency department with jaundice and dark urine two days after starting an antimalarial drug for travel prophylaxis. Laboratory studies show anemia, an elevated reticulocyte count, decreased haptoglobin, and increased serum LDH. A peripheral smear shows bite cells and red cells containing insoluble inclusions of denatured hemoglobin. A deficiency of which of the following enzymes best explains this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Erythrocyte bisphosphoglycerate mutase"
+        },
+        {
+          "label": "B",
+          "text": "NADH-dependent cytochrome b5 reductase"
+        },
+        {
+          "label": "C",
+          "text": "Glucose 6-phosphate dehydrogenase"
+        },
+        {
+          "label": "D",
+          "text": "Erythrocyte lactate dehydrogenase"
+        },
+        {
+          "label": "E",
+          "text": "Red cell pyruvate kinase isoenzyme"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Oxidant-triggered hemolysis with Heinz bodies and bite cells indicates G6PD deficiency.",
+        "whyCorrect": "G6PD generates NADPH, the sole source of reducing power for glutathione-based antioxidant defense in the mature RBC. When an oxidative trigger (such as an antimalarial drug, infection, or fava beans) overwhelms this defense, hemoglobin is oxidatively denatured into insoluble Heinz bodies; splenic macrophages remove these, creating bite cells and hemolytic anemia.",
+        "whyWrongByChoice": {
+          "A": "Bisphosphoglycerate mutase makes 2,3-BPG to modulate hemoglobin affinity and is not linked to oxidant-triggered hemolysis.",
+          "B": "Cytochrome b5 reductase deficiency causes methemoglobinemia (cyanosis, chocolate-brown blood), not oxidative hemolysis with bite cells.",
+          "D": "LDH is elevated as a marker of hemolysis; its deficiency does not produce this oxidant-triggered picture.",
+          "E": "Pyruvate kinase deficiency causes chronic hemolysis from ATP depletion, not oxidant-triggered episodes with Heinz bodies and bite cells."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "G6PD deficiency",
+        "Heinz bodies",
+        "bite cells",
+        "hemolytic anemia"
+      ],
+      "topicId": "rbc-metabolism",
+      "topicName": "RBC Metabolism",
+      "tier": "core"
+    },
+    {
+      "id": "bl02-003",
+      "stem": "A 24-year-old man is evaluated for an acute hemolytic episode that occurred during a febrile illness. A G6PD activity assay obtained during the acute event returns within the normal range, yet his clinical picture strongly suggests G6PD deficiency. Which of the following best explains the falsely normal enzyme activity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Catalase compensates by directly regenerating G6PD activity"
+        },
+        {
+          "label": "B",
+          "text": "Elevated 2,3-BPG interferes with the enzyme assay"
+        },
+        {
+          "label": "C",
+          "text": "Fever denatures the assay reagents, artificially raising measured activity"
+        },
+        {
+          "label": "D",
+          "text": "Mature RBCs continuously synthesize new G6PD to replace defective enzyme"
+        },
+        {
+          "label": "E",
+          "text": "Reticulocytes contain higher, kinetically normal G6PD activity"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Reticulocytosis during hemolysis raises measured G6PD activity and can mask deficiency.",
+        "whyCorrect": "Older RBCs have the lowest G6PD activity and lyse first, while newly released reticulocytes contain recently synthesized, kinetically normal G6PD. Testing during a hemolytic crisis, when the reticulocyte count is high, can yield falsely elevated activity. Guidelines therefore recommend testing about 3 months (roughly the 120-day RBC lifespan) after an episode.",
+        "whyWrongByChoice": {
+          "A": "Catalase detoxifies hydrogen peroxide but does not regenerate or substitute for G6PD activity.",
+          "B": "2,3-BPG modulates hemoglobin oxygen affinity and does not interfere with the G6PD assay.",
+          "C": "The falsely normal result reflects the cell population sampled, not denatured assay reagents.",
+          "D": "Mature RBCs lack a nucleus and cannot synthesize new enzyme, which is precisely why aged cells accumulate defective G6PD."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "G6PD deficiency",
+        "reticulocytes",
+        "testing window"
+      ],
+      "topicId": "rbc-metabolism",
+      "topicName": "RBC Metabolism",
+      "tier": "core"
+    },
+    {
+      "id": "bl02-004",
+      "stem": "A 4-month-old infant has had jaundice and anemia since birth. Studies show chronic hemolysis, splenomegaly, and pigmented gallstones. Genetic testing identifies a deficiency of an erythrocyte enzyme that normally provides about half of the ATP produced by glycolysis. Which of the following best describes the mechanism by which this deficiency causes hemolysis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Accumulation of oxidized hemoglobin forming Heinz bodies"
+        },
+        {
+          "label": "B",
+          "text": "Failure of ATP-dependent ion pumps, producing rigid, dehydrated red cells"
+        },
+        {
+          "label": "C",
+          "text": "Impaired NADPH generation with loss of glutathione recycling"
+        },
+        {
+          "label": "D",
+          "text": "Increased hemoglobin oxygen affinity that traps oxygen in the RBC"
+        },
+        {
+          "label": "E",
+          "text": "Oxidation of heme iron from the ferrous to the ferric state"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Pyruvate kinase deficiency depletes ATP, disabling ion pumps and making RBCs rigid and prone to lysis.",
+        "whyCorrect": "Pyruvate kinase catalyzes the final ATP-generating step of glycolysis (about 50% of glycolytic ATP). Without adequate ATP, the Na+/K+ pump fails, cells lose water and shrink, intracellular hemoglobin concentration and cytosolic viscosity rise, and the membrane becomes rigid with erratic protrusions, making the cells vulnerable to shear forces and premature clearance.",
+        "whyWrongByChoice": {
+          "A": "Heinz bodies and oxidative denaturation characterize G6PD deficiency, not the ATP-depletion mechanism of pyruvate kinase deficiency.",
+          "C": "Loss of NADPH and glutathione recycling is the mechanism of G6PD deficiency.",
+          "D": "Pyruvate kinase deficiency is actually associated with elevated 2,3-BPG that decreases affinity and improves oxygen delivery, not increased affinity.",
+          "E": "Oxidation of heme iron describes methemoglobin formation, a different disorder."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pyruvate kinase deficiency",
+        "ATP",
+        "chronic hemolysis"
+      ],
+      "topicId": "rbc-metabolism",
+      "topicName": "RBC Metabolism",
+      "tier": "core"
+    },
+    {
+      "id": "bl02-005",
+      "stem": "A researcher studies how mature erythrocytes rapidly adjust the position of the oxygen dissociation curve. She focuses on a molecule synthesized in red cells specifically to lower hemoglobin affinity for oxygen. This molecule is produced from a glycolytic intermediate by a dedicated mutase. Which of the following is this molecule?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "2,3-bisphosphoglycerate"
+        },
+        {
+          "label": "B",
+          "text": "Carbaminohemoglobin (HbCO2)"
+        },
+        {
+          "label": "C",
+          "text": "Lactate from anaerobic glycolysis"
+        },
+        {
+          "label": "D",
+          "text": "Reduced NADP (NADPH)"
+        },
+        {
+          "label": "E",
+          "text": "Reduced glutathione (GSH)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "2,3-BPG is made from 1,3-BPG by bisphosphoglycerate mutase to lower Hb oxygen affinity.",
+        "whyCorrect": "In the Rapoport-Luebering shunt, bisphosphoglycerate mutase diverts the glycolytic intermediate 1,3-bisphosphoglycerate to form 2,3-BPG. 2,3-BPG stabilizes the deoxygenated state of hemoglobin, lowering oxygen affinity and shifting the curve to the right; RBCs modulate affinity rapidly by favoring its synthesis or degradation.",
+        "whyWrongByChoice": {
+          "B": "Carbaminohemoglobin forms from CO2 binding hemoglobin, not from bisphosphoglycerate mutase.",
+          "C": "Lactate is produced from pyruvate to regenerate NAD+ for glycolysis; it lowers pH but is not the product of bisphosphoglycerate mutase.",
+          "D": "NADPH is generated by G6PD in the pentose phosphate pathway for antioxidant defense, not to modulate oxygen affinity.",
+          "E": "Reduced glutathione is an antioxidant regenerated using NADPH, unrelated to bisphosphoglycerate mutase."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "2,3-BPG",
+        "bisphosphoglycerate mutase",
+        "oxygen affinity"
+      ],
+      "topicId": "rbc-metabolism",
+      "topicName": "RBC Metabolism",
+      "tier": "core"
+    },
+    {
+      "id": "bl02-006",
+      "stem": "A physiology instructor explains why mature erythrocytes must produce lactate even when oxygen is abundant. Which of the following features of the mature red blood cell best accounts for this obligatory lactate production?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A high rate of oxidative phosphorylation in abundant mitochondria"
+        },
+        {
+          "label": "B",
+          "text": "Absence of mitochondria, limiting ATP production to glycolysis"
+        },
+        {
+          "label": "C",
+          "text": "Dependence on insulin-stimulated GLUT4 for glucose uptake"
+        },
+        {
+          "label": "D",
+          "text": "Lack of the enzyme glyceraldehyde 3-phosphate dehydrogenase"
+        },
+        {
+          "label": "E",
+          "text": "Presence of abundant enzymes for fatty acid beta-oxidation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Lacking mitochondria, RBCs rely on glycolysis and regenerate NAD+ by reducing pyruvate to lactate.",
+        "whyCorrect": "Mature erythrocytes lack all organelles, including mitochondria, so ATP production is limited to substrate-level phosphorylation in glycolysis. To keep glycolysis running, NAD+ must be regenerated, which is accomplished by reducing pyruvate to lactate; complete oxidation of glucose is impossible without mitochondria.",
+        "whyWrongByChoice": {
+          "A": "Without mitochondria, RBCs cannot perform oxidative phosphorylation at all.",
+          "C": "RBCs take up glucose via GLUT1 independent of insulin and lack insulin receptors.",
+          "D": "GAPDH is present and functions in glycolysis; its NADH also supports metHb reduction via cytochrome b5 reductase.",
+          "E": "RBCs lack mitochondria and do not perform fatty acid (beta) oxidation."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "erythrocyte metabolism",
+        "glycolysis",
+        "lactate",
+        "mitochondria"
+      ],
+      "topicId": "rbc-metabolism",
+      "topicName": "RBC Metabolism",
+      "tier": "core"
+    },
+    {
+      "id": "bl02-007",
+      "stem": "During prolonged fasting, most tissues shift their fuel utilization, yet red blood cells continue to rely on the same fuel source regardless of dietary state. Consistent with this behavior, mature erythrocytes lack receptors for both insulin and glucagon. Which of the following best explains the unwavering reliance of RBCs on this single fuel?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They depend on glycolysis and use GLUT1 to take up glucose"
+        },
+        {
+          "label": "B",
+          "text": "They oxidize ketone bodies when glucose is scarce"
+        },
+        {
+          "label": "C",
+          "text": "They perform gluconeogenesis to sustain their own glucose supply"
+        },
+        {
+          "label": "D",
+          "text": "They store glycogen for use during fasting"
+        },
+        {
+          "label": "E",
+          "text": "They switch to fatty acids as their primary energy source"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "RBCs use glucose exclusively via insulin-independent GLUT1 transport in all dietary states.",
+        "whyCorrect": "Because RBCs depend entirely on glycolysis for ATP, they must take in circulating glucose continuously. They use GLUT1 to transport glucose even at low concentrations seen with prolonged fasting, and because their fuel does not change with dietary state, they have no need for insulin or glucagon receptors.",
+        "whyWrongByChoice": {
+          "B": "Ketone body oxidation requires mitochondria, which RBCs lack.",
+          "C": "Gluconeogenesis occurs in the liver, not in erythrocytes.",
+          "D": "Mature RBCs do not store glycogen; they rely on circulating glucose.",
+          "E": "Fatty acid oxidation requires mitochondria and does not occur in RBCs."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "GLUT1",
+        "glucose",
+        "insulin-independent",
+        "erythrocyte metabolism"
+      ],
+      "topicId": "rbc-metabolism",
+      "topicName": "RBC Metabolism",
+      "tier": "core"
+    },
+    {
+      "id": "bl02-008",
+      "stem": "In the mature red blood cell, the pentose phosphate pathway is the only source of a reducing cofactor essential for antioxidant defense. Loss of this cofactor impairs the regeneration of reduced glutathione. Which of the following cofactors is produced by glucose 6-phosphate dehydrogenase to serve this role?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ATP"
+        },
+        {
+          "label": "B",
+          "text": "FADH2"
+        },
+        {
+          "label": "C",
+          "text": "NADH"
+        },
+        {
+          "label": "D",
+          "text": "NADPH"
+        },
+        {
+          "label": "E",
+          "text": "Thiamine pyrophosphate"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "G6PD produces NADPH, the sole reducing power in RBCs for regenerating glutathione.",
+        "whyCorrect": "G6PD catalyzes the first reaction of the pentose phosphate pathway and generates NADPH. In mature RBCs the PPP is the sole source of NADPH, which glutathione reductase uses to regenerate reduced glutathione (GSH) from its oxidized dimer; GSH then neutralizes oxidants via glutathione peroxidase.",
+        "whyWrongByChoice": {
+          "A": "ATP is the energy currency from glycolysis, not the reducing cofactor for glutathione.",
+          "B": "FADH2 is generated in mitochondrial pathways, which RBCs lack.",
+          "C": "NADH is produced by GAPDH in glycolysis and feeds cytochrome b5 reductase, not glutathione recycling.",
+          "E": "Thiamine pyrophosphate is a coenzyme for transketolase, not the product of G6PD used to regenerate glutathione."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "G6PD",
+        "NADPH",
+        "glutathione",
+        "pentose phosphate pathway"
+      ],
+      "topicId": "rbc-metabolism",
+      "topicName": "RBC Metabolism",
+      "tier": "core"
+    },
+    {
+      "id": "bl02-009",
+      "stem": "A newborn is noted to have persistent cyanosis and chocolate-brown blood, but arterial PaO2 is normal and the cyanosis does not respond to oxygen. There is no cardiac or pulmonary disease. The infant is found to have a congenital deficiency of the enzyme that normally keeps methemoglobin levels below about 1%. Which of the following enzymes is deficient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bisphosphoglycerate mutase"
+        },
+        {
+          "label": "B",
+          "text": "Cytochrome b5 reductase"
+        },
+        {
+          "label": "C",
+          "text": "Glucose 6-phosphate dehydrogenase"
+        },
+        {
+          "label": "D",
+          "text": "Glutathione peroxidase"
+        },
+        {
+          "label": "E",
+          "text": "Pyruvate kinase"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Cytochrome b5 reductase normally reduces metHb, and its deficiency causes congenital methemoglobinemia.",
+        "whyCorrect": "Methemoglobin is maintained at very low levels chiefly by cytochrome b5 reductase, which uses NADH formed by GAPDH in glycolysis to reduce ferric heme back to functional ferrous hemoglobin. A congenital deficiency of this enzyme is a cause of congenital methemoglobinemia, presenting with cyanosis and chocolate-brown blood with a normal PaO2.",
+        "whyWrongByChoice": {
+          "A": "Bisphosphoglycerate mutase produces 2,3-BPG and does not reduce methemoglobin.",
+          "C": "G6PD deficiency causes oxidative hemolytic anemia; the NADPH-metHb reductase pathway contributes minimally to routine metHb reduction.",
+          "D": "Glutathione peroxidase neutralizes oxidants but does not reduce methemoglobin.",
+          "E": "Pyruvate kinase deficiency causes chronic hemolytic anemia from ATP depletion, not methemoglobinemia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "congenital methemoglobinemia",
+        "cytochrome b5 reductase",
+        "cyanosis"
+      ],
+      "topicId": "rbc-metabolism",
+      "topicName": "RBC Metabolism",
+      "tier": "core"
+    },
+    {
+      "id": "bl02-010",
+      "stem": "A 22-year-old man with known G6PD deficiency develops symptomatic acquired methemoglobinemia after a chemical exposure. The physician notes that the usual first-line treatment is relatively discouraged in this patient. Which of the following best explains why methylene blue is contraindicated in this setting?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Methylene blue depletes 2,3-BPG, raising hemoglobin oxygen affinity"
+        },
+        {
+          "label": "B",
+          "text": "Methylene blue inhibits cytochrome b5 reductase"
+        },
+        {
+          "label": "C",
+          "text": "Methylene blue is only effective for congenital forms of methemoglobinemia"
+        },
+        {
+          "label": "D",
+          "text": "Methylene blue oxidizes ferrous iron to ferric iron, worsening metHb"
+        },
+        {
+          "label": "E",
+          "text": "Reduction of methemoglobin by methylene blue is NADPH-dependent"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Methylene blue works through an NADPH-dependent pathway that G6PD-deficient patients cannot support.",
+        "whyCorrect": "Methylene blue reduces methemoglobin by activating NADPH-methemoglobin reductase, which relies on NADPH from the pentose phosphate pathway. G6PD-deficient patients already have a diminished NADPH pool, so stimulating an additional NADPH-requiring pathway can potentiate hemolysis, making methylene blue relatively contraindicated.",
+        "whyWrongByChoice": {
+          "A": "The contraindication relates to NADPH dependence, not to 2,3-BPG depletion.",
+          "B": "Methylene blue does not inhibit cytochrome b5 reductase; it acts through the separate NADPH-dependent enzyme.",
+          "C": "Methylene blue is the typical treatment for acquired forms and is actually less effective for congenital forms.",
+          "D": "Methylene blue reduces, not oxidizes, methemoglobin; it does not worsen metHb by oxidation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "methylene blue",
+        "G6PD deficiency",
+        "NADPH",
+        "contraindication"
+      ],
+      "topicId": "rbc-metabolism",
+      "topicName": "RBC Metabolism",
+      "tier": "core"
+    },
+    {
+      "id": "bl02-011",
+      "stem": "During vigorous exercise, working skeletal muscle becomes warm and acidic and accumulates carbon dioxide. These local conditions alter the oxygen dissociation curve of hemoglobin. Which of the following best describes the effect on hemoglobin and its physiologic benefit?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased oxygen affinity, impairing oxygen release to tissues"
+        },
+        {
+          "label": "B",
+          "text": "Decreased oxygen affinity, promoting oxygen delivery to tissues"
+        },
+        {
+          "label": "C",
+          "text": "Increased oxygen affinity, promoting oxygen loading in tissues"
+        },
+        {
+          "label": "D",
+          "text": "Increased oxygen affinity, shifting the curve to the left"
+        },
+        {
+          "label": "E",
+          "text": "No change in affinity, since local conditions do not affect hemoglobin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Low pH, high pCO2, and high temperature shift the curve right, unloading oxygen where it is needed.",
+        "whyCorrect": "Low pH (the Bohr effect), elevated pCO2, and high temperature each decrease hemoglobin oxygen affinity and shift the dissociation curve to the right (higher p50). In active, warm, acidic, CO2-rich muscle, this decreased affinity promotes release of oxygen to the tissues that need it most.",
+        "whyWrongByChoice": {
+          "A": "Decreased affinity actually enhances oxygen release to tissues, which is the physiologic benefit, not an impairment.",
+          "C": "These conditions decrease, not increase, affinity, and a right shift favors unloading rather than loading.",
+          "D": "A left shift with increased affinity is the opposite of the Bohr effect produced by these conditions.",
+          "E": "Local pH, CO2, and temperature clearly do alter hemoglobin affinity."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Bohr effect",
+        "oxygen affinity",
+        "pCO2",
+        "temperature"
+      ],
+      "topicId": "rbc-metabolism",
+      "topicName": "RBC Metabolism",
+      "tier": "core"
+    },
+    {
+      "id": "bl02-012",
+      "stem": "A patient with confirmed methemoglobinemia has a pulse oximetry reading of approximately 85% that does not change despite escalating supplemental oxygen. Which of the following is the most reliable method to accurately measure this patient's methemoglobin level?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Calculated oxygen saturation from PaO2 on arterial blood gas"
+        },
+        {
+          "label": "B",
+          "text": "Co-oximetry"
+        },
+        {
+          "label": "C",
+          "text": "Peripheral blood smear"
+        },
+        {
+          "label": "D",
+          "text": "Serum haptoglobin measurement"
+        },
+        {
+          "label": "E",
+          "text": "Standard pulse oximetry"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Co-oximetry is required to accurately quantify methemoglobin, which confounds pulse oximetry.",
+        "whyCorrect": "Methemoglobin interferes with wavelength-based pulse oximetry, driving the reading toward roughly 85% regardless of true saturation. Because pulse oximetry is unreliable, co-oximetry, which measures multiple hemoglobin species directly, is needed to obtain an accurate methemoglobin level.",
+        "whyWrongByChoice": {
+          "A": "PaO2 is typically normal in methemoglobinemia, so a calculated saturation overestimates oxygenation and does not measure metHb.",
+          "C": "A blood smear evaluates cell morphology but does not quantify methemoglobin.",
+          "D": "Haptoglobin is a marker of hemolysis and does not measure methemoglobin levels.",
+          "E": "Pulse oximetry is exactly what is confounded by methemoglobin and reads about 85% regardless of severity."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "methemoglobinemia",
+        "co-oximetry",
+        "pulse oximetry"
+      ],
+      "topicId": "rbc-metabolism",
+      "topicName": "RBC Metabolism",
+      "tier": "core"
+    },
+    {
+      "id": "bl03-001",
+      "stem": "A 38-year-old woman presents with 3 months of fatigue and heavy menstrual bleeding. Her hemoglobin is 9.8 g/dL and serum ferritin is low, consistent with iron-deficiency anemia. Which additional red blood cell index finding is most likely on her complete blood count?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hematocrit of 52%"
+        },
+        {
+          "label": "B",
+          "text": "Mean cell hemoglobin concentration of 40 g/dL"
+        },
+        {
+          "label": "C",
+          "text": "Mean cell volume of 105 fL"
+        },
+        {
+          "label": "D",
+          "text": "Mean cell volume of 72 fL"
+        },
+        {
+          "label": "E",
+          "text": "Red blood cell count above the reference range"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Iron-deficiency anemia produces small (microcytic), hemoglobin-poor red cells, so the MCV falls below the normal 80-100 fL range.",
+        "whyCorrect": "The MCV measures the average volume (size) of the RBCs, with a reference range of 80-100 fL. Iron deficiency limits hemoglobin synthesis, yielding smaller-than-normal (microcytic) red cells, so an MCV of 72 fL fits the picture.",
+        "whyWrongByChoice": {
+          "A": "Anemia lowers the hematocrit; a hematocrit of 52% is at the high end of normal and would not be seen in an anemic patient.",
+          "B": "The MCHC reference range is 32-36 g/dL; iron-deficient cells are hypochromic (low MCHC), not 40 g/dL.",
+          "C": "An MCV of 105 fL is macrocytic and points to causes such as B12 or folate deficiency, not iron deficiency.",
+          "E": "Anemia is characterized by a decrease in RBC mass, so the RBC count is typically low, not above the reference range."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "RBC indices",
+        "MCV",
+        "iron-deficiency anemia"
+      ],
+      "topicId": "red-blood-cell-laboratory-tests",
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "core"
+    },
+    {
+      "id": "bl03-002",
+      "stem": "A hematology resident is reviewing a complete blood count and wants to know how much the patient's red blood cell sizes vary from one another. Which red blood cell index most directly reflects this variation in cell size?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hematocrit (Hct)"
+        },
+        {
+          "label": "B",
+          "text": "Hemoglobin (Hgb)"
+        },
+        {
+          "label": "C",
+          "text": "Mean cell hemoglobin (MCH)"
+        },
+        {
+          "label": "D",
+          "text": "Mean cell hemoglobin concentration (MCHC)"
+        },
+        {
+          "label": "E",
+          "text": "Red blood cell distribution width (RDW)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The RDW quantifies the variability of the MCV, and a wide range of red cell sizes is termed anisocytosis.",
+        "whyCorrect": "The red blood cell distribution width (reference range 12-15%) describes the variability of the MCV. When some cells are small and others large, the RDW rises; this variation in RBC size is called anisocytosis and helps distinguish among types of anemia.",
+        "whyWrongByChoice": {
+          "A": "Hematocrit is the percentage of blood volume made up of RBCs and says nothing about how uniform the cells are.",
+          "B": "Hemoglobin measures the grams of Hgb per volume of blood and does not indicate variation in cell size.",
+          "C": "MCH is the average weight of hemoglobin per RBC, not a measure of size variation.",
+          "D": "MCHC is the average concentration of hemoglobin per RBC and relates to color (chromicity), not size spread."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "RBC indices",
+        "RDW",
+        "anisocytosis"
+      ],
+      "topicId": "red-blood-cell-laboratory-tests",
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "core"
+    },
+    {
+      "id": "bl03-003",
+      "stem": "A medical student is learning why a Wright-Giemsa stain colors different parts of a blood cell differently. On this gold-standard stain, which cellular component takes up eosin and appears red?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "DNA in the nucleus"
+        },
+        {
+          "label": "B",
+          "text": "Hemoglobin in the cytoplasm"
+        },
+        {
+          "label": "C",
+          "text": "Negatively charged nucleic acids"
+        },
+        {
+          "label": "D",
+          "text": "Residual cytoplasmic RNA of reticulocytes"
+        },
+        {
+          "label": "E",
+          "text": "Ribosomal RNA"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "On Wright-Giemsa staining, positively charged hemoglobin binds eosin and stains red (eosinophilic), while negatively charged nucleic acids bind methylene blue (basophilic).",
+        "whyCorrect": "The Wright-Giemsa stain contains eosin, which stains structures red, and methylene blue, which stains structures blue. Positively charged compounds such as hemoglobin are eosinophilic and stain red, whereas negatively charged compounds like DNA and RNA are basophilic and stain blue.",
+        "whyWrongByChoice": {
+          "A": "Nuclear DNA is negatively charged and basophilic, so it takes up methylene blue and stains blue, not red.",
+          "C": "Negatively charged nucleic acids bind methylene blue and appear blue (basophilic), the opposite of eosinophilic red.",
+          "D": "Reticulocyte RNA is basophilic and, moreover, is best seen with supravital stains, not colored red by eosin.",
+          "E": "Ribosomal RNA is negatively charged and basophilic; it also stains blue rather than red."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "blood smear",
+        "Wright-Giemsa stain",
+        "staining"
+      ],
+      "topicId": "red-blood-cell-laboratory-tests",
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "core"
+    },
+    {
+      "id": "bl03-004",
+      "stem": "A 63-year-old man with chronic myelofibrosis has a peripheral blood smear reviewed. Which red blood cell morphology is most characteristically associated with this marrow disorder?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bite cells"
+        },
+        {
+          "label": "B",
+          "text": "Schistocytes"
+        },
+        {
+          "label": "C",
+          "text": "Sickle cells"
+        },
+        {
+          "label": "D",
+          "text": "Target cells"
+        },
+        {
+          "label": "E",
+          "text": "Teardrop cells"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Teardrop cells (dacrocytes) are the classic red cell shape seen in myelofibrosis and other marrow-occupying processes.",
+        "whyCorrect": "Dacrocytes, or teardrop cells, are associated with chronic myelofibrosis and other space-occupying lesions of the marrow, where red cells are deformed as they squeeze out of a fibrotic marrow. This is the expected finding on this patient's smear.",
+        "whyWrongByChoice": {
+          "A": "Bite cells are seen in glucose-6-phosphate dehydrogenase (G6PD) deficiency.",
+          "B": "Schistocytes are fragmented cells seen in microangiopathic hemolytic anemia.",
+          "C": "Sickle cells are the hallmark of sickle cell anemia.",
+          "D": "Target cells (codocytes) are seen in thalassemia, liver disease, and iron deficiency, not myelofibrosis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "RBC morphology",
+        "dacrocyte",
+        "myelofibrosis"
+      ],
+      "topicId": "red-blood-cell-laboratory-tests",
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "core"
+    },
+    {
+      "id": "bl03-005",
+      "stem": "A 7-year-old boy underwent splenectomy after traumatic splenic rupture. A follow-up blood smear shows red cells each containing a single round, dark-blue dot representing a residual nuclear DNA remnant. Which inclusion is being described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Basophilic stippling"
+        },
+        {
+          "label": "B",
+          "text": "Howell-Jolly body"
+        },
+        {
+          "label": "C",
+          "text": "Pappenheimer bodies"
+        },
+        {
+          "label": "D",
+          "text": "Plasmodium organisms"
+        },
+        {
+          "label": "E",
+          "text": "Rouleaux formation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Howell-Jolly bodies are nuclear DNA remnants normally removed by the spleen, so they appear after splenectomy or in functional asplenia.",
+        "whyCorrect": "A Howell-Jolly body is a residual fragment of nuclear DNA that a healthy spleen would ordinarily pit from the red cell. After splenectomy the spleen can no longer remove them, so they persist as a single round dark-blue inclusion, consistent with this post-splenectomy patient.",
+        "whyWrongByChoice": {
+          "A": "Basophilic stippling is diffuse fine blue granules of aggregated ribosomal RNA seen in lead poisoning and thalassemia, not a single DNA dot.",
+          "C": "Pappenheimer bodies are iron-containing granules seen in sideroblastic anemia and cluster at the cell periphery.",
+          "D": "Plasmodium organisms are intracellular parasites (ring forms) diagnostic of malaria.",
+          "E": "Rouleaux formation is stacking of red cells due to increased immunoglobulins, not an intracellular inclusion."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "RBC inclusions",
+        "Howell-Jolly body",
+        "asplenia"
+      ],
+      "topicId": "red-blood-cell-laboratory-tests",
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "core"
+    },
+    {
+      "id": "bl03-006",
+      "stem": "A 4-year-old child with anemia and abdominal pain is found to have lived in an old home with peeling paint. The blood smear shows red cells with diffuse fine blue granules distributed throughout the cytoplasm. Which inclusion, and its underlying material, best explains this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Basophilic stippling composed of ribosomal RNA"
+        },
+        {
+          "label": "B",
+          "text": "Howell-Jolly body composed of nuclear DNA"
+        },
+        {
+          "label": "C",
+          "text": "Pappenheimer bodies composed of iron granules"
+        },
+        {
+          "label": "D",
+          "text": "Plasmodium ring forms composed of parasites"
+        },
+        {
+          "label": "E",
+          "text": "Target cells composed of excess membrane"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Diffuse fine blue granules of aggregated ribosomal RNA (basophilic stippling) are seen in lead poisoning and thalassemia.",
+        "whyCorrect": "Basophilic stippling appears as fine blue granules spread throughout the red cell and represents aggregated ribosomal RNA. The classic associations are lead poisoning and thalassemia, fitting this child's lead-exposure history.",
+        "whyWrongByChoice": {
+          "B": "A Howell-Jolly body is a single round dot of nuclear DNA seen after splenectomy, not diffuse granules.",
+          "C": "Pappenheimer bodies are iron-containing granules of sideroblastic anemia that cluster at the cell edge rather than distributing diffusely.",
+          "D": "Plasmodium ring forms indicate malaria and are discrete parasites, not fine RNA granules.",
+          "E": "Target cells are a shape abnormality, not an inclusion, and are unrelated to lead exposure."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "RBC inclusions",
+        "basophilic stippling",
+        "lead poisoning"
+      ],
+      "topicId": "red-blood-cell-laboratory-tests",
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "core"
+    },
+    {
+      "id": "bl03-007",
+      "stem": "A 25-year-old woman with chronic anemia is being evaluated, and her physician wants to visualize the ribosomal RNA inside her reticulocytes. Which staining method is most appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct antiglobulin (Coombs) reagent"
+        },
+        {
+          "label": "B",
+          "text": "Periodic acid-Schiff stain"
+        },
+        {
+          "label": "C",
+          "text": "Sudan black B stain"
+        },
+        {
+          "label": "D",
+          "text": "Supravital stain"
+        },
+        {
+          "label": "E",
+          "text": "Wright-Giemsa stain"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Supravital stains such as new methylene blue and brilliant cresyl blue highlight the ribosomal RNA of reticulocytes, which is not well seen on routine smears.",
+        "whyCorrect": "Supravital stains are applied to fresh, living cells and reveal structures not visible on dried Wright-Giemsa smears. New methylene blue and brilliant cresyl blue precipitate the residual ribosomal RNA of reticulocytes into a visible blue network, allowing the reticulocyte count.",
+        "whyWrongByChoice": {
+          "A": "The Coombs reagent detects antibody or complement coating red cells; it does not stain RNA.",
+          "B": "Periodic acid-Schiff stains carbohydrates, not ribosomal RNA.",
+          "C": "Sudan black B stains lipids and is used to characterize leukemias, not reticulocyte RNA.",
+          "E": "On Wright-Giemsa staining reticulocyte RNA is only faintly detectable as a lilac tinge (polychromasia) and is not directly visualized."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "reticulocyte count",
+        "supravital stain",
+        "staining"
+      ],
+      "topicId": "red-blood-cell-laboratory-tests",
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "core"
+    },
+    {
+      "id": "bl03-008",
+      "stem": "A 30-year-old woman with autoimmune hemolytic anemia has a hemoglobin of 8 g/dL and a hematocrit of 27%. Her measured reticulocyte count is 6%. Which interpretation of her bone marrow response is most accurate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The elevated reticulocyte count indicates the cells are macrocytic artifacts"
+        },
+        {
+          "label": "B",
+          "text": "The finding indicates the red cells are coated with antibody"
+        },
+        {
+          "label": "C",
+          "text": "The marrow is appropriately responding to the anemia"
+        },
+        {
+          "label": "D",
+          "text": "The marrow is hypoproliferative and failing to respond"
+        },
+        {
+          "label": "E",
+          "text": "The reticulocyte count is within the normal reference range"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A reticulocyte count above 2%, especially when corrected for the degree of anemia, indicates a hyperproliferative marrow responding to hemolysis or blood loss.",
+        "whyCorrect": "Normally 1-2% of circulating RBCs are reticulocytes. A count above 2% signals a hyperproliferative (responding) marrow, typical of hemolysis or hemorrhage. In this hemolytic patient the elevated reticulocyte count shows the marrow is appropriately ramping up red cell production.",
+        "whyWrongByChoice": {
+          "A": "A high reticulocyte count reflects true increased production, not a macrocytic artifact.",
+          "B": "Antibody coating of red cells is detected by the direct antiglobulin test, not inferred from the reticulocyte count.",
+          "D": "A hypoproliferative marrow is reflected by a reticulocyte count below 2%; a value of 6% is the opposite.",
+          "E": "The normal reference range is about 1-2%, so 6% is clearly elevated, not normal."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "reticulocyte count",
+        "hemolysis",
+        "marrow response"
+      ],
+      "topicId": "red-blood-cell-laboratory-tests",
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "core"
+    },
+    {
+      "id": "bl03-009",
+      "stem": "A 24-year-old woman is engaged to a man with sickle cell trait and wants to know whether she carries an abnormal hemoglobin before they have children. Her screening CBC is normal. Which test best identifies and quantifies the different types of hemoglobin in her blood?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct antiglobulin test"
+        },
+        {
+          "label": "B",
+          "text": "Hemoglobin electrophoresis"
+        },
+        {
+          "label": "C",
+          "text": "Osmotic fragility test"
+        },
+        {
+          "label": "D",
+          "text": "Red cell distribution width"
+        },
+        {
+          "label": "E",
+          "text": "Reticulocyte count"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Hemoglobin electrophoresis separates hemoglobin types by charge and quantifies them, making it the screening test for hemoglobinopathies such as sickle cell trait.",
+        "whyCorrect": "Hemoglobin electrophoresis applies an electric charge to a gel so different hemoglobins migrate to characteristic positions (order A, F, S, C from farthest to closest). It identifies and quantifies hemoglobins, so it can detect hemoglobin S and confirm or exclude sickle cell trait even when the CBC is normal.",
+        "whyWrongByChoice": {
+          "A": "The direct antiglobulin test detects antibody or complement on red cells in immune hemolysis, not hemoglobin variants.",
+          "C": "Osmotic fragility testing measures how readily RBCs lyse in hypotonic saline and is used for hereditary spherocytosis, not for identifying hemoglobin types.",
+          "D": "RDW measures variation in red cell size and cannot identify an abnormal hemoglobin.",
+          "E": "The reticulocyte count assesses marrow production and does not distinguish hemoglobin types."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "hemoglobin electrophoresis",
+        "sickle cell trait",
+        "screening"
+      ],
+      "topicId": "red-blood-cell-laboratory-tests",
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "core"
+    },
+    {
+      "id": "bl03-010",
+      "stem": "A 20-year-old man with lifelong mild anemia, jaundice, and splenomegaly has a smear showing round red cells that lack central pallor. On osmotic fragility testing his red cells lyse at higher-than-normal concentrations of sodium chloride. Which diagnosis best fits these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autoimmune hemolytic anemia from IgG coating"
+        },
+        {
+          "label": "B",
+          "text": "Beta-thalassemia major"
+        },
+        {
+          "label": "C",
+          "text": "Hereditary spherocytosis"
+        },
+        {
+          "label": "D",
+          "text": "Iron-deficiency anemia"
+        },
+        {
+          "label": "E",
+          "text": "Sickle cell anemia"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Increased osmotic fragility, with lysis at higher-than-normal NaCl concentrations, is characteristic of hereditary spherocytosis.",
+        "whyCorrect": "Spherocytes in hereditary spherocytosis have cytoskeleton mutations that make them less deformable and more prone to rupture, so they lyse even in less hypotonic (higher NaCl) solutions, giving increased osmotic fragility. The round cells lacking central pallor further support the diagnosis.",
+        "whyWrongByChoice": {
+          "A": "Autoimmune hemolytic anemia is diagnosed with a positive direct antiglobulin test; the scenario points to a membrane defect rather than antibody coating.",
+          "B": "Thalassemia is also associated with decreased osmotic fragility because of thin, target-shaped cells.",
+          "D": "Iron-deficiency anemia produces microcytic hypochromic cells and does not typically cause increased osmotic fragility or spherocytes lacking central pallor.",
+          "E": "Sickle cell anemia is associated with decreased, not increased, osmotic fragility."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "osmotic fragility",
+        "hereditary spherocytosis",
+        "hemolysis"
+      ],
+      "topicId": "red-blood-cell-laboratory-tests",
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "core"
+    },
+    {
+      "id": "bl03-011",
+      "stem": "A 45-year-old woman develops worsening anemia. A direct antiglobulin (Coombs) test is performed: when Coombs reagent is added to her washed red cells, they agglutinate. What does this positive result indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Her marrow is producing too many reticulocytes"
+        },
+        {
+          "label": "B",
+          "text": "Her red cells are coated with antibody or complement"
+        },
+        {
+          "label": "C",
+          "text": "Her red cells are excessively fragile in hypotonic saline"
+        },
+        {
+          "label": "D",
+          "text": "Her red cells are microcytic and hypochromic"
+        },
+        {
+          "label": "E",
+          "text": "Her red cells contain an abnormal hemoglobin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A positive direct antiglobulin test means the patient's red cells are already coated with immunoglobulin or complement, as in autoimmune hemolytic anemia.",
+        "whyCorrect": "In the direct antiglobulin test, anti-immunoglobulin/anti-complement (Coombs) reagent is added to the patient's red cells. If the cells are coated with antibody or complement, the reagent cross-links them and they agglutinate, giving a positive result seen in autoimmune hemolytic anemia, transfusion reactions, hemolytic disease of the newborn, and drug-induced hemolysis.",
+        "whyWrongByChoice": {
+          "A": "Reticulocyte production is measured by the reticulocyte count, which the Coombs test does not evaluate.",
+          "C": "Fragility in hypotonic saline is assessed by osmotic fragility testing, a different assay.",
+          "D": "Cell size and chromicity are read from the MCV and MCHC, not from agglutination with Coombs reagent.",
+          "E": "Abnormal hemoglobins are detected by hemoglobin electrophoresis, not by the antiglobulin test."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "direct antiglobulin test",
+        "Coombs",
+        "autoimmune hemolytic anemia"
+      ],
+      "topicId": "red-blood-cell-laboratory-tests",
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "core"
+    },
+    {
+      "id": "bl03-012",
+      "stem": "An elderly patient's automated CBC returns a very low red blood cell count with a strikingly high MCV. The technologist notes clumping of red cells on the smear consistent with cold agglutinins. Which of the following values is most likely to remain accurate despite the agglutination?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hemoglobin"
+        },
+        {
+          "label": "B",
+          "text": "Mean cell hemoglobin (MCH)"
+        },
+        {
+          "label": "C",
+          "text": "Mean cell hemoglobin concentration (MCHC)"
+        },
+        {
+          "label": "D",
+          "text": "Mean cell volume (MCV)"
+        },
+        {
+          "label": "E",
+          "text": "Red blood cell count"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "When red cells agglutinate, clumps are miscounted so the RBC count falls and MCV rises falsely, but hemoglobin stays accurate because it is measured after the cells are lysed.",
+        "whyCorrect": "Automated analyzers classify particles by size, so agglutinated clumps are counted as fewer, larger cells: the RBC count is falsely decreased and the MCV falsely increased. Hemoglobin is measured spectrophotometrically after the red cells are lysed, so clumping does not affect it, and it usually remains accurate.",
+        "whyWrongByChoice": {
+          "B": "MCH is derived from hemoglobin and the falsely low RBC count, so it is falsely increased.",
+          "C": "MCHC is likewise falsely increased when agglutination distorts the RBC-derived measurements.",
+          "D": "The MCV is falsely increased because clumps are read as abnormally large single cells.",
+          "E": "The RBC count is falsely decreased because clumps are undercounted as single particles."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "hematology analyzer",
+        "red cell agglutination",
+        "spurious results"
+      ],
+      "topicId": "red-blood-cell-laboratory-tests",
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "core"
+    },
+    {
+      "id": "bl09-001",
+      "stem": "A 35-year-old premenopausal woman presents with 2 months of fatigue, dizziness, and weakness. She reports 4 months of heavy menstrual bleeding with clots. Laboratory studies show a hemoglobin of 10.1 g/dL (normal for females 12.0-15.5 g/dL) and a low serum ferritin, consistent with iron-deficiency anemia. Which of the following additional findings would most likely be present?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased hematocrit"
+        },
+        {
+          "label": "B",
+          "text": "Decreased mean platelet volume"
+        },
+        {
+          "label": "C",
+          "text": "Hyperchromic red blood cells"
+        },
+        {
+          "label": "D",
+          "text": "Increased mean cell volume"
+        },
+        {
+          "label": "E",
+          "text": "Increased red blood cell count"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Anemia is characterized by low hemoglobin, hematocrit, and RBC count, and iron deficiency produces microcytic red cells.",
+        "whyCorrect": "The hemoglobin, hematocrit, and RBC count all move together and are used to diagnose anemia; a patient with anemia typically has a low hemoglobin along with a low hematocrit. Because the hematocrit tracks with hemoglobin, this patient's hematocrit would also be decreased.",
+        "whyWrongByChoice": {
+          "B": "Mean platelet volume is a platelet index and is not part of the RBC picture of iron-deficiency anemia.",
+          "C": "Most anemias are normochromic and iron deficiency is hypochromic; red cells would not be hyperchromic.",
+          "D": "Iron-deficiency anemia is a microcytic anemia, so the MCV is decreased rather than increased.",
+          "E": "Patients with anemia have a low RBC count, not an increased one."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "RBC indices",
+        "anemia",
+        "hematocrit"
+      ],
+      "topicId": "red-blood-cell-laboratory-tests-b09",
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "core"
+    },
+    {
+      "id": "bl09-002",
+      "stem": "A newborn delivered to a 24-year-old mother who had no prenatal care is stillborn with hydrops fetalis. Genetic testing reveals deletion of all four alpha-globin genes, causing production of gamma-globin chain tetramers (hemoglobin Barts) and a diagnosis of alpha-thalassemia. Which of the following laboratory tests would most directly demonstrate this abnormal hemoglobin?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct antiglobulin test"
+        },
+        {
+          "label": "B",
+          "text": "Hemoglobin electrophoresis"
+        },
+        {
+          "label": "C",
+          "text": "Osmotic fragility test"
+        },
+        {
+          "label": "D",
+          "text": "Reticulocyte count"
+        },
+        {
+          "label": "E",
+          "text": "White blood cell differential"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Hemoglobin electrophoresis identifies the types and amounts of hemoglobin and can reveal abnormal species such as hemoglobin Barts.",
+        "whyCorrect": "Hemoglobin electrophoresis separates and identifies the different hemoglobin types in the blood and is used to diagnose conditions such as thalassemia. In this form of alpha-thalassemia it would show the presence of hemoglobin Barts, the gamma-chain tetramer.",
+        "whyWrongByChoice": {
+          "A": "The direct antiglobulin test detects antibody or complement coating RBCs and is positive in autoimmune hemolytic anemia, not thalassemia.",
+          "C": "Osmotic fragility measures how easily RBCs lyse and is typically abnormal in hereditary spherocytosis, not alpha-thalassemia.",
+          "D": "A reticulocyte count reflects marrow output but does not identify hemoglobin types.",
+          "E": "A white blood cell differential evaluates leukocytes and would not identify an abnormal hemoglobin."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hemoglobin electrophoresis",
+        "thalassemia",
+        "hemoglobinopathy"
+      ],
+      "topicId": "red-blood-cell-laboratory-tests-b09",
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "core"
+    },
+    {
+      "id": "bl09-003",
+      "stem": "A 25-year-old woman with worsening chronic anemia is being evaluated, and her physician wants to assess her reticulocytes. Which of the following stains is most appropriate to visualize the ribosomal RNA inside reticulocytes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Periodic acid-Schiff stain"
+        },
+        {
+          "label": "B",
+          "text": "Prussian blue stain"
+        },
+        {
+          "label": "C",
+          "text": "Sudan black B stain"
+        },
+        {
+          "label": "D",
+          "text": "Supravital staining"
+        },
+        {
+          "label": "E",
+          "text": "Wright-Giemsa stain"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Supravital stains applied to fresh blood reveal the ribosomal RNA network of reticulocytes.",
+        "whyCorrect": "Supravital stains such as new methylene blue and brilliant cresyl blue are performed on fresh (living) blood and highlight structures not seen on dried smears, including the ribosomal RNA that defines reticulocytes.",
+        "whyWrongByChoice": {
+          "A": "Periodic acid-Schiff stains carbohydrates, not reticulocyte RNA.",
+          "B": "Prussian blue stains iron (for example, siderotic granules), not the RNA of reticulocytes.",
+          "C": "Sudan black B stains lipids and is not used to visualize ribosomal RNA.",
+          "E": "Wright-Giemsa is the gold-standard differential stain for blood, but RNA is not directly visible on it (reticulocytes only appear as slightly lilac polychromatophilic cells)."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "reticulocyte count",
+        "supravital stain",
+        "blood smear"
+      ],
+      "topicId": "red-blood-cell-laboratory-tests-b09",
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "core"
+    },
+    {
+      "id": "bl09-004",
+      "stem": "A 68-year-old woman has a cold agglutinin causing red cell agglutination in her blood sample. When the complete blood count is run on the automated analyzer, which of the following parameters is most likely to remain accurate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hemoglobin"
+        },
+        {
+          "label": "B",
+          "text": "Mean cell hemoglobin (MCH)"
+        },
+        {
+          "label": "C",
+          "text": "Mean cell hemoglobin concentration (MCHC)"
+        },
+        {
+          "label": "D",
+          "text": "Mean cell volume (MCV)"
+        },
+        {
+          "label": "E",
+          "text": "Red blood cell count"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "With red cell clumping, hemoglobin stays accurate because it is measured after the red cells are lysed.",
+        "whyCorrect": "When red cells clump (by agglutination or rouleaux), the analyzer counts the clumps as single large cells: the RBC count is falsely decreased and the MCV falsely increased. Hemoglobin is measured after the cells are lysed, so it usually remains accurate.",
+        "whyWrongByChoice": {
+          "B": "MCH is a calculated index that becomes falsely increased when the RBC count is falsely low.",
+          "C": "MCHC is likewise falsely increased when red cell clumping distorts the RBC count and volume measurements.",
+          "D": "Because clumps are read as single large particles, the MCV is falsely increased.",
+          "E": "Clumped cells are counted as one, so the RBC count is falsely decreased."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "analyzer artifact",
+        "agglutination",
+        "RBC indices"
+      ],
+      "topicId": "red-blood-cell-laboratory-tests-b09",
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "core"
+    },
+    {
+      "id": "bl09-005",
+      "stem": "A 62-year-old man with primary myelofibrosis has a peripheral blood smear examined. Which of the following red blood cell morphologies is most characteristically seen in this condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bite cells"
+        },
+        {
+          "label": "B",
+          "text": "Schistocytes"
+        },
+        {
+          "label": "C",
+          "text": "Sickle cells"
+        },
+        {
+          "label": "D",
+          "text": "Target cells"
+        },
+        {
+          "label": "E",
+          "text": "Teardrop cells"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Dacryocytes (teardrop cells) are associated with chronic myelofibrosis and other marrow-infiltrating processes.",
+        "whyCorrect": "Teardrop cells (dacryocytes) are the classic red cell shape abnormality of chronic myelofibrosis and other space-occupying lesions of the marrow, where cells are deformed as they are squeezed out of a fibrotic marrow.",
+        "whyWrongByChoice": {
+          "A": "Bite cells are associated with glucose-6-phosphate dehydrogenase deficiency.",
+          "B": "Schistocytes are seen in microangiopathic hemolytic anemia.",
+          "C": "Sickle cells are seen in sickle cell anemia.",
+          "D": "Target cells (codocytes) are seen in thalassemia, liver disease, and iron deficiency."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "RBC morphology",
+        "dacryocyte",
+        "myelofibrosis"
+      ],
+      "topicId": "red-blood-cell-laboratory-tests-b09",
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "core"
+    },
+    {
+      "id": "bl09-006",
+      "stem": "A 20-year-old man with a family history of hemolytic anemia has splenomegaly and jaundice, and his peripheral smear shows numerous round red cells lacking central pallor. Osmotic fragility testing is performed. Which of the following results would most likely be found?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Complete resistance to lysis across the full range of NaCl concentrations"
+        },
+        {
+          "label": "B",
+          "text": "Decreased osmotic fragility, with lysis only in strongly hypotonic saline solutions"
+        },
+        {
+          "label": "C",
+          "text": "Increased osmotic fragility, with lysis at higher-than-normal NaCl concentrations"
+        },
+        {
+          "label": "D",
+          "text": "Lysis only in hypertonic saline solutions above physiologic tonicity"
+        },
+        {
+          "label": "E",
+          "text": "Normal osmotic fragility identical to that of healthy control cells"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Hereditary spherocytosis increases osmotic fragility because spherocytes rupture at higher-than-normal salt concentrations.",
+        "whyCorrect": "The smear findings indicate hereditary spherocytosis. Spherocytes are less flexible than normal RBCs because of cytoskeleton mutations, making them prone to rupture; they are so sensitive to tonicity that they lyse even at higher-than-normal NaCl concentrations, meaning increased osmotic fragility.",
+        "whyWrongByChoice": {
+          "A": "Spherocytes lyse more easily, not less; they do not resist lysis at all concentrations.",
+          "B": "Decreased osmotic fragility (resistance to lysis) is seen in sickle cell anemia and thalassemia, not hereditary spherocytosis.",
+          "D": "Hemolysis in this test occurs in hypotonic solutions as water enters the cell, not in hypertonic solutions.",
+          "E": "Osmotic fragility is abnormal, not normal, in hereditary spherocytosis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "osmotic fragility",
+        "hereditary spherocytosis",
+        "spherocyte"
+      ],
+      "topicId": "red-blood-cell-laboratory-tests-b09",
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "core"
+    },
+    {
+      "id": "bl09-007",
+      "stem": "A 45-year-old woman develops fatigue and jaundice, and laboratory studies show anemia with an elevated reticulocyte count and spherocytes on the smear. Autoimmune hemolytic anemia is suspected. Which of the following tests best confirms that her red cells are coated with antibody or complement?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct antiglobulin test"
+        },
+        {
+          "label": "B",
+          "text": "Hemoglobin electrophoresis"
+        },
+        {
+          "label": "C",
+          "text": "Osmotic fragility test"
+        },
+        {
+          "label": "D",
+          "text": "Red cell distribution width"
+        },
+        {
+          "label": "E",
+          "text": "Reticulocyte count"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The direct antiglobulin (Coombs) test detects antibody or complement bound to the patient's red cells.",
+        "whyCorrect": "In the direct antiglobulin test, anti-immunoglobulin (Coombs) reagent is added to the patient's RBCs; if they are coated with immunoglobulin or complement, they agglutinate and the test is positive. A positive DAT is seen in autoimmune hemolytic anemia.",
+        "whyWrongByChoice": {
+          "B": "Hemoglobin electrophoresis identifies hemoglobin types and does not detect antibody coating of red cells.",
+          "C": "Osmotic fragility measures how easily RBCs lyse and does not detect surface antibody or complement.",
+          "D": "RDW reflects variability in red cell size and gives no information about antibody coating.",
+          "E": "A reticulocyte count shows the marrow is responding to hemolysis but does not identify the immune cause."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "direct antiglobulin test",
+        "autoimmune hemolytic anemia",
+        "Coombs"
+      ],
+      "topicId": "red-blood-cell-laboratory-tests-b09",
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "core"
+    },
+    {
+      "id": "bl09-008",
+      "stem": "During hemoglobin electrophoresis, an electrical charge is applied to a gel and the different hemoglobin types migrate away from the negatively charged electrode, traveling various distances. Which of the following correctly lists the hemoglobins in their order of travel from farthest to closest?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A, F, S, C"
+        },
+        {
+          "label": "B",
+          "text": "A, S, F, C"
+        },
+        {
+          "label": "C",
+          "text": "C, S, F, A"
+        },
+        {
+          "label": "D",
+          "text": "F, A, C, S"
+        },
+        {
+          "label": "E",
+          "text": "S, C, A, F"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "On hemoglobin electrophoresis the order of travel from farthest to closest is A, F, S, C (\"A Fat Santa Claus\").",
+        "whyCorrect": "As the hemoglobins migrate away from the negatively charged electrode, they land at different distances; the order from farthest to closest is hemoglobin A, then F, then S, then C, captured by the mnemonic 'A Fat Santa Claus.'",
+        "whyWrongByChoice": {
+          "B": "F, not S, is the second-farthest hemoglobin, so this ordering is incorrect.",
+          "C": "This reverses the order; C travels the least, not the most.",
+          "D": "Hemoglobin A migrates farthest and must come first, not F.",
+          "E": "S and C do not lead the sequence; hemoglobin A migrates farthest."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hemoglobin electrophoresis",
+        "mnemonic",
+        "hemoglobin types"
+      ],
+      "topicId": "red-blood-cell-laboratory-tests-b09",
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "core"
+    },
+    {
+      "id": "bl09-009",
+      "stem": "A 30-year-old woman with anemia has a reticulocyte count that, after correction for her degree of anemia, is below 2%. Which of the following best describes what this corrected reticulocyte value indicates about her bone marrow?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The marrow is hypoproliferative and not responding appropriately"
+        },
+        {
+          "label": "B",
+          "text": "The marrow is releasing an excess of reticulocytes into the blood"
+        },
+        {
+          "label": "C",
+          "text": "The marrow is responding briskly to ongoing hemolysis"
+        },
+        {
+          "label": "D",
+          "text": "The marrow is responding briskly to recent hemorrhage"
+        },
+        {
+          "label": "E",
+          "text": "The marrow response is normal and no anemia is present"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A corrected reticulocyte count below 2% indicates a hypoproliferative marrow that is not responding to the anemia.",
+        "whyCorrect": "The reticulocyte count should be corrected for the degree of anemia to judge whether the marrow is responding. A corrected value under 2% means the marrow is hypoproliferative and not mounting an adequate response.",
+        "whyWrongByChoice": {
+          "B": "An excess of reticulocytes would give a high, not low, corrected reticulocyte count.",
+          "C": "A brisk response to hemolysis would raise the corrected reticulocyte count above 2%, not below.",
+          "D": "Recent hemorrhage with a responsive marrow also drives the corrected count above 2%.",
+          "E": "The patient is anemic, and a low corrected count reflects an inadequate marrow response, not a normal one."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "reticulocyte count",
+        "corrected reticulocyte",
+        "bone marrow"
+      ],
+      "topicId": "red-blood-cell-laboratory-tests-b09",
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "core"
+    },
+    {
+      "id": "bl09-010",
+      "stem": "A 22-year-old man develops acute hemolysis after taking an oxidant medication. His peripheral smear shows red cells that appear to have had a semicircular piece removed from their edge. This bite cell morphology is most characteristic of which of the following conditions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Advanced chronic liver disease with cirrhosis"
+        },
+        {
+          "label": "B",
+          "text": "Chronic idiopathic myelofibrosis of the marrow"
+        },
+        {
+          "label": "C",
+          "text": "Glucose-6-phosphate dehydrogenase deficiency"
+        },
+        {
+          "label": "D",
+          "text": "Hereditary spherocytosis from a spectrin defect"
+        },
+        {
+          "label": "E",
+          "text": "Microangiopathic hemolytic anemia from DIC"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Bite cells are the classic red cell abnormality of glucose-6-phosphate dehydrogenase deficiency.",
+        "whyCorrect": "Bite cells are associated with glucose-6-phosphate dehydrogenase (G6PD) deficiency, in which oxidant stress damages hemoglobin and the spleen removes the denatured portion, leaving a bite-like defect.",
+        "whyWrongByChoice": {
+          "A": "Liver disease is classically associated with acanthocytes (spur cells), not bite cells.",
+          "B": "Chronic myelofibrosis is associated with teardrop cells (dacryocytes).",
+          "D": "Hereditary spherocytosis produces spherocytes, round cells without central pallor.",
+          "E": "Microangiopathic hemolytic anemia produces schistocytes, not bite cells."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "RBC morphology",
+        "bite cell",
+        "G6PD deficiency"
+      ],
+      "topicId": "red-blood-cell-laboratory-tests-b09",
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "core"
+    },
+    {
+      "id": "bl09-011",
+      "stem": "A 3-year-old child with a history of pica and living in an old home is found to have anemia. The peripheral smear shows red cells containing coarse blue granules dispersed throughout the cytoplasm (basophilic stippling). Which of the following is the most likely underlying cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lead poisoning"
+        },
+        {
+          "label": "B",
+          "text": "Malaria"
+        },
+        {
+          "label": "C",
+          "text": "Prior splenectomy"
+        },
+        {
+          "label": "D",
+          "text": "Sideroblastic anemia"
+        },
+        {
+          "label": "E",
+          "text": "Warm autoimmune hemolytic anemia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Basophilic stippling is the red cell inclusion classically associated with lead poisoning.",
+        "whyCorrect": "Basophilic stippling appears as blue granules throughout the red cell and is a recognized inclusion of lead poisoning; the clinical picture of pica and old-home exposure supports lead as the cause.",
+        "whyWrongByChoice": {
+          "B": "Malaria is identified by intracellular Plasmodium organisms, not basophilic stippling.",
+          "C": "Prior splenectomy is associated with Howell-Jolly bodies, single round nuclear remnants.",
+          "D": "Sideroblastic anemia is associated with Pappenheimer (iron-containing) bodies.",
+          "E": "Warm autoimmune hemolytic anemia produces spherocytes and a positive direct antiglobulin test, not basophilic stippling."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "RBC inclusions",
+        "basophilic stippling",
+        "lead poisoning"
+      ],
+      "topicId": "red-blood-cell-laboratory-tests-b09",
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "core"
+    },
+    {
+      "id": "bl09-012",
+      "stem": "A 55-year-old man with a hemoglobinopathy has red blood cells that are resistant to lysis during automated hematology analysis. Which of the following results is most likely to occur on his complete blood count as a consequence?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Falsely decreased mean cell volume with a normal hemoglobin"
+        },
+        {
+          "label": "B",
+          "text": "Falsely decreased platelet count with a normal hemoglobin"
+        },
+        {
+          "label": "C",
+          "text": "Falsely elevated hemoglobin with a falsely low white blood cell count"
+        },
+        {
+          "label": "D",
+          "text": "Falsely elevated red blood cell count with an unchanged hemoglobin level"
+        },
+        {
+          "label": "E",
+          "text": "Falsely low hemoglobin with a possibly elevated white blood cell count"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Red cells resistant to lysis cause a falsely low hemoglobin and can be miscounted as white cells, raising the WBC count.",
+        "whyCorrect": "Analyzers measure hemoglobin after lysing the red cells; when RBCs resist lysis (as in some hemoglobinopathies or in infants), less hemoglobin is released and the value is falsely low, and the intact red cells may be counted as white cells, falsely raising the WBC count.",
+        "whyWrongByChoice": {
+          "A": "MCV is not falsely lowered by lysis-resistant cells; this scenario primarily distorts hemoglobin and the WBC count.",
+          "B": "A falsely decreased platelet count is not the expected effect; small RBC or WBC fragments would instead falsely raise the platelet count.",
+          "C": "Failure to lyse red cells lowers, rather than raises, the measured hemoglobin.",
+          "D": "Lysis resistance does not falsely elevate the RBC count; that pattern is more typical of counting artifacts unrelated to this scenario."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "analyzer artifact",
+        "hemoglobinopathy",
+        "CBC"
+      ],
+      "topicId": "red-blood-cell-laboratory-tests-b09",
+      "topicName": "Red Blood Cell Laboratory Tests",
+      "tier": "core"
+    },
+    {
+      "id": "bl04-001",
+      "stem": "A 34-year-old woman is evaluated for fatigue. Her physician explains that a clinical diagnosis of anemia is based on comparing a single laboratory value to an age- and sex-matched reference population. Which of the following laboratory parameters is used to establish this clinical diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct antiglobulin test (DAT)"
+        },
+        {
+          "label": "B",
+          "text": "Hemoglobin"
+        },
+        {
+          "label": "C",
+          "text": "Indirect (unconjugated) bilirubin"
+        },
+        {
+          "label": "D",
+          "text": "Mean corpuscular volume (MCV)"
+        },
+        {
+          "label": "E",
+          "text": "Red cell distribution width (RDW)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The clinical definition of anemia is a decreased hemoglobin (or hematocrit) relative to a reference population.",
+        "whyCorrect": "Anemia is defined clinically as a hemoglobin (or hematocrit) below the reference range for a matched population, which is derived from the mean +/- 2 standard deviations. Hemoglobin is therefore the value used to establish the diagnosis before further indices refine the differential.",
+        "whyWrongByChoice": {
+          "A": "The DAT detects antibodies on the red cell surface and is a test for autoimmune hemolysis, not a screen for anemia itself.",
+          "C": "Indirect bilirubin is a marker of hemolysis (increased red cell turnover), not the parameter that defines anemia.",
+          "D": "MCV measures red cell size and is used to narrow the differential only after anemia has already been established.",
+          "E": "RDW measures variability in red cell size and helps narrow the differential once anemia is diagnosed, but it does not define anemia."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "definition-of-anemia",
+        "CBC",
+        "hemoglobin"
+      ],
+      "topicId": "history-taking-approach-to-anemia",
+      "topicName": "History-Taking Approach to Anemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl04-002",
+      "stem": "A 16-year-old boy is admitted to the emergency department with a 2-week history of diarrhea, sepsis, hypovolemic shock, and acute kidney injury. His admission hemoglobin is 15.3 g/dL. A repeat complete blood count less than 24 hours later, after large boluses of intravenous fluids, shows a hemoglobin of 9.9 g/dL, along with decreases in his white blood cell count and platelet count. Which of the following best explains the drop in hemoglobin?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute intravascular hemolysis"
+        },
+        {
+          "label": "B",
+          "text": "Dilutional anemia"
+        },
+        {
+          "label": "C",
+          "text": "Iron deficiency anemia"
+        },
+        {
+          "label": "D",
+          "text": "Marrow suppression from sepsis"
+        },
+        {
+          "label": "E",
+          "text": "Occult gastrointestinal hemorrhage"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A hemoglobin that falls acutely after large IV fluid boluses, together with drops in WBC and platelet counts, indicates a dilutional (spurious) anemia.",
+        "whyCorrect": "Hemoglobin is a ratio of grams of hemoglobin per deciliter of blood. Expanding the plasma volume (denominator) with IV fluids lowers the apparent hemoglobin without true red cell loss. A helpful clue that the drop is dilutional is that the white cell and platelet counts fall in parallel.",
+        "whyWrongByChoice": {
+          "A": "Intravascular hemolysis would not simultaneously lower the white cell and platelet counts, and there is no jaundice or dark urine described.",
+          "C": "Iron deficiency is a chronic process and cannot account for an acute hemoglobin change over less than a day.",
+          "D": "Marrow suppression develops over days to weeks and cannot explain a hemoglobin change within 24 hours tied to fluid administration.",
+          "E": "GI hemorrhage causes a true drop in red cell mass and would not proportionally lower the WBC and platelet counts."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "dilutional-anemia",
+        "is-the-patient-truly-anemic",
+        "plasma-volume"
+      ],
+      "topicId": "history-taking-approach-to-anemia",
+      "topicName": "History-Taking Approach to Anemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl04-003",
+      "stem": "A 10-week-old, previously healthy, full-term infant is found to have a hemoglobin of 9.8 g/dL on routine testing. He is feeding and growing well and is otherwise asymptomatic. Which of the following best explains this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An inherited hemolytic anemia"
+        },
+        {
+          "label": "B",
+          "text": "Dilutional anemia from congestive heart failure"
+        },
+        {
+          "label": "C",
+          "text": "Folate-antagonist medication exposure"
+        },
+        {
+          "label": "D",
+          "text": "Occult gastrointestinal blood loss"
+        },
+        {
+          "label": "E",
+          "text": "Physiologic anemia of infancy"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Infants normally experience a physiologic anemia around 8-12 weeks of age with a nadir that can reach 9.5-10 g/dL.",
+        "whyCorrect": "After birth, red cell mass declines in response to increased oxygen availability and downregulation of erythropoietin. The count falls until oxygen delivery becomes inadequate and erythropoietin production resumes, producing an expected physiologic nadir at roughly 8-12 weeks. An age-matched reference range must be used because normal hemoglobin varies with age.",
+        "whyWrongByChoice": {
+          "A": "An inherited hemolytic anemia would typically produce jaundice, dark urine, or a positive family history, none of which are described.",
+          "B": "Dilutional anemia from CHF requires plasma-volume expansion from heart failure, which this healthy infant does not have.",
+          "C": "No medication exposure is described, and folate antagonists cause a maturation-defect anemia, not the expected physiologic nadir.",
+          "D": "GI blood loss is not suggested in an asymptomatic, well-growing infant and would be an uncommon explanation at this age."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "physiologic-anemia-of-infancy",
+        "age-matched-reference",
+        "erythropoietin"
+      ],
+      "topicId": "history-taking-approach-to-anemia",
+      "topicName": "History-Taking Approach to Anemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl04-004",
+      "stem": "A 27-year-old woman at 26 weeks gestation is noted to have a hemoglobin of 10.6 g/dL. She is asymptomatic, and her white cell and platelet counts are normal. Which of the following physiologic changes most likely accounts for the mildly decreased hemoglobin?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autoimmune destruction of red cells"
+        },
+        {
+          "label": "B",
+          "text": "Bone marrow aplasia"
+        },
+        {
+          "label": "C",
+          "text": "Chronic gastrointestinal blood loss"
+        },
+        {
+          "label": "D",
+          "text": "Increase in plasma volume"
+        },
+        {
+          "label": "E",
+          "text": "Testosterone-driven erythropoiesis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Pregnancy causes a physiologic (dilutional) anemia because plasma volume increases relative to red cell mass.",
+        "whyCorrect": "In normal pregnancy the plasma volume expands more than the red cell mass, modestly lowering the hemoglobin concentration. Anemia in pregnancy is typically defined as less than 11 g/dL in the first and third trimesters and less than 10.5 g/dL in the second trimester, so this value is near the physiologic range.",
+        "whyWrongByChoice": {
+          "A": "Autoimmune hemolysis would be accompanied by jaundice or dark urine and is not indicated by an isolated mild hemoglobin drop.",
+          "B": "Marrow aplasia typically depresses all cell lines, but this patient's white cell and platelet counts are normal.",
+          "C": "Chronic GI blood loss is not suggested here and would cause a true iron deficiency rather than a physiologic dilutional change.",
+          "E": "Testosterone raises hemoglobin (an erythropoietic effect) and would not explain a decrease."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "dilutional-anemia-of-pregnancy",
+        "plasma-volume",
+        "is-the-patient-truly-anemic"
+      ],
+      "topicId": "history-taking-approach-to-anemia",
+      "topicName": "History-Taking Approach to Anemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl04-005",
+      "stem": "A 28-year-old woman presents with fatigue and pallor. She reports heavy periods lasting 7 days, using 5 pads per day with occasional clots, and she has four children ranging from 2 to 6 years of age. She was told she was anemic during a previous pregnancy. She eats a regular diet with meat, has no change in bowel habits or dark stools, and has had no jaundice or dark urine. Which of the following is the most likely cause of her anemia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anemia of chronic inflammation"
+        },
+        {
+          "label": "B",
+          "text": "Aplastic anemia"
+        },
+        {
+          "label": "C",
+          "text": "Autoimmune hemolytic anemia"
+        },
+        {
+          "label": "D",
+          "text": "Dilutional anemia"
+        },
+        {
+          "label": "E",
+          "text": "Iron deficiency anemia"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Heavy menstrual loss combined with several closely spaced pregnancies is a classic history for iron deficiency anemia.",
+        "whyCorrect": "Menstrual blood loss is a very common cause of iron deficiency anemia, and each pregnancy costs roughly 600-750 mg of iron. Several pregnancies at short intervals give the body little time to replenish lost iron, and the absence of hemolysis, GI bleeding, or dilutional features points to iron deficiency from extensive menstrual and pregnancy-related loss.",
+        "whyWrongByChoice": {
+          "A": "No chronic infection, inflammatory disease, or malignancy is described to invoke anemia of chronic inflammation.",
+          "B": "Aplastic anemia would typically depress all cell lines and is not suggested by this focused blood-loss history.",
+          "C": "There is no jaundice, dark urine, or other evidence of hemolysis to support an autoimmune hemolytic process.",
+          "D": "She is not pregnant now and has no CHF, splenomegaly, or recent IV fluids to cause plasma-volume expansion."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "iron-deficiency",
+        "menstrual-blood-loss",
+        "is-there-evidence-of-blood-loss"
+      ],
+      "topicId": "history-taking-approach-to-anemia",
+      "topicName": "History-Taking Approach to Anemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl04-006",
+      "stem": "During a history for anemia, a physician emphasizes that each full-term pregnancy represents a large obligate iron loss that predisposes to iron deficiency, particularly with multiple closely spaced pregnancies. Approximately how much iron is lost per pregnancy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "20-30 mg"
+        },
+        {
+          "label": "B",
+          "text": "100-150 mg"
+        },
+        {
+          "label": "C",
+          "text": "200-250 mg"
+        },
+        {
+          "label": "D",
+          "text": "600-750 mg"
+        },
+        {
+          "label": "E",
+          "text": "1500-2000 mg"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Each pregnancy represents roughly 600-750 mg of iron loss.",
+        "whyCorrect": "The brick states that each pregnancy represents about 600-750 mg of iron lost, a large amount to replace. Women who have had multiple pregnancies, especially at short intervals, are highly likely to become iron deficient.",
+        "whyWrongByChoice": {
+          "A": "20-30 mg is far too small; it is closer to daily dietary iron content, not the cost of a pregnancy.",
+          "B": "100-150 mg substantially underestimates the obligate iron loss of a pregnancy.",
+          "C": "About 200 mg is the iron loss associated with one unit of donated or drawn blood, not a pregnancy.",
+          "E": "1500-2000 mg overstates the per-pregnancy loss described in the source."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "iron-deficiency",
+        "pregnancy",
+        "is-there-evidence-of-blood-loss"
+      ],
+      "topicId": "history-taking-approach-to-anemia",
+      "topicName": "History-Taking Approach to Anemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl04-007",
+      "stem": "A 7-year-old boy presents for follow-up. His mother mentions that he receives red blood cell transfusions once per month for treatment of his anemia, and that his aunt and cousin require similar treatments. Which of the six key history questions is most directly illustrated by this vignette?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Has the patient been exposed to medication or toxins?"
+        },
+        {
+          "label": "B",
+          "text": "Is the anemia inherited or acquired?"
+        },
+        {
+          "label": "C",
+          "text": "Is the patient truly anemic?"
+        },
+        {
+          "label": "D",
+          "text": "Is there evidence of blood loss?"
+        },
+        {
+          "label": "E",
+          "text": "Is there evidence of hemolysis?"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Young age at onset, chronic transfusion dependence, and a positive family history point to the question of whether the anemia is inherited or acquired.",
+        "whyCorrect": "Inherited causes of anemia typically present at an earlier age, and a family history of relatives requiring treatment or transfusions suggests a genetic process. Transfusions given at a young age without an obvious acquired cause are a specific clue to an inherited anemia.",
+        "whyWrongByChoice": {
+          "A": "No relevant drug or toxin exposure is mentioned that would implicate a medication-induced anemia.",
+          "C": "The child clearly has true anemia, since he requires monthly transfusions, so a dilutional cause is not in question.",
+          "D": "No source of bleeding such as melena, heavy menses, or hematuria is described in the vignette.",
+          "E": "No jaundice, dark urine, or splenomegaly is described to raise the question of hemolysis specifically."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "inherited-vs-acquired",
+        "family-history",
+        "six-history-questions"
+      ],
+      "topicId": "history-taking-approach-to-anemia",
+      "topicName": "History-Taking Approach to Anemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl04-008",
+      "stem": "A 22-year-old man is evaluated for fatigue. On examination he has scleral icterus, and he reports his urine has been dark. His spleen is mildly enlarged. Laboratory studies show an elevated indirect (unconjugated) bilirubin. Which of the following processes best explains this clinical picture?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bone marrow aplasia"
+        },
+        {
+          "label": "B",
+          "text": "Chronic gastrointestinal blood loss"
+        },
+        {
+          "label": "C",
+          "text": "Impaired DNA synthesis in red cell precursors"
+        },
+        {
+          "label": "D",
+          "text": "Plasma volume expansion"
+        },
+        {
+          "label": "E",
+          "text": "Premature destruction of red blood cells"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Jaundice with elevated indirect bilirubin, dark urine, and splenomegaly are characteristic signs of hemolysis.",
+        "whyCorrect": "Bilirubin is a breakdown product of heme; unconjugated (indirect) bilirubin rises with the increased red cell turnover of hemolysis, causing jaundice. Dark urine reflects hemoglobinuria when hemolysis is intravascular, and the spleen, a common site of red cell destruction, can enlarge with chronic hemolysis.",
+        "whyWrongByChoice": {
+          "A": "Marrow aplasia reduces cell production and does not generate the increased red cell turnover that raises indirect bilirubin.",
+          "B": "GI blood loss causes iron deficiency and does not elevate indirect bilirubin or cause jaundice and dark urine.",
+          "C": "A maturation defect from impaired DNA synthesis causes megaloblastic anemia, not the jaundice-and-dark-urine picture of hemolysis.",
+          "D": "Plasma volume expansion causes a dilutional anemia and does not raise bilirubin or produce jaundice."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hemolysis",
+        "indirect-bilirubin",
+        "is-there-evidence-of-hemolysis"
+      ],
+      "topicId": "history-taking-approach-to-anemia",
+      "topicName": "History-Taking Approach to Anemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl04-009",
+      "stem": "A previously healthy 25-year-old man develops fatigue, pallor, and jaundice a few days after starting primaquine for malaria prophylaxis. Laboratory studies are consistent with hemolytic anemia. A deficiency of which of the following enzymes best explains his susceptibility to this oxidant drug?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Erythrocyte adenosine deaminase"
+        },
+        {
+          "label": "B",
+          "text": "Erythrocyte pyruvate kinase (PK-R)"
+        },
+        {
+          "label": "C",
+          "text": "Glucose-6-phosphate dehydrogenase"
+        },
+        {
+          "label": "D",
+          "text": "Lysosomal acid glucocerebrosidase"
+        },
+        {
+          "label": "E",
+          "text": "NADPH-dependent dihydrofolate reductase"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "G6PD deficiency leaves red cells unable to detoxify reactive oxygen species, so oxidant drugs trigger hemolysis.",
+        "whyCorrect": "Patients with G6PD deficiency lack the enzyme needed to detoxify hydrogen peroxide, making red cells susceptible to oxidant stress. The classic presentation is a previously healthy person who, after an oxidant stressor such as primaquine, dapsone, or sulfa drugs, develops signs of hemolytic anemia (fatigue, pallor, jaundice).",
+        "whyWrongByChoice": {
+          "A": "Adenosine deaminase deficiency causes severe combined immunodeficiency, not drug-induced hemolytic anemia.",
+          "B": "Pyruvate kinase deficiency causes a chronic nonspherocytic hemolytic anemia but is not the enzyme defect triggered by oxidant drugs described here.",
+          "D": "Glucocerebrosidase deficiency causes Gaucher disease, a lysosomal storage disorder, not oxidant-induced hemolysis.",
+          "E": "Dihydrofolate reductase is inhibited by folate antagonists such as methotrexate, which cause a maturation-defect anemia, not oxidant hemolysis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "G6PD-deficiency",
+        "oxidant-drugs",
+        "medication-induced-hemolysis"
+      ],
+      "topicId": "history-taking-approach-to-anemia",
+      "topicName": "History-Taking Approach to Anemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl04-010",
+      "stem": "A physician is reviewing a patient's medications while evaluating a new anemia. She notes the patient takes ibuprofen frequently for chronic pain. Through which mechanism is this medication most likely to contribute to anemia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct suppression of the bone marrow"
+        },
+        {
+          "label": "B",
+          "text": "Expansion of plasma volume"
+        },
+        {
+          "label": "C",
+          "text": "Folate antagonism impairing red cell maturation"
+        },
+        {
+          "label": "D",
+          "text": "Gastrointestinal blood loss"
+        },
+        {
+          "label": "E",
+          "text": "Oxidative stress causing hemolysis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "NSAIDs such as ibuprofen classically cause anemia through gastrointestinal blood loss.",
+        "whyCorrect": "The brick lists non-steroidal anti-inflammatory drugs (NSAIDs, like ibuprofen) as agents that cause GI blood loss. Chronic GI bleeding depletes iron and produces iron deficiency anemia over time.",
+        "whyWrongByChoice": {
+          "A": "Marrow suppression is associated with chemotherapy, insecticides, and anticonvulsants such as phenytoin, not NSAIDs.",
+          "B": "Plasma volume expansion causes dilutional anemia and is unrelated to NSAID use.",
+          "C": "Folate antagonism causing a maturation defect is the mechanism of trimethoprim and methotrexate, not ibuprofen.",
+          "E": "Oxidant hemolysis is caused by drugs like dapsone, sulfa drugs, and primaquine, not by NSAIDs."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "NSAIDs",
+        "GI-blood-loss",
+        "medication-induced-anemia"
+      ],
+      "topicId": "history-taking-approach-to-anemia",
+      "topicName": "History-Taking Approach to Anemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl04-011",
+      "stem": "A 58-year-old man with long-standing chronic kidney disease is found to be anemic. He has no evidence of bleeding, hemolysis, or a dilutional cause, and takes no marrow-toxic medications. Which of the six key history questions best captures the most likely explanation for his anemia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Is the anemia an inherited disorder or an acquired condition of later life?"
+        },
+        {
+          "label": "B",
+          "text": "Is the patient truly anemic, or is the hemoglobin diluted by plasma volume expansion?"
+        },
+        {
+          "label": "C",
+          "text": "Is there evidence of a systemic illness or non-hematologic organ dysfunction?"
+        },
+        {
+          "label": "D",
+          "text": "Is there evidence of acute or chronic blood loss from the gastrointestinal tract?"
+        },
+        {
+          "label": "E",
+          "text": "Is there evidence of hemolysis, such as jaundice, dark urine, or splenomegaly?"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Renal disease is a non-hematologic organ dysfunction that can cause anemia, captured by the systemic-illness history question.",
+        "whyCorrect": "Many underlying conditions, including infection, chronic inflammation, renal disease, liver disease, endocrine disease, and malignancy, can be associated with anemia. Chronic kidney disease is a classic example of a non-hematologic organ dysfunction that produces anemia.",
+        "whyWrongByChoice": {
+          "A": "Onset in later adulthood with a clear organ cause argues against an inherited anemia presenting at a young age.",
+          "B": "A dilutional cause is excluded by the stem, so the patient is truly anemic.",
+          "D": "The vignette explicitly states there is no evidence of bleeding, so a blood-loss source is not the explanation.",
+          "E": "There is no jaundice, dark urine, or splenomegaly, and the stem states there is no hemolysis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "anemia-of-chronic-disease",
+        "renal-disease",
+        "systemic-illness"
+      ],
+      "topicId": "history-taking-approach-to-anemia",
+      "topicName": "History-Taking Approach to Anemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl04-012",
+      "stem": "A medical student asks how anemia is defined. The attending explains that there are two definitions: a clinical one based on comparison with a reference population, and a physiologic one. Which of the following best states the physiologic definition of anemia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A hematocrit below the mean of the reference population"
+        },
+        {
+          "label": "B",
+          "text": "A red blood cell count below the lower limit of the reference range"
+        },
+        {
+          "label": "C",
+          "text": "A reduction in the average size of the circulating red blood cells"
+        },
+        {
+          "label": "D",
+          "text": "Oxygen-carrying capacity insufficient to meet the oxygen requirement"
+        },
+        {
+          "label": "E",
+          "text": "Premature destruction of circulating red blood cells in the spleen"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The physiologic definition of anemia is insufficient oxygen-carrying capacity in the blood to meet the oxygen requirement.",
+        "whyCorrect": "Anemia has two definitions. The physiologic definition is functional: the blood cannot carry enough oxygen to meet the body's oxygen requirement. The clinical definition is the laboratory one, a decreased hemoglobin or hematocrit compared to the reference population.",
+        "whyWrongByChoice": {
+          "A": "Comparing the hematocrit to a reference population is the clinical definition of anemia, not the physiologic one.",
+          "B": "A red cell count below the reference range is a laboratory comparison, which belongs to the clinical rather than the physiologic definition.",
+          "C": "A reduced average red cell size describes a low MCV, an index used to narrow the differential after anemia is established.",
+          "E": "Premature red cell destruction defines hemolysis, which is one cause of anemia rather than a definition of it."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "definition-of-anemia",
+        "physiologic-definition",
+        "oxygen-carrying-capacity"
+      ],
+      "topicId": "history-taking-approach-to-anemia",
+      "topicName": "History-Taking Approach to Anemia",
+      "tier": "core"
+    }
+  ]
+}

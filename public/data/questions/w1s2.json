@@ -1,0 +1,2268 @@
+{
+  "categoryId": "w1s2",
+  "categoryName": "Session 2",
+  "questions": [
+    {
+      "id": "bl05-001",
+      "stem": "A physician is reviewing a panel of patients to determine who is at lowest risk for developing iron-deficiency anemia. Which of the following patients has the LEAST risk for iron deficiency?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A 60-year-old man with heme-positive stools"
+        },
+        {
+          "label": "B",
+          "text": "A patient with peptic ulcer disease taking large doses of oral antacids"
+        },
+        {
+          "label": "C",
+          "text": "A pregnant woman who follows a vegan diet"
+        },
+        {
+          "label": "D",
+          "text": "An asymptomatic postmenopausal woman"
+        },
+        {
+          "label": "E",
+          "text": "An asymptomatic premenopausal woman"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Iron-deficiency anemia is driven by blood loss, poor intake/absorption, or increased demand; a postmenopausal woman with no symptoms lacks all of these.",
+        "whyCorrect": "Women are at risk for iron deficiency during pregnancy (increased demand) and during their reproductive years (menstrual blood loss). After menopause, menstrual losses stop, so an asymptomatic postmenopausal woman has the lowest risk of the options listed.",
+        "whyWrongByChoice": {
+          "A": "A 60-year-old man with heme-positive stools is losing blood from the GI tract, a classic cause of iron deficiency that should raise concern for malignancy.",
+          "B": "Chronic high-dose antacids reduce GI iron absorption, promoting iron deficiency.",
+          "C": "Pregnancy sharply raises iron demand, and a vegan diet supplies only poorly absorbed nonheme iron, compounding the risk.",
+          "E": "A premenopausal woman loses iron through ongoing menstrual bleeding, the most common overall cause of iron deficiency."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "iron-deficiency anemia",
+        "risk factors",
+        "epidemiology"
+      ],
+      "topicId": "iron-deficiency-anemia",
+      "topicName": "Iron-Deficiency Anemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl05-002",
+      "stem": "A 32-year-old woman reports several months of fatigue and decreased exercise tolerance. She has four children and a full-time job. Her only notable finding on review of systems is heavy menstrual periods. Vital signs and physical exam are unremarkable. Laboratory studies show a microcytic, hypochromic anemia with low serum ferritin. Which of the following is the most likely underlying cause of her anemia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anemia of chronic inflammation"
+        },
+        {
+          "label": "B",
+          "text": "Chronic intravascular hemolysis"
+        },
+        {
+          "label": "C",
+          "text": "Chronic menstrual blood loss"
+        },
+        {
+          "label": "D",
+          "text": "Impaired iron absorption in the duodenum"
+        },
+        {
+          "label": "E",
+          "text": "Occult gastrointestinal malignancy"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Heavy menses is the most common overall cause of iron-deficiency anemia in premenopausal women.",
+        "whyCorrect": "Menstrual bleeding causes roughly 1 mg of iron loss per day, and heavy menses in a premenopausal woman is the single most common cause of iron-deficiency anemia. Her low ferritin and microcytic, hypochromic indices fit chronic blood loss from menstruation.",
+        "whyWrongByChoice": {
+          "A": "Anemia of chronic inflammation typically shows normal or elevated ferritin, not the low ferritin seen here.",
+          "B": "Chronic intravascular hemolysis (e.g., a malfunctioning heart valve or PNH) is an uncommon cause and is not suggested by her history.",
+          "D": "Impaired absorption occurs with malabsorption syndromes or bariatric surgery, none of which are present here.",
+          "E": "GI malignancy is the leading concern in an older man or postmenopausal woman, not a menstruating 32-year-old with an obvious bleeding source."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "iron-deficiency anemia",
+        "etiology",
+        "menorrhagia"
+      ],
+      "topicId": "iron-deficiency-anemia",
+      "topicName": "Iron-Deficiency Anemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl05-003",
+      "stem": "A 58-year-old woman with long-standing rheumatoid arthritis is evaluated for a microcytic anemia thought to be due to iron deficiency. Because of her active inflammatory disease, some iron studies may be misleading. Which of the following laboratory values would be abnormally LOW in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hepcidin"
+        },
+        {
+          "label": "B",
+          "text": "Red cell distribution width"
+        },
+        {
+          "label": "C",
+          "text": "Serum ferritin"
+        },
+        {
+          "label": "D",
+          "text": "Serum iron"
+        },
+        {
+          "label": "E",
+          "text": "Total iron-binding capacity"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Serum iron is low in iron deficiency, but is nondiagnostic alone because it is also low in anemia of chronic disease.",
+        "whyCorrect": "Serum iron is decreased in iron-deficiency anemia. Because it is also decreased in anemia of chronic disease/inflammation, it is the low value expected here, though it is nonspecific by itself.",
+        "whyWrongByChoice": {
+          "A": "Hepcidin is increased by inflammatory cytokines, not decreased, and helps drive the anemia of chronic disease.",
+          "B": "The red cell distribution width is increased in iron deficiency because red cells vary in size (anisocytosis).",
+          "C": "Ferritin is a positive acute-phase reactant; in a patient with active rheumatoid arthritis it can be normal or elevated, masking iron deficiency.",
+          "E": "Total iron-binding capacity rises in iron deficiency as the liver makes more transferrin."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "iron studies",
+        "anemia of chronic disease",
+        "acute-phase reactant"
+      ],
+      "topicId": "iron-deficiency-anemia",
+      "topicName": "Iron-Deficiency Anemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl05-004",
+      "stem": "A 67-year-old man presents with 3 months of progressive fatigue, shortness of breath, and intermittent lightheadedness. Exam is notable for conjunctival pallor and a positive stool hemoccult test. Complete blood count shows hemoglobin 8.7 g/dL with a low mean corpuscular volume, and serum ferritin is 10 ng/mL. In addition to starting oral iron, which of the following is the most appropriate next step in management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Abdominal ultrasound"
+        },
+        {
+          "label": "B",
+          "text": "Blood transfusion"
+        },
+        {
+          "label": "C",
+          "text": "Colonoscopy"
+        },
+        {
+          "label": "D",
+          "text": "CT scan of the abdomen"
+        },
+        {
+          "label": "E",
+          "text": "Hemoglobin electrophoresis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Iron-deficiency anemia with occult GI bleeding in an older man requires evaluation for a GI malignancy such as colon cancer.",
+        "whyCorrect": "This man has microcytic anemia with low ferritin and a positive hemoccult test. Iron deficiency in an older man is due to GI malignancy until proven otherwise, so the appropriate next step is colonoscopy (with upper GI endoscopy if indicated).",
+        "whyWrongByChoice": {
+          "A": "Abdominal ultrasound is used when hemoperitoneum is suspected in trauma; such patients are acutely symptomatic and unstable.",
+          "B": "Transfusion is reserved for severe or life-threatening anemia or hemodynamic instability, not this stable patient.",
+          "D": "CT of the abdomen is used to evaluate suspected infection or inflammation of the GI tract and nearby organs, not to localize occult bleeding here.",
+          "E": "Hemoglobin electrophoresis is used to evaluate suspected thalassemia, which is unlikely given the low ferritin and positive hemoccult."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "management",
+        "occult GI bleeding",
+        "colon cancer"
+      ],
+      "topicId": "iron-deficiency-anemia",
+      "topicName": "Iron-Deficiency Anemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl05-005",
+      "stem": "A researcher is studying how iron deficiency reduces hemoglobin production. Normally, the final step of heme synthesis inserts iron into a ring-shaped precursor molecule. Impairment of which of the following steps best explains the decreased heme production in iron-deficiency anemia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Binding of iron to transferrin in the plasma"
+        },
+        {
+          "label": "B",
+          "text": "Insertion of iron into protoporphyrin by ferrochelatase"
+        },
+        {
+          "label": "C",
+          "text": "Oxidation of ferrous iron to ferric iron by hephaestin"
+        },
+        {
+          "label": "D",
+          "text": "Reduction of ferric iron to ferrous iron in the gut lumen"
+        },
+        {
+          "label": "E",
+          "text": "Storage of iron within ferritin in the liver"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Heme synthesis ends with ferrochelatase inserting iron into protoporphyrin; iron deficiency starves this step.",
+        "whyCorrect": "Heme is the iron-containing component of hemoglobin. Its final synthetic step is the insertion of iron into the protoporphyrin molecule by ferrochelatase. When iron is deficient, this step fails, decreasing heme, then hemoglobin, and eventually the number of red cells.",
+        "whyWrongByChoice": {
+          "A": "Transferrin binding is a transport function in blood, not a step of the heme biosynthetic pathway.",
+          "C": "Hephaestin oxidizes iron during absorption/export from enterocytes; it is not the rate-limiting step of heme synthesis.",
+          "D": "Luminal reduction of ferric to ferrous iron aids intestinal absorption but is upstream of heme synthesis.",
+          "E": "Ferritin storage sequesters iron; it is not part of assembling the heme molecule."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pathogenesis",
+        "heme synthesis",
+        "ferrochelatase"
+      ],
+      "topicId": "iron-deficiency-anemia",
+      "topicName": "Iron-Deficiency Anemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl05-006",
+      "stem": "During infection and inflammation, the body sequesters iron inside cells to keep it away from pathogens. Which of the following molecules causes iron to remain sequestered in cells by degrading ferroportin, thereby preventing iron from entering the bloodstream?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Erythropoietin"
+        },
+        {
+          "label": "B",
+          "text": "Ferritin"
+        },
+        {
+          "label": "C",
+          "text": "Ferroportin"
+        },
+        {
+          "label": "D",
+          "text": "Hepcidin"
+        },
+        {
+          "label": "E",
+          "text": "Transferrin"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Hepcidin blocks iron export by causing internalization and degradation of ferroportin.",
+        "whyCorrect": "Hepcidin, secreted by hepatocytes and increased by inflammatory cytokines, causes ferroportin to be internalized and degraded. Without functioning ferroportin, iron cannot leave enterocytes, macrophages, or hepatocytes and remains sequestered inside cells.",
+        "whyWrongByChoice": {
+          "A": "Erythropoietin actually inhibits hepatic hepcidin production, promoting iron release rather than sequestration.",
+          "B": "Ferritin is the intracellular storage protein for iron; it packs iron away but does not act on ferroportin.",
+          "C": "Ferroportin is the transport protein that is degraded by hepcidin, not the molecule causing sequestration.",
+          "E": "Transferrin transports iron through the bloodstream; it does not regulate ferroportin."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "iron metabolism",
+        "hepcidin",
+        "ferroportin"
+      ],
+      "topicId": "iron-deficiency-anemia",
+      "topicName": "Iron-Deficiency Anemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl05-007",
+      "stem": "A previously healthy person relocates to a high-altitude region where tissue oxygen levels are chronically low. Over the following weeks, the kidney increases production of a hormone that stimulates red blood cell production and simultaneously enhances delivery of iron to the marrow. Through which of the following mechanisms does this hormone increase circulating iron?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blocking heme carrier protein 1 in the duodenum"
+        },
+        {
+          "label": "B",
+          "text": "Decreasing transferrin production in the liver"
+        },
+        {
+          "label": "C",
+          "text": "Increasing ferritin synthesis to store more iron in cells"
+        },
+        {
+          "label": "D",
+          "text": "Inhibiting hepatic hepcidin production"
+        },
+        {
+          "label": "E",
+          "text": "Stimulating hepcidin release to degrade ferroportin"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Erythropoietin inhibits hepcidin, freeing ferroportin to move more iron into the blood for new red cells.",
+        "whyCorrect": "When tissue oxygen is low, the kidney releases erythropoietin, which stimulates the marrow to make red cells and also inhibits hepatic hepcidin production. Less hepcidin means ferroportin is preserved, so more iron is transported into the bloodstream for erythropoiesis.",
+        "whyWrongByChoice": {
+          "A": "Blocking HCP1 would impair intestinal iron absorption, reducing rather than increasing available iron.",
+          "B": "Erythropoietin does not work by lowering transferrin; transferrin actually carries the mobilized iron.",
+          "C": "Increasing ferritin storage would keep iron inside cells rather than raising circulating iron.",
+          "E": "Stimulating hepcidin would degrade ferroportin and trap iron in cells, the opposite of what is needed for red cell production."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "iron metabolism",
+        "erythropoietin",
+        "hepcidin"
+      ],
+      "topicId": "iron-deficiency-anemia",
+      "topicName": "Iron-Deficiency Anemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl05-008",
+      "stem": "A 4-year-old child is brought in by a parent who is worried because the child repeatedly chews on ice cubes and has been caught eating dirt and paint chips. The child appears pale. A complete blood count shows a microcytic, hypochromic anemia. This child's unusual eating behavior is most specifically associated with which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic inflammation"
+        },
+        {
+          "label": "B",
+          "text": "Hemolysis"
+        },
+        {
+          "label": "C",
+          "text": "Iron deficiency"
+        },
+        {
+          "label": "D",
+          "text": "Reactive thrombocytosis"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin B12 deficiency"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Pica, the craving of nonfood items, is a symptom specifically linked to iron deficiency.",
+        "whyCorrect": "Persistent ingestion of nonfood items such as ice, dirt, clay, or paint chips is termed pica and is a symptom specifically related to iron deficiency. This child's microcytic, hypochromic anemia supports iron-deficiency anemia.",
+        "whyWrongByChoice": {
+          "A": "Chronic inflammation causes anemia of chronic disease but is not the classic cause of pica.",
+          "B": "Hemolysis is not associated with pica and typically does not produce microcytic, hypochromic cells.",
+          "D": "Reactive thrombocytosis can accompany iron deficiency but is a laboratory finding, not the cause of the behavior.",
+          "E": "The microcytic indices point to iron deficiency; B12 deficiency causes a macrocytic anemia."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "clinical presentation",
+        "pica",
+        "pediatrics"
+      ],
+      "topicId": "iron-deficiency-anemia",
+      "topicName": "Iron-Deficiency Anemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl05-009",
+      "stem": "A 45-year-old woman with a long history of heavy menstrual bleeding is evaluated for chronic fatigue. On examination, her fingernails curve upward into a concave, spoon-like shape, and there are cracks at the corners of her mouth. Which of the following best describes the spoon-shaped nail finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Angular cheilitis"
+        },
+        {
+          "label": "B",
+          "text": "Atrophic glossitis"
+        },
+        {
+          "label": "C",
+          "text": "Conjunctival pallor"
+        },
+        {
+          "label": "D",
+          "text": "Glossitis"
+        },
+        {
+          "label": "E",
+          "text": "Koilonychia"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Koilonychia is the spoon-shaped, upwardly concave nail seen in chronic iron deficiency.",
+        "whyCorrect": "Koilonychia describes a condition in which the nails curve upward into a concave, spoon-like shape and is a physical finding suggestive of iron-deficiency anemia. Her heavy menses and fatigue fit chronic iron deficiency.",
+        "whyWrongByChoice": {
+          "A": "Angular cheilitis refers to the cracks and fissures at the corners of the mouth, not the nail change.",
+          "B": "Atrophic glossitis involves shrinkage of the tongue papillae, producing a shiny, smooth tongue.",
+          "C": "Conjunctival pallor is a nonspecific sign of anemia affecting the mucous membranes, not the nails.",
+          "D": "Glossitis is inflammation and enlargement of the tongue, unrelated to the nail finding."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "physical exam",
+        "koilonychia",
+        "clinical signs"
+      ],
+      "topicId": "iron-deficiency-anemia",
+      "topicName": "Iron-Deficiency Anemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl05-010",
+      "stem": "A 29-year-old vegetarian woman with fatigue has a complete blood count showing a low hemoglobin and low mean corpuscular volume. A peripheral blood smear is reviewed. Which of the following sets of findings is most consistent with iron-deficiency anemia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hypochromic red cells with increased central pallor"
+        },
+        {
+          "label": "B",
+          "text": "Macrocytic red cells with hypersegmented neutrophils"
+        },
+        {
+          "label": "C",
+          "text": "Normocytic, normochromic red cells with rouleaux formation"
+        },
+        {
+          "label": "D",
+          "text": "Schistocytes and helmet cells with thrombocytopenia"
+        },
+        {
+          "label": "E",
+          "text": "Spherocytes with no central pallor and polychromasia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The iron-deficiency smear shows small, pale (hypochromic) cells with increased central pallor and size variation.",
+        "whyCorrect": "In iron-deficiency anemia the red cells are hypochromic (abnormally pale) because of decreased hemoglobin content, and the zone of central pallor is increased beyond the normal one-third of cell diameter. Anisocytosis (variation in size) is also seen, matching the elevated RDW.",
+        "whyWrongByChoice": {
+          "B": "Macrocytic cells with hypersegmented neutrophils indicate a megaloblastic anemia (B12 or folate deficiency).",
+          "C": "Normocytic, normochromic cells with rouleaux suggest a different process, not the microcytic iron-deficiency picture.",
+          "D": "Schistocytes and helmet cells with thrombocytopenia indicate a microangiopathic hemolytic process, not iron deficiency.",
+          "E": "Spherocytes lacking central pallor with polychromasia point to hemolysis, such as hereditary spherocytosis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pathology",
+        "peripheral smear",
+        "hypochromic microcytic"
+      ],
+      "topicId": "iron-deficiency-anemia",
+      "topicName": "Iron-Deficiency Anemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl05-011",
+      "stem": "A patient with iron-deficiency anemia has iron studies drawn. The total iron-binding capacity is elevated. Which of the following best explains why the total iron-binding capacity rises in iron deficiency?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ferritin is released from the liver into the plasma"
+        },
+        {
+          "label": "B",
+          "text": "Hepcidin increases and degrades ferroportin"
+        },
+        {
+          "label": "C",
+          "text": "More binding sites on transferrin become occupied by iron"
+        },
+        {
+          "label": "D",
+          "text": "The kidney decreases erythropoietin production"
+        },
+        {
+          "label": "E",
+          "text": "The liver produces more transferrin"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "TIBC measures available transferrin binding sites, which rise as the liver makes more transferrin in iron deficiency.",
+        "whyCorrect": "Total iron-binding capacity reflects the number of open iron-binding sites on circulating transferrin. In iron deficiency, the liver produces more transferrin to try to capture the limited iron; because there is little iron and more transferrin, the TIBC goes up.",
+        "whyWrongByChoice": {
+          "A": "Ferritin is a storage protein, and its level actually falls in iron deficiency; it does not determine TIBC.",
+          "B": "Hepcidin degradation of ferroportin controls iron export, not the transferrin binding capacity measured by TIBC.",
+          "C": "More occupied binding sites would raise transferrin saturation, which is actually low in iron deficiency; TIBC reflects open sites.",
+          "D": "Erythropoietin from the kidney increases with anemia and does not account for the elevated TIBC."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "iron studies",
+        "TIBC",
+        "transferrin"
+      ],
+      "topicId": "iron-deficiency-anemia",
+      "topicName": "Iron-Deficiency Anemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl05-012",
+      "stem": "A 40-year-old woman with severe Crohn disease and documented iron-deficiency anemia cannot tolerate oral iron because it worsens her gastrointestinal symptoms, and her intestinal disease impairs absorption. Which of the following is the most appropriate route of iron replacement for this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A single prophylactic blood transfusion"
+        },
+        {
+          "label": "B",
+          "text": "Dietary counseling alone"
+        },
+        {
+          "label": "C",
+          "text": "Intravenous iron"
+        },
+        {
+          "label": "D",
+          "text": "Oral ferrous sulfate at a higher dose"
+        },
+        {
+          "label": "E",
+          "text": "Oral iron combined with an antacid"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Intravenous iron is used for patients who cannot tolerate or absorb oral iron, such as those with inflammatory bowel disease.",
+        "whyCorrect": "Intravenous iron is given to patients who cannot tolerate or receive oral iron and to those who cannot absorb it, such as patients with inflammatory bowel disease, malabsorption syndromes, or prior gastric bypass. This patient meets both criteria.",
+        "whyWrongByChoice": {
+          "A": "Transfusion is reserved for severe or life-threatening anemia, not routine iron replacement in a stable patient.",
+          "B": "Dietary counseling alone cannot correct an established deficiency in a patient with malabsorption.",
+          "D": "Higher-dose oral iron will still cause GI intolerance and will not be absorbed adequately given her intestinal disease.",
+          "E": "Antacids reduce GI iron absorption, so combining them with oral iron would worsen the problem."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "management",
+        "intravenous iron",
+        "malabsorption"
+      ],
+      "topicId": "iron-deficiency-anemia",
+      "topicName": "Iron-Deficiency Anemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl06-001",
+      "stem": "A 34-year-old woman is found to have a hemoglobin of 11.2 g/dL and a mean corpuscular volume of 68 fL on routine testing. She is asymptomatic. Her red blood cell count is elevated, her red cell distribution width is normal, and her serum ferritin is normal. Which of the following findings most reliably distinguishes her condition from iron-deficiency anemia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Elevated red cell distribution width (RDW)"
+        },
+        {
+          "label": "B",
+          "text": "Low hemoglobin concentration in whole blood"
+        },
+        {
+          "label": "C",
+          "text": "Low mean corpuscular volume (microcytosis)"
+        },
+        {
+          "label": "D",
+          "text": "Normal to increased red blood cell count"
+        },
+        {
+          "label": "E",
+          "text": "Presence of hypochromia on the peripheral smear"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In mild thalassemia the RBC count is normal or increased and the RDW is normal, unlike iron deficiency.",
+        "whyCorrect": "The brick emphasizes that although hemoglobin is low in mild thalassemia, the RBC count is usually normal or increased, whereas it is low in iron-deficiency anemia. This is a key distinguishing clue in the CBC, along with a normal RDW.",
+        "whyWrongByChoice": {
+          "A": "An elevated RDW favors iron deficiency; in thalassemia minor the RDW is typically normal.",
+          "B": "Low hemoglobin occurs in both conditions and does not distinguish them.",
+          "C": "Both thalassemia trait and iron deficiency produce a low MCV (microcytosis), so this does not separate them.",
+          "E": "Hypochromia is seen in both microcytic anemias and is not discriminating."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "diagnosis",
+        "CBC",
+        "iron deficiency"
+      ],
+      "topicId": "thalassemias",
+      "topicName": "Thalassemias",
+      "tier": "core"
+    },
+    {
+      "id": "bl06-002",
+      "stem": "A patient of Southeast Asian descent has moderate to severe microcytic anemia. Genetic testing shows a genotype in which three of the four alpha-globin genes are deleted, and hemoglobin analysis reveals an unstable tetramer composed of four beta chains. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alpha-thalassemia trait"
+        },
+        {
+          "label": "B",
+          "text": "Beta-thalassemia major"
+        },
+        {
+          "label": "C",
+          "text": "Hemoglobin H disease"
+        },
+        {
+          "label": "D",
+          "text": "Hydrops fetalis"
+        },
+        {
+          "label": "E",
+          "text": "Silent carrier (alpha-thalassemia minima)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Deletion of three alpha-globin genes produces HbH disease, with excess beta chains forming HbH (beta-4) tetramers.",
+        "whyCorrect": "Per Table 1, deletion of three alpha genes (a-/--) causes HbH disease with moderate to severe anemia. The excess unpaired beta chains aggregate into HbH tetramers, which are insoluble, cannot carry oxygen, and shorten RBC lifespan.",
+        "whyWrongByChoice": {
+          "A": "Alpha-thalassemia trait involves two deleted alpha genes and causes only mild anemia.",
+          "B": "Beta-thalassemia major is caused by beta-globin mutations, not alpha-gene deletions.",
+          "D": "Hydrops fetalis results from deletion of all four alpha genes and is usually fatal in utero, forming Hb Barts (gamma-4), not HbH.",
+          "E": "The silent carrier has only one alpha gene deleted and is asymptomatic with no anemia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "alpha-thalassemia",
+        "genetics",
+        "HbH"
+      ],
+      "topicId": "thalassemias",
+      "topicName": "Thalassemias",
+      "tier": "core"
+    },
+    {
+      "id": "bl06-003",
+      "stem": "A 25-year-old man has been chronically jaundiced and anemic since childhood and has required transfusions for repeated episodes of severe anemia. Examination shows splenomegaly, frontal bossing, and prominent malar eminences. The CBC shows a microcytic, hypochromic anemia, and hemoglobin electrophoresis shows elevated HbA2 and HbF with undetectable HbA. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alpha-thalassemia trait with two gene deletions"
+        },
+        {
+          "label": "B",
+          "text": "Beta-thalassemia major"
+        },
+        {
+          "label": "C",
+          "text": "Beta-thalassemia trait (thalassemia minor)"
+        },
+        {
+          "label": "D",
+          "text": "Hemoglobin Bart disease (hydrops fetalis)"
+        },
+        {
+          "label": "E",
+          "text": "Hemoglobin H disease (three gene deletions)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Undetectable HbA with transfusion dependence and skeletal changes indicates beta-thalassemia major (beta-0/beta-0).",
+        "whyCorrect": "The transfusion requirement, severe anemia, splenomegaly, and bossing from extramedullary hematopoiesis, combined with electrophoresis showing no HbA, point to transfusion-dependent beta-thalassemia. With no beta chains produced, HbF and HbA2 rise to compensate.",
+        "whyWrongByChoice": {
+          "A": "Alpha-thalassemia trait is usually asymptomatic with a normal hemoglobin electrophoresis.",
+          "C": "Beta-thalassemia trait is asymptomatic and shows low-normal HbA with only mildly elevated HbA2 and HbF, not absent HbA.",
+          "D": "Hemoglobin Bart disease is incompatible with life and causes intrauterine fetal demise.",
+          "E": "Hemoglobin H disease shows elevated HbH with low HbA, HbA2, and HbF, not the pattern described."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "beta-thalassemia",
+        "electrophoresis",
+        "diagnosis"
+      ],
+      "topicId": "thalassemias",
+      "topicName": "Thalassemias",
+      "tier": "core"
+    },
+    {
+      "id": "bl06-004",
+      "stem": "A 19-year-old with severe beta-thalassemia has received regular red blood cell transfusions for many years. He now develops a cardiomyopathy with heart failure and abnormal liver function tests. Which of the following is the most likely complication responsible for these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Graft-versus-host disease"
+        },
+        {
+          "label": "B",
+          "text": "Hepatitis C infection"
+        },
+        {
+          "label": "C",
+          "text": "HIV infection"
+        },
+        {
+          "label": "D",
+          "text": "Increased hemolysis from mismatched transfusion"
+        },
+        {
+          "label": "E",
+          "text": "Iron overload (secondary hemochromatosis)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Chronic transfusion causes iron overload, depositing iron in the heart, liver, and endocrine organs.",
+        "whyCorrect": "The brick states that frequent transfusions increase the risk of iron overload, or secondary hemochromatosis, leading to iron deposition in the heart, liver, and endocrine organs, with complications such as heart failure, arrhythmias, and liver disease. Iron chelators like deferoxamine are given to prevent this.",
+        "whyWrongByChoice": {
+          "A": "Graft-versus-host disease is a complication of stem cell transplant, not routine transfusion.",
+          "B": "Transfusion-transmitted hepatitis C is rare in developed countries because of adequate blood screening.",
+          "C": "Transfusion-transmitted HIV is likewise rare due to blood screening and does not explain the iron-loading pattern.",
+          "D": "Hemolysis from a mismatched transfusion is very rare and would not cause chronic organ iron deposition."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "complications",
+        "transfusion",
+        "iron overload"
+      ],
+      "topicId": "thalassemias",
+      "topicName": "Thalassemias",
+      "tier": "core"
+    },
+    {
+      "id": "bl06-005",
+      "stem": "A newborn with a genetically confirmed severe form of beta-thalassemia major appears healthy at birth and remains asymptomatic for the first several months of life, developing anemia only around 6 to 12 months of age. Which of the following best explains the delayed onset of symptoms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Beta chain synthesis is maximal at birth and declines slowly"
+        },
+        {
+          "label": "B",
+          "text": "Fetal hemoglobin contains alpha and gamma chains"
+        },
+        {
+          "label": "C",
+          "text": "Iron stores from birth prevent anemia until they are depleted"
+        },
+        {
+          "label": "D",
+          "text": "Maternal HbA crosses the placenta and persists for the first year"
+        },
+        {
+          "label": "E",
+          "text": "Newborns compensate by producing excess HbA2 (alpha-2 delta-2)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "HbF (alpha-2 gamma-2) does not require beta chains and sustains oxygen delivery until it declines after birth.",
+        "whyCorrect": "The brick explains that fetal hemoglobin (HbF) contains alpha and gamma globin and does not contain beta globin, so it is unaffected by beta-thalassemia. HbF persists for at least 6 months after birth and delivers oxygen adequately; children become symptomatic only as HbF levels fall.",
+        "whyWrongByChoice": {
+          "A": "Beta chain synthesis is defective in beta-thalassemia and rises after birth as gamma falls, which is when symptoms appear.",
+          "C": "Iron stores are not the protective factor; the anemia is due to defective globin production, not iron deficiency.",
+          "D": "The brick attributes protection to the newborn's own HbF, not to persistent maternal hemoglobin.",
+          "E": "HbA2 is only a minor hemoglobin and is not the reason neonates are protected."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "fetal hemoglobin",
+        "beta-thalassemia",
+        "physiology"
+      ],
+      "topicId": "thalassemias",
+      "topicName": "Thalassemias",
+      "tier": "core"
+    },
+    {
+      "id": "bl06-006",
+      "stem": "A fetus is found on prenatal evaluation to have severe, diffuse edema and profound anemia, and intrauterine demise occurs. Molecular studies show deletion of all four alpha-globin genes. Which abnormal hemoglobin is most likely responsible for this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hemoglobin A (alpha-2 beta-2)"
+        },
+        {
+          "label": "B",
+          "text": "Hemoglobin A2 (alpha-2 delta-2)"
+        },
+        {
+          "label": "C",
+          "text": "Hemoglobin Barts (gamma-4 tetramer)"
+        },
+        {
+          "label": "D",
+          "text": "Hemoglobin H (beta-4 tetramer)"
+        },
+        {
+          "label": "E",
+          "text": "Hemoglobin S (sickle hemoglobin)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "With no alpha chains, fetal gamma chains form Hb Barts (gamma-4), causing hydrops fetalis.",
+        "whyCorrect": "Deletion of all four alpha genes prevents alpha chain production. In the fetus, the unpaired gamma chains that normally partner with alpha chains clump into tetramers of four gamma chains called Hb Barts. This causes extremely severe anemia, diffuse edema, and usually intrauterine death (hydrops fetalis).",
+        "whyWrongByChoice": {
+          "A": "HbA requires alpha chains, which cannot be made when all four alpha genes are deleted.",
+          "B": "HbA2 is a minor normal hemoglobin and requires alpha chains, which are absent here.",
+          "D": "HbH (beta-4) forms in adults with three-gene alpha deletion, not in the alpha-null fetus.",
+          "E": "Hemoglobin S is a structural beta-chain variant unrelated to alpha-gene deletions."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "alpha-thalassemia",
+        "hydrops fetalis",
+        "Hb Barts"
+      ],
+      "topicId": "thalassemias",
+      "topicName": "Thalassemias",
+      "tier": "core"
+    },
+    {
+      "id": "bl06-007",
+      "stem": "A 9-year-old child with untreated severe thalassemia has a depressed nasal bridge, maxillary hypertrophy, prominent malar eminences, exposed upper teeth, and frontal bossing. Hepatosplenomegaly is also present. These findings are best explained by which of the following processes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autoimmune destruction of erythroid precursors"
+        },
+        {
+          "label": "B",
+          "text": "Chronic hypoxic injury to growth plates"
+        },
+        {
+          "label": "C",
+          "text": "Extramedullary hematopoiesis and marrow expansion"
+        },
+        {
+          "label": "D",
+          "text": "Iron deposition in bone and soft tissue"
+        },
+        {
+          "label": "E",
+          "text": "Repeated microvascular occlusion by sickled cells"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Ineffective erythropoiesis drives extramedullary hematopoiesis and marrow hyperplasia, expanding facial and skull bones and enlarging liver and spleen.",
+        "whyCorrect": "Because of ineffective erythropoiesis, patients with severe thalassemia make RBCs at extramedullary sites such as the spleen and liver (causing hepatosplenomegaly) and in the bones of the skull and face. Marrow hyperplasia produces the depressed nasal bridge, maxillary hypertrophy, prominent malar eminence, exposed upper teeth, and frontal bossing described.",
+        "whyWrongByChoice": {
+          "A": "Thalassemia is a genetic globin-production disorder, not an autoimmune anemia.",
+          "B": "The facial and skull changes result from marrow hyperplasia, not hypoxic growth-plate injury.",
+          "D": "Iron overload harms the heart, liver, and endocrine organs but does not cause the described skeletal marrow expansion.",
+          "E": "Vaso-occlusion is a feature of sickle cell disease, not the marrow-expansion changes of thalassemia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "extramedullary hematopoiesis",
+        "complications",
+        "physical exam"
+      ],
+      "topicId": "thalassemias",
+      "topicName": "Thalassemias",
+      "tier": "core"
+    },
+    {
+      "id": "bl06-008",
+      "stem": "A hematologist explains that the two broad categories of beta-globin gene mutations in beta-thalassemia are designated beta-0 and beta-plus. Which of the following correctly describes the beta-0 mutation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Deletion of one beta-globin gene"
+        },
+        {
+          "label": "B",
+          "text": "Deletion of two beta-globin genes"
+        },
+        {
+          "label": "C",
+          "text": "No beta chain production from the affected gene"
+        },
+        {
+          "label": "D",
+          "text": "Production of a structurally abnormal beta chain"
+        },
+        {
+          "label": "E",
+          "text": "Reduced but present beta chain production"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Beta-0 mutations produce no beta chains, whereas beta-plus mutations produce some but not enough.",
+        "whyCorrect": "The brick states that the two broad categories of mutations in beta-thalassemia are those that result in no beta chain production (designated beta-0) and those that result in some, but not enough, beta chain production (beta-plus). A beta-0/beta-0 genotype produces transfusion-dependent thalassemia major.",
+        "whyWrongByChoice": {
+          "A": "Beta-thalassemia is caused by non-deletional mutations, not gene deletions; alpha-thalassemia is the deletional disorder.",
+          "B": "Beta-thalassemia results from mutations, not deletions, of the two chromosome 11 beta genes.",
+          "D": "A structurally abnormal chain describes a structural hemoglobinopathy (e.g., HbS), not the quantitative beta-0 defect.",
+          "E": "Reduced but present production describes the beta-plus mutation, not beta-0."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "beta-thalassemia",
+        "genetics",
+        "beta-0"
+      ],
+      "topicId": "thalassemias",
+      "topicName": "Thalassemias",
+      "tier": "core"
+    },
+    {
+      "id": "bl06-009",
+      "stem": "A 28-year-old asymptomatic man has a mild microcytic anemia with a normal serum ferritin. Hemoglobin electrophoresis is ordered and shows an elevated HbA2 with a slightly increased HbF. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alpha-thalassemia trait"
+        },
+        {
+          "label": "B",
+          "text": "Beta-thalassemia trait"
+        },
+        {
+          "label": "C",
+          "text": "Hemoglobin H disease"
+        },
+        {
+          "label": "D",
+          "text": "Iron-deficiency anemia"
+        },
+        {
+          "label": "E",
+          "text": "Silent carrier alpha-thalassemia"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "An elevated HbA2 on electrophoresis in a person with mild microcytic anemia indicates beta-thalassemia trait.",
+        "whyCorrect": "Hemoglobin electrophoresis is often adequate to diagnose beta-thalassemias. When beta chain output is reduced, other hemoglobins rise to compensate; in beta-thalassemia trait, HbA2 rises (up to about 5%) with mildly elevated HbF, producing mild anemia in an otherwise asymptomatic patient.",
+        "whyWrongByChoice": {
+          "A": "Alpha-thalassemia trait shows a normal hemoglobin electrophoresis, not elevated HbA2.",
+          "C": "HbH disease shows decreased HbA with detectable HbH and causes moderate to severe anemia, not this mild picture.",
+          "D": "Iron deficiency does not raise HbA2, and this patient's ferritin is normal.",
+          "E": "The silent carrier state has no anemia and a normal electrophoresis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "beta-thalassemia",
+        "electrophoresis",
+        "HbA2"
+      ],
+      "topicId": "thalassemias",
+      "topicName": "Thalassemias",
+      "tier": "core"
+    },
+    {
+      "id": "bl06-010",
+      "stem": "A 22-year-old woman with transfusion-dependent beta-thalassemia is started on a drug intended to reduce her transfusion requirement. The medication works by binding transforming growth factor-beta (TGF-beta) ligands on erythroid precursor cells in the bone marrow, thereby enhancing erythroid maturation. Which of the following agents was most likely prescribed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Deferoxamine"
+        },
+        {
+          "label": "B",
+          "text": "Erythropoietin"
+        },
+        {
+          "label": "C",
+          "text": "Hydroxyurea"
+        },
+        {
+          "label": "D",
+          "text": "Luspatercept"
+        },
+        {
+          "label": "E",
+          "text": "Prednisone"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Luspatercept binds TGF-beta ligands on erythroid precursors to enhance erythroid maturation and reduce transfusion need.",
+        "whyCorrect": "The brick describes that transfusion needs can sometimes be reduced using luspatercept, which increases bone marrow RBC production by binding transforming growth factor-beta ligands on erythroid precursor cells, leading to enhanced erythroid maturation.",
+        "whyWrongByChoice": {
+          "A": "Deferoxamine is an iron chelator used to prevent iron overload, not to stimulate erythroid maturation.",
+          "B": "Erythropoietin stimulates precursor proliferation via the EPO receptor, not by binding TGF-beta ligands.",
+          "C": "Hydroxyurea raises HbF in some hemoglobinopathies but is not the TGF-beta ligand trap described here.",
+          "E": "Prednisone is a corticosteroid and is not the described mechanism of enhancing erythroid maturation in thalassemia."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "management",
+        "luspatercept",
+        "pharmacology"
+      ],
+      "topicId": "thalassemias",
+      "topicName": "Thalassemias",
+      "tier": "core"
+    },
+    {
+      "id": "bl06-011",
+      "stem": "A researcher explains why reduced alpha or beta chain synthesis leads to anemia in thalassemia. Which of the following best describes the underlying pathophysiology?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A membrane cytoskeletal defect causes spherocyte formation"
+        },
+        {
+          "label": "B",
+          "text": "A structurally abnormal globin chain polymerizes and deforms RBCs into a sickle shape"
+        },
+        {
+          "label": "C",
+          "text": "Antibodies coat RBCs and trigger their destruction in the spleen"
+        },
+        {
+          "label": "D",
+          "text": "Impaired heme synthesis leads to iron accumulation in mitochondria"
+        },
+        {
+          "label": "E",
+          "text": "Unbound globin chains precipitate within developing RBCs"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Chain imbalance leaves free globin chains that precipitate in RBCs, causing ineffective erythropoiesis and hemolysis.",
+        "whyCorrect": "The brick teaches that reduced alpha or beta chain synthesis disrupts the tightly controlled 1.0 alpha-to-beta ratio, leaving free unbound chains that precipitate within the developing RBC and damage it. This causes reduced RBC development (ineffective erythropoiesis) and early RBC death, plus membrane changes that promote lysis in the circulation (hemolysis).",
+        "whyWrongByChoice": {
+          "A": "A cytoskeletal membrane defect causing spherocytes describes hereditary spherocytosis.",
+          "B": "Polymerization of an abnormal chain into a sickle shape describes sickle cell disease, a structural hemoglobinopathy, not thalassemia.",
+          "C": "Antibody-mediated destruction describes autoimmune hemolytic anemia, not thalassemia.",
+          "D": "Iron accumulation in mitochondria describes sideroblastic anemia, not thalassemia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pathophysiology",
+        "ineffective erythropoiesis",
+        "hemolysis"
+      ],
+      "topicId": "thalassemias",
+      "topicName": "Thalassemias",
+      "tier": "core"
+    },
+    {
+      "id": "bl06-012",
+      "stem": "A 3-year-old child with severe beta-thalassemia develops worsening cytopenias, massive symptomatic splenomegaly, and a rising transfusion requirement. His physicians consider a procedure to reduce transfusion needs and improve the cytopenias. Which of the following interventions is most appropriate for these specific findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Deferoxamine therapy"
+        },
+        {
+          "label": "B",
+          "text": "Erythropoietin injections"
+        },
+        {
+          "label": "C",
+          "text": "Iron supplementation"
+        },
+        {
+          "label": "D",
+          "text": "Observation only"
+        },
+        {
+          "label": "E",
+          "text": "Splenectomy"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Splenectomy is appropriate for hypersplenism causing cytopenias and rising transfusion needs with symptomatic splenomegaly.",
+        "whyCorrect": "The brick notes that splenectomy may be appropriate for individuals with severe thalassemia who have findings such as a dramatic increase in transfusion requirements, hypersplenism leading to other cytopenias, and symptomatic splenomegaly. Removing the spleen reduces cell trapping and transfusion needs.",
+        "whyWrongByChoice": {
+          "A": "Deferoxamine treats iron overload but does not address the hypersplenism and splenomegaly driving these findings.",
+          "B": "Erythropoietin is not the described intervention for hypersplenism and symptomatic splenomegaly.",
+          "C": "Iron supplementation is inappropriate and can worsen the iron overload common in these patients.",
+          "D": "Observation is inadequate given the dramatic rise in transfusion requirement and symptomatic splenomegaly."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "management",
+        "splenectomy",
+        "hypersplenism"
+      ],
+      "topicId": "thalassemias",
+      "topicName": "Thalassemias",
+      "tier": "core"
+    },
+    {
+      "id": "bl07-001",
+      "stem": "A 43-year-old woman with a 5-year history of rheumatoid arthritis reports 3 months of worsening fatigue and pallor. Her hemoglobin is 10.2 g/dL with a mean corpuscular volume of 88 fL (normal). Iron studies show a low serum iron, a low total iron-binding capacity, a normal transferrin saturation, and an elevated ferritin. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anemia of chronic disease"
+        },
+        {
+          "label": "B",
+          "text": "Beta-thalassemia minor"
+        },
+        {
+          "label": "C",
+          "text": "Iron-deficiency anemia"
+        },
+        {
+          "label": "D",
+          "text": "Sideroblastic anemia"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin B12 deficiency"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A normocytic anemia with low serum iron, low TIBC, and high ferritin in a patient with a chronic inflammatory disease is anemia of chronic disease.",
+        "whyCorrect": "In anemia of chronic disease (ACD), inflammation raises hepcidin, trapping iron in macrophages and hepatocytes. This produces low serum iron with a paradoxically normal or high ferritin (a positive acute-phase reactant) and a low TIBC (transferrin is a negative acute-phase reactant). The link to rheumatoid arthritis and the normocytic indices fit ACD.",
+        "whyWrongByChoice": {
+          "B": "Thalassemia minor gives microcytosis with normal or high iron studies and a normal/high RBC count, not iron sequestration tied to inflammation.",
+          "C": "Iron-deficiency anemia shows a LOW ferritin and a HIGH TIBC, the opposite of this pattern.",
+          "D": "Sideroblastic anemia typically shows high serum iron and high ferritin with ring sideroblasts, not a low serum iron.",
+          "E": "Vitamin B12 deficiency causes a macrocytic (high MCV) anemia, not a normocytic anemia with these iron studies."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "anemia of chronic disease",
+        "iron studies",
+        "diagnosis"
+      ],
+      "topicId": "anemia-of-chronic-disease-inflammation",
+      "topicName": "Anemia of Chronic Disease/Inflammation",
+      "tier": "core"
+    },
+    {
+      "id": "bl07-002",
+      "stem": "A 34-year-old woman with systemic lupus erythematosus presents with fatigue and mild shortness of breath when climbing stairs. Her complete blood count shows a hemoglobin of 10.0 g/dL. Increased synthesis of which of the following most likely led to this anemia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Erythropoietin"
+        },
+        {
+          "label": "B",
+          "text": "Haptoglobin"
+        },
+        {
+          "label": "C",
+          "text": "Hepcidin"
+        },
+        {
+          "label": "D",
+          "text": "Hypoxia-inducible factor"
+        },
+        {
+          "label": "E",
+          "text": "Protoporphyrin"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Inflammatory cytokines drive hepcidin production, which sequesters iron and causes anemia of chronic disease.",
+        "whyCorrect": "In chronic inflammatory disease such as lupus, high IL-6 increases hepcidin. Hepcidin degrades ferroportin-1, reducing iron release from macrophages and hepatocytes and iron transfer from enterocytes, so less iron reaches the marrow to make new RBCs.",
+        "whyWrongByChoice": {
+          "A": "Erythropoietin rises in response to anemia; it is an effect, not the cause of ACD (and is not the driver except in chronic kidney disease).",
+          "B": "Haptoglobin binds free hemoglobin after intravascular hemolysis and falls in hemolytic anemia; it is normal in ACD.",
+          "D": "Hypoxia-inducible factor stimulates erythropoietin and RBC production in any anemia; it does not cause ACD.",
+          "E": "Protoporphyrin is a heme component; an increase in it does not cause ACD."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hepcidin",
+        "pathophysiology",
+        "IL-6"
+      ],
+      "topicId": "anemia-of-chronic-disease-inflammation",
+      "topicName": "Anemia of Chronic Disease/Inflammation",
+      "tier": "core"
+    },
+    {
+      "id": "bl07-003",
+      "stem": "In a patient with anemia of chronic disease/inflammation, an increased value in which of the following serum tests is most characteristic?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ferritin"
+        },
+        {
+          "label": "B",
+          "text": "Serum iron"
+        },
+        {
+          "label": "C",
+          "text": "Total iron-binding capacity (TIBC)"
+        },
+        {
+          "label": "D",
+          "text": "Transferrin"
+        },
+        {
+          "label": "E",
+          "text": "Transferrin saturation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Ferritin is a positive acute-phase reactant and is normal or high in ACD.",
+        "whyCorrect": "During inflammation the liver makes more ferritin, so it is normal or increased in ACD. A high ferritin is the key value that distinguishes ACD from iron-deficiency anemia, in which ferritin is low.",
+        "whyWrongByChoice": {
+          "B": "Serum iron is LOW in ACD because iron is trapped in macrophages and hepatocytes.",
+          "C": "TIBC is LOW because transferrin is a negative acute-phase reactant.",
+          "D": "Transferrin (measured as TIBC) is LOW, since the liver makes less of it during inflammation.",
+          "E": "Transferrin saturation is most often low, sometimes normal, but not increased."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "ferritin",
+        "acute-phase reactant",
+        "iron studies"
+      ],
+      "topicId": "anemia-of-chronic-disease-inflammation",
+      "topicName": "Anemia of Chronic Disease/Inflammation",
+      "tier": "core"
+    },
+    {
+      "id": "bl07-004",
+      "stem": "Anemia of chronic disease is caused primarily by a decrease in which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Excretion of iron in the urine"
+        },
+        {
+          "label": "B",
+          "text": "Oxidation of iron in hemoglobin"
+        },
+        {
+          "label": "C",
+          "text": "Release of iron from macrophages"
+        },
+        {
+          "label": "D",
+          "text": "Storage of iron in the bone marrow"
+        },
+        {
+          "label": "E",
+          "text": "Uptake of intestinal iron by enterocytes"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Increased hepcidin blocks iron release from macrophages and hepatocytes, limiting iron for RBC production.",
+        "whyCorrect": "In ACD, hepcidin degrades ferroportin-1 so macrophages and hepatocytes cannot release stored iron. Less circulating iron reaches the marrow, limiting incorporation into RBC precursors.",
+        "whyWrongByChoice": {
+          "A": "Urinary iron excretion does not play a role in the pathogenesis of ACD.",
+          "B": "Oxidation of iron within hemoglobin is not a mechanism of ACD.",
+          "D": "There is no increased marrow iron storage; iron cannot even reach the marrow because it is trapped in hepatocytes and macrophages.",
+          "E": "Enterocyte uptake of intestinal iron is normal; the problem is that iron cannot exit the enterocyte into plasma."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pathophysiology",
+        "iron sequestration",
+        "hepcidin"
+      ],
+      "topicId": "anemia-of-chronic-disease-inflammation",
+      "topicName": "Anemia of Chronic Disease/Inflammation",
+      "tier": "core"
+    },
+    {
+      "id": "bl07-005",
+      "stem": "A 26-year-old woman with systemic lupus erythematosus, treated with several medications, presents for follow-up. Her complete blood count shows a hemoglobin of 10.0 g/dL (normal 12.0-16.0) with a mean corpuscular volume of 90 fL (normal 80-100). She has only mild symptoms. Which of the following is the most appropriate management of her anemia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Erythropoietin injections"
+        },
+        {
+          "label": "B",
+          "text": "Intravenous iron supplementation"
+        },
+        {
+          "label": "C",
+          "text": "Oral iron supplementation"
+        },
+        {
+          "label": "D",
+          "text": "Red blood cell transfusion"
+        },
+        {
+          "label": "E",
+          "text": "Treat the underlying disease"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Management of ACD focuses on treating the underlying disorder, not on directly treating the anemia in mild cases.",
+        "whyCorrect": "Treatment of ACD is aimed at the underlying disease; controlling the inflammation typically resolves the anemia. In mild, normocytic anemia without documented iron deficiency, no specific anemia-directed therapy is required.",
+        "whyWrongByChoice": {
+          "A": "Erythropoietin is generally reserved for severe cases, not mild ACD.",
+          "B": "IV iron is generally not required for mild ACD and is reserved for more severe cases.",
+          "C": "Oral iron is warranted only if a concurrent iron deficiency is documented with iron studies.",
+          "D": "Transfusion is not indicated until anemia is profound, typically below 7 g/dL."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "management",
+        "treatment",
+        "underlying disease"
+      ],
+      "topicId": "anemia-of-chronic-disease-inflammation",
+      "topicName": "Anemia of Chronic Disease/Inflammation",
+      "tier": "core"
+    },
+    {
+      "id": "bl07-006",
+      "stem": "In chronic inflammation, hepcidin lowers plasma iron primarily through which of the following mechanisms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Causing internalization and degradation of ferroportin-1"
+        },
+        {
+          "label": "B",
+          "text": "Directly lysing red blood cell precursors in the marrow"
+        },
+        {
+          "label": "C",
+          "text": "Enhancing iron absorption across the duodenal brush border"
+        },
+        {
+          "label": "D",
+          "text": "Increasing transferrin synthesis by the liver"
+        },
+        {
+          "label": "E",
+          "text": "Stimulating erythropoietin release from the kidney"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Hepcidin degrades the iron exporter ferroportin-1, trapping iron inside cells.",
+        "whyCorrect": "Hepcidin triggers internalization and degradation of ferroportin-1. Decreased ferroportin blocks iron release from enterocytes into plasma and from macrophages and hepatocytes, lowering circulating iron.",
+        "whyWrongByChoice": {
+          "B": "Hepcidin controls iron handling; it does not directly lyse RBC precursors.",
+          "C": "Hepcidin inhibits, rather than enhances, iron transfer from the enterocyte into the plasma.",
+          "D": "Transferrin (TIBC) actually falls in inflammation because it is a negative acute-phase reactant; hepcidin does not increase it.",
+          "E": "Hepcidin acts on iron transport, not on renal erythropoietin release."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hepcidin",
+        "ferroportin",
+        "mechanism"
+      ],
+      "topicId": "anemia-of-chronic-disease-inflammation",
+      "topicName": "Anemia of Chronic Disease/Inflammation",
+      "tier": "core"
+    },
+    {
+      "id": "bl07-007",
+      "stem": "A patient with a chronic inflammatory condition develops anemia of chronic disease. Which of the following inflammatory cytokines most directly increases hepcidin production by the liver?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Erythropoietin"
+        },
+        {
+          "label": "B",
+          "text": "Interleukin-10 (IL-10)"
+        },
+        {
+          "label": "C",
+          "text": "Interleukin-6 (IL-6)"
+        },
+        {
+          "label": "D",
+          "text": "Intrinsic factor"
+        },
+        {
+          "label": "E",
+          "text": "Transforming growth factor-beta (TGF-beta)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "IL-6 is the key inflammatory cytokine that drives hepcidin production.",
+        "whyCorrect": "In chronic inflammation, high levels of IL-6 increase hepatic hepcidin production, which in turn sequesters iron and produces anemia of chronic disease.",
+        "whyWrongByChoice": {
+          "A": "Erythropoietin is a hormone that stimulates RBC production; increased erythropoietic activity actually suppresses hepcidin.",
+          "B": "IL-10 is an anti-inflammatory cytokine and is not the driver of hepcidin in ACD.",
+          "D": "Intrinsic factor is required for vitamin B12 absorption and has no role in hepcidin regulation.",
+          "E": "TGF-beta is not described as the cytokine that raises hepcidin in this setting."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "IL-6",
+        "cytokines",
+        "hepcidin"
+      ],
+      "topicId": "anemia-of-chronic-disease-inflammation",
+      "topicName": "Anemia of Chronic Disease/Inflammation",
+      "tier": "core"
+    },
+    {
+      "id": "bl07-008",
+      "stem": "A patient with anemia of chronic disease has a low serum iron but an elevated ferritin. Which of the following best explains the elevated ferritin?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ferritin is a positive acute-phase reactant"
+        },
+        {
+          "label": "B",
+          "text": "Ongoing intravascular hemolysis is releasing iron"
+        },
+        {
+          "label": "C",
+          "text": "The kidney is failing to excrete ferritin"
+        },
+        {
+          "label": "D",
+          "text": "Total body iron stores are depleted"
+        },
+        {
+          "label": "E",
+          "text": "Transferrin saturation is markedly elevated"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Ferritin rises in inflammation because it is a positive acute-phase reactant.",
+        "whyCorrect": "The liver produces more ferritin during inflammation, so ferritin is normal or high in ACD even though usable circulating iron is low. This high ferritin distinguishes ACD from iron-deficiency anemia.",
+        "whyWrongByChoice": {
+          "B": "Hemolysis is not the mechanism of the high ferritin in ACD; the iron is sequestered, not released by RBC destruction.",
+          "C": "Ferritin is not elevated because of impaired renal excretion; it reflects increased synthesis.",
+          "D": "Depleted iron stores would produce a LOW ferritin, as seen in iron-deficiency anemia, not a high one.",
+          "E": "Transferrin saturation is typically low or normal in ACD, not elevated."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ferritin",
+        "acute-phase reactant",
+        "iron studies"
+      ],
+      "topicId": "anemia-of-chronic-disease-inflammation",
+      "topicName": "Anemia of Chronic Disease/Inflammation",
+      "tier": "core"
+    },
+    {
+      "id": "bl07-009",
+      "stem": "In addition to decreased erythrocyte production, which of the following additional mechanisms contributes to the anemia of chronic disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cytokines causing macrophages to prematurely destroy RBCs"
+        },
+        {
+          "label": "B",
+          "text": "Increased renal erythropoietin output"
+        },
+        {
+          "label": "C",
+          "text": "Mechanical fragmentation of RBCs producing schistocytes"
+        },
+        {
+          "label": "D",
+          "text": "Splenic sequestration of RBCs from portal hypertension"
+        },
+        {
+          "label": "E",
+          "text": "Warm autoantibodies coating the red cell membrane"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Inflammatory cytokines shorten the RBC lifespan by driving early macrophage-mediated destruction.",
+        "whyCorrect": "Beyond reduced production, inflammation reduces RBC lifespan. Cytokines such as IL-1 and IL-6 cause macrophages to prematurely ingest and destroy RBCs, worsening the anemia.",
+        "whyWrongByChoice": {
+          "B": "Increased erythropoietin would raise, not lower, RBC production and is a response to anemia, not a cause.",
+          "C": "Schistocyte formation from mechanical fragmentation occurs in microangiopathic hemolysis, not ACD.",
+          "D": "Splenic sequestration from portal hypertension is a separate cause of anemia unrelated to the ACD mechanism.",
+          "E": "Autoantibody-mediated (warm autoimmune) hemolysis is a distinct entity, not the mechanism taught for ACD."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "RBC lifespan",
+        "cytokines",
+        "pathophysiology"
+      ],
+      "topicId": "anemia-of-chronic-disease-inflammation",
+      "topicName": "Anemia of Chronic Disease/Inflammation",
+      "tier": "core"
+    },
+    {
+      "id": "bl07-010",
+      "stem": "A 58-year-old man with long-standing rheumatoid arthritis has a hemoglobin of 10.5 g/dL. Which of the following is the most common finding on his complete blood count indices and peripheral smear?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Elevated MCV with hypersegmented neutrophils on the smear"
+        },
+        {
+          "label": "B",
+          "text": "Markedly low MCV with prominent basophilic stippling of red cells"
+        },
+        {
+          "label": "C",
+          "text": "Normal MCV (normocytic) with a largely unremarkable smear"
+        },
+        {
+          "label": "D",
+          "text": "Numerous schistocytes scattered throughout the peripheral smear"
+        },
+        {
+          "label": "E",
+          "text": "Numerous spherocytes with an elevated MCHC on the smear"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "ACD is most often normocytic with a largely normal peripheral smear.",
+        "whyCorrect": "In ACD the MCV is normal or decreased, with a normal value being most common. The peripheral blood smear usually shows few abnormalities, although RBCs may be hypochromic (pale) when hemoglobin-deficient.",
+        "whyWrongByChoice": {
+          "A": "An elevated MCV with hypersegmented neutrophils indicates a megaloblastic anemia (B12/folate deficiency), not ACD.",
+          "B": "A markedly low MCV with basophilic stippling suggests thalassemia or lead poisoning, not typical ACD.",
+          "D": "Abundant schistocytes indicate microangiopathic hemolytic anemia, not ACD.",
+          "E": "Spherocytes with a high MCHC point to hereditary spherocytosis or autoimmune hemolysis, not ACD."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "CBC indices",
+        "MCV",
+        "peripheral smear"
+      ],
+      "topicId": "anemia-of-chronic-disease-inflammation",
+      "topicName": "Anemia of Chronic Disease/Inflammation",
+      "tier": "core"
+    },
+    {
+      "id": "bl07-011",
+      "stem": "A 62-year-old man with stage 4 chronic kidney disease is found to have a hemoglobin of 9.5 g/dL. Which of the following best explains the mechanism and appropriate treatment of his anemia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hepcidin deficiency causing iron overload, treated with phlebotomy"
+        },
+        {
+          "label": "B",
+          "text": "Reduced renal erythropoietin production, treated with erythropoietin"
+        },
+        {
+          "label": "C",
+          "text": "Urinary iron loss causing iron deficiency, treated with oral iron"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin B12 malabsorption, treated with parenteral B12"
+        },
+        {
+          "label": "E",
+          "text": "Warm autoimmune hemolysis, treated with corticosteroids"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Anemia of chronic kidney disease results largely from deficient renal erythropoietin and is treated with synthetic erythropoietin.",
+        "whyCorrect": "The kidney produces erythropoietin; in CKD, reduced erythropoietin leads to ineffective erythropoiesis and fewer RBCs (there is also shortened RBC lifespan from the uremic environment). This form of anemia is treated with synthetic erythropoietin injections.",
+        "whyWrongByChoice": {
+          "A": "There is no hepcidin deficiency or iron overload here; phlebotomy is not the treatment.",
+          "C": "Anemia of CKD is not primarily from urinary iron loss; the central problem is deficient erythropoietin.",
+          "D": "B12 malabsorption is unrelated to the erythropoietin-deficiency mechanism of CKD anemia.",
+          "E": "Autoimmune hemolysis is a different entity; steroids are not the treatment for anemia of CKD."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "chronic kidney disease",
+        "erythropoietin",
+        "clinical correlation"
+      ],
+      "topicId": "anemia-of-chronic-disease-inflammation",
+      "topicName": "Anemia of Chronic Disease/Inflammation",
+      "tier": "core"
+    },
+    {
+      "id": "bl07-012",
+      "stem": "A 55-year-old man with ulcerative colitis and chronic gastrointestinal blood loss has a hemoglobin of 9.8 g/dL. Iron studies show a low serum iron AND a low ferritin. Which of the following is the best interpretation and next step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Coexisting iron-deficiency anemia is present, and iron repletion is indicated"
+        },
+        {
+          "label": "B",
+          "text": "This is anemia of chronic kidney disease requiring erythropoietin therapy"
+        },
+        {
+          "label": "C",
+          "text": "This is classic anemia of chronic disease, in which the ferritin would be high"
+        },
+        {
+          "label": "D",
+          "text": "This is sideroblastic anemia with iron overload and a high ferritin"
+        },
+        {
+          "label": "E",
+          "text": "This represents beta-thalassemia trait with normal iron studies"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A low ferritin in a patient with chronic disease signals a coexisting iron deficiency, which should be treated with iron.",
+        "whyCorrect": "Inflammatory GI diseases such as ulcerative colitis can cause anemia by both chronic blood loss (iron deficiency) and inflammation. Because ACD normally shows a high ferritin, a LOW ferritin here indicates a superimposed iron-deficiency anemia, so iron supplementation is warranted after ruling it in with serum studies.",
+        "whyWrongByChoice": {
+          "B": "There is no indication of kidney disease; the picture is driven by GI blood loss and inflammation.",
+          "C": "In pure ACD the ferritin is normal or high; a low ferritin argues against pure ACD and points to iron deficiency.",
+          "D": "Sideroblastic anemia causes iron overload with high ferritin and serum iron, the opposite of this low-ferritin picture.",
+          "E": "Thalassemia trait shows microcytosis with normal or high iron studies, not a low ferritin from blood loss."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "iron deficiency",
+        "differential diagnosis",
+        "management"
+      ],
+      "topicId": "anemia-of-chronic-disease-inflammation",
+      "topicName": "Anemia of Chronic Disease/Inflammation",
+      "tier": "core"
+    },
+    {
+      "id": "bl08-001",
+      "stem": "A 4-year-old boy is evaluated for anemia. A bone marrow aspirate stained with Prussian blue reveals erythroid precursors with a ring of blue granules encircling the nucleus. The iron responsible for these granules has accumulated within which of the following structures?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Golgi apparatus"
+        },
+        {
+          "label": "B",
+          "text": "Lysosomes"
+        },
+        {
+          "label": "C",
+          "text": "Mitochondria"
+        },
+        {
+          "label": "D",
+          "text": "Nucleolus"
+        },
+        {
+          "label": "E",
+          "text": "Rough endoplasmic reticulum"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Ringed sideroblasts form because unchelated iron accumulates in the mitochondria of erythroblasts.",
+        "whyCorrect": "In sideroblastic anemia, impaired heme synthesis leaves iron unchelated, and this iron builds up within the mitochondria. Because mitochondria are arranged around the nucleus of erythroid progenitor cells, the trapped iron creates the characteristic perinuclear ring seen as ringed sideroblasts.",
+        "whyWrongByChoice": {
+          "A": "The Golgi apparatus packages and modifies proteins and is not the site of iron accumulation in ringed sideroblasts.",
+          "B": "Lysosomes degrade cellular material; the perinuclear iron ring reflects mitochondrial, not lysosomal, iron.",
+          "D": "The nucleolus is a site of ribosome assembly; the iron ring surrounds the nucleus within mitochondria rather than being inside the nucleolus.",
+          "E": "The rough endoplasmic reticulum is involved in protein synthesis, not in trapping the excess iron of sideroblastic anemia."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "sideroblastic anemia",
+        "pathophysiology",
+        "ringed sideroblasts"
+      ],
+      "topicId": "sideroblastic-anemia",
+      "topicName": "Sideroblastic Anemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl08-002",
+      "stem": "A 60-year-old man with a long history of alcohol use is found to have a microcytic anemia. His physician suspects sideroblastic anemia. Which of the following is the most common finding on his peripheral blood smear?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Heinz bodies"
+        },
+        {
+          "label": "B",
+          "text": "Pappenheimer bodies"
+        },
+        {
+          "label": "C",
+          "text": "Ringed sideroblasts"
+        },
+        {
+          "label": "D",
+          "text": "Schistocytes"
+        },
+        {
+          "label": "E",
+          "text": "Sickle cells"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Pappenheimer bodies are the most common peripheral smear finding in sideroblastic anemia.",
+        "whyCorrect": "Pappenheimer bodies are iron-containing inclusions that appear as clusters of blue granules, usually at the periphery of circulating red blood cells, and reflect the abnormal iron incorporation of sideroblastic anemia. They are the most common peripheral smear finding across the various causes of the disease.",
+        "whyWrongByChoice": {
+          "A": "Heinz bodies represent denatured hemoglobin and are characteristic of G6PD deficiency.",
+          "C": "Ringed sideroblasts are nucleated erythroid progenitors confined to the bone marrow and are not seen on the peripheral blood smear.",
+          "D": "Schistocytes are fragmented red cells seen in microangiopathic hemolysis, not in sideroblastic anemia.",
+          "E": "Sickle cells are found in sickle cell disease, not in sideroblastic anemia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "sideroblastic anemia",
+        "peripheral smear",
+        "Pappenheimer bodies"
+      ],
+      "topicId": "sideroblastic-anemia",
+      "topicName": "Sideroblastic Anemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl08-003",
+      "stem": "A 45-year-old man presents with fatigue over several weeks. He was recently started on isoniazid after exposure to tuberculosis. CBC shows decreased hemoglobin and decreased mean corpuscular volume. Iron studies show increased ferritin and decreased total iron-binding capacity, and the smear shows red cells with blue inclusions. Which of the following treatments would be most effective?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Deferoxamine"
+        },
+        {
+          "label": "B",
+          "text": "Folic acid"
+        },
+        {
+          "label": "C",
+          "text": "Phlebotomy"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin B12"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin B6"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Isoniazid-induced sideroblastic anemia results from vitamin B6 depletion and is treated with vitamin B6 supplementation.",
+        "whyCorrect": "Isoniazid reduces vitamin B6 (pyridoxine) levels, and B6 is the coenzyme required for ALAS, the first enzyme of heme synthesis. Replacing vitamin B6 restores heme production and is the most effective treatment for this acquired sideroblastic anemia.",
+        "whyWrongByChoice": {
+          "A": "Deferoxamine is an iron chelator used for iron overload, which is uncommon in acquired sideroblastic anemia and does not correct the underlying B6 deficiency.",
+          "B": "Folate deficiency also causes megaloblastic anemia and would not correct impaired heme synthesis.",
+          "C": "Phlebotomy treats iron overload but would worsen this patient's anemia and does not address the cause.",
+          "D": "Vitamin B12 deficiency causes a macrocytic (megaloblastic) anemia, not this microcytic picture."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "sideroblastic anemia",
+        "isoniazid",
+        "management",
+        "vitamin B6"
+      ],
+      "topicId": "sideroblastic-anemia",
+      "topicName": "Sideroblastic Anemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl08-004",
+      "stem": "A 2-month-old male is brought to the physician for failure to thrive that began shortly after birth. Workup confirms sideroblastic anemia. Which of the following is the most likely cause of his condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased ALAS activity"
+        },
+        {
+          "label": "B",
+          "text": "Decreased ferrochelatase activity"
+        },
+        {
+          "label": "C",
+          "text": "Dysplastic cells in the bone marrow"
+        },
+        {
+          "label": "D",
+          "text": "Maternal iron deficiency during pregnancy"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin B6 deficiency"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Congenital sideroblastic anemia is most often due to an X-linked mutation that decreases ALAS activity.",
+        "whyCorrect": "The patient's age and onset shortly after birth indicate a hereditary form. The most common inherited cause is an X-linked gene mutation that decreases delta-aminolevulinic acid synthase (ALAS) activity, the enzyme catalyzing the first step of heme synthesis; this predominance in males reflects X-linked inheritance.",
+        "whyWrongByChoice": {
+          "B": "Decreased ferrochelatase activity is characteristic of lead toxicity rather than hereditary sideroblastic anemia.",
+          "C": "Dysplastic marrow cells occur in myelodysplastic syndrome, an acquired disorder of adults, not a congenital cause.",
+          "D": "Maternal iron deficiency during pregnancy is not a recognized cause of sideroblastic anemia.",
+          "E": "Vitamin B6 deficiency is an acquired cause from malnutrition, alcohol, or isoniazid, not a congenital disorder in a neonate."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "sideroblastic anemia",
+        "hereditary",
+        "ALAS",
+        "X-linked"
+      ],
+      "topicId": "sideroblastic-anemia",
+      "topicName": "Sideroblastic Anemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl08-005",
+      "stem": "A 3-year-old girl living in a house built in 1940 with peeling paint is evaluated for irritability, abdominal pain, and anemia. Her blood smear shows microcytic red cells with basophilic stippling. The suspected exposure causes sideroblastic anemia by inhibiting which of the following pairs of enzymes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ALA synthase and ALA dehydratase"
+        },
+        {
+          "label": "B",
+          "text": "ALA synthase and ferrochelatase"
+        },
+        {
+          "label": "C",
+          "text": "Ferrochelatase and ALA dehydratase"
+        },
+        {
+          "label": "D",
+          "text": "Porphobilinogen deaminase and ALA synthase"
+        },
+        {
+          "label": "E",
+          "text": "Uroporphyrinogen decarboxylase and ferrochelatase"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Lead poisoning causes sideroblastic anemia by inhibiting ferrochelatase and ALA dehydratase.",
+        "whyCorrect": "The vignette describes lead poisoning from old lead-based paint. Lead inhibits ferrochelatase (the final step inserting iron into protoporphyrin IX) and ALA dehydratase (which converts delta-ALA to porphobilinogen), impairing heme synthesis and producing sideroblastic anemia with basophilic stippling.",
+        "whyWrongByChoice": {
+          "A": "Although ALA dehydratase is inhibited by lead, ALA synthase is not; the correct second enzyme is ferrochelatase.",
+          "B": "ALA synthase is not inhibited by lead; it is deficient in the hereditary X-linked form. Ferrochelatase alone does not describe the lead-inhibited pair.",
+          "D": "Neither porphobilinogen deaminase nor ALA synthase is the target of lead in this disorder.",
+          "E": "Uroporphyrinogen decarboxylase is not the enzyme inhibited by lead in sideroblastic anemia."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "sideroblastic anemia",
+        "lead poisoning",
+        "heme synthesis",
+        "enzymes"
+      ],
+      "topicId": "sideroblastic-anemia",
+      "topicName": "Sideroblastic Anemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl08-006",
+      "stem": "The first and rate-limiting step of heme synthesis converts glycine and succinyl-CoA to delta-aminolevulinic acid. The enzyme catalyzing this reaction requires which of the following as a coenzyme?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Folic acid"
+        },
+        {
+          "label": "B",
+          "text": "Vitamin B1 (thiamine)"
+        },
+        {
+          "label": "C",
+          "text": "Vitamin B12 (cobalamin)"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin B2 (riboflavin)"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin B6 (pyridoxine)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "ALA synthase requires vitamin B6 (pyridoxine) as a coenzyme.",
+        "whyCorrect": "Delta-aminolevulinic acid synthase (ALAS) catalyzes the first, rate-limiting step of heme synthesis and requires vitamin B6 to function. This dependence explains why B6 deficiency causes sideroblastic anemia and why hereditary forms often respond to B6 supplementation.",
+        "whyWrongByChoice": {
+          "A": "Folate participates in one-carbon transfer for nucleotide synthesis, not as the ALAS coenzyme.",
+          "B": "Thiamine is a coenzyme for reactions such as pyruvate dehydrogenase, not ALAS.",
+          "C": "Vitamin B12 is required for methylmalonyl-CoA and methionine metabolism, not for ALAS.",
+          "D": "Riboflavin contributes to FAD/FMN-dependent reactions and is not the ALAS coenzyme."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "sideroblastic anemia",
+        "heme synthesis",
+        "ALAS",
+        "vitamin B6"
+      ],
+      "topicId": "sideroblastic-anemia",
+      "topicName": "Sideroblastic Anemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl08-007",
+      "stem": "A 56-year-old man with alcoholic cirrhosis has a low hemoglobin, low mean corpuscular volume, and rare Pappenheimer bodies on his smear. To distinguish his anemia from iron deficiency anemia, which of the following iron study patterns is most expected?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased ferritin with decreased serum iron"
+        },
+        {
+          "label": "B",
+          "text": "Decreased ferritin with increased total iron-binding capacity"
+        },
+        {
+          "label": "C",
+          "text": "Decreased serum iron with increased total iron-binding capacity"
+        },
+        {
+          "label": "D",
+          "text": "Increased ferritin with decreased total iron-binding capacity"
+        },
+        {
+          "label": "E",
+          "text": "Normal ferritin with increased transferrin saturation only during hemolysis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Sideroblastic anemia shows increased iron stores (high ferritin) with low TIBC, opposite to iron deficiency.",
+        "whyCorrect": "Because iron cannot be incorporated into heme, iron accumulates and marrow iron stores rise, producing an increased ferritin and a decreased total iron-binding capacity. This contrasts sharply with iron deficiency anemia, in which ferritin is low and TIBC is high.",
+        "whyWrongByChoice": {
+          "A": "Decreased ferritin and low serum iron indicate depleted iron stores, which is not seen in sideroblastic anemia.",
+          "B": "Low ferritin with high TIBC is the classic pattern of iron deficiency anemia, the opposite of sideroblastic anemia.",
+          "C": "Low serum iron with high TIBC again reflects iron deficiency, not the iron-replete state of sideroblastic anemia.",
+          "E": "Sideroblastic anemia has persistently elevated iron stores rather than transient changes limited to hemolytic episodes."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "sideroblastic anemia",
+        "iron studies",
+        "diagnosis"
+      ],
+      "topicId": "sideroblastic-anemia",
+      "topicName": "Sideroblastic Anemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl08-008",
+      "stem": "A patient with long-standing sideroblastic anemia is being monitored for secondary hemochromatosis. Which of the following findings is LEAST suggestive of the development of iron overload?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bilateral peripheral pitting edema"
+        },
+        {
+          "label": "B",
+          "text": "Conjunctival pallor"
+        },
+        {
+          "label": "C",
+          "text": "Elevated liver enzymes"
+        },
+        {
+          "label": "D",
+          "text": "Excess thirst and urination"
+        },
+        {
+          "label": "E",
+          "text": "Hyperpigmented skin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Conjunctival pallor reflects the anemia itself, not the iron overload of secondary hemochromatosis.",
+        "whyCorrect": "Secondary hemochromatosis results from excess iron depositing in the heart, liver, pancreas, and skin. Conjunctival pallor is a sign of low hemoglobin from the anemia and does not indicate iron overload, making it the least suggestive finding.",
+        "whyWrongByChoice": {
+          "A": "Cardiac iron deposition causes heart failure, which presents with bilateral peripheral pitting edema, a sign of iron overload.",
+          "C": "Hepatic iron deposition causes inflammation and elevated liver enzymes, consistent with iron overload.",
+          "D": "Pancreatic iron injury produces diabetes mellitus with excess thirst and urination.",
+          "E": "Iron deposition in the skin stimulates melanocytes, producing hyperpigmentation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "sideroblastic anemia",
+        "iron overload",
+        "secondary hemochromatosis"
+      ],
+      "topicId": "sideroblastic-anemia",
+      "topicName": "Sideroblastic Anemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl08-009",
+      "stem": "A 68-year-old woman has fatigue and pancytopenia. Bone marrow examination shows dysplastic erythroid precursors, and about a third of the erythroblasts are ringed sideroblasts on Prussian blue stain. Which of the following is the most likely underlying disorder?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anemia of chronic disease"
+        },
+        {
+          "label": "B",
+          "text": "Beta-thalassemia minor"
+        },
+        {
+          "label": "C",
+          "text": "Hereditary X-linked ALAS mutation"
+        },
+        {
+          "label": "D",
+          "text": "Iron deficiency anemia"
+        },
+        {
+          "label": "E",
+          "text": "Myelodysplastic syndrome"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Ringed sideroblasts with marrow dysplasia in an older adult point to myelodysplastic syndrome.",
+        "whyCorrect": "Myelodysplastic syndrome is a clonal hematologic neoplasm that disrupts marrow blood cell formation; approximately 30-35% of patients have ringed sideroblasts. The patient's age, pancytopenia, and dysplastic precursors make MDS the most likely acquired cause.",
+        "whyWrongByChoice": {
+          "A": "Anemia of chronic disease results from impaired iron utilization due to inflammation but does not characteristically produce ringed sideroblasts with marrow dysplasia.",
+          "B": "Beta-thalassemia minor causes microcytosis from reduced globin chain synthesis, not ringed sideroblasts.",
+          "C": "The X-linked ALAS mutation is a hereditary disorder diagnosed in infancy and predominantly affects males.",
+          "D": "Iron deficiency anemia has depleted iron stores and would not produce iron-laden ringed sideroblasts."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "sideroblastic anemia",
+        "myelodysplastic syndrome",
+        "etiology"
+      ],
+      "topicId": "sideroblastic-anemia",
+      "topicName": "Sideroblastic Anemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl08-010",
+      "stem": "A 40-year-old man who has been taking high-dose zinc supplements develops a microcytic anemia with ringed sideroblasts on bone marrow examination. Which of the following best explains the mechanism of his anemia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Excess zinc decreases gut copper absorption, causing copper deficiency"
+        },
+        {
+          "label": "B",
+          "text": "Zinc accelerates hemolysis of mature erythrocytes"
+        },
+        {
+          "label": "C",
+          "text": "Zinc chelates circulating iron and prevents its delivery to the marrow"
+        },
+        {
+          "label": "D",
+          "text": "Zinc directly inhibits ferrochelatase in erythroblasts"
+        },
+        {
+          "label": "E",
+          "text": "Zinc induces an X-linked mutation in the ALAS gene"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Excess zinc lowers gut copper absorption, and the resulting copper deficiency causes sideroblastic anemia.",
+        "whyCorrect": "Copper deficiency is an unusual cause of sideroblastic anemia and is most often due to excess zinc taken as a supplement, because zinc decreases copper absorption in the gut. The copper deficiency then impairs normal erythropoiesis.",
+        "whyWrongByChoice": {
+          "B": "Sideroblastic anemia is an anemia of ineffective erythropoiesis, and zinc does not act by accelerating hemolysis of mature red cells here.",
+          "C": "The problem is copper deficiency from reduced absorption, not zinc chelation of iron.",
+          "D": "Ferrochelatase inhibition is the mechanism of lead poisoning, not of zinc-related copper deficiency.",
+          "E": "Acquired zinc excess does not induce the hereditary X-linked ALAS mutation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "sideroblastic anemia",
+        "copper deficiency",
+        "zinc",
+        "etiology"
+      ],
+      "topicId": "sideroblastic-anemia",
+      "topicName": "Sideroblastic Anemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl08-011",
+      "stem": "A 30-year-old man with hereditary sideroblastic anemia has received frequent transfusions and now has evidence of iron overload with cardiac and hepatic involvement. Which of the following is the most appropriate therapy to remove the excess iron?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Additional packed red cell transfusion"
+        },
+        {
+          "label": "B",
+          "text": "Corticosteroids"
+        },
+        {
+          "label": "C",
+          "text": "High-dose folic acid"
+        },
+        {
+          "label": "D",
+          "text": "Iron chelation with deferasirox"
+        },
+        {
+          "label": "E",
+          "text": "Oral ferrous sulfate"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Iron overload in sideroblastic anemia is treated with iron chelation therapy such as deferasirox.",
+        "whyCorrect": "Patients with iron overload should receive chelation therapy (for example, deferasirox) to remove excess iron. Iron overload is common in hereditary forms and is worsened by frequent transfusions, so chelation directly addresses the accumulated iron.",
+        "whyWrongByChoice": {
+          "A": "Additional transfusions would add more iron and worsen the overload.",
+          "B": "Corticosteroids are not a treatment for the iron overload of sideroblastic anemia.",
+          "C": "Folic acid supports erythropoiesis but does not remove excess iron.",
+          "E": "Oral iron supplementation would increase the iron burden in a patient who is already iron overloaded."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "sideroblastic anemia",
+        "iron overload",
+        "chelation",
+        "management"
+      ],
+      "topicId": "sideroblastic-anemia",
+      "topicName": "Sideroblastic Anemia",
+      "tier": "core"
+    },
+    {
+      "id": "bl08-012",
+      "stem": "A hematology student notes that although bone marrow examination in sideroblastic anemia reveals ringed sideroblasts, these cells are never reported on the peripheral blood smear. Which of the following best explains this observation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Circulating red cells have too many mitochondria to display the ring"
+        },
+        {
+          "label": "B",
+          "text": "Prussian blue stain cannot be applied to peripheral blood"
+        },
+        {
+          "label": "C",
+          "text": "Ringed sideroblasts are nucleated erythroid progenitors found only in the bone marrow"
+        },
+        {
+          "label": "D",
+          "text": "Ringed sideroblasts are rapidly destroyed by the spleen before entering circulation"
+        },
+        {
+          "label": "E",
+          "text": "Ringed sideroblasts lose their iron ring once hemoglobin synthesis is complete"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Ringed sideroblasts are nucleated erythroid precursors, so they remain in the marrow and are not seen peripherally.",
+        "whyCorrect": "Ringed sideroblasts are nucleated erythroid progenitor cells. Because these precursors reside in the bone marrow and do not circulate, they are present only in the marrow and are absent from the peripheral blood smear; peripheral smears instead show Pappenheimer bodies.",
+        "whyWrongByChoice": {
+          "A": "Mature circulating erythrocytes lack mitochondria entirely, which is why they cannot synthesize heme; this does not explain a ring being obscured.",
+          "B": "Prussian blue stain is in fact used on peripheral smears to demonstrate Pappenheimer bodies.",
+          "D": "The reason is their location as marrow precursors, not splenic destruction of circulating ringed sideroblasts.",
+          "E": "The absence is due to the cells being non-circulating precursors, not loss of the iron ring at maturity."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "sideroblastic anemia",
+        "ringed sideroblasts",
+        "morphology"
+      ],
+      "topicId": "sideroblastic-anemia",
+      "topicName": "Sideroblastic Anemia",
+      "tier": "core"
+    }
+  ]
+}
