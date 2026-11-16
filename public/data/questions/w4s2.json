@@ -48,7 +48,8 @@
       ],
       "topicId": "plasmodium-babesia-brucella",
       "topicName": "Plasmodium spp., Babesia spp., and Brucella spp.",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl57-002",
@@ -96,7 +97,8 @@
       ],
       "topicId": "plasmodium-babesia-brucella",
       "topicName": "Plasmodium spp., Babesia spp., and Brucella spp.",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl57-003",
@@ -145,7 +147,8 @@
       ],
       "topicId": "plasmodium-babesia-brucella",
       "topicName": "Plasmodium spp., Babesia spp., and Brucella spp.",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl57-004",
@@ -337,7 +340,8 @@
       ],
       "topicId": "plasmodium-babesia-brucella",
       "topicName": "Plasmodium spp., Babesia spp., and Brucella spp.",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl57-008",
@@ -433,7 +437,8 @@
       ],
       "topicId": "plasmodium-babesia-brucella",
       "topicName": "Plasmodium spp., Babesia spp., and Brucella spp.",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl57-010",
@@ -481,7 +486,8 @@
       ],
       "topicId": "plasmodium-babesia-brucella",
       "topicName": "Plasmodium spp., Babesia spp., and Brucella spp.",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl57-011",
@@ -529,7 +535,8 @@
       ],
       "topicId": "plasmodium-babesia-brucella",
       "topicName": "Plasmodium spp., Babesia spp., and Brucella spp.",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl57-012",
@@ -577,7 +584,8 @@
       ],
       "topicId": "plasmodium-babesia-brucella",
       "topicName": "Plasmodium spp., Babesia spp., and Brucella spp.",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl58-001",
@@ -624,7 +632,8 @@
       ],
       "topicId": "drugs-to-treat-plasmodium-babesia-and-brucella",
       "topicName": "Drugs to Treat Plasmodium spp., Babesia spp., and Brucella spp.",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl58-002",
@@ -671,7 +680,8 @@
       ],
       "topicId": "drugs-to-treat-plasmodium-babesia-and-brucella",
       "topicName": "Drugs to Treat Plasmodium spp., Babesia spp., and Brucella spp.",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl58-003",
@@ -718,7 +728,8 @@
       ],
       "topicId": "drugs-to-treat-plasmodium-babesia-and-brucella",
       "topicName": "Drugs to Treat Plasmodium spp., Babesia spp., and Brucella spp.",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl58-004",
@@ -765,7 +776,8 @@
       ],
       "topicId": "drugs-to-treat-plasmodium-babesia-and-brucella",
       "topicName": "Drugs to Treat Plasmodium spp., Babesia spp., and Brucella spp.",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl58-005",
@@ -812,7 +824,8 @@
       ],
       "topicId": "drugs-to-treat-plasmodium-babesia-and-brucella",
       "topicName": "Drugs to Treat Plasmodium spp., Babesia spp., and Brucella spp.",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl58-006",
@@ -859,7 +872,8 @@
       ],
       "topicId": "drugs-to-treat-plasmodium-babesia-and-brucella",
       "topicName": "Drugs to Treat Plasmodium spp., Babesia spp., and Brucella spp.",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl58-007",
@@ -906,7 +920,8 @@
       ],
       "topicId": "drugs-to-treat-plasmodium-babesia-and-brucella",
       "topicName": "Drugs to Treat Plasmodium spp., Babesia spp., and Brucella spp.",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl58-008",
@@ -953,7 +968,8 @@
       ],
       "topicId": "drugs-to-treat-plasmodium-babesia-and-brucella",
       "topicName": "Drugs to Treat Plasmodium spp., Babesia spp., and Brucella spp.",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl58-009",
@@ -1047,7 +1063,8 @@
       ],
       "topicId": "drugs-to-treat-plasmodium-babesia-and-brucella",
       "topicName": "Drugs to Treat Plasmodium spp., Babesia spp., and Brucella spp.",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl58-011",
@@ -1141,7 +1158,8 @@
       ],
       "topicId": "drugs-to-treat-plasmodium-babesia-and-brucella",
       "topicName": "Drugs to Treat Plasmodium spp., Babesia spp., and Brucella spp.",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl59-001",
@@ -1188,7 +1206,8 @@
       ],
       "topicId": "hemorrhagic-viruses",
       "topicName": "Hemorrhagic Viruses",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl59-002",
@@ -1235,7 +1254,8 @@
       ],
       "topicId": "hemorrhagic-viruses",
       "topicName": "Hemorrhagic Viruses",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl59-003",
@@ -1329,7 +1349,8 @@
       ],
       "topicId": "hemorrhagic-viruses",
       "topicName": "Hemorrhagic Viruses",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl59-005",
@@ -1376,7 +1397,8 @@
       ],
       "topicId": "hemorrhagic-viruses",
       "topicName": "Hemorrhagic Viruses",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl59-006",
@@ -1423,7 +1445,8 @@
       ],
       "topicId": "hemorrhagic-viruses",
       "topicName": "Hemorrhagic Viruses",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl59-007",
@@ -1470,7 +1493,8 @@
       ],
       "topicId": "hemorrhagic-viruses",
       "topicName": "Hemorrhagic Viruses",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl59-008",
@@ -1517,7 +1541,8 @@
       ],
       "topicId": "hemorrhagic-viruses",
       "topicName": "Hemorrhagic Viruses",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl59-009",
@@ -1611,7 +1636,8 @@
       ],
       "topicId": "hemorrhagic-viruses",
       "topicName": "Hemorrhagic Viruses",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl59-011",
@@ -1658,7 +1684,8 @@
       ],
       "topicId": "hemorrhagic-viruses",
       "topicName": "Hemorrhagic Viruses",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl59-012",
@@ -1752,7 +1779,8 @@
       ],
       "topicId": "arboviruses",
       "topicName": "Arboviruses",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl60-002",
@@ -1799,7 +1827,8 @@
       ],
       "topicId": "arboviruses",
       "topicName": "Arboviruses",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl60-003",
@@ -1846,7 +1875,8 @@
       ],
       "topicId": "arboviruses",
       "topicName": "Arboviruses",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl60-004",
@@ -1893,7 +1923,8 @@
       ],
       "topicId": "arboviruses",
       "topicName": "Arboviruses",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl60-005",
@@ -1940,7 +1971,8 @@
       ],
       "topicId": "arboviruses",
       "topicName": "Arboviruses",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl60-006",
@@ -1987,7 +2019,8 @@
       ],
       "topicId": "arboviruses",
       "topicName": "Arboviruses",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl60-007",
@@ -2034,7 +2067,8 @@
       ],
       "topicId": "arboviruses",
       "topicName": "Arboviruses",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl60-008",
@@ -2081,7 +2115,8 @@
       ],
       "topicId": "arboviruses",
       "topicName": "Arboviruses",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl60-009",
@@ -2175,7 +2210,8 @@
       ],
       "topicId": "arboviruses",
       "topicName": "Arboviruses",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl60-011",
@@ -2223,7 +2259,8 @@
       ],
       "topicId": "arboviruses",
       "topicName": "Arboviruses",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl60-012",
@@ -2270,7 +2307,8 @@
       ],
       "topicId": "arboviruses",
       "topicName": "Arboviruses",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     }
   ]
 }

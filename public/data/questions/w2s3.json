@@ -48,7 +48,8 @@
       ],
       "topicId": "hereditary-platelet-disorders",
       "topicName": "Hereditary Platelet Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl25-002",
@@ -96,7 +97,8 @@
       ],
       "topicId": "hereditary-platelet-disorders",
       "topicName": "Hereditary Platelet Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl25-003",
@@ -191,7 +193,8 @@
       ],
       "topicId": "hereditary-platelet-disorders",
       "topicName": "Hereditary Platelet Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl25-005",
@@ -238,7 +241,8 @@
       ],
       "topicId": "hereditary-platelet-disorders",
       "topicName": "Hereditary Platelet Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl25-006",
@@ -286,7 +290,8 @@
       ],
       "topicId": "hereditary-platelet-disorders",
       "topicName": "Hereditary Platelet Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl25-007",
@@ -333,7 +338,8 @@
       ],
       "topicId": "hereditary-platelet-disorders",
       "topicName": "Hereditary Platelet Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl25-008",
@@ -428,7 +434,8 @@
       ],
       "topicId": "hereditary-platelet-disorders",
       "topicName": "Hereditary Platelet Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl25-010",
@@ -572,7 +579,8 @@
       ],
       "topicId": "hereditary-platelet-disorders",
       "topicName": "Hereditary Platelet Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl26-001",
@@ -619,7 +627,8 @@
       ],
       "topicId": "thrombocytopenia",
       "topicName": "Thrombocytopenia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl26-002",
@@ -667,7 +676,8 @@
       ],
       "topicId": "thrombocytopenia",
       "topicName": "Thrombocytopenia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl26-003",
@@ -714,7 +724,8 @@
       ],
       "topicId": "thrombocytopenia",
       "topicName": "Thrombocytopenia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl26-004",
@@ -761,7 +772,8 @@
       ],
       "topicId": "thrombocytopenia",
       "topicName": "Thrombocytopenia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl26-005",
@@ -809,7 +821,8 @@
       ],
       "topicId": "thrombocytopenia",
       "topicName": "Thrombocytopenia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl26-006",
@@ -857,7 +870,8 @@
       ],
       "topicId": "thrombocytopenia",
       "topicName": "Thrombocytopenia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl26-007",
@@ -1048,7 +1062,8 @@
       ],
       "topicId": "thrombocytopenia",
       "topicName": "Thrombocytopenia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl26-011",
@@ -1096,7 +1111,8 @@
       ],
       "topicId": "thrombocytopenia",
       "topicName": "Thrombocytopenia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl26-012",
@@ -1191,7 +1207,8 @@
       ],
       "topicId": "immune-thrombocytopenia",
       "topicName": "Immune Thrombocytopenia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl27-002",
@@ -1238,7 +1255,8 @@
       ],
       "topicId": "immune-thrombocytopenia",
       "topicName": "Immune Thrombocytopenia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl27-003",
@@ -1285,7 +1303,8 @@
       ],
       "topicId": "immune-thrombocytopenia",
       "topicName": "Immune Thrombocytopenia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl27-004",
@@ -1332,7 +1351,8 @@
       ],
       "topicId": "immune-thrombocytopenia",
       "topicName": "Immune Thrombocytopenia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl27-005",
@@ -1379,7 +1399,8 @@
       ],
       "topicId": "immune-thrombocytopenia",
       "topicName": "Immune Thrombocytopenia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl27-006",
@@ -1426,7 +1447,8 @@
       ],
       "topicId": "immune-thrombocytopenia",
       "topicName": "Immune Thrombocytopenia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl27-007",
@@ -1473,7 +1495,8 @@
       ],
       "topicId": "immune-thrombocytopenia",
       "topicName": "Immune Thrombocytopenia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl27-008",
@@ -1567,7 +1590,8 @@
       ],
       "topicId": "immune-thrombocytopenia",
       "topicName": "Immune Thrombocytopenia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl27-010",
@@ -1614,7 +1638,8 @@
       ],
       "topicId": "immune-thrombocytopenia",
       "topicName": "Immune Thrombocytopenia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl27-011",
@@ -1708,7 +1733,8 @@
       ],
       "topicId": "immune-thrombocytopenia",
       "topicName": "Immune Thrombocytopenia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl28-001",
@@ -1755,7 +1781,8 @@
       ],
       "topicId": "platelet-assays",
       "topicName": "Platelet Assays",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl28-002",
@@ -1848,7 +1875,8 @@
       ],
       "topicId": "platelet-assays",
       "topicName": "Platelet Assays",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl28-004",
@@ -1895,7 +1923,8 @@
       ],
       "topicId": "platelet-assays",
       "topicName": "Platelet Assays",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl28-005",
@@ -1942,7 +1971,8 @@
       ],
       "topicId": "platelet-assays",
       "topicName": "Platelet Assays",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl28-006",
@@ -2083,7 +2113,8 @@
       ],
       "topicId": "platelet-assays",
       "topicName": "Platelet Assays",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl28-009",
@@ -2271,7 +2302,8 @@
       ],
       "topicId": "platelet-assays",
       "topicName": "Platelet Assays",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl29-001",
@@ -2318,7 +2350,8 @@
       ],
       "topicId": "thrombotic-microangiopathies",
       "topicName": "Thrombotic Microangiopathies",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl29-002",
@@ -2365,7 +2398,8 @@
       ],
       "topicId": "thrombotic-microangiopathies",
       "topicName": "Thrombotic Microangiopathies",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl29-003",
@@ -2413,7 +2447,8 @@
       ],
       "topicId": "thrombotic-microangiopathies",
       "topicName": "Thrombotic Microangiopathies",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl29-004",
@@ -2460,7 +2495,8 @@
       ],
       "topicId": "thrombotic-microangiopathies",
       "topicName": "Thrombotic Microangiopathies",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl29-005",
@@ -2507,7 +2543,8 @@
       ],
       "topicId": "thrombotic-microangiopathies",
       "topicName": "Thrombotic Microangiopathies",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl29-006",
@@ -2554,7 +2591,8 @@
       ],
       "topicId": "thrombotic-microangiopathies",
       "topicName": "Thrombotic Microangiopathies",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl29-007",
@@ -2601,7 +2639,8 @@
       ],
       "topicId": "thrombotic-microangiopathies",
       "topicName": "Thrombotic Microangiopathies",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl29-008",
@@ -2648,7 +2687,8 @@
       ],
       "topicId": "thrombotic-microangiopathies",
       "topicName": "Thrombotic Microangiopathies",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl29-009",
@@ -2836,7 +2876,8 @@
       ],
       "topicId": "thrombotic-microangiopathies",
       "topicName": "Thrombotic Microangiopathies",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl30-001",
@@ -2883,7 +2924,8 @@
       ],
       "topicId": "hematopoietic-neoplasms-foundations-and-frameworks",
       "topicName": "Hematopoietic Neoplasms: Foundations and Frameworks",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl30-002",
@@ -2931,7 +2973,8 @@
       ],
       "topicId": "hematopoietic-neoplasms-foundations-and-frameworks",
       "topicName": "Hematopoietic Neoplasms: Foundations and Frameworks",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl30-003",
@@ -2978,7 +3021,8 @@
       ],
       "topicId": "hematopoietic-neoplasms-foundations-and-frameworks",
       "topicName": "Hematopoietic Neoplasms: Foundations and Frameworks",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl30-004",
@@ -3025,7 +3069,8 @@
       ],
       "topicId": "hematopoietic-neoplasms-foundations-and-frameworks",
       "topicName": "Hematopoietic Neoplasms: Foundations and Frameworks",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl30-005",
@@ -3072,7 +3117,8 @@
       ],
       "topicId": "hematopoietic-neoplasms-foundations-and-frameworks",
       "topicName": "Hematopoietic Neoplasms: Foundations and Frameworks",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl30-006",
@@ -3166,7 +3212,8 @@
       ],
       "topicId": "hematopoietic-neoplasms-foundations-and-frameworks",
       "topicName": "Hematopoietic Neoplasms: Foundations and Frameworks",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl30-008",
@@ -3309,7 +3356,8 @@
       ],
       "topicId": "hematopoietic-neoplasms-foundations-and-frameworks",
       "topicName": "Hematopoietic Neoplasms: Foundations and Frameworks",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl30-011",
@@ -3356,7 +3404,8 @@
       ],
       "topicId": "hematopoietic-neoplasms-foundations-and-frameworks",
       "topicName": "Hematopoietic Neoplasms: Foundations and Frameworks",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl30-012",
@@ -3404,7 +3453,8 @@
       ],
       "topicId": "hematopoietic-neoplasms-foundations-and-frameworks",
       "topicName": "Hematopoietic Neoplasms: Foundations and Frameworks",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl31-001",
@@ -3450,7 +3500,8 @@
       ],
       "topicId": "principles-of-chemotherapy",
       "topicName": "Principles of Chemotherapy",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl31-002",
@@ -3496,7 +3547,8 @@
       ],
       "topicId": "principles-of-chemotherapy",
       "topicName": "Principles of Chemotherapy",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl31-003",
@@ -3542,7 +3594,8 @@
       ],
       "topicId": "principles-of-chemotherapy",
       "topicName": "Principles of Chemotherapy",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl31-004",
@@ -3634,7 +3687,8 @@
       ],
       "topicId": "principles-of-chemotherapy",
       "topicName": "Principles of Chemotherapy",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl31-006",
@@ -3680,7 +3734,8 @@
       ],
       "topicId": "principles-of-chemotherapy",
       "topicName": "Principles of Chemotherapy",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl31-007",
@@ -3726,7 +3781,8 @@
       ],
       "topicId": "principles-of-chemotherapy",
       "topicName": "Principles of Chemotherapy",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl31-008",
@@ -3772,7 +3828,8 @@
       ],
       "topicId": "principles-of-chemotherapy",
       "topicName": "Principles of Chemotherapy",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl31-009",
@@ -3818,7 +3875,8 @@
       ],
       "topicId": "principles-of-chemotherapy",
       "topicName": "Principles of Chemotherapy",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl31-010",
@@ -3864,7 +3922,8 @@
       ],
       "topicId": "principles-of-chemotherapy",
       "topicName": "Principles of Chemotherapy",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl31-011",
@@ -3911,7 +3970,8 @@
       ],
       "topicId": "principles-of-chemotherapy",
       "topicName": "Principles of Chemotherapy",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl31-012",

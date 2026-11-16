@@ -47,7 +47,8 @@
       ],
       "topicId": "hematopoiesis",
       "topicName": "Hematopoiesis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl01-002",
@@ -94,7 +95,8 @@
       ],
       "topicId": "hematopoiesis",
       "topicName": "Hematopoiesis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl01-003",
@@ -141,7 +143,8 @@
       ],
       "topicId": "hematopoiesis",
       "topicName": "Hematopoiesis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl01-004",
@@ -235,7 +238,8 @@
       ],
       "topicId": "hematopoiesis",
       "topicName": "Hematopoiesis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl01-006",
@@ -282,7 +286,8 @@
       ],
       "topicId": "hematopoiesis",
       "topicName": "Hematopoiesis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl01-007",
@@ -329,7 +334,8 @@
       ],
       "topicId": "hematopoiesis",
       "topicName": "Hematopoiesis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl01-008",
@@ -376,7 +382,8 @@
       ],
       "topicId": "hematopoiesis",
       "topicName": "Hematopoiesis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl01-009",
@@ -470,7 +477,8 @@
       ],
       "topicId": "hematopoiesis",
       "topicName": "Hematopoiesis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl01-011",
@@ -517,7 +525,8 @@
       ],
       "topicId": "hematopoiesis",
       "topicName": "Hematopoiesis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl01-012",
@@ -564,7 +573,8 @@
       ],
       "topicId": "hematopoiesis",
       "topicName": "Hematopoiesis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl02-001",
@@ -611,7 +621,8 @@
       ],
       "topicId": "rbc-metabolism",
       "topicName": "RBC Metabolism",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl02-002",
@@ -659,7 +670,8 @@
       ],
       "topicId": "rbc-metabolism",
       "topicName": "RBC Metabolism",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl02-003",
@@ -753,7 +765,8 @@
       ],
       "topicId": "rbc-metabolism",
       "topicName": "RBC Metabolism",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl02-005",
@@ -800,7 +813,8 @@
       ],
       "topicId": "rbc-metabolism",
       "topicName": "RBC Metabolism",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl02-006",
@@ -848,7 +862,8 @@
       ],
       "topicId": "rbc-metabolism",
       "topicName": "RBC Metabolism",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl02-007",
@@ -944,7 +959,8 @@
       ],
       "topicId": "rbc-metabolism",
       "topicName": "RBC Metabolism",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl02-009",
@@ -991,7 +1007,8 @@
       ],
       "topicId": "rbc-metabolism",
       "topicName": "RBC Metabolism",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl02-010",
@@ -1039,7 +1056,8 @@
       ],
       "topicId": "rbc-metabolism",
       "topicName": "RBC Metabolism",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl02-011",
@@ -1087,7 +1105,8 @@
       ],
       "topicId": "rbc-metabolism",
       "topicName": "RBC Metabolism",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl02-012",
@@ -1134,7 +1153,8 @@
       ],
       "topicId": "rbc-metabolism",
       "topicName": "RBC Metabolism",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl03-001",
@@ -1181,7 +1201,8 @@
       ],
       "topicId": "red-blood-cell-laboratory-tests",
       "topicName": "Red Blood Cell Laboratory Tests",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl03-002",
@@ -1228,7 +1249,8 @@
       ],
       "topicId": "red-blood-cell-laboratory-tests",
       "topicName": "Red Blood Cell Laboratory Tests",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl03-003",
@@ -1322,7 +1344,8 @@
       ],
       "topicId": "red-blood-cell-laboratory-tests",
       "topicName": "Red Blood Cell Laboratory Tests",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl03-005",
@@ -1369,7 +1392,8 @@
       ],
       "topicId": "red-blood-cell-laboratory-tests",
       "topicName": "Red Blood Cell Laboratory Tests",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl03-006",
@@ -1416,7 +1440,8 @@
       ],
       "topicId": "red-blood-cell-laboratory-tests",
       "topicName": "Red Blood Cell Laboratory Tests",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl03-007",
@@ -1463,7 +1488,8 @@
       ],
       "topicId": "red-blood-cell-laboratory-tests",
       "topicName": "Red Blood Cell Laboratory Tests",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl03-008",
@@ -1557,7 +1583,8 @@
       ],
       "topicId": "red-blood-cell-laboratory-tests",
       "topicName": "Red Blood Cell Laboratory Tests",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl03-010",
@@ -1604,7 +1631,8 @@
       ],
       "topicId": "red-blood-cell-laboratory-tests",
       "topicName": "Red Blood Cell Laboratory Tests",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl03-011",
@@ -1651,7 +1679,8 @@
       ],
       "topicId": "red-blood-cell-laboratory-tests",
       "topicName": "Red Blood Cell Laboratory Tests",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl03-012",
@@ -1698,7 +1727,8 @@
       ],
       "topicId": "red-blood-cell-laboratory-tests",
       "topicName": "Red Blood Cell Laboratory Tests",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl09-001",
@@ -1792,7 +1822,8 @@
       ],
       "topicId": "red-blood-cell-laboratory-tests-b09",
       "topicName": "Red Blood Cell Laboratory Tests",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl09-003",
@@ -1839,7 +1870,8 @@
       ],
       "topicId": "red-blood-cell-laboratory-tests-b09",
       "topicName": "Red Blood Cell Laboratory Tests",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl09-004",
@@ -1886,7 +1918,8 @@
       ],
       "topicId": "red-blood-cell-laboratory-tests-b09",
       "topicName": "Red Blood Cell Laboratory Tests",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl09-005",
@@ -1933,7 +1966,8 @@
       ],
       "topicId": "red-blood-cell-laboratory-tests-b09",
       "topicName": "Red Blood Cell Laboratory Tests",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl09-006",
@@ -2309,7 +2343,8 @@
       ],
       "topicId": "history-taking-approach-to-anemia",
       "topicName": "History-Taking Approach to Anemia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl04-002",
@@ -2356,7 +2391,8 @@
       ],
       "topicId": "history-taking-approach-to-anemia",
       "topicName": "History-Taking Approach to Anemia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl04-003",
@@ -2403,7 +2439,8 @@
       ],
       "topicId": "history-taking-approach-to-anemia",
       "topicName": "History-Taking Approach to Anemia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl04-004",
@@ -2450,7 +2487,8 @@
       ],
       "topicId": "history-taking-approach-to-anemia",
       "topicName": "History-Taking Approach to Anemia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl04-005",
@@ -2497,7 +2535,8 @@
       ],
       "topicId": "history-taking-approach-to-anemia",
       "topicName": "History-Taking Approach to Anemia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl04-006",
@@ -2591,7 +2630,8 @@
       ],
       "topicId": "history-taking-approach-to-anemia",
       "topicName": "History-Taking Approach to Anemia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl04-008",
@@ -2638,7 +2678,8 @@
       ],
       "topicId": "history-taking-approach-to-anemia",
       "topicName": "History-Taking Approach to Anemia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl04-009",
@@ -2685,7 +2726,8 @@
       ],
       "topicId": "history-taking-approach-to-anemia",
       "topicName": "History-Taking Approach to Anemia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl04-010",
@@ -2732,7 +2774,8 @@
       ],
       "topicId": "history-taking-approach-to-anemia",
       "topicName": "History-Taking Approach to Anemia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl04-011",
@@ -2779,7 +2822,8 @@
       ],
       "topicId": "history-taking-approach-to-anemia",
       "topicName": "History-Taking Approach to Anemia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl04-012",
@@ -2826,7 +2870,8 @@
       ],
       "topicId": "history-taking-approach-to-anemia",
       "topicName": "History-Taking Approach to Anemia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     }
   ]
 }

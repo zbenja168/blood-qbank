@@ -47,7 +47,8 @@
       ],
       "topicId": "b-cell-non-hodgkin-lymphomas",
       "topicName": "B-Cell Non-Hodgkin Lymphomas (Part 1 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl40-002",
@@ -141,7 +142,8 @@
       ],
       "topicId": "b-cell-non-hodgkin-lymphomas",
       "topicName": "B-Cell Non-Hodgkin Lymphomas (Part 1 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl40-004",
@@ -188,7 +190,8 @@
       ],
       "topicId": "b-cell-non-hodgkin-lymphomas",
       "topicName": "B-Cell Non-Hodgkin Lymphomas (Part 1 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl40-005",
@@ -282,7 +285,8 @@
       ],
       "topicId": "b-cell-non-hodgkin-lymphomas",
       "topicName": "B-Cell Non-Hodgkin Lymphomas (Part 1 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl40-007",
@@ -377,7 +381,8 @@
       ],
       "topicId": "b-cell-non-hodgkin-lymphomas",
       "topicName": "B-Cell Non-Hodgkin Lymphomas (Part 1 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl40-009",
@@ -471,7 +476,8 @@
       ],
       "topicId": "b-cell-non-hodgkin-lymphomas",
       "topicName": "B-Cell Non-Hodgkin Lymphomas (Part 1 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl40-011",
@@ -518,7 +524,8 @@
       ],
       "topicId": "b-cell-non-hodgkin-lymphomas",
       "topicName": "B-Cell Non-Hodgkin Lymphomas (Part 1 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl40-012",
@@ -565,7 +572,8 @@
       ],
       "topicId": "b-cell-non-hodgkin-lymphomas",
       "topicName": "B-Cell Non-Hodgkin Lymphomas (Part 1 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl41-001",
@@ -612,7 +620,8 @@
       ],
       "topicId": "b-cell-non-hodgkin-lymphomas-part-2",
       "topicName": "B-Cell Non-Hodgkin Lymphomas (Part 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl41-002",
@@ -659,7 +668,8 @@
       ],
       "topicId": "b-cell-non-hodgkin-lymphomas-part-2",
       "topicName": "B-Cell Non-Hodgkin Lymphomas (Part 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl41-003",
@@ -706,7 +716,8 @@
       ],
       "topicId": "b-cell-non-hodgkin-lymphomas-part-2",
       "topicName": "B-Cell Non-Hodgkin Lymphomas (Part 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl41-004",
@@ -753,7 +764,8 @@
       ],
       "topicId": "b-cell-non-hodgkin-lymphomas-part-2",
       "topicName": "B-Cell Non-Hodgkin Lymphomas (Part 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl41-005",
@@ -800,7 +812,8 @@
       ],
       "topicId": "b-cell-non-hodgkin-lymphomas-part-2",
       "topicName": "B-Cell Non-Hodgkin Lymphomas (Part 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl41-006",
@@ -847,7 +860,8 @@
       ],
       "topicId": "b-cell-non-hodgkin-lymphomas-part-2",
       "topicName": "B-Cell Non-Hodgkin Lymphomas (Part 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl41-007",
@@ -894,7 +908,8 @@
       ],
       "topicId": "b-cell-non-hodgkin-lymphomas-part-2",
       "topicName": "B-Cell Non-Hodgkin Lymphomas (Part 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl41-008",
@@ -941,7 +956,8 @@
       ],
       "topicId": "b-cell-non-hodgkin-lymphomas-part-2",
       "topicName": "B-Cell Non-Hodgkin Lymphomas (Part 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl41-009",
@@ -988,7 +1004,8 @@
       ],
       "topicId": "b-cell-non-hodgkin-lymphomas-part-2",
       "topicName": "B-Cell Non-Hodgkin Lymphomas (Part 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl41-010",
@@ -1035,7 +1052,8 @@
       ],
       "topicId": "b-cell-non-hodgkin-lymphomas-part-2",
       "topicName": "B-Cell Non-Hodgkin Lymphomas (Part 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl41-011",
@@ -1082,7 +1100,8 @@
       ],
       "topicId": "b-cell-non-hodgkin-lymphomas-part-2",
       "topicName": "B-Cell Non-Hodgkin Lymphomas (Part 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl41-012",
@@ -1175,7 +1194,8 @@
       ],
       "topicId": "t-cell-non-hodgkin-lymphomas",
       "topicName": "T-cell Non-Hodgkin Lymphomas",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl42-002",
@@ -1221,7 +1241,8 @@
       ],
       "topicId": "t-cell-non-hodgkin-lymphomas",
       "topicName": "T-cell Non-Hodgkin Lymphomas",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl42-003",
@@ -1267,7 +1288,8 @@
       ],
       "topicId": "t-cell-non-hodgkin-lymphomas",
       "topicName": "T-cell Non-Hodgkin Lymphomas",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl42-004",
@@ -1313,7 +1335,8 @@
       ],
       "topicId": "t-cell-non-hodgkin-lymphomas",
       "topicName": "T-cell Non-Hodgkin Lymphomas",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl42-005",
@@ -1359,7 +1382,8 @@
       ],
       "topicId": "t-cell-non-hodgkin-lymphomas",
       "topicName": "T-cell Non-Hodgkin Lymphomas",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl42-006",
@@ -1405,7 +1429,8 @@
       ],
       "topicId": "t-cell-non-hodgkin-lymphomas",
       "topicName": "T-cell Non-Hodgkin Lymphomas",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl42-007",
@@ -1497,7 +1522,8 @@
       ],
       "topicId": "t-cell-non-hodgkin-lymphomas",
       "topicName": "T-cell Non-Hodgkin Lymphomas",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl42-009",
@@ -1543,7 +1569,8 @@
       ],
       "topicId": "t-cell-non-hodgkin-lymphomas",
       "topicName": "T-cell Non-Hodgkin Lymphomas",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl42-010",
@@ -1589,7 +1616,8 @@
       ],
       "topicId": "t-cell-non-hodgkin-lymphomas",
       "topicName": "T-cell Non-Hodgkin Lymphomas",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl42-011",
@@ -1636,7 +1664,8 @@
       ],
       "topicId": "t-cell-non-hodgkin-lymphomas",
       "topicName": "T-cell Non-Hodgkin Lymphomas",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl42-012",
@@ -1682,7 +1711,8 @@
       ],
       "topicId": "t-cell-non-hodgkin-lymphomas",
       "topicName": "T-cell Non-Hodgkin Lymphomas",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl43-001",
@@ -1728,7 +1758,8 @@
       ],
       "topicId": "hodgkin-lymphoma",
       "topicName": "Hodgkin Lymphoma",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl43-002",
@@ -1774,7 +1805,8 @@
       ],
       "topicId": "hodgkin-lymphoma",
       "topicName": "Hodgkin Lymphoma",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl43-003",
@@ -1820,7 +1852,8 @@
       ],
       "topicId": "hodgkin-lymphoma",
       "topicName": "Hodgkin Lymphoma",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl43-004",
@@ -1866,7 +1899,8 @@
       ],
       "topicId": "hodgkin-lymphoma",
       "topicName": "Hodgkin Lymphoma",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl43-005",
@@ -1912,7 +1946,8 @@
       ],
       "topicId": "hodgkin-lymphoma",
       "topicName": "Hodgkin Lymphoma",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl43-006",
@@ -1959,7 +1994,8 @@
       ],
       "topicId": "hodgkin-lymphoma",
       "topicName": "Hodgkin Lymphoma",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl43-007",
@@ -2006,7 +2042,8 @@
       ],
       "topicId": "hodgkin-lymphoma",
       "topicName": "Hodgkin Lymphoma",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl43-008",
@@ -2192,7 +2229,8 @@
       ],
       "topicId": "hodgkin-lymphoma",
       "topicName": "Hodgkin Lymphoma",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl43-012",
@@ -2238,7 +2276,8 @@
       ],
       "topicId": "hodgkin-lymphoma",
       "topicName": "Hodgkin Lymphoma",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl44-001",
@@ -2332,7 +2371,8 @@
       ],
       "topicId": "multiple-myeloma-and-other-plasma-cell-disorders",
       "topicName": "Multiple Myeloma and Other Plasma Cell Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl44-003",
@@ -2379,7 +2419,8 @@
       ],
       "topicId": "multiple-myeloma-and-other-plasma-cell-disorders",
       "topicName": "Multiple Myeloma and Other Plasma Cell Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl44-004",
@@ -2473,7 +2514,8 @@
       ],
       "topicId": "multiple-myeloma-and-other-plasma-cell-disorders",
       "topicName": "Multiple Myeloma and Other Plasma Cell Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl44-006",
@@ -2520,7 +2562,8 @@
       ],
       "topicId": "multiple-myeloma-and-other-plasma-cell-disorders",
       "topicName": "Multiple Myeloma and Other Plasma Cell Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl44-007",
@@ -2614,7 +2657,8 @@
       ],
       "topicId": "multiple-myeloma-and-other-plasma-cell-disorders",
       "topicName": "Multiple Myeloma and Other Plasma Cell Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl44-009",
@@ -2661,7 +2705,8 @@
       ],
       "topicId": "multiple-myeloma-and-other-plasma-cell-disorders",
       "topicName": "Multiple Myeloma and Other Plasma Cell Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl44-010",
@@ -2708,7 +2753,8 @@
       ],
       "topicId": "multiple-myeloma-and-other-plasma-cell-disorders",
       "topicName": "Multiple Myeloma and Other Plasma Cell Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl44-011",
@@ -2755,7 +2801,8 @@
       ],
       "topicId": "multiple-myeloma-and-other-plasma-cell-disorders",
       "topicName": "Multiple Myeloma and Other Plasma Cell Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl44-012",
@@ -2802,7 +2849,8 @@
       ],
       "topicId": "multiple-myeloma-and-other-plasma-cell-disorders",
       "topicName": "Multiple Myeloma and Other Plasma Cell Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl45-001",
@@ -2849,7 +2897,8 @@
       ],
       "topicId": "targeted-inhibitors-used-in-cancer-therapy",
       "topicName": "Targeted Inhibitors Used in Cancer Therapy",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl45-002",
@@ -2896,7 +2945,8 @@
       ],
       "topicId": "targeted-inhibitors-used-in-cancer-therapy",
       "topicName": "Targeted Inhibitors Used in Cancer Therapy",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl45-003",
@@ -2943,7 +2993,8 @@
       ],
       "topicId": "targeted-inhibitors-used-in-cancer-therapy",
       "topicName": "Targeted Inhibitors Used in Cancer Therapy",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl45-004",
@@ -3037,7 +3088,8 @@
       ],
       "topicId": "targeted-inhibitors-used-in-cancer-therapy",
       "topicName": "Targeted Inhibitors Used in Cancer Therapy",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl45-006",
@@ -3084,7 +3136,8 @@
       ],
       "topicId": "targeted-inhibitors-used-in-cancer-therapy",
       "topicName": "Targeted Inhibitors Used in Cancer Therapy",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl45-007",
@@ -3131,7 +3184,8 @@
       ],
       "topicId": "targeted-inhibitors-used-in-cancer-therapy",
       "topicName": "Targeted Inhibitors Used in Cancer Therapy",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl45-008",
@@ -3178,7 +3232,8 @@
       ],
       "topicId": "targeted-inhibitors-used-in-cancer-therapy",
       "topicName": "Targeted Inhibitors Used in Cancer Therapy",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl45-009",
@@ -3272,7 +3327,8 @@
       ],
       "topicId": "targeted-inhibitors-used-in-cancer-therapy",
       "topicName": "Targeted Inhibitors Used in Cancer Therapy",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl45-011",
@@ -3366,7 +3422,8 @@
       ],
       "topicId": "targeted-inhibitors-used-in-cancer-therapy",
       "topicName": "Targeted Inhibitors Used in Cancer Therapy",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     }
   ]
 }

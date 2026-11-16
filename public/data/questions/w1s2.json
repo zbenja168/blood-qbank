@@ -47,7 +47,8 @@
       ],
       "topicId": "iron-deficiency-anemia",
       "topicName": "Iron-Deficiency Anemia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl05-002",
@@ -94,7 +95,8 @@
       ],
       "topicId": "iron-deficiency-anemia",
       "topicName": "Iron-Deficiency Anemia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl05-003",
@@ -141,7 +143,8 @@
       ],
       "topicId": "iron-deficiency-anemia",
       "topicName": "Iron-Deficiency Anemia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl05-004",
@@ -188,7 +191,8 @@
       ],
       "topicId": "iron-deficiency-anemia",
       "topicName": "Iron-Deficiency Anemia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl05-005",
@@ -282,7 +286,8 @@
       ],
       "topicId": "iron-deficiency-anemia",
       "topicName": "Iron-Deficiency Anemia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl05-007",
@@ -329,7 +334,8 @@
       ],
       "topicId": "iron-deficiency-anemia",
       "topicName": "Iron-Deficiency Anemia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl05-008",
@@ -376,7 +382,8 @@
       ],
       "topicId": "iron-deficiency-anemia",
       "topicName": "Iron-Deficiency Anemia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl05-009",
@@ -423,7 +430,8 @@
       ],
       "topicId": "iron-deficiency-anemia",
       "topicName": "Iron-Deficiency Anemia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl05-010",
@@ -517,7 +525,8 @@
       ],
       "topicId": "iron-deficiency-anemia",
       "topicName": "Iron-Deficiency Anemia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl05-012",
@@ -564,7 +573,8 @@
       ],
       "topicId": "iron-deficiency-anemia",
       "topicName": "Iron-Deficiency Anemia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl06-001",
@@ -611,7 +621,8 @@
       ],
       "topicId": "thalassemias",
       "topicName": "Thalassemias",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl06-002",
@@ -658,7 +669,8 @@
       ],
       "topicId": "thalassemias",
       "topicName": "Thalassemias",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl06-003",
@@ -705,7 +717,8 @@
       ],
       "topicId": "thalassemias",
       "topicName": "Thalassemias",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl06-004",
@@ -752,7 +765,8 @@
       ],
       "topicId": "thalassemias",
       "topicName": "Thalassemias",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl06-005",
@@ -799,7 +813,8 @@
       ],
       "topicId": "thalassemias",
       "topicName": "Thalassemias",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl06-006",
@@ -846,7 +861,8 @@
       ],
       "topicId": "thalassemias",
       "topicName": "Thalassemias",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl06-007",
@@ -893,7 +909,8 @@
       ],
       "topicId": "thalassemias",
       "topicName": "Thalassemias",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl06-008",
@@ -987,7 +1004,8 @@
       ],
       "topicId": "thalassemias",
       "topicName": "Thalassemias",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl06-010",
@@ -1081,7 +1099,8 @@
       ],
       "topicId": "thalassemias",
       "topicName": "Thalassemias",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl06-012",
@@ -1175,7 +1194,8 @@
       ],
       "topicId": "anemia-of-chronic-disease-inflammation",
       "topicName": "Anemia of Chronic Disease/Inflammation",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl07-002",
@@ -1222,7 +1242,8 @@
       ],
       "topicId": "anemia-of-chronic-disease-inflammation",
       "topicName": "Anemia of Chronic Disease/Inflammation",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl07-003",
@@ -1269,7 +1290,8 @@
       ],
       "topicId": "anemia-of-chronic-disease-inflammation",
       "topicName": "Anemia of Chronic Disease/Inflammation",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl07-004",
@@ -1316,7 +1338,8 @@
       ],
       "topicId": "anemia-of-chronic-disease-inflammation",
       "topicName": "Anemia of Chronic Disease/Inflammation",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl07-005",
@@ -1363,7 +1386,8 @@
       ],
       "topicId": "anemia-of-chronic-disease-inflammation",
       "topicName": "Anemia of Chronic Disease/Inflammation",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl07-006",
@@ -1410,7 +1434,8 @@
       ],
       "topicId": "anemia-of-chronic-disease-inflammation",
       "topicName": "Anemia of Chronic Disease/Inflammation",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl07-007",
@@ -1457,7 +1482,8 @@
       ],
       "topicId": "anemia-of-chronic-disease-inflammation",
       "topicName": "Anemia of Chronic Disease/Inflammation",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl07-008",
@@ -1551,7 +1577,8 @@
       ],
       "topicId": "anemia-of-chronic-disease-inflammation",
       "topicName": "Anemia of Chronic Disease/Inflammation",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl07-010",
@@ -1598,7 +1625,8 @@
       ],
       "topicId": "anemia-of-chronic-disease-inflammation",
       "topicName": "Anemia of Chronic Disease/Inflammation",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl07-011",
@@ -1692,7 +1720,8 @@
       ],
       "topicId": "anemia-of-chronic-disease-inflammation",
       "topicName": "Anemia of Chronic Disease/Inflammation",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl08-001",
@@ -1739,7 +1768,8 @@
       ],
       "topicId": "sideroblastic-anemia",
       "topicName": "Sideroblastic Anemia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl08-002",
@@ -1786,7 +1816,8 @@
       ],
       "topicId": "sideroblastic-anemia",
       "topicName": "Sideroblastic Anemia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl08-003",
@@ -1834,7 +1865,8 @@
       ],
       "topicId": "sideroblastic-anemia",
       "topicName": "Sideroblastic Anemia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl08-004",
@@ -1882,7 +1914,8 @@
       ],
       "topicId": "sideroblastic-anemia",
       "topicName": "Sideroblastic Anemia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl08-005",
@@ -1930,7 +1963,8 @@
       ],
       "topicId": "sideroblastic-anemia",
       "topicName": "Sideroblastic Anemia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl08-006",
@@ -2025,7 +2059,8 @@
       ],
       "topicId": "sideroblastic-anemia",
       "topicName": "Sideroblastic Anemia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl08-008",
@@ -2072,7 +2107,8 @@
       ],
       "topicId": "sideroblastic-anemia",
       "topicName": "Sideroblastic Anemia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl08-009",
@@ -2119,7 +2155,8 @@
       ],
       "topicId": "sideroblastic-anemia",
       "topicName": "Sideroblastic Anemia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl08-010",
@@ -2215,7 +2252,8 @@
       ],
       "topicId": "sideroblastic-anemia",
       "topicName": "Sideroblastic Anemia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl08-012",

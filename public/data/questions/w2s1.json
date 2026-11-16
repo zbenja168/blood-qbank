@@ -48,7 +48,8 @@
       ],
       "topicId": "coagulation-assays",
       "topicName": "Coagulation Assays",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl16-002",
@@ -96,7 +97,8 @@
       ],
       "topicId": "coagulation-assays",
       "topicName": "Coagulation Assays",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl16-003",
@@ -144,7 +146,8 @@
       ],
       "topicId": "coagulation-assays",
       "topicName": "Coagulation Assays",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl16-004",
@@ -192,7 +195,8 @@
       ],
       "topicId": "coagulation-assays",
       "topicName": "Coagulation Assays",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl16-005",
@@ -288,7 +292,8 @@
       ],
       "topicId": "coagulation-assays",
       "topicName": "Coagulation Assays",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl16-007",
@@ -336,7 +341,8 @@
       ],
       "topicId": "coagulation-assays",
       "topicName": "Coagulation Assays",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl16-008",
@@ -385,7 +391,8 @@
       ],
       "topicId": "coagulation-assays",
       "topicName": "Coagulation Assays",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl16-009",
@@ -433,7 +440,8 @@
       ],
       "topicId": "coagulation-assays",
       "topicName": "Coagulation Assays",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl16-010",
@@ -623,7 +631,8 @@
       ],
       "topicId": "hemostasis",
       "topicName": "Hemostasis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl17-002",
@@ -670,7 +679,8 @@
       ],
       "topicId": "hemostasis",
       "topicName": "Hemostasis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl17-003",
@@ -717,7 +727,8 @@
       ],
       "topicId": "hemostasis",
       "topicName": "Hemostasis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl17-004",
@@ -765,7 +776,8 @@
       ],
       "topicId": "hemostasis",
       "topicName": "Hemostasis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl17-005",
@@ -812,7 +824,8 @@
       ],
       "topicId": "hemostasis",
       "topicName": "Hemostasis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl17-006",
@@ -859,7 +872,8 @@
       ],
       "topicId": "hemostasis",
       "topicName": "Hemostasis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl17-007",
@@ -906,7 +920,8 @@
       ],
       "topicId": "hemostasis",
       "topicName": "Hemostasis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl17-008",
@@ -1000,7 +1015,8 @@
       ],
       "topicId": "hemostasis",
       "topicName": "Hemostasis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl17-010",
@@ -1191,7 +1207,8 @@
       ],
       "topicId": "transfusion-medicine",
       "topicName": "Transfusion Medicine",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl18-002",
@@ -1238,7 +1255,8 @@
       ],
       "topicId": "transfusion-medicine",
       "topicName": "Transfusion Medicine",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl18-003",
@@ -1332,7 +1350,8 @@
       ],
       "topicId": "transfusion-medicine",
       "topicName": "Transfusion Medicine",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl18-005",
@@ -1379,7 +1398,8 @@
       ],
       "topicId": "transfusion-medicine",
       "topicName": "Transfusion Medicine",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl18-006",
@@ -1426,7 +1446,8 @@
       ],
       "topicId": "transfusion-medicine",
       "topicName": "Transfusion Medicine",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl18-007",
@@ -1472,7 +1493,8 @@
       ],
       "topicId": "transfusion-medicine",
       "topicName": "Transfusion Medicine",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl18-008",
@@ -1519,7 +1541,8 @@
       ],
       "topicId": "transfusion-medicine",
       "topicName": "Transfusion Medicine",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl18-009",
@@ -1613,7 +1636,8 @@
       ],
       "topicId": "transfusion-medicine",
       "topicName": "Transfusion Medicine",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl18-011",
@@ -1660,7 +1684,8 @@
       ],
       "topicId": "transfusion-medicine",
       "topicName": "Transfusion Medicine",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl18-012",
@@ -1707,7 +1732,8 @@
       ],
       "topicId": "transfusion-medicine",
       "topicName": "Transfusion Medicine",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     }
   ]
 }

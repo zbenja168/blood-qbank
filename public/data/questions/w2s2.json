@@ -47,7 +47,8 @@
       ],
       "topicId": "hemophilia",
       "topicName": "Hemophilia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl19-002",
@@ -188,7 +189,8 @@
       ],
       "topicId": "hemophilia",
       "topicName": "Hemophilia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl19-005",
@@ -282,7 +284,8 @@
       ],
       "topicId": "hemophilia",
       "topicName": "Hemophilia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl19-007",
@@ -329,7 +332,8 @@
       ],
       "topicId": "hemophilia",
       "topicName": "Hemophilia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl19-008",
@@ -376,7 +380,8 @@
       ],
       "topicId": "hemophilia",
       "topicName": "Hemophilia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl19-009",
@@ -423,7 +428,8 @@
       ],
       "topicId": "hemophilia",
       "topicName": "Hemophilia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl19-010",
@@ -470,7 +476,8 @@
       ],
       "topicId": "hemophilia",
       "topicName": "Hemophilia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl19-011",
@@ -517,7 +524,8 @@
       ],
       "topicId": "hemophilia",
       "topicName": "Hemophilia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl19-012",
@@ -564,7 +572,8 @@
       ],
       "topicId": "hemophilia",
       "topicName": "Hemophilia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl20-001",
@@ -611,7 +620,8 @@
       ],
       "topicId": "von-willebrand-disease",
       "topicName": "von Willebrand Disease",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl20-002",
@@ -658,7 +668,8 @@
       ],
       "topicId": "von-willebrand-disease",
       "topicName": "von Willebrand Disease",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl20-003",
@@ -705,7 +716,8 @@
       ],
       "topicId": "von-willebrand-disease",
       "topicName": "von Willebrand Disease",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl20-004",
@@ -752,7 +764,8 @@
       ],
       "topicId": "von-willebrand-disease",
       "topicName": "von Willebrand Disease",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl20-005",
@@ -846,7 +859,8 @@
       ],
       "topicId": "von-willebrand-disease",
       "topicName": "von Willebrand Disease",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl20-007",
@@ -893,7 +907,8 @@
       ],
       "topicId": "von-willebrand-disease",
       "topicName": "von Willebrand Disease",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl20-008",
@@ -940,7 +955,8 @@
       ],
       "topicId": "von-willebrand-disease",
       "topicName": "von Willebrand Disease",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl20-009",
@@ -1034,7 +1050,8 @@
       ],
       "topicId": "von-willebrand-disease",
       "topicName": "von Willebrand Disease",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl20-011",
@@ -1175,7 +1192,8 @@
       ],
       "topicId": "disseminated-intravascular-coagulation",
       "topicName": "Disseminated Intravascular Coagulation",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl21-002",
@@ -1222,7 +1240,8 @@
       ],
       "topicId": "disseminated-intravascular-coagulation",
       "topicName": "Disseminated Intravascular Coagulation",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl21-003",
@@ -1269,7 +1288,8 @@
       ],
       "topicId": "disseminated-intravascular-coagulation",
       "topicName": "Disseminated Intravascular Coagulation",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl21-004",
@@ -1316,7 +1336,8 @@
       ],
       "topicId": "disseminated-intravascular-coagulation",
       "topicName": "Disseminated Intravascular Coagulation",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl21-005",
@@ -1363,7 +1384,8 @@
       ],
       "topicId": "disseminated-intravascular-coagulation",
       "topicName": "Disseminated Intravascular Coagulation",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl21-006",
@@ -1410,7 +1432,8 @@
       ],
       "topicId": "disseminated-intravascular-coagulation",
       "topicName": "Disseminated Intravascular Coagulation",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl21-007",
@@ -1457,7 +1480,8 @@
       ],
       "topicId": "disseminated-intravascular-coagulation",
       "topicName": "Disseminated Intravascular Coagulation",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl21-008",
@@ -1551,7 +1575,8 @@
       ],
       "topicId": "disseminated-intravascular-coagulation",
       "topicName": "Disseminated Intravascular Coagulation",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl21-010",
@@ -1598,7 +1623,8 @@
       ],
       "topicId": "disseminated-intravascular-coagulation",
       "topicName": "Disseminated Intravascular Coagulation",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl21-011",
@@ -1692,7 +1718,8 @@
       ],
       "topicId": "disseminated-intravascular-coagulation",
       "topicName": "Disseminated Intravascular Coagulation",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl22-001",
@@ -1739,7 +1766,8 @@
       ],
       "topicId": "antiphospholipid-antibody-syndrome",
       "topicName": "Antiphospholipid Antibody Syndrome",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl22-002",
@@ -1786,7 +1814,8 @@
       ],
       "topicId": "antiphospholipid-antibody-syndrome",
       "topicName": "Antiphospholipid Antibody Syndrome",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl22-003",
@@ -1833,7 +1862,8 @@
       ],
       "topicId": "antiphospholipid-antibody-syndrome",
       "topicName": "Antiphospholipid Antibody Syndrome",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl22-004",
@@ -1880,7 +1910,8 @@
       ],
       "topicId": "antiphospholipid-antibody-syndrome",
       "topicName": "Antiphospholipid Antibody Syndrome",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl22-005",
@@ -1927,7 +1958,8 @@
       ],
       "topicId": "antiphospholipid-antibody-syndrome",
       "topicName": "Antiphospholipid Antibody Syndrome",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl22-006",
@@ -1974,7 +2006,8 @@
       ],
       "topicId": "antiphospholipid-antibody-syndrome",
       "topicName": "Antiphospholipid Antibody Syndrome",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl22-007",
@@ -2021,7 +2054,8 @@
       ],
       "topicId": "antiphospholipid-antibody-syndrome",
       "topicName": "Antiphospholipid Antibody Syndrome",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl22-008",
@@ -2068,7 +2102,8 @@
       ],
       "topicId": "antiphospholipid-antibody-syndrome",
       "topicName": "Antiphospholipid Antibody Syndrome",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl22-009",
@@ -2115,7 +2150,8 @@
       ],
       "topicId": "antiphospholipid-antibody-syndrome",
       "topicName": "Antiphospholipid Antibody Syndrome",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl22-010",
@@ -2303,7 +2339,8 @@
       ],
       "topicId": "genetic-thrombotic-disorders",
       "topicName": "Genetic Thrombotic Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl23-002",
@@ -2350,7 +2387,8 @@
       ],
       "topicId": "genetic-thrombotic-disorders",
       "topicName": "Genetic Thrombotic Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl23-003",
@@ -2397,7 +2435,8 @@
       ],
       "topicId": "genetic-thrombotic-disorders",
       "topicName": "Genetic Thrombotic Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl23-004",
@@ -2444,7 +2483,8 @@
       ],
       "topicId": "genetic-thrombotic-disorders",
       "topicName": "Genetic Thrombotic Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl23-005",
@@ -2492,7 +2532,8 @@
       ],
       "topicId": "genetic-thrombotic-disorders",
       "topicName": "Genetic Thrombotic Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl23-006",
@@ -2539,7 +2580,8 @@
       ],
       "topicId": "genetic-thrombotic-disorders",
       "topicName": "Genetic Thrombotic Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl23-007",
@@ -2586,7 +2628,8 @@
       ],
       "topicId": "genetic-thrombotic-disorders",
       "topicName": "Genetic Thrombotic Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl23-008",
@@ -2727,7 +2770,8 @@
       ],
       "topicId": "genetic-thrombotic-disorders",
       "topicName": "Genetic Thrombotic Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl23-011",
@@ -2867,7 +2911,8 @@
       ],
       "topicId": "thrombotic-disorders-foundations-and-frameworks",
       "topicName": "Thrombotic Disorders: Foundations and Frameworks",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl24-002",
@@ -3005,7 +3050,8 @@
       ],
       "topicId": "thrombotic-disorders-foundations-and-frameworks",
       "topicName": "Thrombotic Disorders: Foundations and Frameworks",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl24-005",
@@ -3051,7 +3097,8 @@
       ],
       "topicId": "thrombotic-disorders-foundations-and-frameworks",
       "topicName": "Thrombotic Disorders: Foundations and Frameworks",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl24-006",
@@ -3098,7 +3145,8 @@
       ],
       "topicId": "thrombotic-disorders-foundations-and-frameworks",
       "topicName": "Thrombotic Disorders: Foundations and Frameworks",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl24-007",
@@ -3145,7 +3193,8 @@
       ],
       "topicId": "thrombotic-disorders-foundations-and-frameworks",
       "topicName": "Thrombotic Disorders: Foundations and Frameworks",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl24-008",
@@ -3192,7 +3241,8 @@
       ],
       "topicId": "thrombotic-disorders-foundations-and-frameworks",
       "topicName": "Thrombotic Disorders: Foundations and Frameworks",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl24-009",
@@ -3239,7 +3289,8 @@
       ],
       "topicId": "thrombotic-disorders-foundations-and-frameworks",
       "topicName": "Thrombotic Disorders: Foundations and Frameworks",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl24-010",
@@ -3286,7 +3337,8 @@
       ],
       "topicId": "thrombotic-disorders-foundations-and-frameworks",
       "topicName": "Thrombotic Disorders: Foundations and Frameworks",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl24-011",
@@ -3333,7 +3385,8 @@
       ],
       "topicId": "thrombotic-disorders-foundations-and-frameworks",
       "topicName": "Thrombotic Disorders: Foundations and Frameworks",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bl24-012",
@@ -3380,7 +3433,8 @@
       ],
       "topicId": "thrombotic-disorders-foundations-and-frameworks",
       "topicName": "Thrombotic Disorders: Foundations and Frameworks",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     }
   ]
 }
