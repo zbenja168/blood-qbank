@@ -577,6 +577,100 @@
       "hy": true
     },
     {
+      "id": "blpic-129",
+      "topicId": "iron-deficiency-anemia",
+      "topicName": "Iron-Deficiency Anemia",
+      "stem": "This peripheral blood smear is from a patient with chronic fatigue. Which single laboratory value is most specific for the cause of the red cell morphology shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Elevated reticulocyte count"
+        },
+        {
+          "label": "B",
+          "text": "Elevated serum ferritin"
+        },
+        {
+          "label": "C",
+          "text": "Elevated serum vitamin B12"
+        },
+        {
+          "label": "D",
+          "text": "Low serum ferritin"
+        },
+        {
+          "label": "E",
+          "text": "Low total iron-binding capacity"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The smear shows hypochromic, microcytic red cells with anisocytosis, characteristic of iron-deficiency anemia. Low serum ferritin most specifically reflects depleted iron stores; ferritin rises with inflammation, TIBC is high (not low) in iron deficiency, and the reticulocyte count is decreased.",
+        "whyCorrect": "The smear shows hypochromic, microcytic red cells with anisocytosis, characteristic of iron-deficiency anemia. Low serum ferritin most specifically reflects depleted iron stores; ferritin rises with inflammation, TIBC is high (not low) in iron deficiency, and the reticulocyte count is decreased.",
+        "whyWrongByChoice": {
+          "A": "Reticulocyte count is low in iron deficiency because the marrow lacks iron to make red cells, and it is not specific for any deficiency.",
+          "B": "Ferritin falls in iron deficiency; an elevated ferritin indicates replete or excess stores or inflammation, as in anemia of chronic disease.",
+          "C": "B12 deficiency causes macrocytic, megaloblastic anemia with hypersegmented neutrophils, not hypochromic microcytes; an elevated B12 is irrelevant here.",
+          "E": "TIBC rises in iron deficiency as the liver makes more transferrin; a low TIBC suggests anemia of chronic disease or iron overload."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "blpic-129_bl054_f02.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "blood-picqbank"
+    },
+    {
+      "id": "blpic-130",
+      "topicId": "iron-deficiency-anemia",
+      "topicName": "Iron-Deficiency Anemia",
+      "stem": "This chronic fingernail change is a long-standing manifestation of which nutritional deficiency?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Folate deficiency"
+        },
+        {
+          "label": "B",
+          "text": "Iron deficiency"
+        },
+        {
+          "label": "C",
+          "text": "Vitamin B12 deficiency"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin C deficiency"
+        },
+        {
+          "label": "E",
+          "text": "Zinc deficiency"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The finding is koilonychia (spoon nails), a classic chronic sign of iron-deficiency anemia. It is not a typical feature of B12, folate, vitamin C, or zinc deficiency.",
+        "whyCorrect": "The finding is koilonychia (spoon nails), a classic chronic sign of iron-deficiency anemia. It is not a typical feature of B12, folate, vitamin C, or zinc deficiency.",
+        "whyWrongByChoice": {
+          "A": "Folate deficiency causes megaloblastic anemia and glossitis without neurologic signs, but not spoon nails.",
+          "C": "B12 deficiency causes megaloblastic anemia and neurologic deficits (subacute combined degeneration); koilonychia is not a characteristic finding.",
+          "D": "Scurvy causes perifollicular hemorrhages, corkscrew hairs, and bleeding gums, not spoon-shaped nails.",
+          "E": "Zinc deficiency causes periorificial and acral dermatitis, alopecia, and impaired wound healing and taste, not koilonychia."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "blpic-130_bl054_f04.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "blood-picqbank"
+    },
+    {
       "id": "bl06-001",
       "stem": "A 34-year-old woman is found to have a hemoglobin of 11.2 g/dL and a mean corpuscular volume of 68 fL on routine testing. She is asymptomatic. Her red blood cell count is elevated, her red cell distribution width is normal, and her serum ferritin is normal. Which of the following findings most reliably distinguishes her condition from iron-deficiency anemia?",
       "choices": [

@@ -1163,6 +1163,100 @@
       "tier": "core"
     },
     {
+      "id": "blpic-007",
+      "topicId": "thrombocytopenia",
+      "topicName": "Thrombocytopenia",
+      "stem": "What is the normal function of the two large cells in the center of this bone marrow aspirate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They differentiate into mature red blood cells"
+        },
+        {
+          "label": "B",
+          "text": "They fragment to release platelets into the bloodstream"
+        },
+        {
+          "label": "C",
+          "text": "They phagocytose senescent erythrocytes"
+        },
+        {
+          "label": "D",
+          "text": "They produce antibodies against foreign antigens"
+        },
+        {
+          "label": "E",
+          "text": "They synthesize and secrete clotting factors"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The large cells are megakaryocytes. Platelets are produced when megakaryocytes in the bone marrow break down, releasing platelets into the blood stream; reduced megakaryocyte activity leads to decreased platelet production.",
+        "whyCorrect": "The large cells are megakaryocytes. Platelets are produced when megakaryocytes in the bone marrow break down, releasing platelets into the blood stream; reduced megakaryocyte activity leads to decreased platelet production.",
+        "whyWrongByChoice": {
+          "A": "Red cells come from erythroid precursors (proerythroblasts to normoblasts), which are smaller cells with round nuclei.",
+          "C": "Senescent erythrocytes are removed by macrophages in the spleen and liver, not by the large platelet-producing cells shown.",
+          "D": "Antibody production is the job of plasma cells, which have an eccentric round nucleus and perinuclear clearing, not multilobed nuclei.",
+          "E": "Most clotting factors are synthesized by hepatocytes, and von Willebrand factor and factor VIII mainly by endothelium, not by marrow megakaryocytes."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "blpic-007_bl017_f02.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "blood-picqbank"
+    },
+    {
+      "id": "blpic-038",
+      "topicId": "thrombocytopenia",
+      "topicName": "Thrombocytopenia",
+      "stem": "What artifact does the finding on this peripheral blood smear most likely produce on an automated complete blood count?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A falsely decreased hemoglobin"
+        },
+        {
+          "label": "B",
+          "text": "A falsely decreased platelet count"
+        },
+        {
+          "label": "C",
+          "text": "A falsely elevated mean corpuscular volume"
+        },
+        {
+          "label": "D",
+          "text": "A falsely elevated platelet count"
+        },
+        {
+          "label": "E",
+          "text": "A falsely elevated white blood cell count"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Platelet clumping (agglutination) causes automated analyzers to undercount platelets, producing pseudothrombocytopenia. Redrawing in a citrate tube gives an accurate count; this must be excluded before working up true thrombocytopenia.",
+        "whyCorrect": "Platelet clumping (agglutination) causes automated analyzers to undercount platelets, producing pseudothrombocytopenia. Redrawing in a citrate tube gives an accurate count; this must be excluded before working up true thrombocytopenia.",
+        "whyWrongByChoice": {
+          "A": "Hemoglobin is measured chemically after lysing the red cells, so platelet clumping does not lower it.",
+          "C": "Platelet clumps do not affect the measured size of red cells; MCV is spuriously raised by cold agglutinins or marked hyperglycemia, not platelet aggregates.",
+          "D": "Clumped platelets are too large to be counted as individual platelets, so the analyzer undercounts rather than overcounts them.",
+          "E": "Very large clumps can occasionally be miscounted as leukocytes, but the characteristic and clinically important artifact is a falsely low platelet count."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "blpic-038_bl017_f03.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "blood-picqbank"
+    },
+    {
       "id": "bl27-001",
       "stem": "A 30-year-old woman is diagnosed with immune thrombocytopenia (ITP). Her antiplatelet antibodies have bound to glycoproteins on the surface of her platelets. Which of the following best explains how these antibody-coated platelets are removed from the circulation?",
       "choices": [
@@ -2306,6 +2400,100 @@
       "hy": true
     },
     {
+      "id": "blpic-008",
+      "topicId": "platelet-assays",
+      "topicName": "Platelet Assays",
+      "stem": "On this peripheral blood smear, the red arrows mark normal platelets. What does the structure at the blue arrow most likely represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Giant platelets"
+        },
+        {
+          "label": "B",
+          "text": "Howell-Jolly bodies"
+        },
+        {
+          "label": "C",
+          "text": "Schistocytes"
+        },
+        {
+          "label": "D",
+          "text": "Spherocytes"
+        },
+        {
+          "label": "E",
+          "text": "Target cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The blue arrow marks a giant platelet, roughly the size of a red cell, next to normal-sized platelets (red arrows). Giant platelets point to hereditary macrothrombocytopenias such as Bernard-Soulier syndrome and are detected only by manual smear review.",
+        "whyCorrect": "The blue-arrowed structure is purple and granular with a frilly border, like the small platelets at the red arrows, but about the size of a red cell: a giant platelet. Automated counters may miss or misclassify these, so smear review is needed.",
+        "whyWrongByChoice": {
+          "B": "Howell-Jolly bodies are small dense purple dots inside red cells, much smaller than the free-standing structures marked.",
+          "C": "Schistocytes are pink red-cell fragments with sharp edges, not purple granular structures the size of red cells.",
+          "D": "Spherocytes are small, round, dense red cells without central pallor; they stain pink like other erythrocytes rather than purple and granular.",
+          "E": "Target cells are red cells with a central dark hemoglobin spot inside a pale ring, a bull's-eye look, not separate purple granular bodies."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "blpic-008_bl019_f01.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "blood-picqbank"
+    },
+    {
+      "id": "blpic-040",
+      "topicId": "platelet-assays",
+      "topicName": "Platelet Assays",
+      "stem": "These platelet aggregation tracings compare a patient (red) with a normal control (blue) for four agonists. Which category of disorder does the patient's pattern best suggest?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A defect in the vWF-GPIb adhesion pathway"
+        },
+        {
+          "label": "B",
+          "text": "Glanzmann thrombasthenia (GPIIb/IIIa defect)"
+        },
+        {
+          "label": "C",
+          "text": "Hemophilia A (factor VIII deficiency)"
+        },
+        {
+          "label": "D",
+          "text": "Recent aspirin ingestion"
+        },
+        {
+          "label": "E",
+          "text": "Storage pool disease"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "An isolated lack of response to ristocetin with preserved responses to ADP, adrenaline, and collagen points to a problem in the vWF-GPIb axis, seen in both von Willebrand disease (deficient/abnormal vWF) and Bernard-Soulier syndrome (deficient GPIb receptor).",
+        "whyCorrect": "An isolated lack of response to ristocetin with preserved responses to ADP, adrenaline, and collagen points to a problem in the vWF-GPIb axis, seen in both von Willebrand disease (deficient/abnormal vWF) and Bernard-Soulier syndrome (deficient GPIb receptor).",
+        "whyWrongByChoice": {
+          "B": "Glanzmann thrombasthenia abolishes aggregation to ADP, epinephrine, and collagen but preserves the ristocetin response, the reverse of this pattern.",
+          "C": "Hemophilia A is a coagulation factor deficiency; platelet aggregation studies, including the ristocetin response, are normal.",
+          "D": "Aspirin blocks thromboxane synthesis, impairing collagen and secondary-wave epinephrine and ADP aggregation, while ristocetin agglutination stays normal.",
+          "E": "Storage pool disease impairs secondary-wave aggregation to ADP, epinephrine, and collagen, with normal ristocetin agglutination."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "blpic-040_bl019_f04.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "blood-picqbank"
+    },
+    {
       "id": "bl29-001",
       "stem": "A 4-year-old girl is brought to the emergency department with several days of bloody diarrhea, vomiting, and decreased urination. Her family lives in a community where romaine lettuce was recently recalled. Her complete blood count shows anemia and thrombocytopenia, and the peripheral smear shows numerous schistocytes. Which of the following is the most likely underlying cause of her condition?",
       "choices": [
@@ -2878,6 +3066,53 @@
       "topicName": "Thrombotic Microangiopathies",
       "tier": "core",
       "hy": true
+    },
+    {
+      "id": "blpic-039",
+      "topicId": "thrombotic-microangiopathies",
+      "topicName": "Thrombotic Microangiopathies",
+      "stem": "The circled cells on this peripheral blood smear most strongly imply which underlying process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hereditary spherocytosis"
+        },
+        {
+          "label": "B",
+          "text": "Immune thrombocytopenic purpura"
+        },
+        {
+          "label": "C",
+          "text": "Iron deficiency anemia"
+        },
+        {
+          "label": "D",
+          "text": "Megaloblastic anemia from B12 deficiency"
+        },
+        {
+          "label": "E",
+          "text": "Microangiopathic hemolytic anemia"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The fragmented red cells are schistocytes, which imply microangiopathic hemolytic anemia (MAHA) such as TTP, HUS, or DIC, where red cells are sheared as they pass through microthrombi in small vessels.",
+        "whyCorrect": "The fragmented red cells are schistocytes, which imply microangiopathic hemolytic anemia (MAHA) such as TTP, HUS, or DIC, where red cells are sheared as they pass through microthrombi in small vessels.",
+        "whyWrongByChoice": {
+          "A": "Hereditary spherocytosis produces small, round, dense spherocytes from membrane loss, not irregular fragments with sharp edges.",
+          "B": "ITP destroys platelets through antibodies but leaves red cells intact; schistocytes are not a feature unless a separate process shears red cells.",
+          "C": "Iron deficiency produces small, pale (microcytic, hypochromic) red cells and pencil cells, not sheared fragments.",
+          "D": "B12 deficiency produces macro-ovalocytes and hypersegmented neutrophils; fragmentation is not its defining finding."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "blpic-039_bl017_f04.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "blood-picqbank"
     },
     {
       "id": "bl30-001",

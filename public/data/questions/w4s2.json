@@ -588,6 +588,90 @@
       "hy": true
     },
     {
+      "id": "blpic-067",
+      "topicId": "plasmodium-babesia-brucella",
+      "topicName": "Plasmodium spp., Babesia spp., and Brucella spp.",
+      "stem": "What does the intracellular form on this Giemsa-stained peripheral blood smear represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Babesia microti trophozoite"
+        },
+        {
+          "label": "B",
+          "text": "Plasmodium falciparum gametocyte"
+        },
+        {
+          "label": "C",
+          "text": "Plasmodium vivax ring form"
+        },
+        {
+          "label": "D",
+          "text": "Trypanosoma brucei trypomastigote"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Unlike the round gametocytes of other Plasmodium species, P. falciparum produces a characteristic elongated crescent- or banana-shaped gametocyte, which is diagnostically distinctive on a blood smear.",
+        "whyCorrect": "Unlike the round gametocytes of other Plasmodium species, P. falciparum produces a characteristic elongated crescent- or banana-shaped gametocyte, which is diagnostically distinctive on a blood smear.",
+        "whyWrongByChoice": {
+          "A": "Babesia forms small rings and tetrads (Maltese cross) within red cells, not banana-shaped gametocytes.",
+          "C": "P. vivax rings are small delicate rings inside enlarged red cells with Schuffner dots; vivax gametocytes are round, not crescent-shaped.",
+          "D": "Trypanosoma brucei trypomastigotes are extracellular, slender, flagellated forms in plasma, not intracellular crescents."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "blpic-067_bl051_f02.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "blood-picqbank"
+    },
+    {
+      "id": "blpic-069",
+      "topicId": "plasmodium-babesia-brucella",
+      "topicName": "Plasmodium spp., Babesia spp., and Brucella spp.",
+      "stem": "The intraerythrocytic organisms on this blood smear are shown beside a reference symbol. Which infection do they indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Babesiosis"
+        },
+        {
+          "label": "B",
+          "text": "Bartonellosis"
+        },
+        {
+          "label": "C",
+          "text": "Falciparum malaria"
+        },
+        {
+          "label": "D",
+          "text": "Trypanosomiasis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Babesia merozoites form a tetrad within the RBC that resembles a Maltese cross, a finding specific to babesiosis. Plasmodium does not form tetrads, and Trypanosoma and Bartonella have different smear appearances.",
+        "whyCorrect": "Babesia merozoites form a tetrad within the RBC that resembles a Maltese cross, a finding specific to babesiosis. Plasmodium does not form tetrads, and Trypanosoma and Bartonella have different smear appearances.",
+        "whyWrongByChoice": {
+          "B": "Bartonella bacilliformis appears as small rods on red cells, not as a tetrad of merozoites.",
+          "C": "Falciparum malaria shows multiple rings and banana-shaped gametocytes but never a tetrad.",
+          "D": "Trypanosomes are extracellular flagellated organisms in plasma, not tetrads inside red cells."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "blpic-069_bl051_f08.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "blood-picqbank"
+    },
+    {
       "id": "bl58-001",
       "stem": "A 27-year-old man plans a 2-week humanitarian trip to rural Kenya, a region with known chloroquine-resistant Plasmodium falciparum. He tells you he would prefer a prophylactic regimen that he can stop as soon as possible after returning home. Which of the following is the most appropriate chemoprophylaxis?",
       "choices": [
@@ -2309,6 +2393,100 @@
       "topicName": "Arboviruses",
       "tier": "core",
       "hy": true
+    },
+    {
+      "id": "blpic-025",
+      "topicId": "arboviruses",
+      "topicName": "Arboviruses",
+      "stem": "This liver biopsy is from a fatal case of yellow fever. What cellular process do the structures at the arrows represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Apoptosis of individual hepatocytes"
+        },
+        {
+          "label": "B",
+          "text": "Ballooning (hydropic) degeneration"
+        },
+        {
+          "label": "C",
+          "text": "Coagulative necrosis"
+        },
+        {
+          "label": "D",
+          "text": "Macrovesicular steatosis"
+        },
+        {
+          "label": "E",
+          "text": "Mitotic regeneration"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The arrowed structures are Councilman (acidophil) bodies, hepatocytes dying by apoptosis. They shrink, become deeply eosinophilic, and lose their nucleus, distinguishing them from swollen or fat-laden cells.",
+        "whyCorrect": "The arrowed structures are Councilman (acidophil) bodies, hepatocytes dying by apoptosis. They shrink, become deeply eosinophilic, and lose their nucleus, distinguishing them from swollen or fat-laden cells.",
+        "whyWrongByChoice": {
+          "B": "Ballooning degeneration makes hepatocytes swollen and pale with cleared cytoplasm, the opposite of shrunken eosinophilic cells.",
+          "C": "Coagulative necrosis affects sheets of contiguous cells with preserved outlines, not scattered, shrunken individual eosinophilic bodies.",
+          "D": "Macrovesicular steatosis shows a large fat vacuole pushing the nucleus aside, not shrunken, dense, pink cells.",
+          "E": "Mitotic figures show condensed chromosomes in dividing cells, not shrunken eosinophilic bodies with absent or pyknotic nuclei."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "blpic-025_bl055_f04.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "blood-picqbank"
+    },
+    {
+      "id": "blpic-133",
+      "topicId": "arboviruses",
+      "topicName": "Arboviruses",
+      "stem": "The mother of this newborn had a mild febrile rash illness after mosquito bites while living in an endemic region early in pregnancy. Congenital infection with which virus best explains the findings shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chikungunya virus"
+        },
+        {
+          "label": "B",
+          "text": "Cytomegalovirus"
+        },
+        {
+          "label": "C",
+          "text": "Dengue virus"
+        },
+        {
+          "label": "D",
+          "text": "Rubella virus"
+        },
+        {
+          "label": "E",
+          "text": "Zika virus"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Congenital Zika syndrome results from vertical (transplacental) transmission and characteristically produces microcephaly with overlapping skull sutures, redundant scalp skin, ventriculomegaly, and intracranial calcifications.",
+        "whyCorrect": "Congenital Zika syndrome results from vertical (transplacental) transmission and characteristically produces microcephaly with overlapping skull sutures, redundant scalp skin, ventriculomegaly, and intracranial calcifications.",
+        "whyWrongByChoice": {
+          "A": "Chikungunya causes fever and severe arthralgia; vertical transmission can cause neonatal encephalopathy but not congenital microcephaly with collapsed skull.",
+          "B": "Congenital CMV can cause microcephaly with periventricular calcifications, but severe skull collapse with redundant scalp folds is characteristic of congenital Zika syndrome.",
+          "C": "Dengue is not a recognized cause of congenital microcephaly syndrome.",
+          "D": "Congenital rubella classically causes cataracts, sensorineural deafness, and PDA, with a blueberry muffin rash, not the collapsed skull pattern shown."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "blpic-133_bl055_f07.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "blood-picqbank"
     }
   ]
 }

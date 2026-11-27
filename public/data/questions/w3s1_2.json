@@ -575,6 +575,53 @@
       "hy": true
     },
     {
+      "id": "blpic-048",
+      "topicId": "acute-lymphoblastic-leukemia-lymphoma",
+      "topicName": "Acute Lymphoblastic Leukemia/Lymphoma",
+      "stem": "The left chest radiograph is from a child with newly diagnosed acute lymphoblastic leukemia; the right is a normal film for comparison. What abnormality does the arrow indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anterior mediastinal mass"
+        },
+        {
+          "label": "B",
+          "text": "Cardiomegaly"
+        },
+        {
+          "label": "C",
+          "text": "Large pleural effusion"
+        },
+        {
+          "label": "D",
+          "text": "Lobar pneumonia"
+        },
+        {
+          "label": "E",
+          "text": "Tension pneumothorax"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "T-cell ALL commonly presents with an anterior mediastinal mass from lymphadenopathy, seen here as widening/opacity absent on the normal comparison film.",
+        "whyCorrect": "T-cell ALL commonly presents with an anterior mediastinal mass from lymphadenopathy, seen here as widening/opacity absent on the normal comparison film.",
+        "whyWrongByChoice": {
+          "B": "Cardiomegaly enlarges the cardiac silhouette below, whereas T-ALL characteristically widens the upper anterior mediastinum.",
+          "C": "A large pleural effusion blunts the costophrenic angle with a meniscus at the lung base, not widening of the central mediastinum.",
+          "D": "Lobar pneumonia appears as consolidation within lung parenchyma with air bronchograms, not a central mediastinal opacity.",
+          "E": "Tension pneumothorax shows a hyperlucent hemithorax without lung markings and mediastinal shift away from the affected side, not mediastinal widening."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "blpic-048_bl024_f05.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "blood-picqbank"
+    },
+    {
       "id": "bl33-001",
       "stem": "A 42-year-old woman with multiple sclerosis is hospitalized for a flare and treated with high-dose corticosteroids. She now feels well, and her temperature has been normal throughout admission with an unremarkable physical examination. Morning laboratory studies show a white blood cell count of 16,000/mm3 with 92% mature segmented neutrophils. Which of the following best explains her elevated neutrophil count?",
       "choices": [
@@ -1145,6 +1192,53 @@
       "topicId": "benign-leukocytosis",
       "topicName": "Benign Leukocytosis",
       "tier": "core"
+    },
+    {
+      "id": "blpic-095",
+      "topicId": "benign-leukocytosis",
+      "topicName": "Benign Leukocytosis",
+      "stem": "The lymphocytes on this peripheral blood smear are most characteristic of which category of illness?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Allergic drug reaction"
+        },
+        {
+          "label": "B",
+          "text": "Bacterial pneumonia"
+        },
+        {
+          "label": "C",
+          "text": "Chronic myeloid leukemia"
+        },
+        {
+          "label": "D",
+          "text": "Iron deficiency anemia"
+        },
+        {
+          "label": "E",
+          "text": "Viral infection"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "These are reactive lymphocytes, larger than normal with voluminous, deeply basophilic cytoplasm. They are classically produced by viral infections, especially infectious mononucleosis (EBV).",
+        "whyCorrect": "These are reactive lymphocytes, larger than normal with voluminous, deeply basophilic cytoplasm. They are classically produced by viral infections, especially infectious mononucleosis (EBV).",
+        "whyWrongByChoice": {
+          "A": "Allergic drug reactions classically cause eosinophilia; reactive lymphocytes are not the typical finding.",
+          "B": "Bacterial pneumonia usually causes neutrophilia with left shift and toxic changes, not reactive lymphocytes.",
+          "C": "CML shows increased granulocytes at all stages of maturation and basophilia, not reactive lymphocytes molding around red cells.",
+          "D": "Iron deficiency anemia affects red cells (microcytosis, hypochromia) and does not produce reactive lymphocytes."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "blpic-095_bl025_f09.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "blood-picqbank"
     },
     {
       "id": "bl34-001",
@@ -1721,6 +1815,53 @@
       "tier": "core"
     },
     {
+      "id": "blpic-049",
+      "topicId": "benign-lymphadenopathies",
+      "topicName": "Benign Lymphadenopathies",
+      "stem": "This chest radiograph is from an otherwise well young adult. Which condition is the most likely cause of the finding at the arrows?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bronchogenic carcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Histoplasmosis"
+        },
+        {
+          "label": "C",
+          "text": "Hodgkin lymphoma"
+        },
+        {
+          "label": "D",
+          "text": "Sarcoidosis"
+        },
+        {
+          "label": "E",
+          "text": "Tuberculosis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Bilateral, symmetric hilar lymphadenopathy in a young adult is the classic radiographic finding of the granulomatous disease sarcoidosis. Malignancies and infections more often cause asymmetric or unilateral adenopathy.",
+        "whyCorrect": "Bilateral, symmetric hilar lymphadenopathy in a young adult is the classic radiographic finding of the granulomatous disease sarcoidosis. Malignancies and infections more often cause asymmetric or unilateral adenopathy.",
+        "whyWrongByChoice": {
+          "A": "Bronchogenic carcinoma usually causes a lung mass with unilateral, ipsilateral hilar adenopathy, and is unusual in young adults.",
+          "B": "Histoplasmosis can cause hilar adenopathy, but it is often asymmetric with calcified granulomas and a history of bird or bat dropping exposure.",
+          "C": "Hodgkin lymphoma typically presents with an anterior mediastinal mass and often asymmetric nodes, rather than symmetric bilateral hilar enlargement alone.",
+          "E": "Primary tuberculosis tends to cause unilateral hilar adenopathy with a Ghon focus, not symmetric bilateral hilar enlargement."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "blpic-049_bl026_f01.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "blood-picqbank"
+    },
+    {
       "id": "bl35-001",
       "stem": "A 34-year-old wildlife biologist presents to the emergency department with a 2-day history of sudden high fever, chills, and a painful swelling in his right groin. He works outdoors in rural New Mexico and reports handling a dead prairie dog without gloves several days ago. On examination he appears acutely ill and has a tender, markedly enlarged inguinal lymph node. Which of the following is the most likely etiologic agent?",
       "choices": [
@@ -2293,6 +2434,147 @@
       "topicId": "y-pestis-f-tularensis-and-b-henselae",
       "topicName": "Y. pestis, F. tularensis, and B. henselae",
       "tier": "core"
+    },
+    {
+      "id": "blpic-050",
+      "topicId": "y-pestis-f-tularensis-and-b-henselae",
+      "topicName": "Y. pestis, F. tularensis, and B. henselae",
+      "stem": "This Wright-Giemsa-stained smear is from a febrile patient with a painful, swollen inguinal lymph node. What staining feature do the bacilli at the arrow display?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A refractile capsular halo"
+        },
+        {
+          "label": "B",
+          "text": "Bipolar staining"
+        },
+        {
+          "label": "C",
+          "text": "Central endospore formation"
+        },
+        {
+          "label": "D",
+          "text": "Intracytoplasmic inclusion bodies"
+        },
+        {
+          "label": "E",
+          "text": "Metachromatic volutin (polar) granules"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Y. pestis characteristically shows bipolar (dye taken up preferentially at each end) staining with stains such as Wright/Giemsa, giving a closed-safety-pin appearance useful in identification.",
+        "whyCorrect": "Y. pestis characteristically shows bipolar (dye taken up preferentially at each end) staining with stains such as Wright/Giemsa, giving a closed-safety-pin appearance useful in identification.",
+        "whyWrongByChoice": {
+          "A": "A capsular halo appears as a clear zone around the organism on negative staining, not as dense dye at both poles.",
+          "C": "Central endospores create an unstained gap in rods such as Clostridium or Bacillus, but Yersinia pestis does not form spores.",
+          "D": "Intracytoplasmic inclusion bodies are features of viruses or chlamydia within host cells, not of free-living bacilli.",
+          "E": "Metachromatic volutin granules are characteristic of Corynebacterium diphtheriae, which appear as club-shaped rods, not safety pins."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "blpic-050_bl027_f06.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "blood-picqbank"
+    },
+    {
+      "id": "blpic-098",
+      "topicId": "y-pestis-f-tularensis-and-b-henselae",
+      "topicName": "Y. pestis, F. tularensis, and B. henselae",
+      "stem": "A febrile patient from rural New Mexico has the axillary lesion shown, with no skin ulcer at any site. Which condition is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bacillary angiomatosis"
+        },
+        {
+          "label": "B",
+          "text": "Bubonic plague"
+        },
+        {
+          "label": "C",
+          "text": "Pneumonic plague"
+        },
+        {
+          "label": "D",
+          "text": "Septicemic plague"
+        },
+        {
+          "label": "E",
+          "text": "Ulceroglandular tularemia"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A bubo is a massively enlarged, painful regional lymph node draining the site of an infected flea bite; it defines bubonic plague, the most common (80-90%) form of Y. pestis infection.",
+        "whyCorrect": "A bubo is a massively enlarged, painful regional lymph node draining the site of an infected flea bite; it defines bubonic plague, the most common (80-90%) form of Y. pestis infection.",
+        "whyWrongByChoice": {
+          "A": "Bacillary angiomatosis is a Bartonella infection in immunocompromised hosts, producing vascular skin nodules rather than a single huge tender node.",
+          "C": "Pneumonic plague is a fulminant lung infection with bloody sputum, often spread person-to-person; it is not defined by a regional bubo.",
+          "D": "Septicemic plague is bacteremia without a prominent bubo, presenting with shock and DIC.",
+          "E": "Ulceroglandular tularemia also causes regional lymphadenopathy, but it has an ulcer at the inoculation site and is not a form of plague."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "blpic-098_bl027_f03.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "blood-picqbank"
+    },
+    {
+      "id": "blpic-103",
+      "topicId": "y-pestis-f-tularensis-and-b-henselae",
+      "topicName": "Y. pestis, F. tularensis, and B. henselae",
+      "stem": "A severely immunocompromised transplant recipient develops the skin lesions shown. A Warthin-Starry silver stain of a biopsy shows clusters of bacilli. Which condition is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bacillary angiomatosis"
+        },
+        {
+          "label": "B",
+          "text": "Cutaneous metastatic carcinoma"
+        },
+        {
+          "label": "C",
+          "text": "Disseminated candidiasis"
+        },
+        {
+          "label": "D",
+          "text": "Kaposi sarcoma"
+        },
+        {
+          "label": "E",
+          "text": "Multiple pyogenic granulomas"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Bacillary angiomatosis occurs in severely immunocompromised patients (HIV with low CD4, transplant, chemotherapy) and produces friable, bright red-purple vascular nodules; unlike the histologically similar Kaposi sarcoma, its lesions bleed easily and show neutrophilic infiltrates.",
+        "whyCorrect": "Bacillary angiomatosis occurs in severely immunocompromised patients (HIV with low CD4, transplant, chemotherapy) and produces friable, bright red-purple vascular nodules; unlike the histologically similar Kaposi sarcoma, its lesions bleed easily and show neutrophilic infiltrates.",
+        "whyWrongByChoice": {
+          "B": "Metastatic carcinoma produces firm skin nodules from tumor cells, not infection by a gram-negative bacillus.",
+          "C": "Disseminated candidiasis produces papulopustular lesions from a fungus, not friable vascular nodules from a gram-negative bacillus.",
+          "D": "Kaposi sarcoma is caused by HHV-8 and shows lymphocytic, not neutrophilic, infiltrates; it is a viral neoplasm rather than a bacterial infection.",
+          "E": "Pyogenic granulomas are usually single, rapidly growing benign lesions often after trauma, not multiple infectious nodules in immunocompromise."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "blpic-103_bl027_f12.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "blood-picqbank"
     },
     {
       "id": "bl36-001",
@@ -2868,6 +3150,100 @@
       "topicName": "Leptospirosis and Lymphatic Filariasis",
       "tier": "core",
       "hy": true
+    },
+    {
+      "id": "blpic-051",
+      "topicId": "leptospirosis-and-lymphatic-filariasis",
+      "topicName": "Leptospirosis and Lymphatic Filariasis",
+      "stem": "What organism is seen on this Giemsa-stained thick blood smear?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Borrelia recurrentis spirochete"
+        },
+        {
+          "label": "B",
+          "text": "Loa loa adult worm"
+        },
+        {
+          "label": "C",
+          "text": "Plasmodium falciparum gametocyte"
+        },
+        {
+          "label": "D",
+          "text": "Trypanosoma brucei trypomastigote"
+        },
+        {
+          "label": "E",
+          "text": "Wuchereria bancrofti microfilaria"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Microfilariae of W. bancrofti are small larval nematodes seen in thick blood smears stained with Giemsa; they circulate in the blood with nocturnal periodicity.",
+        "whyCorrect": "Microfilariae of W. bancrofti are small larval nematodes seen in thick blood smears stained with Giemsa; they circulate in the blood with nocturnal periodicity.",
+        "whyWrongByChoice": {
+          "A": "Borrelia recurrentis is a thin spirochete that is much smaller and lacks a sheath.",
+          "B": "Loa loa adults live in subcutaneous tissue and migrate across the eye; they are not seen in blood smears.",
+          "C": "P. falciparum gametocytes are banana-shaped and sit within red cells, not large free larvae.",
+          "D": "Trypanosoma brucei trypomastigotes are smaller and have an undulating membrane and flagellum, not a coiled sheathed larva."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "blpic-051_bl028_f05.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "blood-picqbank"
+    },
+    {
+      "id": "blpic-105",
+      "topicId": "leptospirosis-and-lymphatic-filariasis",
+      "topicName": "Leptospirosis and Lymphatic Filariasis",
+      "stem": "The woman shown grew up in a tropical endemic region. What is the most likely infectious cause of her leg findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Leptospira interrogans"
+        },
+        {
+          "label": "B",
+          "text": "Loa loa"
+        },
+        {
+          "label": "C",
+          "text": "Onchocerca volvulus"
+        },
+        {
+          "label": "D",
+          "text": "Schistosoma mansoni"
+        },
+        {
+          "label": "E",
+          "text": "Wuchereria bancrofti"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Advanced elephantiasis of the limb reflects irreversible lymphatic fibrosis and destruction from chronic W. bancrofti infection.",
+        "whyCorrect": "Advanced elephantiasis of the limb reflects irreversible lymphatic fibrosis and destruction from chronic W. bancrofti infection.",
+        "whyWrongByChoice": {
+          "A": "Leptospira causes an acute febrile illness with conjunctival suffusion and possibly Weil disease, not chronic lymphatic obstruction.",
+          "B": "Loa loa causes transient Calabar swellings and eye-worm migration, not chronic elephantiasis.",
+          "C": "Onchocerca volvulus causes river blindness and itchy dermatitis, not massive lymphatic leg swelling.",
+          "D": "Schistosoma mansoni causes hepatic periportal fibrosis and portal hypertension, not lymphatic obstruction of the leg."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "blpic-105_bl028_f08.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "blood-picqbank"
     },
     {
       "id": "bl37-001",

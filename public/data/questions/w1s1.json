@@ -1157,6 +1157,53 @@
       "hy": true
     },
     {
+      "id": "blpic-043",
+      "topicId": "rbc-metabolism",
+      "topicName": "RBC Metabolism",
+      "stem": "In this photograph, the blood sample on the right, drawn from a patient, appears distinctly darker and brown compared with the normal sample on the left. Which condition most likely accounts for this appearance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Carbon monoxide poisoning"
+        },
+        {
+          "label": "B",
+          "text": "Iron-deficiency anemia"
+        },
+        {
+          "label": "C",
+          "text": "Methemoglobinemia"
+        },
+        {
+          "label": "D",
+          "text": "Polycythemia vera"
+        },
+        {
+          "label": "E",
+          "text": "Sickle cell disease"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Methemoglobin contains ferric (Fe3+) iron that cannot bind oxygen and imparts a characteristic chocolate-brown color to blood. This hallmark discoloration can be visible with methemoglobin levels as low as ~15% and is unresponsive to supplemental oxygen.",
+        "whyCorrect": "Methemoglobin contains ferric (Fe3+) iron that cannot bind oxygen and imparts a characteristic chocolate-brown color to blood. This hallmark discoloration can be visible with methemoglobin levels as low as ~15% and is unresponsive to supplemental oxygen.",
+        "whyWrongByChoice": {
+          "A": "Carboxyhemoglobin gives blood a bright cherry-red color, not the dark chocolate-brown seen in the patient sample.",
+          "B": "Iron-deficiency anemia lowers hemoglobin content and yields paler, thinner-appearing blood rather than a chocolate-brown discoloration.",
+          "D": "Polycythemia vera increases red cell mass and viscosity, making blood thick and dark red, but the hemoglobin itself is normal and not brown.",
+          "E": "Sickle cell disease does not change the color of a blood sample; its HbS carries oxygen as normal heme iron and the defect is polymerization on deoxygenation."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "blpic-043_bl021_f03.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "blood-picqbank"
+    },
+    {
       "id": "bl03-001",
       "stem": "A 38-year-old woman presents with 3 months of fatigue and heavy menstrual bleeding. Her hemoglobin is 9.8 g/dL and serum ferritin is low, consistent with iron-deficiency anemia. Which additional red blood cell index finding is most likely on her complete blood count?",
       "choices": [

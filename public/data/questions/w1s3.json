@@ -573,6 +573,53 @@
       "hy": true
     },
     {
+      "id": "blpic-075",
+      "topicId": "aplastic-anemia",
+      "topicName": "Aplastic Anemia",
+      "stem": "A 3-year-old with pancytopenia has the skin and hand findings shown. Which condition is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acquired aplastic anemia"
+        },
+        {
+          "label": "B",
+          "text": "Beta-thalassemia major"
+        },
+        {
+          "label": "C",
+          "text": "Diamond-Blackfan syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Fanconi anemia"
+        },
+        {
+          "label": "E",
+          "text": "Immune thrombocytopenic purpura"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Cafe-au-lait spots with skin hypopigmentation, short stature, and radial/thumb anomalies accompanying progressive pancytopenia are classic for Fanconi anemia, an autosomal recessive DNA-repair defect that causes inherited bone marrow failure.",
+        "whyCorrect": "Cafe-au-lait spots with skin hypopigmentation, short stature, and radial/thumb anomalies accompanying progressive pancytopenia are classic for Fanconi anemia, an autosomal recessive DNA-repair defect that causes inherited bone marrow failure.",
+        "whyWrongByChoice": {
+          "A": "Acquired aplastic anemia also causes pancytopenia, but it lacks congenital anomalies such as cafe-au-lait spots and malformed thumbs.",
+          "B": "Beta-thalassemia major causes severe microcytic anemia with marrow expansion; it does not produce pancytopenia, cafe-au-lait spots, or thumb malformations.",
+          "C": "Diamond-Blackfan anemia is pure red cell aplasia with thumb anomalies; it spares platelets and white cells, so it does not cause pancytopenia.",
+          "E": "ITP causes isolated thrombocytopenia from antiplatelet antibodies, without anemia, leukopenia, or skeletal anomalies."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "blpic-075_bl000_f02.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "blood-picqbank"
+    },
+    {
       "id": "bl11-001",
       "stem": "A 24-year-old man of northern European descent presents with intermittent jaundice, fatigue, and left upper quadrant discomfort. His father was diagnosed with a hemolytic anemia. On examination he is icteric with splenomegaly. A peripheral smear shows round red blood cells lacking central pallor, and an eosin-5-maleimide (EMA) binding test is reduced. Which of the following defects most likely underlies this patient's condition?",
       "choices": [
@@ -1148,6 +1195,53 @@
       "tier": "core"
     },
     {
+      "id": "blpic-029",
+      "topicId": "hereditary-spherocytosis",
+      "topicName": "Hereditary Spherocytosis",
+      "stem": "This peripheral blood smear is from an asymptomatic adult with a family history of a red cell disorder. Which inherited red-cell membrane disorder does this smear most strongly suggest?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Glucose-6-phosphate dehydrogenase deficiency"
+        },
+        {
+          "label": "B",
+          "text": "Hereditary elliptocytosis"
+        },
+        {
+          "label": "C",
+          "text": "Hereditary pyropoikilocytosis"
+        },
+        {
+          "label": "D",
+          "text": "Hereditary spherocytosis"
+        },
+        {
+          "label": "E",
+          "text": "Sickle cell anemia"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Large numbers of elliptical (oval, cigar-shaped) red cells on a peripheral smear are the hallmark of hereditary elliptocytosis, an autosomal dominant defect commonly involving spectrin.",
+        "whyCorrect": "Large numbers of elliptical (oval, cigar-shaped) red cells on a peripheral smear are the hallmark of hereditary elliptocytosis, an autosomal dominant defect commonly involving spectrin.",
+        "whyWrongByChoice": {
+          "A": "G6PD deficiency shows bite cells and Heinz bodies during oxidative hemolysis, not a population of elongated elliptical cells.",
+          "C": "Hereditary pyropoikilocytosis shows bizarre fragments and microspherocytes with marked poikilocytosis, rather than a uniform population of intact elliptocytes.",
+          "D": "Hereditary spherocytosis produces small, round cells lacking central pallor, not elongated cigar-shaped cells.",
+          "E": "Sickle cells are crescent-shaped with pointed ends from HbS polymerization, a hemoglobinopathy rather than a membrane disorder, and are not uniform ovals."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "blpic-029_bl001_f05.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "blood-picqbank"
+    },
+    {
       "id": "bl12-001",
       "stem": "A 9-month-old boy of West African descent develops painful swelling of his hands and feet. Hemoglobin electrophoresis confirms homozygous HbSS. His disease results from which of the following types of mutation in the beta-globin gene?",
       "choices": [
@@ -1712,6 +1806,53 @@
       "topicName": "Sickle Cell Disease",
       "tier": "core",
       "hy": true
+    },
+    {
+      "id": "blpic-031",
+      "topicId": "sickle-cell-disease",
+      "topicName": "Sickle Cell Disease",
+      "stem": "The small, round, deeply basophilic inclusions within several red cells on this smear are which structures, and their persistence indicates what functional state?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Basophilic stippling indicating lead poisoning"
+        },
+        {
+          "label": "B",
+          "text": "Heinz bodies indicating oxidative injury"
+        },
+        {
+          "label": "C",
+          "text": "Howell-Jolly bodies indicating functional asplenia"
+        },
+        {
+          "label": "D",
+          "text": "Intracellular malarial parasites"
+        },
+        {
+          "label": "E",
+          "text": "Pappenheimer bodies indicating iron overload"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Howell-Jolly bodies are nuclear DNA remnants normally removed by a functioning spleen. Their presence signals the absent or non-functioning spleen (functional asplenia) seen in sickle cell disease.",
+        "whyCorrect": "Howell-Jolly bodies are nuclear DNA remnants normally removed by a functioning spleen. Their presence signals the absent or non-functioning spleen (functional asplenia) seen in sickle cell disease.",
+        "whyWrongByChoice": {
+          "A": "Basophilic stippling is many fine blue dots of ribosomal RNA throughout the cell, not a single round inclusion.",
+          "B": "Heinz bodies are denatured hemoglobin seen only with supravital stains, usually at the membrane, and indicate oxidative injury, not asplenia.",
+          "D": "Malarial parasites appear as ring forms with a chromatin dot and blue cytoplasm, not as a single dense round basophilic dot.",
+          "E": "Pappenheimer bodies are small iron granules clustered at the cell periphery and indicate sideroblastic states, not a single round DNA remnant."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "blpic-031_bl002_f07.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "blood-picqbank"
     },
     {
       "id": "bl13-001",
@@ -3442,6 +3583,53 @@
       "topicName": "Megaloblastic Anemia",
       "tier": "core",
       "hy": true
+    },
+    {
+      "id": "blpic-033",
+      "topicId": "megaloblastic-anemia",
+      "topicName": "Megaloblastic Anemia",
+      "stem": "The arrow on this peripheral blood smear points to an abnormal red blood cell. What is this cell called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Macro-ovalocyte"
+        },
+        {
+          "label": "B",
+          "text": "Schistocyte"
+        },
+        {
+          "label": "C",
+          "text": "Spherocyte"
+        },
+        {
+          "label": "D",
+          "text": "Target cell"
+        },
+        {
+          "label": "E",
+          "text": "Teardrop cell"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The arrowed cell is a macro-ovalocyte, an enlarged oval red cell characteristic of megaloblastic anemia. It results from impaired DNA synthesis in erythroid precursors, causing nuclear-cytoplasmic asynchrony and abnormally large red cells.",
+        "whyCorrect": "The arrowed cell is a macro-ovalocyte, an enlarged oval red cell characteristic of megaloblastic anemia. It results from impaired DNA synthesis in erythroid precursors, causing nuclear-cytoplasmic asynchrony and abnormally large red cells.",
+        "whyWrongByChoice": {
+          "B": "Schistocytes are small irregular fragments with sharp edges, the opposite of an enlarged intact oval cell.",
+          "C": "Spherocytes are small, round, dense cells without central pallor, not large oval cells.",
+          "D": "Target cells have a central dark spot of hemoglobin within the pallor (bull's-eye) and are typically normal or small in size.",
+          "E": "Teardrop cells (dacrocytes) have a single tapered tail and suggest myelofibrosis, not a smooth large oval shape."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "blpic-033_bl005_f02.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "blood-picqbank"
     }
   ]
 }

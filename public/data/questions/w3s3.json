@@ -576,6 +576,53 @@
       "hy": true
     },
     {
+      "id": "blpic-056",
+      "topicId": "b-cell-non-hodgkin-lymphomas",
+      "topicName": "B-Cell Non-Hodgkin Lymphomas (Part 1 of 2)",
+      "stem": "This peripheral blood smear is from a 70-year-old man with a marked lymphocytosis. What is the circled structure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Auer rod"
+        },
+        {
+          "label": "B",
+          "text": "Heinz body"
+        },
+        {
+          "label": "C",
+          "text": "Howell-Jolly body"
+        },
+        {
+          "label": "D",
+          "text": "Reed-Sternberg cell"
+        },
+        {
+          "label": "E",
+          "text": "Smudge cell"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Smudge (basket) cells are fragile lymphocytes ruptured during smear preparation and are a frequent, though non-specific, finding in chronic lymphocytic leukemia.",
+        "whyCorrect": "Smudge (basket) cells are fragile lymphocytes ruptured during smear preparation and are a frequent, though non-specific, finding in chronic lymphocytic leukemia.",
+        "whyWrongByChoice": {
+          "A": "Auer rods are needle-like azurophilic inclusions in myeloblasts of AML, not ruptured lymphocytes.",
+          "B": "Heinz bodies are denatured hemoglobin inclusions in red cells, seen with supravital stains in oxidative injury.",
+          "C": "Howell-Jolly bodies are small DNA remnants inside red cells, much smaller than the crushed cell shown.",
+          "D": "Reed-Sternberg cells are large binucleate owl-eye cells in Hodgkin lymphoma tissue, not crushed cells on a blood smear."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "blpic-056_bl033_f01.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "blood-picqbank"
+    },
+    {
       "id": "bl41-001",
       "stem": "A 63-year-old man with a 4-year history of stable, asymptomatic chronic lymphocytic leukemia/small lymphocytic lymphoma (CLL/SLL) develops the sudden onset of fevers, abdominal pain, and rapidly progressive lymphadenopathy over several weeks. Examination shows new hepatosplenomegaly, and a lymph node biopsy reveals sheets of neoplastic B cells several times the size of a small lymphocyte. Which of the following best explains this patient's new diagnosis?",
       "choices": [
@@ -1151,6 +1198,53 @@
       "tier": "core"
     },
     {
+      "id": "blpic-011",
+      "topicId": "b-cell-non-hodgkin-lymphomas-part-2",
+      "topicName": "B-Cell Non-Hodgkin Lymphomas (Part 2)",
+      "stem": "This high-power lymph node field is from a rapidly enlarging tumor. Which lymphoma produces this appearance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Burkitt lymphoma"
+        },
+        {
+          "label": "B",
+          "text": "Diffuse large B-cell lymphoma"
+        },
+        {
+          "label": "C",
+          "text": "Follicular lymphoma"
+        },
+        {
+          "label": "D",
+          "text": "Hodgkin lymphoma"
+        },
+        {
+          "label": "E",
+          "text": "Mantle cell lymphoma"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The 'starry-sky' pattern is characteristic of Burkitt lymphoma: a dark background of rapidly proliferating malignant lymphocytes interrupted by pale tingible-body macrophages clearing the abundant apoptotic tumor-cell debris.",
+        "whyCorrect": "The 'starry-sky' pattern is characteristic of Burkitt lymphoma: a dark background of rapidly proliferating malignant lymphocytes interrupted by pale tingible-body macrophages clearing the abundant apoptotic tumor-cell debris.",
+        "whyWrongByChoice": {
+          "B": "DLBCL is aggressive but consists of large, pleomorphic cells, typically without the uniform starry-sky appearance of Burkitt lymphoma.",
+          "C": "Follicular lymphoma forms crowded, back-to-back neoplastic follicles and is indolent rather than hyper-aggressive.",
+          "D": "Hodgkin lymphoma shows scattered large Reed-Sternberg cells in a mixed inflammatory background, not uniform sheets with tingible-body macrophages.",
+          "E": "Mantle cell lymphoma shows small-to-intermediate cells with cyclin D1 positivity, without a starry-sky pattern."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "blpic-011_bl034_f03.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "blood-picqbank"
+    },
+    {
       "id": "bl42-001",
       "stem": "A 58-year-old man is evaluated for scaly, itchy skin patches on his trunk and limbs that have slowly enlarged over several years despite treatment for presumed eczema. A skin biopsy reveals a neoplastic infiltrate of lymphocytes with markedly convoluted nuclei. Immunophenotyping shows the malignant cells are derived from helper T cells. Which of the following surface markers is most characteristic of the cell of origin in this disorder?",
       "choices": [
@@ -1713,6 +1807,100 @@
       "topicName": "T-cell Non-Hodgkin Lymphomas",
       "tier": "core",
       "hy": true
+    },
+    {
+      "id": "blpic-012",
+      "topicId": "t-cell-non-hodgkin-lymphomas",
+      "topicName": "T-cell Non-Hodgkin Lymphomas",
+      "stem": "What is the significance of the nuclear morphology of the cell in this peripheral blood field?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It indicates a plasma cell producing monoclonal immunoglobulin"
+        },
+        {
+          "label": "B",
+          "text": "It is a myeloblast with an Auer rod signaling acute leukemia"
+        },
+        {
+          "label": "C",
+          "text": "It is a reactive atypical lymphocyte seen in viral infection"
+        },
+        {
+          "label": "D",
+          "text": "It reflects the cerebriform nucleus of mycosis fungoides/Sezary syndrome"
+        },
+        {
+          "label": "E",
+          "text": "It represents a Reed-Sternberg cell diagnostic of Hodgkin lymphoma"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The neoplastic cell of MF/Sezary syndrome has a strikingly convoluted, brain-like (cerebriform) nucleus; when these cells circulate they are called Sezary cells and are a hallmark of the disease.",
+        "whyCorrect": "The neoplastic cell of MF/Sezary syndrome has a strikingly convoluted, brain-like (cerebriform) nucleus; when these cells circulate they are called Sezary cells and are a hallmark of the disease.",
+        "whyWrongByChoice": {
+          "A": "Plasma cells have an eccentric round nucleus with clock-face chromatin and a perinuclear clear zone, not a convoluted nucleus.",
+          "B": "Myeloblasts have fine chromatin, nucleoli, and sometimes needle-like Auer rods, not a deeply grooved cerebriform nucleus.",
+          "C": "Reactive lymphocytes have abundant cytoplasm that molds around red cells, with a round or mildly irregular nucleus rather than a cerebriform one.",
+          "E": "Reed-Sternberg cells are large binucleate owl-eye cells found in lymph node tissue, not convoluted single lymphoid cells in blood."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "blpic-012_bl035_f06.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "blood-picqbank"
+    },
+    {
+      "id": "blpic-013",
+      "topicId": "t-cell-non-hodgkin-lymphomas",
+      "topicName": "T-cell Non-Hodgkin Lymphomas",
+      "stem": "This skin biopsy is from a patient with long-standing scaly plaques on the trunk. What is the circled finding, and what does it consist of?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A cluster of eosinophils indicating a hypersensitivity reaction"
+        },
+        {
+          "label": "B",
+          "text": "A collection of Langerhans cells forming a granuloma"
+        },
+        {
+          "label": "C",
+          "text": "A Munro microabscess of neutrophils typical of psoriasis"
+        },
+        {
+          "label": "D",
+          "text": "A neutrophilic abscess consistent with bacterial infection"
+        },
+        {
+          "label": "E",
+          "text": "A Pautrier microabscess made up of clustered neoplastic T lymphocytes"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Intraepidermal clusters of malignant T cells in mycosis fungoides are called Pautrier microabscesses. The name is misleading: unlike true abscesses (neutrophils), these consist of neoplastic lymphoma cells.",
+        "whyCorrect": "Intraepidermal clusters of malignant T cells in mycosis fungoides are called Pautrier microabscesses. The name is misleading: unlike true abscesses (neutrophils), these consist of neoplastic lymphoma cells.",
+        "whyWrongByChoice": {
+          "A": "Eosinophils have bilobed nuclei and bright orange-red granules; the clustered cells here are atypical lymphocytes.",
+          "B": "Langerhans cell collections have grooved, coffee-bean nuclei and are associated with eosinophils, as in Langerhans cell histiocytosis, not atypical T cells.",
+          "C": "Munro microabscesses are collections of neutrophils in the stratum corneum of psoriasis, not atypical lymphocytes in the epidermis.",
+          "D": "Bacterial abscesses consist of neutrophils and necrotic debris, not neoplastic T lymphocytes."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "blpic-013_bl035_f07.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "blood-picqbank"
     },
     {
       "id": "bl43-001",
@@ -2851,6 +3039,100 @@
       "topicName": "Multiple Myeloma and Other Plasma Cell Disorders",
       "tier": "core",
       "hy": true
+    },
+    {
+      "id": "blpic-015",
+      "topicId": "multiple-myeloma-and-other-plasma-cell-disorders",
+      "topicName": "Multiple Myeloma and Other Plasma Cell Disorders",
+      "stem": "Which cell type is indicated by the arrows on this bone marrow aspirate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Erythroblasts"
+        },
+        {
+          "label": "B",
+          "text": "Malignant plasma cells"
+        },
+        {
+          "label": "C",
+          "text": "Megakaryocytes"
+        },
+        {
+          "label": "D",
+          "text": "Myeloblasts"
+        },
+        {
+          "label": "E",
+          "text": "Reactive small lymphocytes"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The eccentric nucleus, perinuclear hof (Golgi), and clockface chromatin identify plasma cells; their abundance and blast-like atypia indicate the neoplastic plasma cells of multiple myeloma.",
+        "whyCorrect": "The eccentric nucleus, perinuclear hof (Golgi), and clockface chromatin identify plasma cells; their abundance and blast-like atypia indicate the neoplastic plasma cells of multiple myeloma.",
+        "whyWrongByChoice": {
+          "A": "Erythroblasts have a central round nucleus and blue-to-pink cytoplasm without a perinuclear hof or eccentric placement.",
+          "C": "Megakaryocytes are giant cells with multilobated nuclei, far larger than the cells shown.",
+          "D": "Myeloblasts have a high nuclear-to-cytoplasmic ratio, fine chromatin, and nucleoli, without an eccentric nucleus or perinuclear clearing.",
+          "E": "Small lymphocytes have a round central nucleus with scant cytoplasm and lack the perinuclear hof and clock-face chromatin."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "blpic-015_bl037_f02.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "blood-picqbank"
+    },
+    {
+      "id": "blpic-058",
+      "topicId": "multiple-myeloma-and-other-plasma-cell-disorders",
+      "topicName": "Multiple Myeloma and Other Plasma Cell Disorders",
+      "stem": "This lateral skull radiograph is from a 68-year-old with back pain, anemia, and an elevated serum calcium. What process produces the lesions shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bacterial osteomyelitis"
+        },
+        {
+          "label": "B",
+          "text": "Fibrous dysplasia remodeling"
+        },
+        {
+          "label": "C",
+          "text": "Metastatic dystrophic calcification"
+        },
+        {
+          "label": "D",
+          "text": "Osteoblastic new bone formation"
+        },
+        {
+          "label": "E",
+          "text": "Osteoclast-mediated bone resorption"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Myeloma cells secrete factors (e.g., RANKL) that activate osteoclasts, causing focal lytic (not sclerotic) lesions best seen in the calvaria and contributing to hypercalcemia and pathologic fractures.",
+        "whyCorrect": "Myeloma cells secrete factors (e.g., RANKL) that activate osteoclasts, causing focal lytic (not sclerotic) lesions best seen in the calvaria and contributing to hypercalcemia and pathologic fractures.",
+        "whyWrongByChoice": {
+          "A": "Osteomyelitis causes irregular bone destruction with periosteal reaction and sequestra, not multiple sharply punched-out skull lesions.",
+          "B": "Fibrous dysplasia produces expansile ground-glass lesions, not multiple discrete punched-out lucencies.",
+          "C": "Dystrophic calcification deposits calcium in damaged tissue and would look dense, not create punched-out lucent holes.",
+          "D": "Osteoblastic activity produces sclerotic, dense lesions (as with prostate cancer metastases), the opposite of lucent holes."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "blpic-058_bl037_f04.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "blood-picqbank"
     },
     {
       "id": "bl45-001",

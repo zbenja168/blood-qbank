@@ -18,11 +18,11 @@
           "id": "rbc-metabolism",
           "name": "RBC Metabolism",
           "sourceFile": "Blood Brick 2",
-          "coreCount": 12,
+          "coreCount": 13,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 10
+          "questionCount": 37,
+          "hyCount": 13,
+          "hyCoreCount": 11
         },
         {
           "id": "red-blood-cell-laboratory-tests",
@@ -67,11 +67,11 @@
           "id": "iron-deficiency-anemia",
           "name": "Iron-Deficiency Anemia",
           "sourceFile": "Blood Brick 5",
-          "coreCount": 12,
+          "coreCount": 14,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 10
+          "questionCount": 38,
+          "hyCount": 14,
+          "hyCoreCount": 12
         },
         {
           "id": "thalassemias",
@@ -116,31 +116,31 @@
           "id": "aplastic-anemia",
           "name": "Aplastic Anemia",
           "sourceFile": "Blood Brick 10",
-          "coreCount": 12,
+          "coreCount": 13,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 8
+          "questionCount": 37,
+          "hyCount": 13,
+          "hyCoreCount": 9
         },
         {
           "id": "hereditary-spherocytosis",
           "name": "Hereditary Spherocytosis",
           "sourceFile": "Blood Brick 11",
-          "coreCount": 12,
+          "coreCount": 13,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 11
+          "questionCount": 37,
+          "hyCount": 13,
+          "hyCoreCount": 12
         },
         {
           "id": "sickle-cell-disease",
           "name": "Sickle Cell Disease",
           "sourceFile": "Blood Brick 12",
-          "coreCount": 12,
+          "coreCount": 13,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 8
+          "questionCount": 37,
+          "hyCount": 13,
+          "hyCoreCount": 9
         },
         {
           "id": "g6pd-and-pyruvate-kinase-deficiencies",
@@ -166,11 +166,11 @@
           "id": "megaloblastic-anemia",
           "name": "Megaloblastic Anemia",
           "sourceFile": "Blood Brick 15",
-          "coreCount": 12,
+          "coreCount": 13,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 9
+          "questionCount": 37,
+          "hyCount": 13,
+          "hyCoreCount": 10
         }
       ],
       "week": 1,
@@ -224,11 +224,11 @@
           "id": "hemophilia",
           "name": "Hemophilia",
           "sourceFile": "Blood Brick 19",
-          "coreCount": 12,
+          "coreCount": 13,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 9
+          "questionCount": 37,
+          "hyCount": 13,
+          "hyCoreCount": 10
         },
         {
           "id": "von-willebrand-disease",
@@ -274,11 +274,11 @@
           "id": "thrombotic-disorders-foundations-and-frameworks",
           "name": "Thrombotic Disorders: Foundations and Frameworks",
           "sourceFile": "Blood Brick 24",
-          "coreCount": 12,
+          "coreCount": 13,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 10
+          "questionCount": 37,
+          "hyCount": 13,
+          "hyCoreCount": 11
         }
       ],
       "week": 2,
@@ -303,11 +303,11 @@
           "id": "thrombocytopenia",
           "name": "Thrombocytopenia",
           "sourceFile": "Blood Brick 26",
-          "coreCount": 12,
+          "coreCount": 14,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 8
+          "questionCount": 38,
+          "hyCount": 14,
+          "hyCoreCount": 10
         },
         {
           "id": "immune-thrombocytopenia",
@@ -323,21 +323,21 @@
           "id": "platelet-assays",
           "name": "Platelet Assays",
           "sourceFile": "Blood Brick 28",
-          "coreCount": 12,
+          "coreCount": 14,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 6
+          "questionCount": 38,
+          "hyCount": 14,
+          "hyCoreCount": 8
         },
         {
           "id": "thrombotic-microangiopathies",
           "name": "Thrombotic Microangiopathies",
           "sourceFile": "Blood Brick 29",
-          "coreCount": 12,
+          "coreCount": 13,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 9
+          "questionCount": 37,
+          "hyCount": 13,
+          "hyCoreCount": 10
         },
         {
           "id": "hematopoietic-neoplasms-foundations-and-frameworks",
@@ -372,51 +372,51 @@
           "id": "acute-lymphoblastic-leukemia-lymphoma",
           "name": "Acute Lymphoblastic Leukemia/Lymphoma",
           "sourceFile": "Blood Brick 32",
-          "coreCount": 12,
+          "coreCount": 13,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 8
+          "questionCount": 37,
+          "hyCount": 13,
+          "hyCoreCount": 9
         },
         {
           "id": "benign-leukocytosis",
           "name": "Benign Leukocytosis",
           "sourceFile": "Blood Brick 33",
-          "coreCount": 12,
+          "coreCount": 13,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 8
+          "questionCount": 37,
+          "hyCount": 13,
+          "hyCoreCount": 9
         },
         {
           "id": "benign-lymphadenopathies",
           "name": "Benign Lymphadenopathies",
           "sourceFile": "Blood Brick 34",
-          "coreCount": 12,
+          "coreCount": 13,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 10
+          "questionCount": 37,
+          "hyCount": 13,
+          "hyCoreCount": 11
         },
         {
           "id": "y-pestis-f-tularensis-and-b-henselae",
           "name": "Y. pestis, F. tularensis, and B. henselae",
           "sourceFile": "Blood Brick 35",
-          "coreCount": 12,
+          "coreCount": 15,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 10
+          "questionCount": 39,
+          "hyCount": 15,
+          "hyCoreCount": 13
         },
         {
           "id": "leptospirosis-and-lymphatic-filariasis",
           "name": "Leptospirosis and Lymphatic Filariasis",
           "sourceFile": "Blood Brick 36",
-          "coreCount": 12,
+          "coreCount": 14,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 11
+          "questionCount": 38,
+          "hyCount": 14,
+          "hyCoreCount": 13
         },
         {
           "id": "alkylating-agents",
@@ -461,31 +461,31 @@
           "id": "b-cell-non-hodgkin-lymphomas",
           "name": "B-Cell Non-Hodgkin Lymphomas (Part 1 of 2)",
           "sourceFile": "Blood Brick 40",
-          "coreCount": 12,
+          "coreCount": 13,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 8
+          "questionCount": 37,
+          "hyCount": 13,
+          "hyCoreCount": 9
         },
         {
           "id": "b-cell-non-hodgkin-lymphomas-part-2",
           "name": "B-Cell Non-Hodgkin Lymphomas (Part 2)",
           "sourceFile": "Blood Brick 41",
-          "coreCount": 12,
+          "coreCount": 13,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 11
+          "questionCount": 37,
+          "hyCount": 13,
+          "hyCoreCount": 12
         },
         {
           "id": "t-cell-non-hodgkin-lymphomas",
           "name": "T-cell Non-Hodgkin Lymphomas",
           "sourceFile": "Blood Brick 42",
-          "coreCount": 12,
+          "coreCount": 14,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 11
+          "questionCount": 38,
+          "hyCount": 14,
+          "hyCoreCount": 13
         },
         {
           "id": "hodgkin-lymphoma",
@@ -501,11 +501,11 @@
           "id": "multiple-myeloma-and-other-plasma-cell-disorders",
           "name": "Multiple Myeloma and Other Plasma Cell Disorders",
           "sourceFile": "Blood Brick 44",
-          "coreCount": 12,
+          "coreCount": 14,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 9
+          "questionCount": 38,
+          "hyCount": 14,
+          "hyCoreCount": 11
         },
         {
           "id": "targeted-inhibitors-used-in-cancer-therapy",
@@ -619,11 +619,11 @@
           "id": "disorders-of-the-spleen",
           "name": "Disorders of the Spleen",
           "sourceFile": "Blood Brick 54",
-          "coreCount": 12,
+          "coreCount": 13,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 11
+          "questionCount": 37,
+          "hyCount": 13,
+          "hyCoreCount": 12
         },
         {
           "id": "structure-function-and-disorders-of-the-thymus",
@@ -658,11 +658,11 @@
           "id": "plasmodium-babesia-brucella",
           "name": "Plasmodium spp., Babesia spp., and Brucella spp.",
           "sourceFile": "Blood Brick 57",
-          "coreCount": 12,
+          "coreCount": 14,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 8
+          "questionCount": 38,
+          "hyCount": 14,
+          "hyCoreCount": 10
         },
         {
           "id": "drugs-to-treat-plasmodium-babesia-and-brucella",
@@ -688,64 +688,15 @@
           "id": "arboviruses",
           "name": "Arboviruses",
           "sourceFile": "Blood Brick 60",
-          "coreCount": 12,
+          "coreCount": 14,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 11
+          "questionCount": 38,
+          "hyCount": 14,
+          "hyCoreCount": 13
         }
       ],
       "week": 4,
       "weekName": "Week 4",
-      "weekSubtitle": ""
-    },
-    {
-      "id": "pictures",
-      "name": "Pictures by week",
-      "topics": [
-        {
-          "id": "pictures-w1",
-          "name": "Week 1 pictures",
-          "sourceFile": "Picture QBank (curated)",
-          "coreCount": 7,
-          "extraCount": 0,
-          "questionCount": 7,
-          "hyCount": 7,
-          "hyCoreCount": 7
-        },
-        {
-          "id": "pictures-w2",
-          "name": "Week 2 pictures",
-          "sourceFile": "Picture QBank (curated)",
-          "coreCount": 7,
-          "extraCount": 0,
-          "questionCount": 7,
-          "hyCount": 7,
-          "hyCoreCount": 7
-        },
-        {
-          "id": "pictures-w3",
-          "name": "Week 3 pictures",
-          "sourceFile": "Picture QBank (curated)",
-          "coreCount": 14,
-          "extraCount": 0,
-          "questionCount": 14,
-          "hyCount": 14,
-          "hyCoreCount": 14
-        },
-        {
-          "id": "pictures-w4",
-          "name": "Week 4 pictures",
-          "sourceFile": "Picture QBank (curated)",
-          "coreCount": 5,
-          "extraCount": 0,
-          "questionCount": 5,
-          "hyCount": 5,
-          "hyCoreCount": 5
-        }
-      ],
-      "week": 5,
-      "weekName": "Picture questions",
       "weekSubtitle": ""
     }
   ],

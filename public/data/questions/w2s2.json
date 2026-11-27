@@ -576,6 +576,53 @@
       "hy": true
     },
     {
+      "id": "blpic-079",
+      "topicId": "hemophilia",
+      "topicName": "Hemophilia",
+      "stem": "A child has recurrent episodes of the knee finding shown, each occurring after minimal or no trauma. Which underlying disorder is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Factor XII (Hageman factor) deficiency"
+        },
+        {
+          "label": "B",
+          "text": "Hemophilia"
+        },
+        {
+          "label": "C",
+          "text": "Thrombocytopenia"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin K deficiency from malabsorption"
+        },
+        {
+          "label": "E",
+          "text": "von Willebrand disease"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Hemarthrosis, spontaneous bleeding into joints, is characteristic of the hemophilias (Factor VIII or IX deficiency). Because synovial spaces have low tissue factor levels, they depend on the intrinsic pathway, so intrinsic-factor deficiencies produce joint bleeding with little or no trauma.",
+        "whyCorrect": "Hemarthrosis, spontaneous bleeding into joints, is characteristic of the hemophilias (Factor VIII or IX deficiency). Because synovial spaces have low tissue factor levels, they depend on the intrinsic pathway, so intrinsic-factor deficiencies produce joint bleeding with little or no trauma.",
+        "whyWrongByChoice": {
+          "A": "Factor XII deficiency prolongs the aPTT in the lab but causes no clinical bleeding at all.",
+          "C": "Thrombocytopenia causes mucocutaneous bleeding such as petechiae, epistaxis, and gum bleeding, rarely spontaneous joint bleeds.",
+          "D": "Vitamin K deficiency causes easy bruising, mucosal and GI bleeding with prolonged PT; spontaneous hemarthrosis is not typical.",
+          "E": "Von Willebrand disease mainly causes mucosal bleeding (menorrhagia, epistaxis); hemarthrosis occurs only in the rare severe type 3 form."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "blpic-079_bl007_f07.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "blood-picqbank"
+    },
+    {
       "id": "bl20-001",
       "stem": "A 28-year-old woman with von Willebrand disease has severely reduced levels of von Willebrand factor (vWF). As a direct consequence of this deficiency, which of the following is most likely to undergo increased degradation?",
       "choices": [
@@ -3435,6 +3482,53 @@
       "topicName": "Thrombotic Disorders: Foundations and Frameworks",
       "tier": "core",
       "hy": true
+    },
+    {
+      "id": "blpic-083",
+      "topicId": "thrombotic-disorders-foundations-and-frameworks",
+      "topicName": "Thrombotic Disorders: Foundations and Frameworks",
+      "stem": "These lesions developed on a patient's thigh within days of starting an oral anticoagulant for a deep vein thrombosis. What mechanism produces them?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Capillary fragility from vitamin K deficiency"
+        },
+        {
+          "label": "B",
+          "text": "Direct cytotoxic drug effect on keratinocytes"
+        },
+        {
+          "label": "C",
+          "text": "Heparin-antibody-induced platelet activation"
+        },
+        {
+          "label": "D",
+          "text": "Immune-mediated vasculitis from drug hypersensitivity"
+        },
+        {
+          "label": "E",
+          "text": "Transient hypercoagulability from rapid depletion of proteins C and S"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Warfarin-induced skin necrosis results from the short half-lives of the anticoagulant proteins C and S, which fall first and create a transient hypercoagulable state that thromboses small vessels and causes skin to die.",
+        "whyCorrect": "Warfarin-induced skin necrosis results from the short half-lives of the anticoagulant proteins C and S, which fall first and create a transient hypercoagulable state that thromboses small vessels and causes skin to die.",
+        "whyWrongByChoice": {
+          "A": "Vitamin K deficiency causes bleeding, not thrombosis; warfarin necrosis is a clotting complication.",
+          "B": "Warfarin is not directly toxic to keratinocytes; the skin dies from ischemia due to small-vessel thrombosis.",
+          "C": "Heparin-induced thrombocytopenia involves antibodies to heparin-PF4 complexes, not an oral anticoagulant such as warfarin.",
+          "D": "Hypersensitivity vasculitis causes palpable purpura days to weeks after drug exposure, not sharply demarcated necrosis from microvascular thrombosis."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "blpic-083_bl015_f03.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "blood-picqbank"
     }
   ]
 }

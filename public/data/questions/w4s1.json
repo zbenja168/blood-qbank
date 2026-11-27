@@ -1163,6 +1163,53 @@
       "tier": "core"
     },
     {
+      "id": "blpic-124",
+      "topicId": "disorders-of-the-spleen",
+      "topicName": "Disorders of the Spleen",
+      "stem": "This abdominal CT is from a 30-year-old with a chronic hemoglobinopathy. What process produced the appearance of the organ at the arrow?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amyloid deposition"
+        },
+        {
+          "label": "B",
+          "text": "Portal venous varicosity"
+        },
+        {
+          "label": "C",
+          "text": "Splenic abscess formation"
+        },
+        {
+          "label": "D",
+          "text": "Splenic auto-infarction"
+        },
+        {
+          "label": "E",
+          "text": "Traumatic splenic hematoma"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Repeated vaso-occlusive crises in sickle cell disease cause microthrombi that shrink the spleen to a small, fibrotic, calcified remnant (auto-infarction / physiologic asplenia).",
+        "whyCorrect": "Repeated vaso-occlusive crises in sickle cell disease cause microthrombi that shrink the spleen to a small, fibrotic, calcified remnant (auto-infarction / physiologic asplenia).",
+        "whyWrongByChoice": {
+          "A": "Amyloid deposition typically enlarges the spleen rather than making it small and calcified.",
+          "B": "Portal venous varices are dilated collateral vessels that do not shrink and calcify the spleen.",
+          "C": "A splenic abscess appears as a low-density fluid collection, often in an enlarged spleen, not a small calcified remnant.",
+          "E": "A traumatic hematoma would be a fluid collection after injury, not a shrunken, calcified spleen."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "blpic-124_bl048_f05.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "blood-picqbank"
+    },
+    {
       "id": "bl55-001",
       "stem": "A first-year medical student is examining an H&E-stained section of a child's thymus at low power. In the paler central region of a lobe, she notes a distinctive spherical structure composed of keratinized epithelial reticular cells arranged in concentric layers. Within which of the following regions of the thymus is this structure located?",
       "choices": [
