@@ -6,6 +6,7 @@ export interface SiteConfig {
   repo: string;
   family: 'qbank' | 'picqbank' | 'picdnd' | 'anatomy';
   course: string;
+  courseKey: string;
   type: string;
   title: string;
   accent: string;
@@ -19,6 +20,7 @@ export const SITE: SiteConfig = {
   "repo": "blood-qbank",
   "family": "qbank",
   "course": "Blood & Lymph",
+  "courseKey": "blood",
   "type": "QBank",
   "title": "Blood & Lymph QBank",
   "accent": "#dc2626",
@@ -41,11 +43,6 @@ export const SITE: SiteConfig = {
     {
       "label": "Classic Games",
       "url": "https://zbenja168.github.io/blood_and_lymph/",
-      "current": false
-    },
-    {
-      "label": "Picture QBank",
-      "url": "https://zbenja168.github.io/blood-picqbank/",
       "current": false
     }
   ]
