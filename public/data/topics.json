@@ -698,7 +698,56 @@
       "week": 4,
       "weekName": "Week 4",
       "weekSubtitle": ""
+    },
+    {
+      "id": "pictures",
+      "name": "Pictures by week",
+      "topics": [
+        {
+          "id": "pictures-w1",
+          "name": "Week 1 pictures",
+          "sourceFile": "Picture QBank (curated)",
+          "coreCount": 7,
+          "extraCount": 0,
+          "questionCount": 7,
+          "hyCount": 7,
+          "hyCoreCount": 7
+        },
+        {
+          "id": "pictures-w2",
+          "name": "Week 2 pictures",
+          "sourceFile": "Picture QBank (curated)",
+          "coreCount": 7,
+          "extraCount": 0,
+          "questionCount": 7,
+          "hyCount": 7,
+          "hyCoreCount": 7
+        },
+        {
+          "id": "pictures-w3",
+          "name": "Week 3 pictures",
+          "sourceFile": "Picture QBank (curated)",
+          "coreCount": 14,
+          "extraCount": 0,
+          "questionCount": 14,
+          "hyCount": 14,
+          "hyCoreCount": 14
+        },
+        {
+          "id": "pictures-w4",
+          "name": "Week 4 pictures",
+          "sourceFile": "Picture QBank (curated)",
+          "coreCount": 5,
+          "extraCount": 0,
+          "questionCount": 5,
+          "hyCount": 5,
+          "hyCoreCount": 5
+        }
+      ],
+      "week": 5,
+      "weekName": "Picture questions",
+      "weekSubtitle": ""
     }
   ],
-  "totalQuestions": 2136
+  "totalQuestions": 2169
 }
