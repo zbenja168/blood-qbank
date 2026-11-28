@@ -1,0 +1,478 @@
+{
+ "course": "Blood & Lymph",
+ "whole": {
+  "file": "blood-lymph.apkg",
+  "cards": 1570,
+  "mb": 14.9
+ },
+ "weeks": [
+  {
+   "file": "blood-lymph/week-1.apkg",
+   "cards": 404,
+   "mb": 3.1,
+   "week": 1,
+   "sessions": [
+    {
+     "file": "blood-lymph/week-1-session-1.apkg",
+     "cards": 121,
+     "mb": 1.4,
+     "session": 1,
+     "lectures": [
+      {
+       "file": "blood-lymph/lecture-01.apkg",
+       "cards": 36,
+       "mb": 0.9,
+       "title": "Hematopoiesis"
+      },
+      {
+       "file": "blood-lymph/lecture-02.apkg",
+       "cards": 30,
+       "mb": 0.3,
+       "title": "RBC Metabolism"
+      },
+      {
+       "file": "blood-lymph/lecture-03.apkg",
+       "cards": 29,
+       "mb": 0.3,
+       "title": "Red Blood Cell Laboratory Tests"
+      },
+      {
+       "file": "blood-lymph/lecture-04.apkg",
+       "cards": 26,
+       "mb": 0.1,
+       "title": "History-Taking Approach to Anemia"
+      }
+     ]
+    },
+    {
+     "file": "blood-lymph/week-1-session-2.apkg",
+     "cards": 108,
+     "mb": 0.5,
+     "session": 2,
+     "lectures": [
+      {
+       "file": "blood-lymph/lecture-05.apkg",
+       "cards": 29,
+       "mb": 0.1,
+       "title": "Iron-Deficiency Anemia"
+      },
+      {
+       "file": "blood-lymph/lecture-06.apkg",
+       "cards": 29,
+       "mb": 0.2,
+       "title": "Thalassemias"
+      },
+      {
+       "file": "blood-lymph/lecture-07.apkg",
+       "cards": 22,
+       "mb": 0.1,
+       "title": "Anemia of Chronic Disease/Inflammation"
+      },
+      {
+       "file": "blood-lymph/lecture-08.apkg",
+       "cards": 28,
+       "mb": 0.2,
+       "title": "Sideroblastic Anemia"
+      }
+     ]
+    },
+    {
+     "file": "blood-lymph/week-1-session-3.apkg",
+     "cards": 175,
+     "mb": 1.4,
+     "session": 3,
+     "lectures": [
+      {
+       "file": "blood-lymph/lecture-10.apkg",
+       "cards": 30,
+       "mb": 0.2,
+       "title": "Aplastic Anemia"
+      },
+      {
+       "file": "blood-lymph/lecture-11.apkg",
+       "cards": 27,
+       "mb": 0.4,
+       "title": "Hereditary Spherocytosis"
+      },
+      {
+       "file": "blood-lymph/lecture-12.apkg",
+       "cards": 30,
+       "mb": 0.3,
+       "title": "Sickle Cell Disease"
+      },
+      {
+       "file": "blood-lymph/lecture-13.apkg",
+       "cards": 30,
+       "mb": 0.3,
+       "title": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies"
+      },
+      {
+       "file": "blood-lymph/lecture-14.apkg",
+       "cards": 29,
+       "mb": 0.3,
+       "title": "Autoimmune Hemolytic Anemias"
+      },
+      {
+       "file": "blood-lymph/lecture-15.apkg",
+       "cards": 29,
+       "mb": 0.2,
+       "title": "Megaloblastic Anemia"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "file": "blood-lymph/week-2.apkg",
+   "cards": 417,
+   "mb": 3.4,
+   "week": 2,
+   "sessions": [
+    {
+     "file": "blood-lymph/week-2-session-1.apkg",
+     "cards": 88,
+     "mb": 1.2,
+     "session": 1,
+     "lectures": [
+      {
+       "file": "blood-lymph/lecture-16.apkg",
+       "cards": 26,
+       "mb": 0.2,
+       "title": "Coagulation Assays"
+      },
+      {
+       "file": "blood-lymph/lecture-17.apkg",
+       "cards": 34,
+       "mb": 0.9,
+       "title": "Hemostasis"
+      },
+      {
+       "file": "blood-lymph/lecture-18.apkg",
+       "cards": 28,
+       "mb": 0.2,
+       "title": "Transfusion Medicine"
+      }
+     ]
+    },
+    {
+     "file": "blood-lymph/week-2-session-2.apkg",
+     "cards": 149,
+     "mb": 0.8,
+     "session": 2,
+     "lectures": [
+      {
+       "file": "blood-lymph/lecture-19.apkg",
+       "cards": 26,
+       "mb": 0.1,
+       "title": "Hemophilia"
+      },
+      {
+       "file": "blood-lymph/lecture-20.apkg",
+       "cards": 22,
+       "mb": 0.2,
+       "title": "von Willebrand Disease"
+      },
+      {
+       "file": "blood-lymph/lecture-21.apkg",
+       "cards": 23,
+       "mb": 0.2,
+       "title": "Disseminated Intravascular Coagulation"
+      },
+      {
+       "file": "blood-lymph/lecture-22.apkg",
+       "cards": 23,
+       "mb": 0.1,
+       "title": "Antiphospholipid Antibody Syndrome"
+      },
+      {
+       "file": "blood-lymph/lecture-23.apkg",
+       "cards": 27,
+       "mb": 0.2,
+       "title": "Genetic Thrombotic Disorders"
+      },
+      {
+       "file": "blood-lymph/lecture-24.apkg",
+       "cards": 28,
+       "mb": 0.2,
+       "title": "Thrombotic Disorders: Foundations and Frameworks"
+      }
+     ]
+    },
+    {
+     "file": "blood-lymph/week-2-session-3.apkg",
+     "cards": 180,
+     "mb": 1.5,
+     "session": 3,
+     "lectures": [
+      {
+       "file": "blood-lymph/lecture-25.apkg",
+       "cards": 27,
+       "mb": 0.2,
+       "title": "Hereditary Platelet Disorders"
+      },
+      {
+       "file": "blood-lymph/lecture-26.apkg",
+       "cards": 29,
+       "mb": 0.3,
+       "title": "Thrombocytopenia"
+      },
+      {
+       "file": "blood-lymph/lecture-27.apkg",
+       "cards": 23,
+       "mb": 0.2,
+       "title": "Immune Thrombocytopenia"
+      },
+      {
+       "file": "blood-lymph/lecture-28.apkg",
+       "cards": 22,
+       "mb": 0.3,
+       "title": "Platelet Assays"
+      },
+      {
+       "file": "blood-lymph/lecture-29.apkg",
+       "cards": 26,
+       "mb": 0.4,
+       "title": "Thrombotic Microangiopathies"
+      },
+      {
+       "file": "blood-lymph/lecture-30.apkg",
+       "cards": 28,
+       "mb": 0.3,
+       "title": "Hematopoietic Neoplasms: Foundations and Frameworks"
+      },
+      {
+       "file": "blood-lymph/lecture-31.apkg",
+       "cards": 25,
+       "mb": 0.1,
+       "title": "Principles of Chemotherapy"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "file": "blood-lymph/week-3.apkg",
+   "cards": 541,
+   "mb": 6.6,
+   "week": 3,
+   "sessions": [
+    {
+     "file": "blood-lymph/week-3-session-1.apkg",
+     "cards": 181,
+     "mb": 1.6,
+     "session": 1,
+     "lectures": [
+      {
+       "file": "blood-lymph/lecture-32.apkg",
+       "cards": 30,
+       "mb": 0.3,
+       "title": "Acute Lymphoblastic Leukemia/Lymphoma"
+      },
+      {
+       "file": "blood-lymph/lecture-33.apkg",
+       "cards": 29,
+       "mb": 0.6,
+       "title": "Benign Leukocytosis"
+      },
+      {
+       "file": "blood-lymph/lecture-34.apkg",
+       "cards": 28,
+       "mb": 0.4,
+       "title": "Benign Lymphadenopathies"
+      },
+      {
+       "file": "blood-lymph/lecture-36.apkg",
+       "cards": 29,
+       "mb": 0.2,
+       "title": "Leptospirosis and Lymphatic Filariasis"
+      },
+      {
+       "file": "blood-lymph/lecture-37.apkg",
+       "cards": 23,
+       "mb": 0.2,
+       "title": "Alkylating Agents"
+      },
+      {
+       "file": "blood-lymph/lecture-38.apkg",
+       "cards": 20,
+       "mb": 0.1,
+       "title": "Antimetabolite Agents"
+      },
+      {
+       "file": "blood-lymph/lecture-39.apkg",
+       "cards": 22,
+       "mb": 0.2,
+       "title": "Topoisomerase Inhibitors, Microtubule Inhibitors, and Antitumor Antibiotics"
+      }
+     ]
+    },
+    {
+     "file": "blood-lymph/week-3-session-3.apkg",
+     "cards": 165,
+     "mb": 2.2,
+     "session": 3,
+     "lectures": [
+      {
+       "file": "blood-lymph/lecture-40.apkg",
+       "cards": 29,
+       "mb": 0.7,
+       "title": "B-Cell Non-Hodgkin Lymphomas (Part 1 of 2)"
+      },
+      {
+       "file": "blood-lymph/lecture-41.apkg",
+       "cards": 23,
+       "mb": 0.3,
+       "title": "B-Cell Non-Hodgkin Lymphomas (Part 2)"
+      },
+      {
+       "file": "blood-lymph/lecture-42.apkg",
+       "cards": 28,
+       "mb": 0.4,
+       "title": "T-cell Non-Hodgkin Lymphomas"
+      },
+      {
+       "file": "blood-lymph/lecture-43.apkg",
+       "cards": 29,
+       "mb": 0.5,
+       "title": "Hodgkin Lymphoma"
+      },
+      {
+       "file": "blood-lymph/lecture-44.apkg",
+       "cards": 31,
+       "mb": 0.6,
+       "title": "Multiple Myeloma and Other Plasma Cell Disorders"
+      },
+      {
+       "file": "blood-lymph/lecture-45.apkg",
+       "cards": 25,
+       "mb": 0.1,
+       "title": "Targeted Inhibitors Used in Cancer Therapy"
+      }
+     ]
+    },
+    {
+     "file": "blood-lymph/week-3-session-4.apkg",
+     "cards": 195,
+     "mb": 2.9,
+     "session": 4,
+     "lectures": [
+      {
+       "file": "blood-lymph/lecture-46.apkg",
+       "cards": 35,
+       "mb": 1.2,
+       "title": "Chronic Myeloid Leukemia"
+      },
+      {
+       "file": "blood-lymph/lecture-47.apkg",
+       "cards": 28,
+       "mb": 0.3,
+       "title": "Polycythemia Vera"
+      },
+      {
+       "file": "blood-lymph/lecture-48.apkg",
+       "cards": 24,
+       "mb": 0.2,
+       "title": "Essential Thrombocythemia"
+      },
+      {
+       "file": "blood-lymph/lecture-49.apkg",
+       "cards": 25,
+       "mb": 0.3,
+       "title": "Primary Myelofibrosis"
+      },
+      {
+       "file": "blood-lymph/lecture-50.apkg",
+       "cards": 27,
+       "mb": 0.4,
+       "title": "Myelodysplastic Neoplasms"
+      },
+      {
+       "file": "blood-lymph/lecture-51.apkg",
+       "cards": 29,
+       "mb": 0.3,
+       "title": "Acute Myeloid Leukemia"
+      },
+      {
+       "file": "blood-lymph/lecture-52.apkg",
+       "cards": 27,
+       "mb": 0.5,
+       "title": "Hematopoietic Stem Cell Transplantation"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "file": "blood-lymph/week-4.apkg",
+   "cards": 208,
+   "mb": 2.0,
+   "week": 4,
+   "sessions": [
+    {
+     "file": "blood-lymph/week-4-session-1.apkg",
+     "cards": 102,
+     "mb": 1.3,
+     "session": 1,
+     "lectures": [
+      {
+       "file": "blood-lymph/lecture-53.apkg",
+       "cards": 27,
+       "mb": 0.5,
+       "title": "Structure and Function of the Spleen"
+      },
+      {
+       "file": "blood-lymph/lecture-54.apkg",
+       "cards": 28,
+       "mb": 0.3,
+       "title": "Disorders of the Spleen"
+      },
+      {
+       "file": "blood-lymph/lecture-55.apkg",
+       "cards": 26,
+       "mb": 0.6,
+       "title": "Structure, Function, and Disorders of the Thymus"
+      },
+      {
+       "file": "blood-lymph/lecture-56.apkg",
+       "cards": 21,
+       "mb": 0.2,
+       "title": "Supportive Therapy for Patients on Chemotherapy - Antiemetics"
+      }
+     ]
+    },
+    {
+     "file": "blood-lymph/week-4-session-2.apkg",
+     "cards": 106,
+     "mb": 0.7,
+     "session": 2,
+     "lectures": [
+      {
+       "file": "blood-lymph/lecture-57.apkg",
+       "cards": 29,
+       "mb": 0.4,
+       "title": "Plasmodium spp., Babesia spp., and Brucella spp."
+      },
+      {
+       "file": "blood-lymph/lecture-58.apkg",
+       "cards": 24,
+       "mb": 0.1,
+       "title": "Drugs to Treat Plasmodium spp., Babesia spp., and Brucella spp."
+      },
+      {
+       "file": "blood-lymph/lecture-59.apkg",
+       "cards": 26,
+       "mb": 0.2,
+       "title": "Hemorrhagic Viruses"
+      },
+      {
+       "file": "blood-lymph/lecture-60.apkg",
+       "cards": 27,
+       "mb": 0.3,
+       "title": "Arboviruses"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
